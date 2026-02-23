@@ -1,11 +1,17 @@
+/* Layout & Theme */
 body {
   font-family: "Segoe UI", sans-serif;
   background: #121212;
   color: white;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
   padding-top: 50px;
 }
+
+/* Container Cards */
 .card {
   background: #1e1e1e;
   padding: 30px;
@@ -14,9 +20,12 @@ body {
   max-width: 600px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
 }
+
 .hidden {
   display: none;
 }
+
+/* Form Elements */
 select,
 button {
   width: 100%;
@@ -24,45 +33,91 @@ button {
   margin: 10px 0;
   border-radius: 5px;
   border: none;
+  font-size: 1rem;
 }
+
 button {
   background: #007bff;
   color: white;
   cursor: pointer;
   font-weight: bold;
+  transition: opacity 0.2s;
 }
+
+button:hover {
+  opacity: 0.9;
+}
+
+/* Quiz Specifics */
 #timer {
   color: #ff4757;
   font-size: 1.2rem;
   font-weight: bold;
+  text-align: right;
+  display: block;
 }
+
 .option {
   background: #2d2d2d;
-  padding: 10px;
-  margin: 5px 0;
+  padding: 12px;
+  margin: 8px 0;
   border-radius: 5px;
+  display: flex;
+  align-items: center;
 }
+
+.option input {
+  margin-right: 15px;
+}
+
+/* Review Grid & Results */
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(40px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(45px, 1fr));
   gap: 8px;
   margin: 20px 0;
 }
+
 .btn-correct {
   background: #2ed573;
   color: black;
 }
+
 .btn-wrong {
   background: #ff4757;
   color: white;
 }
+
 .sol-card {
   background: #2d2d2d;
   padding: 15px;
   border-left: 5px solid #007bff;
   margin-top: 15px;
+  border-radius: 0 5px 5px 0;
 }
+
 .green {
   color: #2ed573;
   font-weight: bold;
+}
+
+/* Footer & WhatsApp Link */
+.footer {
+  margin-top: auto; /* Pushes footer to bottom of min-height container */
+  padding: 40px 20px;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #666;
+  width: 100%;
+  max-width: 600px;
+}
+
+.wa-link {
+  color: #25d366;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.wa-link:hover {
+  text-decoration: underline;
 }
