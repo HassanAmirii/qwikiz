@@ -1,11 +1,11 @@
 :root {
   --bg: #f3f4f6;
   --card: #ffffff;
-  --primary: #2563eb; /* CBT Blue */
+  --primary: #2563eb;
   --text: #1f2937;
   --text-muted: #6b7280;
-  --correct: #16a34a; /* Success Green */
-  --wrong: #dc2626; /* Danger Red */
+  --correct: #16a34a;
+  --wrong: #dc2626;
   --border: #d1d5db;
 }
 
@@ -51,7 +51,6 @@ label {
   color: var(--text);
 }
 
-/* CBT Inputs */
 select {
   width: 100%;
   padding: 12px;
@@ -81,7 +80,6 @@ button:hover {
   filter: brightness(1.1);
 }
 
-/* Navigation Buttons (Prev/Next) */
 .nav-controls {
   display: flex;
   gap: 10px;
@@ -89,10 +87,10 @@ button:hover {
 }
 .nav-controls button {
   background: #4b5563;
-} /* Gray for nav */
+}
 #submit-btn {
   background: var(--correct);
-} /* Green for finality */
+}
 
 #timer {
   font-family: "Courier New", monospace;
@@ -107,7 +105,6 @@ button:hover {
   margin-bottom: 15px;
 }
 
-/* CBT Question Styling */
 .question-text {
   font-size: 1.2rem;
   font-weight: 500;
@@ -115,12 +112,17 @@ button:hover {
   margin-bottom: 20px;
 }
 
+.options-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
 .option {
   display: flex;
   align-items: center;
   background: #f9fafb;
   padding: 15px;
-  margin: 10px 0;
   border-radius: 6px;
   cursor: pointer;
   border: 1px solid var(--border);
@@ -132,12 +134,16 @@ button:hover {
   border-color: var(--primary);
 }
 
-.option input {
+.option input[type="radio"] {
   margin-right: 15px;
   transform: scale(1.3);
 }
 
-/* Results Grid */
+.option-text {
+  flex: 1;
+  color: var(--text);
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(50px, 1fr));
