@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "question": "What is the SI unit of power?",
+    "options": ["Joule", "Watt", "Newton", "Pascal"],
+    "answerIndex": 1,
+    "explanation": "Power is the rate of doing work, measured in Watts (W)."
+  }
+]

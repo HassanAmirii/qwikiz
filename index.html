@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>QWIKIZ - Exam Practice</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="setup-container" class="card">
+      <h1>QWIKIZ - BY HASSAN2BIT</h1>
+      <label>Select Course:</label>
+      <select id="subject-select">
+        <option value="cos101">COS 101</option>
+        <option value="csc101">CSC 101</option>
+        <option value="mth101">MTH 101</option>
+        <option value="phy101">PHY 101</option>
+        <option value="sta111">STA 111</option>
+      </select>
+
+      <label>Select Time/Question Limit:</label>
+      <select id="time-select">
+        <option value="15" data-limit="35">15 Min (35 Questions)</option>
+        <option value="25" data-limit="60">25 Min (60 Questions)</option>
+        <option value="35" data-limit="100">35 Min (100 Questions)</option>
+      </select>
+      <button id="start-btn" onclick="startQuiz()">Launch Quiz</button>
+    </div>
+
+    <div id="quiz-container" class="card hidden">
+      <div class="header">
+        <span id="timer">Time: 00:00</span>
+      </div>
+      <div id="question-area"></div>
+      <div class="nav-controls">
+        <button onclick="changeQuestion(-1)">Previous</button>
+        <button onclick="changeQuestion(1)">Next</button>
+        <button id="submit-btn" onclick="endQuiz()">Submit Exam</button>
+      </div>
+    </div>
+
+    <div id="result-container" class="card hidden">
+      <h2>Results</h2>
+      <h3 id="score-text"></h3>
+      <div id="review-grid" class="grid"></div>
+      <div id="solution-display"></div>
+      <button onclick="location.reload()">Back to Home</button>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
