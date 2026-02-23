@@ -33,7 +33,6 @@ async function startQuiz() {
     renderQuestion();
     runTimer();
   } catch (e) {
-    // Custom message for subjects currently in development
     alert(
       `I am still working on populating the questions for ${subjectName}.\n\nIn the meantime, please check out the other courses—they are already full of questions! You can also remind me to prioritize this course via the WhatsApp link at the footer.`,
     );
@@ -43,6 +42,7 @@ async function startQuiz() {
 function renderQuestion() {
   const q = questions[currentIndex];
   const area = document.getElementById("question-area");
+
   area.innerHTML = `
         <div class="question-box">
             <p class="q-meta">Question ${currentIndex + 1} of ${questions.length}</p>
@@ -52,9 +52,9 @@ function renderQuestion() {
                   .map(
                     (opt, i) => `
                     <label class="option">
-                        <input type="radio" name="q" value="${i}" 
+                        <input type="radio" name="quiz-answer" value="${i}" 
                             onclick="saveAnswer(${i})" ${userAnswers[currentIndex] === i ? "checked" : ""}>
-                        <span>${opt}</span>
+                        <span class="option-text">${opt}</span>
                     </label>
                 `,
                   )
@@ -85,7 +85,7 @@ function runTimer() {
     timerDisplay.innerText = `Time: ${mins}:${secs < 10 ? "0" : ""}${secs}`;
 
     if (timeLeft <= 30) {
-      timerDisplay.style.color = "#dc2626"; // Panic Red
+      timerDisplay.style.color = "#dc2626";
       timerDisplay.style.background = "#fee2e2";
     }
 
