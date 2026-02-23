@@ -5,7 +5,10 @@ let timer;
 let timeLeft;
 
 async function startQuiz() {
-  const subject = document.getElementById("subject-select").value;
+  const subjectSelect = document.getElementById("subject-select");
+  const subject = subjectSelect.value;
+  const subjectName = subjectSelect.selectedOptions[0].innerText;
+
   const timeSelect = document.getElementById("time-select");
   const limit = parseInt(
     timeSelect.selectedOptions[0].getAttribute("data-limit"),
@@ -15,6 +18,9 @@ async function startQuiz() {
 
   try {
     const response = await fetch(`data/${subject}.json`);
+
+    if (!response.ok) throw new Error("File not found");
+
     const data = await response.json();
 
     // Fisher-Yates Shuffle for variety
@@ -27,7 +33,10 @@ async function startQuiz() {
     renderQuestion();
     runTimer();
   } catch (e) {
-    alert(`Error: Could not load data/${subject}.json. Check your file path.`);
+    // Custom message for subjects currently in development
+    alert(
+      `I am still working on populating the questions for ${subjectName}.\n\nIn the meantime, please check out the other courses—they are already full of questions! You can also remind me to prioritize this course via the WhatsApp link at the footer.`,
+    );
   }
 }
 
@@ -75,7 +84,11 @@ function runTimer() {
     const secs = timeLeft % 60;
     timerDisplay.innerText = `Time: ${mins}:${secs < 10 ? "0" : ""}${secs}`;
 
-    if (timeLeft <= 30) timerDisplay.style.color = "#ff4757"; // Panic red
+    if (timeLeft <= 30) {
+      timerDisplay.style.color = "#dc2626"; // Panic Red
+      timerDisplay.style.background = "#fee2e2";
+    }
+
     if (timeLeft <= 0) endQuiz();
   }, 1000);
 }

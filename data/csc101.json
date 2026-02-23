@@ -1,0 +1,2099 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is NOT a common email protocol?",
+    "options": ["POP3", "SMTP", "IMAP", "FTP"],
+    "answerIndex": 3,
+    "explanation": "FTP (File Transfer Protocol) is used for file transfers, not email. POP3, SMTP, and IMAP are all email protocols."
+  },
+  {
+    "id": 2,
+    "question": "What are the fundamental building components of a computer network?",
+    "options": [
+      "Port and Cable",
+      "Nodes and Links",
+      "String and Data",
+      "Optical and Coaxial"
+    ],
+    "answerIndex": 1,
+    "explanation": "Nodes (devices) and Links (connections) are the fundamental building blocks of a computer network."
+  },
+  {
+    "id": 3,
+    "question": "Which type of wired transmission medium has a core of refined glass?",
+    "options": [
+      "Optic Fibre",
+      "Coaxial Cable",
+      "Shielded Twisted Pair",
+      "Twisted Pair Cable"
+    ],
+    "answerIndex": 0,
+    "explanation": "Optic Fibre uses a core of refined glass to transmit data as light signals."
+  },
+  {
+    "id": 4,
+    "question": "A ______ is a collection of computers and devices connected together to enable communication and data exchange.",
+    "options": ["Network", "Data", "Connection", "Service"],
+    "answerIndex": 0,
+    "explanation": "A Network is a collection of computers and devices connected to enable communication and data exchange."
+  },
+  {
+    "id": 5,
+    "question": "Which area network covers a small area such as an office or a home?",
+    "options": ["WAN", "MAN", "LAN", "None of the above"],
+    "answerIndex": 2,
+    "explanation": "LAN (Local Area Network) covers small areas like offices or homes."
+  },
+  {
+    "id": 6,
+    "question": "OSI stands for:",
+    "options": [
+      "Order Systems Inter-related",
+      "Open Systems Interconnection",
+      "Open Systems International",
+      "Open Systems Inter-related"
+    ],
+    "answerIndex": 1,
+    "explanation": "OSI stands for Open Systems Interconnection, a reference model for network communication."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following are examples of Network Topology?",
+    "options": ["Bus only", "Star only", "Mesh only", "All of the above"],
+    "answerIndex": 3,
+    "explanation": "Bus, Star, and Mesh are all examples of network topologies."
+  },
+  {
+    "id": 8,
+    "question": "Which of these is NOT an advantage of the internet?",
+    "options": [
+      "Communication Medium",
+      "Education and Online Jobs",
+      "Entertainment",
+      "Bad Impacts on Health"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bad impacts on health is a disadvantage, not an advantage of the internet."
+  },
+  {
+    "id": 9,
+    "question": "Who invented the World Wide Web (WWW)?",
+    "options": [
+      "Johannes Gutenberg",
+      "Evangelista Torricelli",
+      "Tim Berners-Lee",
+      "Christiaan Huygens"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tim Berners-Lee invented the World Wide Web in 1989."
+  },
+  {
+    "id": 10,
+    "question": "The identification given to a computer connection to a network is known as:",
+    "options": ["Process ID", "IP Address", "SYSID", "System Serial Number"],
+    "answerIndex": 1,
+    "explanation": "An IP Address uniquely identifies a computer's connection to a network."
+  },
+  {
+    "id": 11,
+    "question": "The acronym FTP stands for:",
+    "options": [
+      "File Transfer Procedure",
+      "Fast Transfer Protocol",
+      "File Transfer Protocol",
+      "File Tracking Protocol"
+    ],
+    "answerIndex": 2,
+    "explanation": "FTP stands for File Transfer Protocol, used to transfer files over a network."
+  },
+  {
+    "id": 12,
+    "question": "______ represents raw facts, whereas ______ is processed meaningful data.",
+    "options": [
+      "Information, Bits",
+      "Records, Bytes",
+      "Data, Information",
+      "Information, Reporting"
+    ],
+    "answerIndex": 2,
+    "explanation": "Data represents raw facts; Information is data that has been processed to be meaningful."
+  },
+  {
+    "id": 13,
+    "question": "How many layers are in the OSI Reference Model?",
+    "options": ["4", "5", "6", "7"],
+    "answerIndex": 3,
+    "explanation": "The OSI model has 7 layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application."
+  },
+  {
+    "id": 14,
+    "question": "_______ is a network security system used to protect computer networks from unauthorized access.",
+    "options": ["Firewall", "Security", "Network", "SYSID"],
+    "answerIndex": 0,
+    "explanation": "A Firewall is a network security system that monitors and controls incoming and outgoing network traffic."
+  },
+  {
+    "id": 15,
+    "question": "What are connections between web pages called?",
+    "options": ["Web browser", "Hyperlinks", "HTML", "URL"],
+    "answerIndex": 1,
+    "explanation": "Hyperlinks are connections between web pages that allow navigation."
+  },
+  {
+    "id": 16,
+    "question": "A _____ is a software program that allows users to access and view web pages on the internet.",
+    "options": ["Web browser", "Web server", "Web page", "None of the above"],
+    "answerIndex": 0,
+    "explanation": "A web browser is software used to access and display web pages (e.g., Chrome, Firefox)."
+  },
+  {
+    "id": 17,
+    "question": "In which year did Vint Cerf and Robert Kahn propose TCP/IP protocols to allow different networks to communicate?",
+    "options": ["1969", "1970", "1971", "1972"],
+    "answerIndex": 1,
+    "explanation": "Vint Cerf and Robert Kahn proposed TCP/IP in 1970 to allow different networks to communicate."
+  },
+  {
+    "id": 18,
+    "question": "A _______ is a collection of symbols or codes used to format a document.",
+    "options": ["Mark Up Language", "HTML", "FTP", "XML"],
+    "answerIndex": 0,
+    "explanation": "A Markup Language uses symbols/codes (tags) to format and structure documents."
+  },
+  {
+    "id": 19,
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyperlink and Text Markup Language",
+      "HyperText Markup Language",
+      "HighTech Modern Language",
+      "Home Tool Markup Language"
+    ],
+    "answerIndex": 1,
+    "explanation": "HTML stands for HyperText Markup Language, the standard language for creating web pages."
+  },
+  {
+    "id": 20,
+    "question": "What is the difference between XML and HTML regarding data exchange?",
+    "options": [
+      "HTML is used for exchanging data, XML is not",
+      "XML is used for exchanging data, HTML is not",
+      "HTML can have user-defined tags, XML cannot",
+      "They are the same"
+    ],
+    "answerIndex": 1,
+    "explanation": "XML (eXtensible Markup Language) is designed for data exchange; HTML is for displaying content."
+  },
+  {
+    "id": 21,
+    "question": "HTML programs are saved using which file extension?",
+    "options": [".htl", ".html", ".hml", ".htlm"],
+    "answerIndex": 1,
+    "explanation": "HTML files are saved with the .html (or .htm) extension."
+  },
+  {
+    "id": 22,
+    "question": "The href attribute in the link tag specifies the:",
+    "options": [
+      "Destination of a link",
+      "Link text",
+      "Hypertext",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "The href attribute specifies the destination URL/address of a hyperlink."
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is a valid CSS color code?",
+    "options": ["#000000", "#0000000", "#00000000", "#000000000"],
+    "answerIndex": 0,
+    "explanation": "A valid hex color code has exactly 6 hex digits preceded by #, like #000000."
+  },
+  {
+    "id": 24,
+    "question": "What type of tag is <br>?",
+    "options": [
+      "Break tag",
+      "A broken one",
+      "An opening tag",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "<br> is a break tag (line break), a self-closing tag used to create a new line."
+  },
+  {
+    "id": 25,
+    "question": "Which is the correct way to tag an image?",
+    "options": [
+      "src=\"image.jpg\" alt=\"google\"",
+      "Src=\"image.jpg\" alt=yh\"",
+      "<img src=\"image.jpg\" alt=\"Computer\">",
+      "<image src=\"image.jpg\">"
+    ],
+    "answerIndex": 2,
+    "explanation": "The correct syntax is <img src=\"image.jpg\" alt=\"description\"> with both src and alt attributes."
+  },
+  {
+    "id": 26,
+    "question": "If you want to use a background color for your entire webpage, which CSS selector should you use?",
+    "options": ["body", "html", "h1", "p"],
+    "answerIndex": 0,
+    "explanation": "The body selector in CSS targets the entire webpage body for background styling."
+  },
+  {
+    "id": 27,
+    "question": "Which HTML element defines the title of a document (shown in the browser tab)?",
+    "options": ["<meta>", "<head>", "<title>", "<h1>"],
+    "answerIndex": 2,
+    "explanation": "The <title> element defines the document title shown in the browser tab."
+  },
+  {
+    "id": 28,
+    "question": "Block elements are normally displayed without starting a new line.",
+    "options": ["True", "False", "Sometimes", "Depends on browser"],
+    "answerIndex": 1,
+    "explanation": "This is FALSE. Block elements always start on a new line. Inline elements do not start new lines."
+  },
+  {
+    "id": 29,
+    "question": "Which tag would you generally use to make an unordered (bullet) list?",
+    "options": ["<dl>", "<ul>", "<list>", "<ol>"],
+    "answerIndex": 1,
+    "explanation": "<ul> creates an unordered (bulleted) list. Each item uses <li> tags."
+  },
+  {
+    "id": 30,
+    "question": "Which tag is used when creating an ordered (numbered) list?",
+    "options": ["<dl>", "<ul>", "<list>", "<ol>"],
+    "answerIndex": 3,
+    "explanation": "<ol> creates an ordered (numbered) list. Each item uses <li> tags."
+  },
+  {
+    "id": 31,
+    "question": "Which character is used to indicate an end/closing tag in HTML?",
+    "options": ["*", "/", "<", "^"],
+    "answerIndex": 1,
+    "explanation": "The forward slash (/) is used to indicate a closing tag, e.g., </p>."
+  },
+  {
+    "id": 32,
+    "question": "Which HTML element is used for the largest heading?",
+    "options": ["<h6>", "<head>", "<heading>", "<h1>"],
+    "answerIndex": 3,
+    "explanation": "<h1> is the largest heading in HTML; <h6> is the smallest."
+  },
+  {
+    "id": 33,
+    "question": "How can you create rounded corners using CSS3?",
+    "options": [
+      "border[round]: 30px;",
+      "corner-effect: round;",
+      "border-radius: 30px;",
+      "alpha-effect: round-corner;"
+    ],
+    "answerIndex": 2,
+    "explanation": "The CSS3 property border-radius creates rounded corners on elements."
+  },
+  {
+    "id": 34,
+    "question": "What does CSS stand for?",
+    "options": [
+      "Cascading Style Sheets",
+      "Colorful Style Sheets",
+      "Creative Style Sheets",
+      "Computer Style Sheets"
+    ],
+    "answerIndex": 0,
+    "explanation": "CSS stands for Cascading Style Sheets, used to style HTML documents."
+  },
+  {
+    "id": 35,
+    "question": "What is the correct HTML for referring to an external style sheet?",
+    "options": [
+      "<link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\">",
+      "<style src=\"mystyle.css\">",
+      "<stylesheet>mystyle.css</stylesheet>",
+      "<css href=\"mystyle.css\">"
+    ],
+    "answerIndex": 0,
+    "explanation": "The <link> tag with rel=\"stylesheet\" and href attributes is used to link an external CSS file."
+  },
+  {
+    "id": 36,
+    "question": "Where in an HTML document is the correct place to refer to an external style sheet?",
+    "options": [
+      "In the <head> section",
+      "At the end of the document",
+      "In the <body> section",
+      "Anywhere in the document"
+    ],
+    "answerIndex": 0,
+    "explanation": "External stylesheets should be linked in the <head> section for proper rendering."
+  },
+  {
+    "id": 37,
+    "question": "Which HTML attribute is used to define inline styles?",
+    "options": ["style", "class", "font", "styles"],
+    "answerIndex": 0,
+    "explanation": "The style attribute is used to add inline CSS directly to an HTML element."
+  },
+  {
+    "id": 38,
+    "question": "Which is the correct CSS syntax?",
+    "options": [
+      "{body:color=black;}",
+      "{body;color:black;}",
+      "body:color=black;",
+      "body {color: black;}"
+    ],
+    "answerIndex": 3,
+    "explanation": "Correct CSS syntax is: selector { property: value; } — so body {color: black;}"
+  },
+  {
+    "id": 39,
+    "question": "Which CSS property is used to change the background color?",
+    "options": ["background-color", "bgcolor", "color", "bg"],
+    "answerIndex": 0,
+    "explanation": "The background-color CSS property sets the background color of an element."
+  },
+  {
+    "id": 40,
+    "question": "Which CSS property is used to change the text color of an element?",
+    "options": ["text-color", "fgcolor", "color", "font-color"],
+    "answerIndex": 2,
+    "explanation": "The color CSS property sets the text/foreground color of an element."
+  },
+  {
+    "id": 41,
+    "question": "Which CSS property controls the text size?",
+    "options": ["font-size", "text-size", "text-style", "font-style"],
+    "answerIndex": 0,
+    "explanation": "The font-size CSS property controls the size of the text."
+  },
+  {
+    "id": 42,
+    "question": "Which property is used to change the left margin of an element?",
+    "options": ["margin-left", "padding-left", "indent", "left-margin"],
+    "answerIndex": 0,
+    "explanation": "The margin-left property sets the left margin (outer spacing) of an element."
+  },
+  {
+    "id": 43,
+    "question": "How do you select an element with id 'demo' in CSS?",
+    "options": ["#demo", ".demo", "demo", "*demo"],
+    "answerIndex": 0,
+    "explanation": "In CSS, IDs are selected with a # prefix: #demo selects the element with id=\"demo\"."
+  },
+  {
+    "id": 44,
+    "question": "What is the default value of the CSS position property?",
+    "options": ["absolute", "fixed", "static", "relative"],
+    "answerIndex": 2,
+    "explanation": "The default value of the CSS position property is static."
+  },
+  {
+    "id": 45,
+    "question": "Which HTML tag is used to create a multiple-line text input area for user input?",
+    "options": ["<textspace>", "<inputtext>", "<textarea>", "<inputarea>"],
+    "answerIndex": 2,
+    "explanation": "The <textarea> tag creates a multi-line text input field."
+  },
+  {
+    "id": 46,
+    "question": "Which <form> attribute tells the browser HOW to submit the form data (GET or POST)?",
+    "options": ["action", "get", "method", "post"],
+    "answerIndex": 2,
+    "explanation": "The method attribute specifies how form data is sent: GET (appended to URL) or POST (in HTTP body)."
+  },
+  {
+    "id": 47,
+    "question": "What table element attribute adds a border to a table?",
+    "options": [
+      "<table border=\"0\">",
+      "<table border=\"1\">",
+      "<table border=\"on\">",
+      "<table border=\"yes\">"
+    ],
+    "answerIndex": 1,
+    "explanation": "border=\"1\" adds a visible border to a table. border=\"0\" removes it."
+  },
+  {
+    "id": 48,
+    "question": "Which of the following defines the content of standard table cells?",
+    "options": [
+      "The <th> tag",
+      "The <tr> tag",
+      "The <td> tag",
+      "The <tablecell> tag"
+    ],
+    "answerIndex": 2,
+    "explanation": "<td> (table data) defines standard content cells in a table."
+  },
+  {
+    "id": 49,
+    "question": "The HTML _____ element is used to create an HTML form for user input.",
+    "options": ["form", "html", "label", "None of the above"],
+    "answerIndex": 0,
+    "explanation": "The <form> element is the container for all HTML form controls."
+  },
+  {
+    "id": 50,
+    "question": "Which input type allows for selecting zero or more of many choices?",
+    "options": ["textbox", "textarea", "checkbox", "radio"],
+    "answerIndex": 2,
+    "explanation": "Checkboxes allow users to select multiple options (zero or more) from a list."
+  },
+  {
+    "id": 51,
+    "question": "Which input type lets a user select ONLY ONE of a limited number of choices?",
+    "options": ["checkbox", "radio", "textbox", "select"],
+    "answerIndex": 1,
+    "explanation": "Radio buttons are mutually exclusive — only one can be selected at a time."
+  },
+  {
+    "id": 52,
+    "question": "The action attribute tells the form:",
+    "options": [
+      "How to send the form's data",
+      "Where to send the form's data",
+      "When to send the form's data",
+      "All of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": "The action attribute specifies the URL (where) to send the form data when submitted."
+  },
+  {
+    "id": 53,
+    "question": "Which input type defines a field that should contain an e-mail address?",
+    "options": ["e-mail", "mailto", "mail", "email"],
+    "answerIndex": 3,
+    "explanation": "type=\"email\" defines an email input field with built-in validation."
+  },
+  {
+    "id": 54,
+    "question": "<input> is:",
+    "options": [
+      "A format tag",
+      "An empty tag",
+      "All of the above",
+      "None of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": "<input> is an empty (self-closing) tag — it does not have a closing tag."
+  },
+  {
+    "id": 55,
+    "question": "In HTML5, which tag is used to initialize the document type?",
+    "options": [
+      "<Doctype HTML>",
+      "<\\Doctype html>",
+      "<Doctype>",
+      "<!DOCTYPE html>"
+    ],
+    "answerIndex": 3,
+    "explanation": "<!DOCTYPE html> is the correct HTML5 document type declaration."
+  },
+  {
+    "id": 56,
+    "question": "What is the decimal value of binary 11111110?",
+    "options": ["None of these", "255", "254", "239"],
+    "answerIndex": 2,
+    "explanation": "11111110 in binary = 128+64+32+16+8+4+2+0 = 254 in decimal."
+  },
+  {
+    "id": 57,
+    "question": "The Octal number system contains how many digits?",
+    "options": [
+      "Seven digits from 0 to 6",
+      "Nine digits from 0 to 8",
+      "Eight digits from 1 to 9",
+      "Eight digits from 0 to 7"
+    ],
+    "answerIndex": 3,
+    "explanation": "The octal system uses 8 digits: 0, 1, 2, 3, 4, 5, 6, 7."
+  },
+  {
+    "id": 58,
+    "question": "What is the binary number for decimal number 9?",
+    "options": ["1100", "1001", "0111", "1011"],
+    "answerIndex": 1,
+    "explanation": "9 in decimal = 8+1 = 1001 in binary."
+  },
+  {
+    "id": 59,
+    "question": "People normally work in _____ and computers in _____.",
+    "options": [
+      "Decimal, Binary",
+      "Binary, Decimal",
+      "Octal, Binary",
+      "Binary, Octal"
+    ],
+    "answerIndex": 0,
+    "explanation": "Humans use the decimal (base-10) system; computers use binary (base-2)."
+  },
+  {
+    "id": 60,
+    "question": "Convert 123 (base 10) to binary.",
+    "options": ["11111", "101010", "1111011", "1110111"],
+    "answerIndex": 2,
+    "explanation": "123 in decimal = 64+32+16+8+2+1 = 1111011 in binary."
+  },
+  {
+    "id": 61,
+    "question": "Convert (1101) base 2 into a decimal number.",
+    "options": ["13", "12", "14", "11"],
+    "answerIndex": 0,
+    "explanation": "1101 in binary = 8+4+0+1 = 13 in decimal."
+  },
+  {
+    "id": 62,
+    "question": "Which numbering system uses both numbers and letters as symbols?",
+    "options": ["Decimal", "Binary", "Octal", "Hexadecimal"],
+    "answerIndex": 3,
+    "explanation": "Hexadecimal (base-16) uses digits 0–9 and letters A–F as symbols."
+  },
+  {
+    "id": 63,
+    "question": "Which of the following is NOT a binary number?",
+    "options": ["1111", "101", "11E", "001"],
+    "answerIndex": 2,
+    "explanation": "Binary numbers only contain 0s and 1s. '11E' contains the letter E, so it's not binary."
+  },
+  {
+    "id": 64,
+    "question": "___ is a base 8 number system.",
+    "options": ["Decimal", "Octal", "Hexadecimal", "Binary"],
+    "answerIndex": 1,
+    "explanation": "Octal is the base-8 number system, using digits 0–7."
+  },
+  {
+    "id": 65,
+    "question": "Convert (214) base 8 into a binary number.",
+    "options": ["010001100", "111111", "1010111", "1100001"],
+    "answerIndex": 0,
+    "explanation": "214 octal: 2=010, 1=001, 4=100, combined = 010001100 in binary."
+  },
+  {
+    "id": 66,
+    "question": "_____ store and deliver requested data to clients.",
+    "options": ["Server", "Web", "Webpage", "Web browser"],
+    "answerIndex": 0,
+    "explanation": "Servers store data and respond to requests from clients."
+  },
+  {
+    "id": 67,
+    "question": "Which attribute specifies the number of rows a cell should span in an HTML table?",
+    "options": ["rowspan", "colspan", "cellpadding", "margin"],
+    "answerIndex": 0,
+    "explanation": "The rowspan attribute makes a table cell span multiple rows vertically."
+  },
+  {
+    "id": 68,
+    "question": "ALT attribute serves as a descriptive element for the image.",
+    "options": ["True", "False", "Sometimes", "Depends on browser"],
+    "answerIndex": 0,
+    "explanation": "TRUE. The alt attribute provides alternative text description for images."
+  },
+  {
+    "id": 69,
+    "question": "What is the practice of connecting computers together to enable communication and data exchange called?",
+    "options": [
+      "Computer Programming",
+      "Computer Networking",
+      "Web Design",
+      "Data Mining"
+    ],
+    "answerIndex": 1,
+    "explanation": "Computer Networking is the practice of connecting computers to enable communication and data exchange."
+  },
+  {
+    "id": 70,
+    "question": "A network node can be represented by which of the following?",
+    "options": [
+      "A wire or cable",
+      "Data Communication Equipment like a Router",
+      "Free space in a wireless network",
+      "An HTML document"
+    ],
+    "answerIndex": 1,
+    "explanation": "A network node is represented by data communication equipment like routers, computers, or switches."
+  },
+  {
+    "id": 71,
+    "question": "Which protocol translates human-readable domain names into IP addresses?",
+    "options": ["HTTP", "TCP/IP", "DNS", "FTP"],
+    "answerIndex": 2,
+    "explanation": "DNS (Domain Name System) translates domain names like google.com into IP addresses."
+  },
+  {
+    "id": 72,
+    "question": "Which architecture features nodes that can be specifically designated as either Servers or Clients?",
+    "options": [
+      "Peer-to-Peer",
+      "Mesh Topology",
+      "Client-Server Architecture",
+      "Hybrid Architecture"
+    ],
+    "answerIndex": 2,
+    "explanation": "In Client-Server architecture, nodes are specifically designated as either servers or clients."
+  },
+  {
+    "id": 73,
+    "question": "In which architecture is there no concept of a central server?",
+    "options": [
+      "Client-Server",
+      "Peer-to-Peer (P2P)",
+      "Star Topology",
+      "Cloud Networking"
+    ],
+    "answerIndex": 1,
+    "explanation": "In Peer-to-Peer (P2P) architecture, all nodes are equal and there is no central server."
+  },
+  {
+    "id": 74,
+    "question": "What is the primary difference between the Internet and the World Wide Web (WWW)?",
+    "options": [
+      "The Internet is a service, while the WWW is a network.",
+      "The Internet is hardware-oriented; the WWW is software-oriented.",
+      "They are the same thing.",
+      "The WWW was invented before the Internet."
+    ],
+    "answerIndex": 1,
+    "explanation": "The Internet is the physical network infrastructure; the WWW is a service/software system that runs on top of the Internet."
+  },
+  {
+    "id": 75,
+    "question": "Which phase of the web design process involves research and strategy?",
+    "options": [
+      "Design Phase",
+      "Discovery Phase",
+      "Development Phase",
+      "Testing Phase"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Discovery Phase involves research, strategy, stakeholder interviews, and user research."
+  },
+  {
+    "id": 76,
+    "question": "What tool is used in the discovery phase to show the hierarchy and navigation of a website?",
+    "options": ["Wireframe", "Sitemap", "Mockup", "Prototype"],
+    "answerIndex": 1,
+    "explanation": "A Sitemap is a visual representation of a website's hierarchy and navigation structure."
+  },
+  {
+    "id": 77,
+    "question": "What is a 'low-fidelity sketch' of a website that focuses on functionality and layout called?",
+    "options": ["Sitemap", "Wireframe", "Final Design", "Metadata"],
+    "answerIndex": 1,
+    "explanation": "A Wireframe is a low-fidelity sketch focusing on functionality and usability, not visual design."
+  },
+  {
+    "id": 78,
+    "question": "Which phase of the web design process converts the final design into a working prototype using HTML, CSS, and JavaScript?",
+    "options": ["Discovery", "Design", "Development", "Research"],
+    "answerIndex": 2,
+    "explanation": "The Development Phase converts designs into working web pages using HTML, CSS, and JavaScript."
+  },
+  {
+    "id": 79,
+    "question": "HTML elements are typically surrounded by which characters?",
+    "options": [
+      "Square brackets [ ]",
+      "Curly braces { }",
+      "Angle brackets < >",
+      "Parentheses ( )"
+    ],
+    "answerIndex": 2,
+    "explanation": "HTML tags use angle brackets < > to wrap element names, e.g., <p>, <div>."
+  },
+  {
+    "id": 80,
+    "question": "Which part of an HTML element provides additional information to modify its behavior?",
+    "options": ["Tags", "Attributes", "Content", "Elements"],
+    "answerIndex": 1,
+    "explanation": "Attributes provide additional information about HTML elements, e.g., href, src, class."
+  },
+  {
+    "id": 81,
+    "question": "In an HTML document, where is information like the title and metadata stored?",
+    "options": ["<body>", "<footer>", "<head>", "<script>"],
+    "answerIndex": 2,
+    "explanation": "The <head> section contains metadata, title, links to stylesheets, and other non-visible information."
+  },
+  {
+    "id": 82,
+    "question": "Which design principle involves arranging components to convey their importance?",
+    "options": [
+      "Simplicity",
+      "Visual Hierarchy",
+      "Consistency",
+      "Accessibility"
+    ],
+    "answerIndex": 1,
+    "explanation": "Visual Hierarchy is the arrangement of elements to guide users' attention to the most important content first."
+  },
+  {
+    "id": 83,
+    "question": "A website that adjusts to different screen sizes and devices is said to be:",
+    "options": ["Simple", "Responsive", "Consistent", "Accessible"],
+    "answerIndex": 1,
+    "explanation": "A Responsive website adapts its layout to different screen sizes (desktop, tablet, mobile)."
+  },
+  {
+    "id": 84,
+    "question": "Which attribute is used with the <img> tag to provide alternative text?",
+    "options": ["src", "link", "alt", "title"],
+    "answerIndex": 2,
+    "explanation": "The alt attribute provides alternative text for images, shown when image fails to load or for screen readers."
+  },
+  {
+    "id": 85,
+    "question": "What is the mandatory attribute for the <a> (hyperlink) element?",
+    "options": ["src", "href", "alt", "id"],
+    "answerIndex": 1,
+    "explanation": "The href attribute is required for the anchor <a> element as it specifies the link destination."
+  },
+  {
+    "id": 86,
+    "question": "Which protocol is the secure version of HTTP?",
+    "options": ["SMTP", "FTP", "HTTPS", "TCP"],
+    "answerIndex": 2,
+    "explanation": "HTTPS (HyperText Transfer Protocol Secure) encrypts data transmission for secure communication."
+  },
+  {
+    "id": 87,
+    "question": "Which organization developed the OSI 7-layer architecture?",
+    "options": [
+      "ARPANET",
+      "IEEE",
+      "International Organization for Standardization (ISO)",
+      "NASA"
+    ],
+    "answerIndex": 2,
+    "explanation": "The OSI model was developed by ISO (International Organization for Standardization)."
+  },
+  {
+    "id": 88,
+    "question": "Which topology refers to the physical layout arrangement of devices?",
+    "options": ["Architecture", "Network Topology", "Protocol", "Interface"],
+    "answerIndex": 1,
+    "explanation": "Network Topology refers to how devices are physically or logically arranged in a network."
+  },
+  {
+    "id": 89,
+    "question": "Which of the following is NOT a common network topology?",
+    "options": ["Star", "Ring", "Mesh", "Circle"],
+    "answerIndex": 3,
+    "explanation": "Circle is not a standard network topology. Star, Ring, Bus, Mesh, and Tree are standard topologies."
+  },
+  {
+    "id": 90,
+    "question": "Which OSI layer is responsible for the 'Presentation' of data?",
+    "options": ["Layer 4", "Layer 6", "Layer 7", "Layer 2"],
+    "answerIndex": 1,
+    "explanation": "Layer 6 is the Presentation Layer — responsible for data formatting, encryption, and compression."
+  },
+  {
+    "id": 91,
+    "question": "Which protocol is used for sending and receiving emails?",
+    "options": ["HTTP", "FTP", "SMTP", "DHCP"],
+    "answerIndex": 2,
+    "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails. POP3/IMAP are used for receiving."
+  },
+  {
+    "id": 92,
+    "question": "The origin of the internet is traced back to which 1960s project?",
+    "options": ["NSFNET", "ARPANET", "WWW", "TCP/IP"],
+    "answerIndex": 1,
+    "explanation": "ARPANET (Advanced Research Projects Agency Network) was the first network, developed in the late 1960s."
+  },
+  {
+    "id": 93,
+    "question": "Which technique breaks data into small units called 'packets'?",
+    "options": [
+      "Circuit-switching",
+      "Packet-switching",
+      "Data-linking",
+      "File-transferring"
+    ],
+    "answerIndex": 1,
+    "explanation": "Packet-switching breaks data into small packets that travel independently across a network."
+  },
+  {
+    "id": 94,
+    "question": "What is the 'root' element of an HTML document?",
+    "options": ["<head>", "<body>", "<html>", "<!DOCTYPE>"],
+    "answerIndex": 2,
+    "explanation": "The <html> element is the root element that contains all other elements in an HTML document."
+  },
+  {
+    "id": 95,
+    "question": "Which element is used to include a JavaScript file in HTML?",
+    "options": ["<style>", "<link>", "<script>", "<meta>"],
+    "answerIndex": 2,
+    "explanation": "The <script> tag is used to embed or link JavaScript code in an HTML document."
+  },
+  {
+    "id": 96,
+    "question": "What does the <p> element define in HTML?",
+    "options": ["Page", "Picture", "Paragraph", "Protocol"],
+    "answerIndex": 2,
+    "explanation": "The <p> element defines a paragraph of text in HTML."
+  },
+  {
+    "id": 97,
+    "question": "Which tag is used to define a list item within a list?",
+    "options": ["<ul>", "<ol>", "<li>", "<item>"],
+    "answerIndex": 2,
+    "explanation": "<li> defines individual list items within both <ul> (unordered) and <ol> (ordered) lists."
+  },
+  {
+    "id": 98,
+    "question": "Which type of network is hosted on public/private cloud providers and accessible on demand?",
+    "options": ["LAN", "WAN", "Cloud Network", "Personal Network"],
+    "answerIndex": 2,
+    "explanation": "Cloud Networks are hosted on cloud infrastructure and accessible on-demand over the internet."
+  },
+  {
+    "id": 99,
+    "question": "Which network device aids in communication between two separate network segments?",
+    "options": ["Hub only", "Switch only", "Bridge only", "All of the above"],
+    "answerIndex": 3,
+    "explanation": "Hubs, Switches, and Bridges all aid in network communication, each at different levels."
+  },
+  {
+    "id": 100,
+    "question": "Which attribute of the <link> tag defines the kind of relationship between the document and the linked resource?",
+    "options": ["href", "rel", "type", "media"],
+    "answerIndex": 1,
+    "explanation": "The rel attribute defines the relationship, e.g., rel=\"stylesheet\" indicates a CSS file."
+  },
+  {
+    "id": 101,
+    "question": "Which layer of the OSI model follows the Physical Layer?",
+    "options": [
+      "Network Layer",
+      "Data Link Layer",
+      "Session Layer",
+      "Transport Layer"
+    ],
+    "answerIndex": 1,
+    "explanation": "Layer 2 (Data Link Layer) follows Layer 1 (Physical Layer) in the OSI model."
+  },
+  {
+    "id": 102,
+    "question": "The World Wide Web is a service that runs on top of the:",
+    "options": ["Browser", "Internet", "HTML", "Computer"],
+    "answerIndex": 1,
+    "explanation": "The WWW is a service/application that runs on top of the Internet infrastructure."
+  },
+  {
+    "id": 103,
+    "question": "What is the latest version of HTML?",
+    "options": ["HTML 4.01", "XHTML", "HTML5", "HTML6"],
+    "answerIndex": 2,
+    "explanation": "HTML5 is the current/latest version of HTML, introducing new semantic elements and APIs."
+  },
+  {
+    "id": 104,
+    "question": "Which element specifies the connection to an external stylesheet in HTML?",
+    "options": ["<style>", "<script>", "<link>", "<meta>"],
+    "answerIndex": 2,
+    "explanation": "The <link> element in the <head> section connects to external CSS stylesheets."
+  },
+  {
+    "id": 105,
+    "question": "Which attribute of the <script> tag specifies the URL of an external JavaScript file?",
+    "options": ["href", "src", "link", "rel"],
+    "answerIndex": 1,
+    "explanation": "The src attribute in <script src=\"file.js\"> specifies the URL of an external JS file."
+  },
+  {
+    "id": 106,
+    "question": "Which of these defines a data cell in an HTML table?",
+    "options": ["<tr>", "<th>", "<td>", "<table>"],
+    "answerIndex": 2,
+    "explanation": "<td> (table data) defines standard data cells, while <th> defines header cells."
+  },
+  {
+    "id": 107,
+    "question": "In the OSI model, which layer is responsible for routing data packets?",
+    "options": [
+      "Physical Layer",
+      "Data Link Layer",
+      "Network Layer",
+      "Session Layer"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Network Layer (Layer 3) handles routing, IP addressing, and packet forwarding."
+  },
+  {
+    "id": 108,
+    "question": "What does the 'S' in HTTPS stand for?",
+    "options": ["Simple", "Secure", "Standard", "System"],
+    "answerIndex": 1,
+    "explanation": "The 'S' stands for Secure — HTTPS encrypts communication using SSL/TLS."
+  },
+  {
+    "id": 109,
+    "question": "Which HTML tag is used to create a line break?",
+    "options": ["<lb>", "<break>", "<br>", "<hr>"],
+    "answerIndex": 2,
+    "explanation": "<br> is the line break tag, a self-closing element that moves content to the next line."
+  },
+  {
+    "id": 110,
+    "question": "Which tag is used to create a horizontal rule (line) in HTML?",
+    "options": ["<line>", "<br>", "<hr>", "<rule>"],
+    "answerIndex": 2,
+    "explanation": "<hr> creates a horizontal rule (thematic break/dividing line) in HTML."
+  },
+  {
+    "id": 111,
+    "question": "The <title> tag must be placed inside which HTML element?",
+    "options": ["<body>", "<head>", "<footer>", "<header>"],
+    "answerIndex": 1,
+    "explanation": "The <title> tag must be inside the <head> element to define the browser tab title."
+  },
+  {
+    "id": 112,
+    "question": "Which type of network connects computers within a single building?",
+    "options": ["WAN", "MAN", "LAN", "PAN"],
+    "answerIndex": 2,
+    "explanation": "LAN (Local Area Network) typically covers a single building or small geographic area."
+  },
+  {
+    "id": 113,
+    "question": "A 'Buyer Persona' is developed during which web design phase?",
+    "options": ["Development", "Launch", "Discovery", "Maintenance"],
+    "answerIndex": 2,
+    "explanation": "Buyer Personas are created during the Discovery Phase as part of user research."
+  },
+  {
+    "id": 114,
+    "question": "What is 'Scope Creep' in web design?",
+    "options": [
+      "The speed at which a website loads",
+      "Uncontrolled growth in a project's scope",
+      "A type of computer virus",
+      "A design style"
+    ],
+    "answerIndex": 1,
+    "explanation": "Scope Creep is the uncontrolled expansion of a project beyond its original objectives."
+  },
+  {
+    "id": 115,
+    "question": "Which tag is used to define a row in an HTML table?",
+    "options": ["<td>", "<th>", "<tr>", "<table>"],
+    "answerIndex": 2,
+    "explanation": "<tr> (table row) defines a horizontal row within an HTML table."
+  },
+  {
+    "id": 116,
+    "question": "What is the purpose of the action attribute in a <form> tag?",
+    "options": [
+      "Defines the button color",
+      "Specifies where to send the form data",
+      "Validates user input",
+      "Resets the form"
+    ],
+    "answerIndex": 1,
+    "explanation": "The action attribute specifies the URL of the server-side script that processes the form data."
+  },
+  {
+    "id": 117,
+    "question": "What does the method attribute in a form specify?",
+    "options": [
+      "The programming language used",
+      "The HTTP method (GET or POST)",
+      "The font style",
+      "The database name"
+    ],
+    "answerIndex": 1,
+    "explanation": "The method attribute specifies how data is sent: GET (appended to URL) or POST (in HTTP body)."
+  },
+  {
+    "id": 118,
+    "question": "Which tag is used to create a drop-down list in HTML?",
+    "options": ["<list>", "<dropdown>", "<select>", "<input type=\"list\">"],
+    "answerIndex": 2,
+    "explanation": "The <select> element creates a drop-down selection menu in HTML forms."
+  },
+  {
+    "id": 119,
+    "question": "Within a <select> element, which tag defines an individual option/item?",
+    "options": ["<item>", "<list>", "<option>", "<choice>"],
+    "answerIndex": 2,
+    "explanation": "<option> tags define the individual items in a <select> drop-down list."
+  },
+  {
+    "id": 120,
+    "question": "Which tag is used for multi-line text input in HTML forms?",
+    "options": [
+      "<input type=\"text\">",
+      "<textbox>",
+      "<textarea>",
+      "<input type=\"paragraph\">"
+    ],
+    "answerIndex": 2,
+    "explanation": "<textarea> creates a resizable multi-line text input field in forms."
+  },
+  {
+    "id": 121,
+    "question": "Which of these is a legitimate value for the target attribute in a link that opens a new tab?",
+    "options": ["_newtab", "_blank", "_open", "_window"],
+    "answerIndex": 1,
+    "explanation": "target=\"_blank\" opens the linked document in a new browser tab or window."
+  },
+  {
+    "id": 122,
+    "question": "What is the character encoding standard typically used in HTML5?",
+    "options": ["ASCII", "UTF-8", "ISO-8859-1", "UTF-16"],
+    "answerIndex": 1,
+    "explanation": "UTF-8 is the standard character encoding for HTML5, supporting all Unicode characters."
+  },
+  {
+    "id": 123,
+    "question": "Which metadata tag makes a website responsive on mobile devices?",
+    "options": [
+      "<meta name=\"description\">",
+      "<meta name=\"viewport\">",
+      "<meta name=\"keywords\">",
+      "<meta name=\"author\">"
+    ],
+    "answerIndex": 1,
+    "explanation": "<meta name=\"viewport\"> controls the viewport settings for responsive design on mobile devices."
+  },
+  {
+    "id": 124,
+    "question": "What does SGML stand for?",
+    "options": [
+      "Standard General Markup Language",
+      "Standard Generalized Markup Language",
+      "Simple General Markup Language",
+      "Secure General Markup Language"
+    ],
+    "answerIndex": 1,
+    "explanation": "SGML stands for Standard Generalized Markup Language, the parent of HTML and XML."
+  },
+  {
+    "id": 125,
+    "question": "Which markup language is known for being more 'strict' than HTML?",
+    "options": ["SGML", "XML", "XHTML", "HTML5"],
+    "answerIndex": 2,
+    "explanation": "XHTML (eXtensible HyperText Markup Language) is stricter than HTML — all tags must be properly closed and lowercase."
+  },
+  {
+    "id": 126,
+    "question": "An absolute hyperlink contains the:",
+    "options": [
+      "Full address of the destination",
+      "Relative path to the file",
+      "Image name only",
+      "Protocol name only"
+    ],
+    "answerIndex": 0,
+    "explanation": "An absolute hyperlink contains the complete URL including protocol, domain, and path."
+  },
+  {
+    "id": 127,
+    "question": "Relative hyperlinks are useful for linking to:",
+    "options": [
+      "External websites",
+      "Internal resources within the same domain",
+      "Different servers",
+      "Offline documents only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Relative hyperlinks reference files relative to the current page, ideal for internal site navigation."
+  },
+  {
+    "id": 128,
+    "question": "Which HTML tag is used to create a line break?",
+    "options": ["<lb>", "<break>", "<br>", "<hr>"],
+    "answerIndex": 2,
+    "explanation": "<br> creates a line break in HTML content."
+  },
+  {
+    "id": 129,
+    "question": "Which OSI layer handles error detection and physical addressing (MAC addresses)?",
+    "options": [
+      "Physical Layer",
+      "Data Link Layer",
+      "Network Layer",
+      "Transport Layer"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Data Link Layer (Layer 2) handles MAC addresses, error detection, and frame delivery."
+  },
+  {
+    "id": 130,
+    "question": "Which device works at the Physical Layer (Layer 1) of the OSI model?",
+    "options": ["Router", "Switch", "Hub", "Bridge"],
+    "answerIndex": 2,
+    "explanation": "A Hub operates at Layer 1 (Physical Layer), broadcasting data to all connected devices."
+  },
+  {
+    "id": 131,
+    "question": "What is the name of the first network that used packet switching?",
+    "options": ["NSFNET", "ARPANET", "INTRANET", "ETHERNET"],
+    "answerIndex": 1,
+    "explanation": "ARPANET was the first packet-switching network, developed by DARPA in the late 1960s."
+  },
+  {
+    "id": 132,
+    "question": "Who is considered one of the 'Fathers of the Internet'?",
+    "options": ["Bill Gates", "Vint Cerf", "Mark Zuckerberg", "Steve Jobs"],
+    "answerIndex": 1,
+    "explanation": "Vint Cerf, along with Robert Kahn, co-invented TCP/IP and is called a 'Father of the Internet'."
+  },
+  {
+    "id": 133,
+    "question": "Which of these is NOT a valid HTML heading tag?",
+    "options": ["<h1>", "<h3>", "<h7>", "<h6>"],
+    "answerIndex": 2,
+    "explanation": "HTML only has heading tags <h1> through <h6>. <h7> does not exist."
+  },
+  {
+    "id": 134,
+    "question": "Which tag provides a caption for an HTML table?",
+    "options": ["<title>", "<head>", "<caption>", "<summary>"],
+    "answerIndex": 2,
+    "explanation": "The <caption> element provides a title or brief description for a table, placed right after <table>."
+  },
+  {
+    "id": 135,
+    "question": "Which element is used to group 'inline' elements for styling?",
+    "options": ["<div>", "<span>", "<section>", "<p>"],
+    "answerIndex": 1,
+    "explanation": "<span> is an inline container used to group inline elements for styling with CSS."
+  },
+  {
+    "id": 136,
+    "question": "Which element is a 'block-level' container in HTML?",
+    "options": ["<a>", "<span>", "<div>", "<img>"],
+    "answerIndex": 2,
+    "explanation": "<div> is a block-level container used to group and style sections of content."
+  },
+  {
+    "id": 137,
+    "question": "Which protocol is 'Connectionless' (does not establish a connection before sending)?",
+    "options": ["TCP", "UDP", "HTTP", "FTP"],
+    "answerIndex": 1,
+    "explanation": "UDP (User Datagram Protocol) is connectionless — it sends data without establishing a connection first."
+  },
+  {
+    "id": 138,
+    "question": "Which protocol is 'Connection-oriented' (establishes a connection before sending data)?",
+    "options": ["IP", "UDP", "TCP", "ICMP"],
+    "answerIndex": 2,
+    "explanation": "TCP (Transmission Control Protocol) is connection-oriented — it performs a handshake before data transfer."
+  },
+  {
+    "id": 139,
+    "question": "In a 'Star Topology', all devices are connected to:",
+    "options": [
+      "Each other",
+      "A central hub or switch",
+      "A single long cable",
+      "Two other devices"
+    ],
+    "answerIndex": 1,
+    "explanation": "In Star Topology, all devices connect to a central hub or switch."
+  },
+  {
+    "id": 140,
+    "question": "Which topology is the most expensive and complex to implement but highly redundant?",
+    "options": ["Bus", "Ring", "Mesh", "Star"],
+    "answerIndex": 2,
+    "explanation": "Mesh topology provides dedicated connections between every device, offering high redundancy but at high cost."
+  },
+  {
+    "id": 141,
+    "question": "What is the main disadvantage of a 'Bus Topology'?",
+    "options": [
+      "It is very expensive",
+      "If the main cable breaks, the whole network goes down",
+      "It requires a central hub",
+      "It is too fast"
+    ],
+    "answerIndex": 1,
+    "explanation": "In Bus Topology, all devices share one cable; if that cable fails, the entire network goes down."
+  },
+  {
+    "id": 142,
+    "question": "Which input type is used for passwords to hide the characters?",
+    "options": [
+      "<input type=\"hidden\">",
+      "<input type=\"password\">",
+      "<input type=\"secret\">",
+      "<input type=\"mask\">"
+    ],
+    "answerIndex": 1,
+    "explanation": "type=\"password\" masks the input characters for secure password entry."
+  },
+  {
+    "id": 143,
+    "question": "What does the <label> tag do in HTML forms?",
+    "options": [
+      "Creates a bold heading",
+      "Defines a caption for an input element",
+      "Draws a border",
+      "Used for SEO"
+    ],
+    "answerIndex": 1,
+    "explanation": "The <label> tag defines a text label for a form control, improving accessibility."
+  },
+  {
+    "id": 144,
+    "question": "Which tag is used to embed a video in HTML5?",
+    "options": ["<media>", "<movie>", "<video>", "<embed>"],
+    "answerIndex": 2,
+    "explanation": "The HTML5 <video> tag embeds video content directly in a web page."
+  },
+  {
+    "id": 145,
+    "question": "Which tag is used to embed audio in HTML5?",
+    "options": ["<sound>", "<music>", "<audio>", "<voice>"],
+    "answerIndex": 2,
+    "explanation": "The HTML5 <audio> tag embeds audio content (music, podcasts) in a web page."
+  },
+  {
+    "id": 146,
+    "question": "What is the 'Application Layer' in the OSI model?",
+    "options": ["Layer 1", "Layer 4", "Layer 7", "Layer 2"],
+    "answerIndex": 2,
+    "explanation": "Layer 7 is the Application Layer — the topmost layer, closest to the end user (HTTP, FTP, DNS)."
+  },
+  {
+    "id": 147,
+    "question": "Which organization manages domain names and IP addresses globally?",
+    "options": ["IEEE", "ICANN", "W3C", "ISO"],
+    "answerIndex": 1,
+    "explanation": "ICANN (Internet Corporation for Assigned Names and Numbers) manages domain names and IP addresses."
+  },
+  {
+    "id": 148,
+    "question": "What does 'UX' stand for in web design?",
+    "options": [
+      "User X-ray",
+      "User Experience",
+      "Universal Exchange",
+      "Unit Extension"
+    ],
+    "answerIndex": 1,
+    "explanation": "UX stands for User Experience — the overall experience a user has with a product or website."
+  },
+  {
+    "id": 149,
+    "question": "What does 'UI' stand for in web design?",
+    "options": [
+      "Unit Integration",
+      "User Interface",
+      "Universal Internet",
+      "User Input"
+    ],
+    "answerIndex": 1,
+    "explanation": "UI stands for User Interface — the visual elements users interact with on a screen."
+  },
+  {
+    "id": 150,
+    "question": "Which tag is used to define the footer of a webpage?",
+    "options": ["<bottom>", "<end>", "<footer>", "<base>"],
+    "answerIndex": 2,
+    "explanation": "The HTML5 <footer> semantic element defines the footer section of a page."
+  },
+  {
+    "id": 151,
+    "question": "Which tag is used to define a navigation section in HTML5?",
+    "options": ["<menu>", "<nav>", "<links>", "<header>"],
+    "answerIndex": 1,
+    "explanation": "The <nav> semantic element defines a set of navigation links on a page."
+  },
+  {
+    "id": 152,
+    "question": "Which tag defines an independent, self-contained piece of content?",
+    "options": ["<section>", "<article>", "<aside>", "<div>"],
+    "answerIndex": 1,
+    "explanation": "<article> is a semantic HTML5 element for independent content like blog posts or news articles."
+  },
+  {
+    "id": 153,
+    "question": "Which tag defines content aside from the main content (like a sidebar)?",
+    "options": ["<article>", "<sidebar>", "<aside>", "<nav>"],
+    "answerIndex": 2,
+    "explanation": "<aside> is used for content tangentially related to main content, like sidebars."
+  },
+  {
+    "id": 154,
+    "question": "What is the default port for HTTP?",
+    "options": ["443", "21", "80", "25"],
+    "answerIndex": 2,
+    "explanation": "Port 80 is the default port for HTTP connections."
+  },
+  {
+    "id": 155,
+    "question": "What is the default port for HTTPS?",
+    "options": ["80", "443", "22", "53"],
+    "answerIndex": 1,
+    "explanation": "Port 443 is the default port for HTTPS (secure HTTP) connections."
+  },
+  {
+    "id": 156,
+    "question": "Which HTML element is used to highlight text?",
+    "options": ["<highlight>", "<mark>", "<color>", "<b>"],
+    "answerIndex": 1,
+    "explanation": "The <mark> element highlights text with a yellow background by default."
+  },
+  {
+    "id": 157,
+    "question": "Which tag makes text bold in HTML?",
+    "options": ["<bold>", "<strong>", "<italic>", "<u>"],
+    "answerIndex": 1,
+    "explanation": "<strong> makes text bold AND indicates importance. <b> makes text bold without semantic meaning."
+  },
+  {
+    "id": 158,
+    "question": "Which tag makes text italic in HTML?",
+    "options": ["<italic>", "<em>", "<mark>", "<ins>"],
+    "answerIndex": 1,
+    "explanation": "<em> makes text italic AND indicates emphasis. <i> makes text italic without semantic meaning."
+  },
+  {
+    "id": 159,
+    "question": "What does the colspan attribute do in a table?",
+    "options": [
+      "Merges two or more columns",
+      "Merges two or more rows",
+      "Changes the column color",
+      "Sets the column width"
+    ],
+    "answerIndex": 0,
+    "explanation": "colspan stretches a cell horizontally to span multiple columns."
+  },
+  {
+    "id": 160,
+    "question": "What does the rowspan attribute do in a table?",
+    "options": [
+      "Merges columns",
+      "Merges rows vertically",
+      "Adds a new row",
+      "Deletes a row"
+    ],
+    "answerIndex": 1,
+    "explanation": "rowspan stretches a cell vertically to span multiple rows downward."
+  },
+  {
+    "id": 161,
+    "question": "Which of the following is NOT a web browser?",
+    "options": ["Safari", "Edge", "Apache", "Firefox"],
+    "answerIndex": 2,
+    "explanation": "Apache is a web SERVER software, not a browser. Safari, Edge, and Firefox are all browsers."
+  },
+  {
+    "id": 162,
+    "question": "Which attribute is used to provide a unique identifier for an HTML element?",
+    "options": ["class", "id", "name", "type"],
+    "answerIndex": 1,
+    "explanation": "The id attribute gives an element a unique identifier used in CSS (#id) and JavaScript."
+  },
+  {
+    "id": 163,
+    "question": "What is the file extension for an HTML document?",
+    "options": [".ht", ".html or .htm", ".xml", ".txt"],
+    "answerIndex": 1,
+    "explanation": "HTML documents use the .html or .htm file extension."
+  },
+  {
+    "id": 164,
+    "question": "What does ARPANET stand for?",
+    "options": [
+      "Advanced Research Projects Agency Network",
+      "American Research Protocol and Network",
+      "Automated Resource Planning and Network",
+      "Academic Research Projects Association Network"
+    ],
+    "answerIndex": 0,
+    "explanation": "ARPANET stands for Advanced Research Projects Agency Network, the predecessor to the modern internet."
+  },
+  {
+    "id": 165,
+    "question": "In what year was the first message sent over ARPANET?",
+    "options": ["1965", "1969", "1974", "1989"],
+    "answerIndex": 1,
+    "explanation": "The first message was sent over ARPANET in 1969, between UCLA and Stanford."
+  },
+  {
+    "id": 166,
+    "question": "Which network topology connects all devices to a single central cable?",
+    "options": ["Star", "Mesh", "Bus", "Ring"],
+    "answerIndex": 2,
+    "explanation": "Bus topology connects all devices to a single shared cable (the 'bus')."
+  },
+  {
+    "id": 167,
+    "question": "What does PAN stand for?",
+    "options": [
+      "Personal Area Network",
+      "Private Access Network",
+      "Primary Area Node",
+      "Public Area Network"
+    ],
+    "answerIndex": 0,
+    "explanation": "PAN stands for Personal Area Network — typically covers a range of a few meters (e.g., Bluetooth)."
+  },
+  {
+    "id": 168,
+    "question": "What does GAN stand for?",
+    "options": [
+      "General Area Network",
+      "Global Area Network",
+      "Graphic Access Network",
+      "Group Area Node"
+    ],
+    "answerIndex": 1,
+    "explanation": "GAN stands for Global Area Network — covers the entire world (like the internet)."
+  },
+  {
+    "id": 169,
+    "question": "In a Client-Server architecture, what is the role of the 'Client'?",
+    "options": [
+      "To provide resources to other computers",
+      "To request services or resources from the server",
+      "To act as a central hub for all cables",
+      "To manage the network's security only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clients request services/resources. Servers provide and respond to those requests."
+  },
+  {
+    "id": 170,
+    "question": "Which architecture allows every computer to act as both a client and a server?",
+    "options": [
+      "Client-Server",
+      "Peer-to-Peer (P2P)",
+      "Mainframe",
+      "Master-Slave"
+    ],
+    "answerIndex": 1,
+    "explanation": "In Peer-to-Peer (P2P) architecture, every node can act as both a client and server."
+  },
+  {
+    "id": 171,
+    "question": "Which layer is the 7th (top) layer of the OSI model?",
+    "options": [
+      "Physical Layer",
+      "Network Layer",
+      "Application Layer",
+      "Transport Layer"
+    ],
+    "answerIndex": 2,
+    "explanation": "Layer 7, the Application Layer, is the topmost layer, providing network services to applications."
+  },
+  {
+    "id": 172,
+    "question": "Which layer is responsible for the physical transmission of data bits over a medium?",
+    "options": [
+      "Data Link Layer",
+      "Physical Layer",
+      "Session Layer",
+      "Presentation Layer"
+    ],
+    "answerIndex": 1,
+    "explanation": "Layer 1 (Physical Layer) handles the raw transmission of bits over physical media (cables, radio waves)."
+  },
+  {
+    "id": 173,
+    "question": "Which layer handles routing and IP addressing in the OSI model?",
+    "options": [
+      "Physical Layer",
+      "Network Layer",
+      "Application Layer",
+      "Transport Layer"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Network Layer (Layer 3) handles logical addressing (IP) and routing of packets."
+  },
+  {
+    "id": 174,
+    "question": "What does ISP stand for?",
+    "options": [
+      "Internet Service Provider",
+      "Internal System Protocol",
+      "Internet Search Program",
+      "International Security Port"
+    ],
+    "answerIndex": 0,
+    "explanation": "ISP stands for Internet Service Provider — a company that provides internet access to customers."
+  },
+  {
+    "id": 175,
+    "question": "What does DNS stand for?",
+    "options": [
+      "Data Network System",
+      "Domain Name System",
+      "Digital Node Service",
+      "Desktop Network Server"
+    ],
+    "answerIndex": 1,
+    "explanation": "DNS stands for Domain Name System — it translates domain names into IP addresses."
+  },
+  {
+    "id": 176,
+    "question": "What does TCP/IP stand for?",
+    "options": [
+      "Transmission Control Protocol / Internet Protocol",
+      "Transfer Control Program / Intercom Protocol",
+      "Technical Connection Protocol / Internal Process",
+      "Total Control Protocol / Information Protocol"
+    ],
+    "answerIndex": 0,
+    "explanation": "TCP/IP stands for Transmission Control Protocol / Internet Protocol — the fundamental communication protocols of the internet."
+  },
+  {
+    "id": 177,
+    "question": "Which tag is used to define the most important heading in HTML?",
+    "options": ["<h6>", "<head>", "<heading>", "<h1>"],
+    "answerIndex": 3,
+    "explanation": "<h1> is the most important/largest heading; headings go from <h1> (largest) to <h6> (smallest)."
+  },
+  {
+    "id": 178,
+    "question": "How many levels of headings does HTML provide?",
+    "options": ["3", "5", "6", "10"],
+    "answerIndex": 2,
+    "explanation": "HTML provides 6 heading levels: <h1>, <h2>, <h3>, <h4>, <h5>, and <h6>."
+  },
+  {
+    "id": 179,
+    "question": "What does WYSIWYG stand for?",
+    "options": [
+      "What You See Is What You Get",
+      "Where You Sit Is Where You Go",
+      "Web Yields Standard In Web Graphics",
+      "Windows Yield System In Web Groups"
+    ],
+    "answerIndex": 0,
+    "explanation": "WYSIWYG means 'What You See Is What You Get' — editing tools that display output as it will appear."
+  },
+  {
+    "id": 180,
+    "question": "In a Description List, which tag is used for the term being described?",
+    "options": ["<dd>", "<dt>", "<dl>", "<term>"],
+    "answerIndex": 1,
+    "explanation": "<dt> (description term) defines the term; <dd> (description detail) defines its description."
+  },
+  {
+    "id": 181,
+    "question": "Which form method is more secure for sending sensitive data like passwords?",
+    "options": ["GET", "POST", "SEND", "PUT"],
+    "answerIndex": 1,
+    "explanation": "POST sends data in the HTTP body (not visible in URL), making it more secure than GET for sensitive data."
+  },
+  {
+    "id": 182,
+    "question": "Which input type creates a button that clears all fields in a form?",
+    "options": [
+      "type=\"clear\"",
+      "type=\"reset\"",
+      "type=\"delete\"",
+      "type=\"cancel\""
+    ],
+    "answerIndex": 1,
+    "explanation": "type=\"reset\" creates a button that resets all form controls to their initial values."
+  },
+  {
+    "id": 183,
+    "question": "Which attribute makes an input field mandatory to fill out?",
+    "options": ["checked", "mandatory", "required", "important"],
+    "answerIndex": 2,
+    "explanation": "The required attribute prevents form submission unless the field is filled out."
+  },
+  {
+    "id": 184,
+    "question": "Which type of CSS is written directly inside an HTML tag using the style attribute?",
+    "options": ["Internal CSS", "Inline CSS", "External CSS", "Imported CSS"],
+    "answerIndex": 1,
+    "explanation": "Inline CSS is applied directly to an element: <p style=\"color:red;\">Text</p>"
+  },
+  {
+    "id": 185,
+    "question": "Which type of CSS is written inside the <style> tag in the <head> section?",
+    "options": ["Inline CSS", "Internal CSS", "External CSS", "Outline CSS"],
+    "answerIndex": 1,
+    "explanation": "Internal (Embedded) CSS is placed in <style> tags within the <head> section of an HTML document."
+  },
+  {
+    "id": 186,
+    "question": "In CSS, how do you select elements with a specific Class?",
+    "options": [
+      "Using a period (.)",
+      "Using a hash (#)",
+      "Using an asterisk (*)",
+      "Using a comma (,)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classes are selected with a period (.) prefix: .myClass { } selects all elements with class=\"myClass\"."
+  },
+  {
+    "id": 187,
+    "question": "What does RGB stand for in CSS colors?",
+    "options": [
+      "Red Green Blue",
+      "Real Gold Bronze",
+      "Right Ground Base",
+      "Retro Grade Black"
+    ],
+    "answerIndex": 0,
+    "explanation": "RGB stands for Red, Green, Blue — the three color channels used in digital displays."
+  },
+  {
+    "id": 188,
+    "question": "Which CSS property allows you to choose the typeface (e.g., Arial, Times New Roman)?",
+    "options": ["font-type", "font-family", "font-weight", "text-family"],
+    "answerIndex": 1,
+    "explanation": "font-family specifies the typeface (font) for text, e.g., font-family: Arial, sans-serif;"
+  },
+  {
+    "id": 189,
+    "question": "What are the four components of the CSS Box Model from innermost to outermost?",
+    "options": [
+      "Content, Border, Padding, Margin",
+      "Content, Padding, Border, Margin",
+      "Margin, Border, Padding, Content",
+      "Padding, Content, Margin, Border"
+    ],
+    "answerIndex": 1,
+    "explanation": "The CSS Box Model layers are: Content → Padding → Border → Margin (from inside out)."
+  },
+  {
+    "id": 190,
+    "question": "Which part of the CSS Box Model is the space between the content and the border?",
+    "options": ["Margin", "Padding", "Outline", "Gutter"],
+    "answerIndex": 1,
+    "explanation": "Padding is the space inside the border, between the content and the border edge."
+  },
+  {
+    "id": 191,
+    "question": "Which part of the CSS Box Model is the outermost space that separates one element from another?",
+    "options": ["Padding", "Border", "Margin", "Content"],
+    "answerIndex": 2,
+    "explanation": "Margin is the outer spacing outside the border, creating space between elements."
+  },
+  {
+    "id": 192,
+    "question": "To use Flexbox in CSS, what value must the display property have?",
+    "options": ["block", "inline", "flex", "grid"],
+    "answerIndex": 2,
+    "explanation": "Setting display: flex on a container activates Flexbox layout for its children."
+  },
+  {
+    "id": 193,
+    "question": "Which Flexbox property aligns items horizontally (along the main axis)?",
+    "options": [
+      "align-items",
+      "justify-content",
+      "flex-direction",
+      "align-content"
+    ],
+    "answerIndex": 1,
+    "explanation": "justify-content aligns flex items along the main axis (horizontal by default)."
+  },
+  {
+    "id": 194,
+    "question": "What does XHTML stand for?",
+    "options": [
+      "X-linked Hypertext Markup Language",
+      "eXtensible HyperText Markup Language",
+      "Extra Hypertext Markup Language",
+      "X-treme Hypertext Management Language"
+    ],
+    "answerIndex": 1,
+    "explanation": "XHTML stands for eXtensible HyperText Markup Language — a stricter, XML-based version of HTML."
+  },
+  {
+    "id": 195,
+    "question": "What is the primary advantage of External CSS?",
+    "options": [
+      "It makes the HTML file larger",
+      "It allows changing the look of an entire website by modifying just one file",
+      "It is faster to write than Inline CSS",
+      "It only works on modern browsers"
+    ],
+    "answerIndex": 1,
+    "explanation": "External CSS separates style from content, allowing site-wide style changes from one .css file."
+  },
+  {
+    "id": 196,
+    "question": "Which tag is used to group block-level elements for layout and styling?",
+    "options": ["<span>", "<div>", "<block>", "<container>"],
+    "answerIndex": 1,
+    "explanation": "<div> is a generic block-level container used to group and structure HTML content."
+  },
+  {
+    "id": 197,
+    "question": "Which attribute in a <form> tag specifies where to send the form data?",
+    "options": ["method", "target", "action", "src"],
+    "answerIndex": 2,
+    "explanation": "The action attribute specifies the URL of the server script that processes the form submission."
+  },
+  {
+    "id": 198,
+    "question": "The <fieldset> element is used to:",
+    "options": [
+      "Style a form button",
+      "Group related form controls logically",
+      "Create a text area",
+      "Define form submission"
+    ],
+    "answerIndex": 1,
+    "explanation": "<fieldset> groups related form elements together, often used with <legend> as a caption."
+  },
+  {
+    "id": 199,
+    "question": "What is the purpose of the GET method in HTML forms?",
+    "options": [
+      "Sends data securely in the HTTP body",
+      "Appends form data to the URL",
+      "Uploads files to a server",
+      "Encrypts form data before sending"
+    ],
+    "answerIndex": 1,
+    "explanation": "GET appends form data to the URL as query string parameters (e.g., ?name=value). Not for sensitive data."
+  },
+  {
+    "id": 200,
+    "question": "Which tag is used to create a hyperlink (anchor) in HTML?",
+    "options": ["<link>", "<href>", "<a>", "<url>"],
+    "answerIndex": 2,
+    "explanation": "The <a> (anchor) tag creates hyperlinks in HTML. The href attribute specifies the destination."
+  },
+  {
+    "id": 201,
+    "question": "Which of the following is used to define a hyperlink in HTML?",
+    "options": ["<link>", "<a>", "<href>", "<hyper>"],
+    "answerIndex": 1,
+    "explanation": "The <a> (anchor) tag is used to create hyperlinks in HTML."
+  },
+  {
+    "id": 202,
+    "question": "Which of the following is NOT a type of CSS?",
+    "options": ["Inline CSS", "Internal CSS", "External CSS", "Remote CSS"],
+    "answerIndex": 3,
+    "explanation": "Remote CSS is not a valid type. The three types are Inline, Internal, and External CSS."
+  },
+  {
+    "id": 203,
+    "question": "Which is the correct CSS syntax for setting a background color to blue?",
+    "options": [
+      "background-color: blue;",
+      "bg-color: blue;",
+      "color: blue;",
+      "background: blue-color;"
+    ],
+    "answerIndex": 0,
+    "explanation": "background-color is the correct CSS property for setting background color."
+  },
+  {
+    "id": 204,
+    "question": "What is the default alignment of text in an HTML paragraph (<p>) element?",
+    "options": ["Left", "Center", "Right", "Justify"],
+    "answerIndex": 0,
+    "explanation": "By default, text in a <p> element is left-aligned."
+  },
+  {
+    "id": 205,
+    "question": "Which tag is used to create a checkbox in an HTML form?",
+    "options": [
+      "<checkbox>",
+      "<input type=\"checkbox\">",
+      "<check>",
+      "<option>"
+    ],
+    "answerIndex": 1,
+    "explanation": "Checkboxes are created using <input type=\"checkbox\"> in HTML forms."
+  },
+  {
+    "id": 206,
+    "question": "Which of the following is a scripting language?",
+    "options": ["HTML", "CSS", "JavaScript", "XML"],
+    "answerIndex": 2,
+    "explanation": "JavaScript is a scripting language. HTML and CSS are markup/style languages; XML is a data language."
+  },
+  {
+    "id": 207,
+    "question": "What is the correct syntax to create an email link in HTML?",
+    "options": [
+      "<a href=\"mail:someone@example.com\">Email</a>",
+      "<a href=mailto:someone@example.com>Email</a>",
+      "<mail href=someone@example.com>Email</mail>",
+      "<email>someone@example.com</email>"
+    ],
+    "answerIndex": 1,
+    "explanation": "Email links use mailto: in the href attribute: <a href=\"mailto:someone@example.com\">"
+  },
+  {
+    "id": 208,
+    "question": "Which protocol is used to browse the web?",
+    "options": ["FTP", "SMTP", "HTTP", "SNMP"],
+    "answerIndex": 2,
+    "explanation": "HTTP (HyperText Transfer Protocol) is the protocol used for browsing web pages."
+  },
+  {
+    "id": 209,
+    "question": "Which CSS unit is NOT a valid length unit?",
+    "options": ["px", "cm", "pt", "gm"],
+    "answerIndex": 3,
+    "explanation": "gm is not a valid CSS unit. Valid units include px, em, rem, cm, pt, %, vh, vw etc."
+  },
+  {
+    "id": 210,
+    "question": "What is the purpose of the <meta> tag in HTML?",
+    "options": [
+      "To create a new paragraph",
+      "To define metadata about an HTML document",
+      "To insert an image",
+      "To make text bold"
+    ],
+    "answerIndex": 1,
+    "explanation": "The <meta> tag defines metadata such as charset, viewport, description, and keywords."
+  },
+  {
+    "id": 211,
+    "question": "What does HTTP stand for?",
+    "options": [
+      "Hyper Text Transfer Protocol",
+      "High Text Transfer Protocol",
+      "Hyperlink and Text Transfer Protocol",
+      "Home Tool Transfer Protocol"
+    ],
+    "answerIndex": 0,
+    "explanation": "HTTP stands for HyperText Transfer Protocol, the foundation of data communication on the web."
+  },
+  {
+    "id": 212,
+    "question": "What is the default file name for a home page on most web servers?",
+    "options": ["homepage.html", "index.html", "main.html", "start.html"],
+    "answerIndex": 1,
+    "explanation": "index.html is the default home page file name recognized by most web servers."
+  },
+  {
+    "id": 213,
+    "question": "Which of the following is NOT a valid HTML element?",
+    "options": ["<h1>", "<p>", "<div>", "<text>"],
+    "answerIndex": 3,
+    "explanation": "<text> is not a valid HTML element. Use <p>, <span>, or <div> for text content."
+  },
+  {
+    "id": 214,
+    "question": "Which CSS property creates space INSIDE an element between content and border?",
+    "options": ["margin", "padding", "spacing", "indent"],
+    "answerIndex": 1,
+    "explanation": "Padding is the inner spacing between the content and the border of an element."
+  },
+  {
+    "id": 215,
+    "question": "What does VPN stand for?",
+    "options": [
+      "Virtual Private Network",
+      "Very Personal Network",
+      "Virtual Personal Network",
+      "Verified Protocol Network"
+    ],
+    "answerIndex": 0,
+    "explanation": "VPN stands for Virtual Private Network — it creates a secure, encrypted connection over the internet."
+  },
+  {
+    "id": 216,
+    "question": "Which HTML element is used to define important text (bold with semantic meaning)?",
+    "options": ["<strong>", "<b>", "<i>", "<important>"],
+    "answerIndex": 0,
+    "explanation": "<strong> marks text as important (bold). <b> is just visually bold with no semantic meaning."
+  },
+  {
+    "id": 217,
+    "question": "What is the correct syntax for creating a comment in HTML?",
+    "options": [
+      "// This is a comment",
+      "/* This is a comment */",
+      "<!-- This is a comment -->",
+      "# This is a comment"
+    ],
+    "answerIndex": 2,
+    "explanation": "HTML comments use <!-- comment --> syntax and are not displayed in the browser."
+  },
+  {
+    "id": 218,
+    "question": "Which of the following is NOT a network topology?",
+    "options": ["Bus", "Star", "Grid", "Mesh"],
+    "answerIndex": 2,
+    "explanation": "Grid is not a standard network topology. Valid ones include Bus, Star, Ring, Mesh, and Tree."
+  },
+  {
+    "id": 219,
+    "question": "What is the purpose of the <canvas> element in HTML5?",
+    "options": [
+      "To create forms",
+      "To draw graphics using JavaScript",
+      "To display tables",
+      "To define a footer"
+    ],
+    "answerIndex": 1,
+    "explanation": "The <canvas> element provides a drawable region that JavaScript uses to render 2D/3D graphics."
+  },
+  {
+    "id": 220,
+    "question": "Which of the following is NOT a valid value for the target attribute in a hyperlink?",
+    "options": ["_blank", "_self", "_top", "_middle"],
+    "answerIndex": 3,
+    "explanation": "_middle is not a valid target value. Valid values are _blank, _self, _parent, and _top."
+  },
+  {
+    "id": 221,
+    "question": "Which HTML element is used to display a progress bar?",
+    "options": ["<progress>", "<bar>", "<loading>", "<meter>"],
+    "answerIndex": 0,
+    "explanation": "The <progress> element displays a progress bar indicating task completion."
+  },
+  {
+    "id": 222,
+    "question": "How do you select all <p> elements with the class 'intro' in CSS?",
+    "options": ["p.intro", "p#intro", ".p intro", "#p intro"],
+    "answerIndex": 0,
+    "explanation": "p.intro selects all <p> elements that have class=\"intro\". Period (.) is the class selector."
+  },
+  {
+    "id": 223,
+    "question": "What does the z-index property do in CSS?",
+    "options": [
+      "Controls vertical spacing between elements",
+      "Sets the transparency of an element",
+      "Specifies the stack order of elements",
+      "Defines the width of a box"
+    ],
+    "answerIndex": 2,
+    "explanation": "z-index controls the stacking order of overlapping elements. Higher values appear on top."
+  },
+  {
+    "id": 224,
+    "question": "Which CSS property is used to make text italic?",
+    "options": ["font-style", "text-style", "font-italic", "italicize"],
+    "answerIndex": 0,
+    "explanation": "font-style: italic; makes text appear in italic. Values include normal, italic, and oblique."
+  },
+  {
+    "id": 225,
+    "question": "What is the purpose of the opacity property in CSS?",
+    "options": [
+      "To change text color",
+      "To control the transparency of an element",
+      "To add shadows to text",
+      "To set the background color"
+    ],
+    "answerIndex": 1,
+    "explanation": "opacity controls transparency: 0 is fully transparent, 1 is fully opaque."
+  },
+  {
+    "id": 226,
+    "question": "What does the CSS property display: none; do?",
+    "options": [
+      "Hides an element but still takes up space",
+      "Removes an element from the layout flow entirely",
+      "Makes an element transparent",
+      "Disables all interactions with an element"
+    ],
+    "answerIndex": 1,
+    "explanation": "display: none removes the element from the layout — it takes up no space and is invisible."
+  },
+  {
+    "id": 227,
+    "question": "What is the correct way to apply a border to an element in CSS?",
+    "options": [
+      "border: 1px solid black;",
+      "border-style: black solid 1px;",
+      "border-width: 1px; border-color: black;",
+      "border: black solid;"
+    ],
+    "answerIndex": 0,
+    "explanation": "The shorthand border: 1px solid black; sets width, style, and color in one declaration."
+  },
+  {
+    "id": 228,
+    "question": "What is the default value of the flex-direction property in CSS Flexbox?",
+    "options": ["row", "column", "row-reverse", "column-reverse"],
+    "answerIndex": 0,
+    "explanation": "flex-direction defaults to row — flex items are placed horizontally from left to right."
+  },
+  {
+    "id": 229,
+    "question": "Which of the following is NOT a valid CSS color format?",
+    "options": ["Hexadecimal", "RGB", "CMYK", "HSL"],
+    "answerIndex": 2,
+    "explanation": "CMYK is a print color model and is not supported in CSS. CSS uses HEX, RGB, RGBA, HSL, and HSLA."
+  },
+  {
+    "id": 230,
+    "question": "What is the CSS float property used for?",
+    "options": [
+      "To align an element horizontally",
+      "To set the transparency of an element",
+      "To create shadows",
+      "To move an element to the back"
+    ],
+    "answerIndex": 0,
+    "explanation": "float positions an element to the left or right, allowing text/content to wrap around it."
+  },
+  {
+    "id": 231,
+    "question": "Which CSS property is used to control the space BETWEEN elements (outside the border)?",
+    "options": ["padding", "spacing", "margin", "border-spacing"],
+    "answerIndex": 2,
+    "explanation": "margin controls the outer spacing between elements, outside their borders."
+  },
+  {
+    "id": 232,
+    "question": "Which value of the CSS position property places an element relative to its first non-static ancestor?",
+    "options": ["relative", "absolute", "fixed", "static"],
+    "answerIndex": 1,
+    "explanation": "position: absolute removes the element from normal flow and positions it relative to its nearest positioned ancestor."
+  },
+  {
+    "id": 233,
+    "question": "What does overflow: hidden; do in CSS?",
+    "options": [
+      "Hides content that overflows the element",
+      "Expands the element to fit the content",
+      "Moves the element to the back",
+      "Allows content to scroll"
+    ],
+    "answerIndex": 0,
+    "explanation": "overflow: hidden clips any content that extends beyond the element's boundaries."
+  },
+  {
+    "id": 234,
+    "question": "Which CSS property is used to add a shadow to text?",
+    "options": ["text-shadow", "font-shadow", "shadow-text", "text-effect"],
+    "answerIndex": 0,
+    "explanation": "text-shadow adds a shadow effect to text. Syntax: text-shadow: h-offset v-offset blur color;"
+  },
+  {
+    "id": 235,
+    "question": "Which CSS property is used to change the bullet style of a list?",
+    "options": ["list-style-type", "bullet-style", "list-bullet", "list-style"],
+    "answerIndex": 0,
+    "explanation": "list-style-type sets the bullet/number style: disc, circle, square, decimal, none, etc."
+  },
+  {
+    "id": 236,
+    "question": "What is the default behavior of position: static; in CSS?",
+    "options": [
+      "The element follows the normal document flow",
+      "The element is fixed in place",
+      "The element is positioned relative to another element",
+      "The element moves when scrolling"
+    ],
+    "answerIndex": 0,
+    "explanation": "static is the default position value — elements follow the normal top-to-bottom document flow."
+  }
+]
