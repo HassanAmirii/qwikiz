@@ -1,3 +1,12 @@
+function escapeHTML(str) {
+  return String(str)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
+}
+
 let questions = [];
 let userAnswers = [];
 let currentIndex = 0;
@@ -23,7 +32,6 @@ async function startQuiz() {
 
     const data = await response.json();
 
-    // Fisher-Yates Shuffle for variety
     questions = data.sort(() => 0.5 - Math.random()).slice(0, limit);
     userAnswers = new Array(questions.length).fill(null);
 
@@ -44,24 +52,24 @@ function renderQuestion() {
   const area = document.getElementById("question-area");
 
   area.innerHTML = `
-        <div class="question-box">
-            <p class="q-meta">Question ${currentIndex + 1} of ${questions.length}</p>
-            <p class="question-text">${q.question}</p>
-            <div class="options-list">
-                ${q.options
-                  .map(
-                    (opt, i) => `
-                    <label class="option">
-                        <input type="radio" name="quiz-answer" value="${i}" 
-                            onclick="saveAnswer(${i})" ${userAnswers[currentIndex] === i ? "checked" : ""}>
-                        <span class="option-text">${opt}</span>
-                    </label>
-                `,
-                  )
-                  .join("")}
-            </div>
-        </div>
-    `;
+    <div class="question-box">
+      <p class="q-meta">Question ${currentIndex + 1} of ${questions.length}</p>
+      <p class="question-text">${escapeHTML(q.question)}</p>
+      <div class="options-list">
+        ${q.options
+          .map(
+            (opt, i) => `
+            <label class="option">
+              <input type="radio" name="quiz-answer" value="${i}" 
+                onclick="saveAnswer(${i})" ${userAnswers[currentIndex] === i ? "checked" : ""}>
+              <span class="option-text">${escapeHTML(opt)}</span>
+            </label>
+          `,
+          )
+          .join("")}
+      </div>
+    </div>
+  `;
 }
 
 function saveAnswer(index) {
@@ -123,12 +131,16 @@ function showSolution(index) {
   const isCorrect = userAnswers[index] === q.answerIndex;
 
   display.innerHTML = `
-        <div class="sol-card">
-            <p><strong>Q${index + 1}:</strong> ${q.question}</p>
-            <p>Your Choice: <span class="${isCorrect ? "green" : "red"}">${userAnswers[index] !== null ? q.options[userAnswers[index]] : "Skipped"}</span></p>
-            <p>Correct: <span class="green">${q.options[q.answerIndex]}</span></p>
-            <div class="explanation"><em>Note: ${q.explanation}</em></div>
-        </div>
-    `;
+    <div class="sol-card">
+      <p><strong>Q${index + 1}:</strong> ${escapeHTML(q.question)}</p>
+      <p>Your Choice: <span class="${isCorrect ? "green" : "red"}">${
+        userAnswers[index] !== null
+          ? escapeHTML(q.options[userAnswers[index]])
+          : "Skipped"
+      }</span></p>
+      <p>Correct: <span class="green">${escapeHTML(q.options[q.answerIndex])}</span></p>
+      <div class="explanation"><em>Note: ${escapeHTML(q.explanation)}</em></div>
+    </div>
+  `;
   display.scrollIntoView({ behavior: "smooth" });
 }
