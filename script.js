@@ -120,9 +120,8 @@ function endQuiz() {
     btn.onclick = () => showSolution(i);
     grid.appendChild(btn);
   });
-
   document.getElementById("score-text").innerText =
-    `Final Score: ${score} / ${questions.length}`;
+    `Final Score: ${score} / ${questions.length} (${Math.round((score / questions.length) * 100)}%)`;
 }
 
 function showSolution(index) {
