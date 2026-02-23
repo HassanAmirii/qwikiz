@@ -17,7 +17,7 @@ async function startQuiz() {
     const response = await fetch(`data/${subject}.json`);
     const data = await response.json();
 
-    // Shuffle and slice questions based on the limit
+    // Fisher-Yates Shuffle for variety
     questions = data.sort(() => 0.5 - Math.random()).slice(0, limit);
     userAnswers = new Array(questions.length).fill(null);
 
@@ -27,9 +27,7 @@ async function startQuiz() {
     renderQuestion();
     runTimer();
   } catch (e) {
-    alert(
-      "Error loading data file. Ensure 'data/" + subject + ".json' exists.",
-    );
+    alert(`Error: Could not load data/${subject}.json. Check your file path.`);
   }
 }
 
@@ -38,19 +36,21 @@ function renderQuestion() {
   const area = document.getElementById("question-area");
   area.innerHTML = `
         <div class="question-box">
-            <p><strong>Question ${currentIndex + 1} of ${questions.length}</strong></p>
-            <p class="text-large">${q.question}</p>
-            ${q.options
-              .map(
-                (opt, i) => `
-                <div class="option">
-                    <input type="radio" name="q" id="o${i}" value="${i}" 
-                        onclick="saveAnswer(${i})" ${userAnswers[currentIndex] === i ? "checked" : ""}>
-                    <label for="o${i}">${opt}</label>
-                </div>
-            `,
-              )
-              .join("")}
+            <p class="q-meta">Question ${currentIndex + 1} of ${questions.length}</p>
+            <p class="question-text">${q.question}</p>
+            <div class="options-list">
+                ${q.options
+                  .map(
+                    (opt, i) => `
+                    <label class="option">
+                        <input type="radio" name="q" value="${i}" 
+                            onclick="saveAnswer(${i})" ${userAnswers[currentIndex] === i ? "checked" : ""}>
+                        <span>${opt}</span>
+                    </label>
+                `,
+                  )
+                  .join("")}
+            </div>
         </div>
     `;
 }
@@ -60,21 +60,22 @@ function saveAnswer(index) {
 }
 
 function changeQuestion(dir) {
-  currentIndex += dir;
-  if (currentIndex >= 0 && currentIndex < questions.length) {
+  const newIndex = currentIndex + dir;
+  if (newIndex >= 0 && newIndex < questions.length) {
+    currentIndex = newIndex;
     renderQuestion();
-  } else {
-    currentIndex -= dir;
   }
 }
 
 function runTimer() {
+  const timerDisplay = document.getElementById("timer");
   timer = setInterval(() => {
     timeLeft--;
     const mins = Math.floor(timeLeft / 60);
     const secs = timeLeft % 60;
-    document.getElementById("timer").innerText =
-      `Time: ${mins}:${secs < 10 ? "0" : ""}${secs}`;
+    timerDisplay.innerText = `Time: ${mins}:${secs < 10 ? "0" : ""}${secs}`;
+
+    if (timeLeft <= 30) timerDisplay.style.color = "#ff4757"; // Panic red
     if (timeLeft <= 0) endQuiz();
   }, 1000);
 }
@@ -100,17 +101,21 @@ function endQuiz() {
   });
 
   document.getElementById("score-text").innerText =
-    `Score: ${score} / ${questions.length}`;
+    `Final Score: ${score} / ${questions.length}`;
 }
 
 function showSolution(index) {
   const q = questions[index];
   const display = document.getElementById("solution-display");
+  const isCorrect = userAnswers[index] === q.answerIndex;
+
   display.innerHTML = `
         <div class="sol-card">
             <p><strong>Q${index + 1}:</strong> ${q.question}</p>
+            <p>Your Choice: <span class="${isCorrect ? "green" : "red"}">${userAnswers[index] !== null ? q.options[userAnswers[index]] : "Skipped"}</span></p>
             <p>Correct: <span class="green">${q.options[q.answerIndex]}</span></p>
-            <p><em>Note: ${q.explanation}</em></p>
+            <div class="explanation"><em>Note: ${q.explanation}</em></div>
         </div>
     `;
+  display.scrollIntoView({ behavior: "smooth" });
 }
