@@ -18,17 +18,52 @@ body {
   flex-direction: column;
   align-items: center;
   min-height: 100vh;
-  padding: 20px;
 }
 
+/* UPDATED TICKER: WHITE BACKGROUND, RED TEXT */
+.ticker-wrapper {
+  width: 100%;
+  overflow: hidden;
+  background: var(--card);
+  color: var(--wrong);
+  padding: 10px 0;
+  white-space: nowrap;
+  font-weight: bold;
+  font-size: 0.9rem;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.ticker {
+  display: inline-block;
+  animation: marquee 25s linear infinite;
+}
+
+.ticker-content {
+  display: inline-block;
+  padding-left: 20px;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* LAYOUT STYLES */
 .card {
   background: var(--card);
   padding: 2rem;
   border-radius: 8px;
-  width: 100%;
+  width: calc(100% - 40px);
   max-width: 700px;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
   border: 1px solid var(--border);
+  box-sizing: border-box;
 }
 
 .hidden {
@@ -85,9 +120,11 @@ button:hover {
   gap: 10px;
   margin-top: 20px;
 }
+
 .nav-controls button {
   background: #4b5563;
 }
+
 #submit-btn {
   background: var(--correct);
 }
@@ -156,6 +193,7 @@ button:hover {
   color: white;
   border: none;
 }
+
 .btn-wrong {
   background: var(--wrong) !important;
   color: white;
@@ -174,6 +212,7 @@ button:hover {
   color: var(--correct);
   font-weight: bold;
 }
+
 .red {
   color: var(--wrong);
   font-weight: bold;

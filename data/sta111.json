@@ -631,7 +631,6 @@
   {
     "id": 73,
     "explanation": "10 - 0.5 = 9.5.",
-    "id": 73,
     "options": ["10", "11", "9.5", "10.5"],
     "question": "The lower class boundary for the class 10-19 is:",
     "answerIndex": 2
