@@ -1,2099 +1,2697 @@
 [
   {
     "id": 1,
-    "question": "Which of the following is NOT a common email protocol?",
-    "options": ["POP3", "SMTP", "IMAP", "FTP"],
-    "answerIndex": 3,
-    "explanation": "FTP (File Transfer Protocol) is used for file transfers, not email. POP3, SMTP, and IMAP are all email protocols."
+    "question": "What is the primary focus of data science?",
+    "options": [
+      "Managing large volumes of data using traditional methods",
+      "Finding unseen patterns and making business decisions from vast volumes of data",
+      "Building predictive models without using machine learning",
+      "Collecting data from a single source and format"
+    ],
+    "answerIndex": 1,
+    "explanation": "Data science deals with vast volumes of data using modern tools to find unseen patterns and drive decision-making."
   },
   {
     "id": 2,
-    "question": "What are the fundamental building components of a computer network?",
-    "options": [
-      "Port and Cable",
-      "Nodes and Links",
-      "String and Data",
-      "Optical and Coaxial"
-    ],
-    "answerIndex": 1,
-    "explanation": "Nodes (devices) and Links (connections) are the fundamental building blocks of a computer network."
+    "question": "Which of the following is NOT a stage in the Data Science Lifecycle?",
+    "options": ["Capture", "Maintain", "Communicate", "Storage"],
+    "answerIndex": 3,
+    "explanation": "The lifecycle consists of Capture, Maintain, Process, Analyze, and Communicate."
   },
   {
     "id": 3,
-    "question": "Which type of wired transmission medium has a core of refined glass?",
+    "question": "What does the 'Capture' stage of the Data Science Lifecycle involve?",
     "options": [
-      "Optic Fibre",
-      "Coaxial Cable",
-      "Shielded Twisted Pair",
-      "Twisted Pair Cable"
+      "Data Warehousing",
+      "Data Mining",
+      "Gathering raw structured and unstructured data",
+      "Predictive Analysis"
     ],
-    "answerIndex": 0,
-    "explanation": "Optic Fibre uses a core of refined glass to transmit data as light signals."
+    "answerIndex": 2,
+    "explanation": "Capture involves data acquisition, entry, signal reception, and extraction of raw data."
   },
   {
     "id": 4,
-    "question": "A ______ is a collection of computers and devices connected together to enable communication and data exchange.",
-    "options": ["Network", "Data", "Connection", "Service"],
-    "answerIndex": 0,
-    "explanation": "A Network is a collection of computers and devices connected to enable communication and data exchange."
+    "question": "In the Data Science Lifecycle, what is the purpose of the 'Maintain' stage?",
+    "options": [
+      "Performing various analyses on the data",
+      "Taking raw data and putting it in a usable form",
+      "Preparing analyses in easily readable forms",
+      "Examining patterns, ranges, and biases of prepared data"
+    ],
+    "answerIndex": 1,
+    "explanation": "The maintain stage covers data cleansing, staging, processing, and architecture to make data usable."
   },
   {
     "id": 5,
-    "question": "Which area network covers a small area such as an office or a home?",
-    "options": ["WAN", "MAN", "LAN", "None of the above"],
+    "question": "What happens during the 'Process' stage of the Data Science Lifecycle?",
+    "options": [
+      "Data Acquisition",
+      "Data Reporting",
+      "Examining prepared data for patterns, ranges, and biases",
+      "Exploratory/Confirmatory analysis"
+    ],
     "answerIndex": 2,
-    "explanation": "LAN (Local Area Network) covers small areas like offices or homes."
+    "explanation": "Processing involves data mining, clustering, classification, and summarization to determine usefulness."
   },
   {
     "id": 6,
-    "question": "OSI stands for:",
-    "options": [
-      "Order Systems Inter-related",
-      "Open Systems Interconnection",
-      "Open Systems International",
-      "Open Systems Inter-related"
-    ],
-    "answerIndex": 1,
-    "explanation": "OSI stands for Open Systems Interconnection, a reference model for network communication."
+    "question": "Which stage of the Data Science Lifecycle involves performing various analyses on the data?",
+    "options": ["Maintain", "Process", "Analyze", "Communicate"],
+    "answerIndex": 2,
+    "explanation": "The Analyze stage includes exploratory/confirmatory analysis, predictive analysis, and regression."
   },
   {
     "id": 7,
-    "question": "Which of the following are examples of Network Topology?",
-    "options": ["Bus only", "Star only", "Mesh only", "All of the above"],
-    "answerIndex": 3,
-    "explanation": "Bus, Star, and Mesh are all examples of network topologies."
+    "question": "What is the final step in the Data Science Lifecycle?",
+    "options": [
+      "Data Cleansing",
+      "Data Summarization",
+      "Communication",
+      "Text Mining"
+    ],
+    "answerIndex": 2,
+    "explanation": "Communication involves data reporting, visualization, and business intelligence."
   },
   {
     "id": 8,
-    "question": "Which of these is NOT an advantage of the internet?",
+    "question": "Who coined the term 'Data Science' in 1962?",
     "options": [
-      "Communication Medium",
-      "Education and Online Jobs",
-      "Entertainment",
-      "Bad Impacts on Health"
+      "John Tukey",
+      "Peter Naur",
+      "Gregory Piatetsky-Shapiro",
+      "William S. Cleveland"
     ],
-    "answerIndex": 3,
-    "explanation": "Bad impacts on health is a disadvantage, not an advantage of the internet."
+    "answerIndex": 0,
+    "explanation": "John Tukey described a field he called 'data analysis,' which resembles modern data science."
   },
   {
     "id": 9,
-    "question": "Who invented the World Wide Web (WWW)?",
-    "options": [
-      "Johannes Gutenberg",
-      "Evangelista Torricelli",
-      "Tim Berners-Lee",
-      "Christiaan Huygens"
-    ],
-    "answerIndex": 2,
-    "explanation": "Tim Berners-Lee invented the World Wide Web in 1989."
+    "question": "In 1974, who published the 'Concise Survey of Computer Methods' using the term Data Science?",
+    "options": ["John Tukey", "Peter Naur", "William S. Cleveland", "Jeff Wu"],
+    "answerIndex": 1,
+    "explanation": "Peter Naur used the term in his publication to define computer methods."
   },
   {
     "id": 10,
-    "question": "The identification given to a computer connection to a network is known as:",
-    "options": ["Process ID", "IP Address", "SYSID", "System Serial Number"],
-    "answerIndex": 1,
-    "explanation": "An IP Address uniquely identifies a computer's connection to a network."
+    "question": "When was the International Federation of Classification Societies (IFCS) formed?",
+    "options": ["1962", "1974", "1985", "1996"],
+    "answerIndex": 2,
+    "explanation": "The IFCS was founded in 1985 as an association of classification-related societies."
   },
   {
     "id": 11,
-    "question": "The acronym FTP stands for:",
-    "options": [
-      "File Transfer Procedure",
-      "Fast Transfer Protocol",
-      "File Transfer Protocol",
-      "File Tracking Protocol"
-    ],
-    "answerIndex": 2,
-    "explanation": "FTP stands for File Transfer Protocol, used to transfer files over a network."
+    "question": "In what year was the term 'Knowledge Discovery in Databases' (KDD) coined?",
+    "options": ["1985", "1989", "1996", "2001"],
+    "answerIndex": 1,
+    "explanation": "Gregory Piatetsky-Shapiro organized the first workshop on KDD in 1989."
   },
   {
     "id": 12,
-    "question": "______ represents raw facts, whereas ______ is processed meaningful data.",
+    "question": "What was the significance of the year 2001 for data science?",
     "options": [
-      "Information, Bits",
-      "Records, Bytes",
-      "Data, Information",
-      "Information, Reporting"
+      "The term 'Big Data' was first used",
+      "Hadoop was released",
+      "Data science was introduced as an independent discipline",
+      "Facebook was launched"
     ],
     "answerIndex": 2,
-    "explanation": "Data represents raw facts; Information is data that has been processed to be meaningful."
+    "explanation": "William S. Cleveland introduced data science as an independent discipline in 2001."
   },
   {
     "id": 13,
-    "question": "How many layers are in the OSI Reference Model?",
-    "options": ["4", "5", "6", "7"],
-    "answerIndex": 3,
-    "explanation": "The OSI model has 7 layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application."
+    "question": "What is 'Big Data'?",
+    "options": [
+      "Any data stored in a cloud environment",
+      "Data that fits into a standard spreadsheet",
+      "Extremely large and complex datasets that conventional tools cannot manage",
+      "Only unstructured data from social media"
+    ],
+    "answerIndex": 2,
+    "explanation": "Big data refers to datasets characterized by extreme volume, velocity, and variety."
   },
   {
     "id": 14,
-    "question": "_______ is a network security system used to protect computer networks from unauthorized access.",
-    "options": ["Firewall", "Security", "Network", "SYSID"],
-    "answerIndex": 0,
-    "explanation": "A Firewall is a network security system that monitors and controls incoming and outgoing network traffic."
+    "question": "Which of the following is an example of Big Data?",
+    "options": [
+      "A local store's inventory list",
+      "Information generated by platforms like Facebook and Twitter",
+      "A student's personal contact list",
+      "A single PDF file"
+    ],
+    "answerIndex": 1,
+    "explanation": "Social media platforms generate massive quantities of text, images, and videos daily."
   },
   {
     "id": 15,
-    "question": "What are connections between web pages called?",
-    "options": ["Web browser", "Hyperlinks", "HTML", "URL"],
-    "answerIndex": 1,
-    "explanation": "Hyperlinks are connections between web pages that allow navigation."
+    "question": "What does the 'Volume' characteristic of Big Data refer to?",
+    "options": [
+      "The speed of data processing",
+      "The accuracy of the data",
+      "The massive amount of data generated",
+      "The diversity of data types"
+    ],
+    "answerIndex": 2,
+    "explanation": "Volume refers to the scale of data, often measured in Terabytes, Petabytes, or Zettabytes."
   },
   {
     "id": 16,
-    "question": "A _____ is a software program that allows users to access and view web pages on the internet.",
-    "options": ["Web browser", "Web server", "Web page", "None of the above"],
-    "answerIndex": 0,
-    "explanation": "A web browser is software used to access and display web pages (e.g., Chrome, Firefox)."
+    "question": "What does 'Variety' in Big Data mean?",
+    "options": [
+      "The speed at which data is created",
+      "The different forms of data like structured, semi-structured, and unstructured",
+      "The reliability of the data source",
+      "The size of the database"
+    ],
+    "answerIndex": 1,
+    "explanation": "Variety refers to the different types of data available, including text, images, and sensor data."
   },
   {
     "id": 17,
-    "question": "In which year did Vint Cerf and Robert Kahn propose TCP/IP protocols to allow different networks to communicate?",
-    "options": ["1969", "1970", "1971", "1972"],
-    "answerIndex": 1,
-    "explanation": "Vint Cerf and Robert Kahn proposed TCP/IP in 1970 to allow different networks to communicate."
+    "question": "The speed at which data is generated and processed is known as:",
+    "options": ["Volume", "Variety", "Velocity", "Veracity"],
+    "answerIndex": 2,
+    "explanation": "Velocity is the measure of how fast data flows into an organization."
   },
   {
     "id": 18,
-    "question": "A _______ is a collection of symbols or codes used to format a document.",
-    "options": ["Mark Up Language", "HTML", "FTP", "XML"],
-    "answerIndex": 0,
-    "explanation": "A Markup Language uses symbols/codes (tags) to format and structure documents."
+    "question": "Which characteristic of Big Data emphasizes the accuracy and quality of data?",
+    "options": ["Velocity", "Veracity", "Value", "Variety"],
+    "answerIndex": 1,
+    "explanation": "Veracity refers to the trustworthiness, biases, noise, and abnormality in data."
   },
   {
     "id": 19,
-    "question": "What does HTML stand for?",
+    "question": "The 'Value' characteristic of Big Data refers to:",
     "options": [
-      "Hyperlink and Text Markup Language",
-      "HyperText Markup Language",
-      "HighTech Modern Language",
-      "Home Tool Markup Language"
+      "The cost of storing the data",
+      "The amount of data collected",
+      "The usefulness of insights derived from data",
+      "The speed of the network"
     ],
-    "answerIndex": 1,
-    "explanation": "HTML stands for HyperText Markup Language, the standard language for creating web pages."
+    "answerIndex": 2,
+    "explanation": "Value is the ultimate goal, turning big data into useful insights for decision-making."
   },
   {
     "id": 20,
-    "question": "What is the difference between XML and HTML regarding data exchange?",
+    "question": "What is 'Structured Data'?",
     "options": [
-      "HTML is used for exchanging data, XML is not",
-      "XML is used for exchanging data, HTML is not",
-      "HTML can have user-defined tags, XML cannot",
-      "They are the same"
+      "Data that has no identifiable internal structure",
+      "Data that is organized in a fixed format like a spreadsheet or SQL database",
+      "Data like emails and videos",
+      "Data that is always numerical"
     ],
     "answerIndex": 1,
-    "explanation": "XML (eXtensible Markup Language) is designed for data exchange; HTML is for displaying content."
+    "explanation": "Structured data is highly organized and easily searchable in relational databases."
   },
   {
     "id": 21,
-    "question": "HTML programs are saved using which file extension?",
-    "options": [".htl", ".html", ".hml", ".htlm"],
-    "answerIndex": 1,
-    "explanation": "HTML files are saved with the .html (or .htm) extension."
+    "question": "What is an example of Unstructured Data?",
+    "options": [
+      "Employee records in a table",
+      "An Excel file with clear headers",
+      "A raw text file or a video",
+      "A phone book"
+    ],
+    "answerIndex": 2,
+    "explanation": "Unstructured data lacks a predefined data model or organizational structure."
   },
   {
     "id": 22,
-    "question": "The href attribute in the link tag specifies the:",
+    "question": "Semi-structured data is characterized by:",
     "options": [
-      "Destination of a link",
-      "Link text",
-      "Hypertext",
-      "None of the above"
+      "Having no structure at all",
+      "Being stored in a rigid SQL table",
+      "Not residing in a relational database but using tags or markers",
+      "Only containing images"
     ],
-    "answerIndex": 0,
-    "explanation": "The href attribute specifies the destination URL/address of a hyperlink."
+    "answerIndex": 2,
+    "explanation": "Examples include XML or JSON files which have some organization but are not tabular."
   },
   {
     "id": 23,
-    "question": "Which of the following is a valid CSS color code?",
-    "options": ["#000000", "#0000000", "#00000000", "#000000000"],
-    "answerIndex": 0,
-    "explanation": "A valid hex color code has exactly 6 hex digits preceded by #, like #000000."
+    "question": "What are 'Data Characteristics'?",
+    "options": [
+      "The physical weight of a server",
+      "The properties and attributes of data used for identification",
+      "The color of a data cable",
+      "The name of the database admin"
+    ],
+    "answerIndex": 1,
+    "explanation": "Characteristics like volume, speed, and format help define and manage data."
   },
   {
     "id": 24,
-    "question": "What type of tag is <br>?",
+    "question": "Which of the following is a key advantage of Big Data?",
     "options": [
-      "Break tag",
-      "A broken one",
-      "An opening tag",
-      "None of the above"
+      "Lower security risks",
+      "Simplified data storage",
+      "Better decision-making and innovation",
+      "Decrease in data volume"
     ],
-    "answerIndex": 0,
-    "explanation": "<br> is a break tag (line break), a self-closing tag used to create a new line."
+    "answerIndex": 2,
+    "explanation": "Big data allows organizations to identify trends and improve efficiency."
   },
   {
     "id": 25,
-    "question": "Which is the correct way to tag an image?",
+    "question": "What is the primary challenge associated with Big Data?",
     "options": [
-      "src=\"image.jpg\" alt=\"google\"",
-      "Src=\"image.jpg\" alt=yh\"",
-      "<img src=\"image.jpg\" alt=\"Computer\">",
-      "<image src=\"image.jpg\">"
+      "Not having enough data",
+      "Data privacy and security",
+      "The data is too structured",
+      "Data is only numerical"
     ],
-    "answerIndex": 2,
-    "explanation": "The correct syntax is <img src=\"image.jpg\" alt=\"description\"> with both src and alt attributes."
+    "answerIndex": 1,
+    "explanation": "Managing large volumes of sensitive information poses significant security challenges."
   },
   {
     "id": 26,
-    "question": "If you want to use a background color for your entire webpage, which CSS selector should you use?",
-    "options": ["body", "html", "h1", "p"],
-    "answerIndex": 0,
-    "explanation": "The body selector in CSS targets the entire webpage body for background styling."
+    "question": "Data Science is described as a 'cross-disciplinary field'. What does this mean?",
+    "options": [
+      "It only involves computer science",
+      "It uses methods from statistics, mathematics, and programming",
+      "It is only used in physics",
+      "It doesn't require any domain expertise"
+    ],
+    "answerIndex": 1,
+    "explanation": "It integrates multiple fields to extract insights from data."
   },
   {
     "id": 27,
-    "question": "Which HTML element defines the title of a document (shown in the browser tab)?",
-    "options": ["<meta>", "<head>", "<title>", "<h1>"],
-    "answerIndex": 2,
-    "explanation": "The <title> element defines the document title shown in the browser tab."
+    "question": "Which tool is commonly used in the Analyze stage of data science?",
+    "options": [
+      "Excel",
+      "Regression/Predictive analysis",
+      "Data Entry",
+      "Paper and Pencil"
+    ],
+    "answerIndex": 1,
+    "explanation": "Statistical modeling and machine learning are core to the analysis stage."
   },
   {
     "id": 28,
-    "question": "Block elements are normally displayed without starting a new line.",
-    "options": ["True", "False", "Sometimes", "Depends on browser"],
+    "question": "In the context of the 2010s, what became a major trend in data science?",
+    "options": [
+      "A decline in data collection",
+      "The rise of Deep Learning and AI",
+      "A shift back to paper records",
+      "The disappearance of Big Data"
+    ],
     "answerIndex": 1,
-    "explanation": "This is FALSE. Block elements always start on a new line. Inline elements do not start new lines."
+    "explanation": "The decade saw massive growth in AI and the demand for data science professionals."
   },
   {
     "id": 29,
-    "question": "Which tag would you generally use to make an unordered (bullet) list?",
-    "options": ["<dl>", "<ul>", "<list>", "<ol>"],
+    "question": "What is the role of 'Data Cleansing'?",
+    "options": [
+      "Deleting all data",
+      "Removing errors and inconsistencies from data",
+      "Adding more data to a dataset",
+      "Printing the data"
+    ],
     "answerIndex": 1,
-    "explanation": "<ul> creates an unordered (bulleted) list. Each item uses <li> tags."
+    "explanation": "Cleansing ensures data quality before analysis."
   },
   {
     "id": 30,
-    "question": "Which tag is used when creating an ordered (numbered) list?",
-    "options": ["<dl>", "<ul>", "<list>", "<ol>"],
-    "answerIndex": 3,
-    "explanation": "<ol> creates an ordered (numbered) list. Each item uses <li> tags."
+    "question": "Which of the following is a component of 'Metadata'?",
+    "options": [
+      "The actual text of an email",
+      "Information about the data, like its source and format",
+      "The physical computer",
+      "The user's password"
+    ],
+    "answerIndex": 1,
+    "explanation": "Metadata is 'data about data' providing context."
   },
   {
     "id": 31,
-    "question": "Which character is used to indicate an end/closing tag in HTML?",
-    "options": ["*", "/", "<", "^"],
+    "question": "What is a Data Flow Diagram (DFD)?",
+    "options": [
+      "A map of the internet",
+      "A graphical representation of the flow of data in a system",
+      "A list of database passwords",
+      "A type of spreadsheet"
+    ],
     "answerIndex": 1,
-    "explanation": "The forward slash (/) is used to indicate a closing tag, e.g., </p>."
+    "explanation": "DFDs visualize how data enters, moves through, and leaves a system."
   },
   {
     "id": 32,
-    "question": "Which HTML element is used for the largest heading?",
-    "options": ["<h6>", "<head>", "<heading>", "<h1>"],
+    "question": "Which of these is NOT a symbol used in a DFD?",
+    "options": [
+      "Process (Circle or Rectangle)",
+      "Data Store (Open Rectangle)",
+      "Data Flow (Arrow)",
+      "Decision Diamond"
+    ],
     "answerIndex": 3,
-    "explanation": "<h1> is the largest heading in HTML; <h6> is the smallest."
+    "explanation": "Decision diamonds are used in flowcharts, not Data Flow Diagrams."
   },
   {
     "id": 33,
-    "question": "How can you create rounded corners using CSS3?",
+    "question": "What does a process symbol in a DFD represent?",
     "options": [
-      "border[round]: 30px;",
-      "corner-effect: round;",
-      "border-radius: 30px;",
-      "alpha-effect: round-corner;"
+      "A person using the system",
+      "A transformation of incoming data to outgoing data",
+      "A static database",
+      "The direction of movement"
     ],
-    "answerIndex": 2,
-    "explanation": "The CSS3 property border-radius creates rounded corners on elements."
+    "answerIndex": 1,
+    "explanation": "Processes represent work performed on the data."
   },
   {
     "id": 34,
-    "question": "What does CSS stand for?",
+    "question": "What is an External Entity in a DFD?",
     "options": [
-      "Cascading Style Sheets",
-      "Colorful Style Sheets",
-      "Creative Style Sheets",
-      "Computer Style Sheets"
+      "A computer virus",
+      "A source or destination of data outside the system boundary",
+      "The central CPU",
+      "A data cleaning tool"
     ],
-    "answerIndex": 0,
-    "explanation": "CSS stands for Cascading Style Sheets, used to style HTML documents."
+    "answerIndex": 1,
+    "explanation": "Entities interact with the system but are outside its immediate control."
   },
   {
     "id": 35,
-    "question": "What is the correct HTML for referring to an external style sheet?",
+    "question": "A Data Store in a DFD represents:",
     "options": [
-      "<link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\">",
-      "<style src=\"mystyle.css\">",
-      "<stylesheet>mystyle.css</stylesheet>",
-      "<css href=\"mystyle.css\">"
+      "Data in motion",
+      "Data at rest",
+      "The transformation of data",
+      "A user interface"
     ],
-    "answerIndex": 0,
-    "explanation": "The <link> tag with rel=\"stylesheet\" and href attributes is used to link an external CSS file."
+    "answerIndex": 1,
+    "explanation": "Data stores are where information is held for later use."
   },
   {
     "id": 36,
-    "question": "Where in an HTML document is the correct place to refer to an external style sheet?",
+    "question": "What is a Level 0 DFD also called?",
     "options": [
-      "In the <head> section",
-      "At the end of the document",
-      "In the <body> section",
-      "Anywhere in the document"
+      "A Logical DFD",
+      "A Physical DFD",
+      "A Context Diagram",
+      "An Entity Relationship Diagram"
     ],
-    "answerIndex": 0,
-    "explanation": "External stylesheets should be linked in the <head> section for proper rendering."
+    "answerIndex": 2,
+    "explanation": "It shows the entire system as a single process."
   },
   {
     "id": 37,
-    "question": "Which HTML attribute is used to define inline styles?",
-    "options": ["style", "class", "font", "styles"],
+    "question": "What is the difference between a Logical DFD and a Physical DFD?",
+    "options": [
+      "Logical is about 'what' the system does; Physical is about 'how'",
+      "Logical is for hardware; Physical is for software",
+      "There is no difference",
+      "Logical DFDs are drawn in color"
+    ],
     "answerIndex": 0,
-    "explanation": "The style attribute is used to add inline CSS directly to an HTML element."
+    "explanation": "Logical DFDs focus on the business process; Physical DFDs focus on implementation."
   },
   {
     "id": 38,
-    "question": "Which is the correct CSS syntax?",
+    "question": "Which characteristic of data structures refers to the time taken for an operation?",
     "options": [
-      "{body:color=black;}",
-      "{body;color:black;}",
-      "body:color=black;",
-      "body {color: black;}"
+      "Space Complexity",
+      "Time Complexity",
+      "Correctness",
+      "Linearity"
     ],
-    "answerIndex": 3,
-    "explanation": "Correct CSS syntax is: selector { property: value; } — so body {color: black;}"
+    "answerIndex": 1,
+    "explanation": "Time complexity measures the execution time of an algorithm."
   },
   {
     "id": 39,
-    "question": "Which CSS property is used to change the background color?",
-    "options": ["background-color", "bgcolor", "color", "bg"],
-    "answerIndex": 0,
-    "explanation": "The background-color CSS property sets the background color of an element."
+    "question": "What does Space Complexity refer to?",
+    "options": [
+      "The physical size of the computer",
+      "The amount of memory used by an algorithm",
+      "The distance between servers",
+      "The speed of light"
+    ],
+    "answerIndex": 1,
+    "explanation": "Space complexity measures memory consumption."
   },
   {
     "id": 40,
-    "question": "Which CSS property is used to change the text color of an element?",
-    "options": ["text-color", "fgcolor", "color", "font-color"],
-    "answerIndex": 2,
-    "explanation": "The color CSS property sets the text/foreground color of an element."
+    "question": "A 'Linear' data structure means:",
+    "options": [
+      "Elements are arranged in a tree",
+      "Elements are arranged in a sequential order",
+      "Elements have no order",
+      "The data is always changing"
+    ],
+    "answerIndex": 1,
+    "explanation": "Arrays and linked lists are linear structures."
   },
   {
     "id": 41,
-    "question": "Which CSS property controls the text size?",
-    "options": ["font-size", "text-size", "text-style", "font-style"],
-    "answerIndex": 0,
-    "explanation": "The font-size CSS property controls the size of the text."
+    "question": "What is an Operational Database?",
+    "options": [
+      "A database used for archival storage",
+      "A database that supports day-to-day business transactions",
+      "A database that is currently broken",
+      "A database used only for training"
+    ],
+    "answerIndex": 1,
+    "explanation": "They handle real-time modifications and queries for business operations."
   },
   {
     "id": 42,
-    "question": "Which property is used to change the left margin of an element?",
-    "options": ["margin-left", "padding-left", "indent", "left-margin"],
+    "question": "Operational databases are also known as:",
+    "options": [
+      "OLTP (Online Transaction Processing)",
+      "OLAP (Online Analytical Processing)",
+      "Data Marts",
+      "Flat files"
+    ],
     "answerIndex": 0,
-    "explanation": "The margin-left property sets the left margin (outer spacing) of an element."
+    "explanation": "OLTP systems manage transaction-oriented applications."
   },
   {
     "id": 43,
-    "question": "How do you select an element with id 'demo' in CSS?",
-    "options": ["#demo", ".demo", "demo", "*demo"],
-    "answerIndex": 0,
-    "explanation": "In CSS, IDs are selected with a # prefix: #demo selects the element with id=\"demo\"."
+    "question": "Which of these is a characteristic of operational databases?",
+    "options": [
+      "They store data for 50 years",
+      "They handle high-volume, real-time updates",
+      "They are only read-only",
+      "They do not use SQL"
+    ],
+    "answerIndex": 1,
+    "explanation": "They must handle frequent additions and changes."
   },
   {
     "id": 44,
-    "question": "What is the default value of the CSS position property?",
-    "options": ["absolute", "fixed", "static", "relative"],
-    "answerIndex": 2,
-    "explanation": "The default value of the CSS position property is static."
+    "question": "What is a Relational Database (RDBMS)?",
+    "options": [
+      "A database that stores data in tables with rows and columns",
+      "A database that only stores images",
+      "A collection of unrelated text files",
+      "A database that doesn't use a schema"
+    ],
+    "answerIndex": 0,
+    "explanation": "RDBMS uses a tabular format and a predefined schema."
   },
   {
     "id": 45,
-    "question": "Which HTML tag is used to create a multiple-line text input area for user input?",
-    "options": ["<textspace>", "<inputtext>", "<textarea>", "<inputarea>"],
+    "question": "What language is typically used to interact with RDBMS?",
+    "options": ["Python", "Java", "SQL (Structured Query Language)", "HTML"],
     "answerIndex": 2,
-    "explanation": "The <textarea> tag creates a multi-line text input field."
+    "explanation": "SQL is the standard language for relational databases."
   },
   {
     "id": 46,
-    "question": "Which <form> attribute tells the browser HOW to submit the form data (GET or POST)?",
-    "options": ["action", "get", "method", "post"],
-    "answerIndex": 2,
-    "explanation": "The method attribute specifies how form data is sent: GET (appended to URL) or POST (in HTTP body)."
+    "question": "Which of the following is a Relational Database?",
+    "options": ["MongoDB", "MySQL", "Redis", "Cassandra"],
+    "answerIndex": 1,
+    "explanation": "MySQL is a widely used open-source relational database."
   },
   {
     "id": 47,
-    "question": "What table element attribute adds a border to a table?",
+    "question": "What is a Non-Relational Database (NoSQL)?",
     "options": [
-      "<table border=\"0\">",
-      "<table border=\"1\">",
-      "<table border=\"on\">",
-      "<table border=\"yes\">"
+      "A database that uses strict tables",
+      "A database that does not use the tabular schema of rows and columns",
+      "A database that cannot store numbers",
+      "A database that is always free"
     ],
     "answerIndex": 1,
-    "explanation": "border=\"1\" adds a visible border to a table. border=\"0\" removes it."
+    "explanation": "NoSQL databases use flexible data models like documents or graphs."
   },
   {
     "id": 48,
-    "question": "Which of the following defines the content of standard table cells?",
-    "options": [
-      "The <th> tag",
-      "The <tr> tag",
-      "The <td> tag",
-      "The <tablecell> tag"
-    ],
-    "answerIndex": 2,
-    "explanation": "<td> (table data) defines standard content cells in a table."
+    "question": "Which of these is a Document-based NoSQL database?",
+    "options": ["Oracle", "MongoDB", "PostgreSQL", "MS Access"],
+    "answerIndex": 1,
+    "explanation": "MongoDB stores data in JSON-like documents."
   },
   {
     "id": 49,
-    "question": "The HTML _____ element is used to create an HTML form for user input.",
-    "options": ["form", "html", "label", "None of the above"],
-    "answerIndex": 0,
-    "explanation": "The <form> element is the container for all HTML form controls."
+    "question": "Key-value stores are ideal for:",
+    "options": [
+      "Complex analytical queries",
+      "Caching and session management",
+      "Storing hierarchical family trees",
+      "Financial auditing"
+    ],
+    "answerIndex": 1,
+    "explanation": "They offer high-speed access for simple lookups."
   },
   {
     "id": 50,
-    "question": "Which input type allows for selecting zero or more of many choices?",
-    "options": ["textbox", "textarea", "checkbox", "radio"],
-    "answerIndex": 2,
-    "explanation": "Checkboxes allow users to select multiple options (zero or more) from a list."
+    "question": "Graph databases focus on:",
+    "options": [
+      "Drawing charts",
+      "Relationships between data points",
+      "Storing large video files",
+      "Simple lists of names"
+    ],
+    "answerIndex": 1,
+    "explanation": "They model entities as nodes and relationships as edges."
   },
   {
     "id": 51,
-    "question": "Which input type lets a user select ONLY ONE of a limited number of choices?",
-    "options": ["checkbox", "radio", "textbox", "select"],
+    "question": "Statistical modeling is used to:",
+    "options": [
+      "Repair computer hardware",
+      "Describe relationships between variables and make predictions",
+      "Install operating systems",
+      "Type documents faster"
+    ],
     "answerIndex": 1,
-    "explanation": "Radio buttons are mutually exclusive — only one can be selected at a time."
+    "explanation": "It uses mathematical equations to analyze data."
   },
   {
     "id": 52,
-    "question": "The action attribute tells the form:",
+    "question": "What is 'Mean' in statistics?",
     "options": [
-      "How to send the form's data",
-      "Where to send the form's data",
-      "When to send the form's data",
-      "All of the above"
+      "The middle value",
+      "The most frequent value",
+      "The average of a set of numbers",
+      "The difference between high and low"
     ],
-    "answerIndex": 1,
-    "explanation": "The action attribute specifies the URL (where) to send the form data when submitted."
+    "answerIndex": 2,
+    "explanation": "Mean is calculated by summing values and dividing by the count."
   },
   {
     "id": 53,
-    "question": "Which input type defines a field that should contain an e-mail address?",
-    "options": ["e-mail", "mailto", "mail", "email"],
-    "answerIndex": 3,
-    "explanation": "type=\"email\" defines an email input field with built-in validation."
+    "question": "What is 'Median'?",
+    "options": [
+      "The mathematical average",
+      "The middle value in a sorted list",
+      "The value that appears most often",
+      "The square root of the variance"
+    ],
+    "answerIndex": 1,
+    "explanation": "Median splits a dataset into two equal halves."
   },
   {
     "id": 54,
-    "question": "<input> is:",
+    "question": "What does 'Standard Deviation' measure?",
     "options": [
-      "A format tag",
-      "An empty tag",
-      "All of the above",
-      "None of the above"
+      "The average of the data",
+      "The amount of variation or dispersion in a set of values",
+      "The total number of data points",
+      "The speed of the data processor"
     ],
     "answerIndex": 1,
-    "explanation": "<input> is an empty (self-closing) tag — it does not have a closing tag."
+    "explanation": "It indicates how spread out the numbers are from the mean."
   },
   {
     "id": 55,
-    "question": "In HTML5, which tag is used to initialize the document type?",
+    "question": "In the Data Analysis Process, what comes after Data Collection?",
     "options": [
-      "<Doctype HTML>",
-      "<\\Doctype html>",
-      "<Doctype>",
-      "<!DOCTYPE html>"
+      "Data Interpretation",
+      "Data Cleaning",
+      "Data Visualization",
+      "Asking questions"
     ],
-    "answerIndex": 3,
-    "explanation": "<!DOCTYPE html> is the correct HTML5 document type declaration."
+    "answerIndex": 1,
+    "explanation": "Collected data must be cleaned of errors before analysis."
   },
   {
     "id": 56,
-    "question": "What is the decimal value of binary 11111110?",
-    "options": ["None of these", "255", "254", "239"],
-    "answerIndex": 2,
-    "explanation": "11111110 in binary = 128+64+32+16+8+4+2+0 = 254 in decimal."
+    "question": "What is the primary goal of Data Visualization?",
+    "options": [
+      "To make data harder to read",
+      "To represent information and data graphically",
+      "To delete unnecessary data",
+      "To encrypt data for security"
+    ],
+    "answerIndex": 1,
+    "explanation": "Visualization helps in spotting trends and patterns easily."
   },
   {
     "id": 57,
-    "question": "The Octal number system contains how many digits?",
+    "question": "What is 'Data Integrity'?",
     "options": [
-      "Seven digits from 0 to 6",
-      "Nine digits from 0 to 8",
-      "Eight digits from 1 to 9",
-      "Eight digits from 0 to 7"
+      "The cost of the data",
+      "The accuracy, completeness, and consistency of data",
+      "The amount of data in a table",
+      "The brand of the database software"
     ],
-    "answerIndex": 3,
-    "explanation": "The octal system uses 8 digits: 0, 1, 2, 3, 4, 5, 6, 7."
+    "answerIndex": 1,
+    "explanation": "Integrity ensures data remains reliable throughout its lifecycle."
   },
   {
     "id": 58,
-    "question": "What is the binary number for decimal number 9?",
-    "options": ["1100", "1001", "0111", "1011"],
-    "answerIndex": 1,
-    "explanation": "9 in decimal = 8+1 = 1001 in binary."
+    "question": "Which scale of measurement classifies data without any order?",
+    "options": [
+      "Nominal scale",
+      "Ordinal scale",
+      "Interval scale",
+      "Ratio scale"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nominal scale is for naming or labeling variables (e.g., gender, hair color)."
   },
   {
     "id": 59,
-    "question": "People normally work in _____ and computers in _____.",
+    "question": "What is an 'Ordinal Scale'?",
     "options": [
-      "Decimal, Binary",
-      "Binary, Decimal",
-      "Octal, Binary",
-      "Binary, Octal"
+      "Data with no categories",
+      "Data with a specific order but no measurable difference between ranks",
+      "Data with a true zero point",
+      "Data that is only numerical"
     ],
-    "answerIndex": 0,
-    "explanation": "Humans use the decimal (base-10) system; computers use binary (base-2)."
+    "answerIndex": 1,
+    "explanation": "Ordinal data shows rank (e.g., 1st, 2nd, 3rd)."
   },
   {
     "id": 60,
-    "question": "Convert 123 (base 10) to binary.",
-    "options": ["11111", "101010", "1111011", "1110111"],
-    "answerIndex": 2,
-    "explanation": "123 in decimal = 64+32+16+8+2+1 = 1111011 in binary."
+    "question": "The 'Interval Scale' is different from the Ratio scale because:",
+    "options": [
+      "It has no order",
+      "It has no absolute zero point",
+      "It cannot be used for temperature",
+      "It is only for names"
+    ],
+    "answerIndex": 1,
+    "explanation": "Interval scales have equal intervals but zero is arbitrary (e.g., Celsius)."
   },
   {
     "id": 61,
-    "question": "Convert (1101) base 2 into a decimal number.",
-    "options": ["13", "12", "14", "11"],
-    "answerIndex": 0,
-    "explanation": "1101 in binary = 8+4+0+1 = 13 in decimal."
+    "question": "What is 'Primary Data'?",
+    "options": [
+      "Data collected from books",
+      "First-hand data collected by the researcher",
+      "Data that is 10 years old",
+      "Data found on the internet"
+    ],
+    "answerIndex": 1,
+    "explanation": "Primary data is original data collected for a specific purpose."
   },
   {
     "id": 62,
-    "question": "Which numbering system uses both numbers and letters as symbols?",
-    "options": ["Decimal", "Binary", "Octal", "Hexadecimal"],
-    "answerIndex": 3,
-    "explanation": "Hexadecimal (base-16) uses digits 0–9 and letters A–F as symbols."
+    "question": "What is 'Secondary Data'?",
+    "options": [
+      "Data that is not important",
+      "Data that has already been collected by someone else",
+      "The second row in a database",
+      "Data collected via interviews"
+    ],
+    "answerIndex": 1,
+    "explanation": "Secondary data comes from journals, reports, or previous studies."
   },
   {
     "id": 63,
-    "question": "Which of the following is NOT a binary number?",
-    "options": ["1111", "101", "11E", "001"],
+    "question": "Which of these is a method of primary data collection?",
+    "options": [
+      "Reading old newspapers",
+      "Searching Google",
+      "Questionnaires and Interviews",
+      "Using a Census report"
+    ],
     "answerIndex": 2,
-    "explanation": "Binary numbers only contain 0s and 1s. '11E' contains the letter E, so it's not binary."
+    "explanation": "Interviews involve direct interaction to gather new data."
   },
   {
     "id": 64,
-    "question": "___ is a base 8 number system.",
-    "options": ["Decimal", "Octal", "Hexadecimal", "Binary"],
+    "question": "Quantitative data is:",
+    "options": [
+      "Descriptive and conceptual",
+      "Numerical and can be measured",
+      "Based on feelings and opinions",
+      "Always unstructured"
+    ],
     "answerIndex": 1,
-    "explanation": "Octal is the base-8 number system, using digits 0–7."
+    "explanation": "Quantitative data deals with numbers and quantities."
   },
   {
     "id": 65,
-    "question": "Convert (214) base 8 into a binary number.",
-    "options": ["010001100", "111111", "1010111", "1100001"],
-    "answerIndex": 0,
-    "explanation": "214 octal: 2=010, 1=001, 4=100, combined = 010001100 in binary."
+    "question": "Qualitative data is:",
+    "options": [
+      "Easily put into a chart",
+      "Non-numerical and descriptive",
+      "Always precise",
+      "Measured in kilograms"
+    ],
+    "answerIndex": 1,
+    "explanation": "Qualitative data describes qualities or characteristics."
   },
   {
     "id": 66,
-    "question": "_____ store and deliver requested data to clients.",
-    "options": ["Server", "Web", "Webpage", "Web browser"],
-    "answerIndex": 0,
-    "explanation": "Servers store data and respond to requests from clients."
+    "question": "What is the 'Mode' in a dataset?",
+    "options": [
+      "The highest number",
+      "The value that appears most frequently",
+      "The sum of all numbers",
+      "The middle number"
+    ],
+    "answerIndex": 1,
+    "explanation": "Mode is the most common observation."
   },
   {
     "id": 67,
-    "question": "Which attribute specifies the number of rows a cell should span in an HTML table?",
-    "options": ["rowspan", "colspan", "cellpadding", "margin"],
-    "answerIndex": 0,
-    "explanation": "The rowspan attribute makes a table cell span multiple rows vertically."
+    "question": "In a DFD, what does a rectangle usually represent?",
+    "options": [
+      "A process",
+      "An external entity",
+      "A data store",
+      "A data flow"
+    ],
+    "answerIndex": 1,
+    "explanation": "Rectangles (or squares) denote external sources or sinks of data."
   },
   {
     "id": 68,
-    "question": "ALT attribute serves as a descriptive element for the image.",
-    "options": ["True", "False", "Sometimes", "Depends on browser"],
-    "answerIndex": 0,
-    "explanation": "TRUE. The alt attribute provides alternative text description for images."
+    "question": "What does an open-ended rectangle (or two parallel lines) represent in a DFD?",
+    "options": ["A process", "A data store", "An entity", "A flow"],
+    "answerIndex": 1,
+    "explanation": "This symbol is used for data at rest (files, databases)."
   },
   {
     "id": 69,
-    "question": "What is the practice of connecting computers together to enable communication and data exchange called?",
+    "question": "What is a 'Level 1' DFD?",
     "options": [
-      "Computer Programming",
-      "Computer Networking",
-      "Web Design",
-      "Data Mining"
+      "The context diagram",
+      "A breakdown of the context diagram into sub-processes",
+      "A diagram of the hardware",
+      "A flowchart of a program"
     ],
     "answerIndex": 1,
-    "explanation": "Computer Networking is the practice of connecting computers to enable communication and data exchange."
+    "explanation": "Level 1 DFDs provide more detail about the system's internal functions."
   },
   {
     "id": 70,
-    "question": "A network node can be represented by which of the following?",
+    "question": "Why are DFDs considered 'Structured Analysis' tools?",
     "options": [
-      "A wire or cable",
-      "Data Communication Equipment like a Router",
-      "Free space in a wireless network",
-      "An HTML document"
+      "They use a lot of math",
+      "They decompose a system into functional components",
+      "They are only used by CEOs",
+      "They require a specific software"
     ],
     "answerIndex": 1,
-    "explanation": "A network node is represented by data communication equipment like routers, computers, or switches."
+    "explanation": "Structured analysis breaks complex systems into manageable parts."
   },
   {
     "id": 71,
-    "question": "Which protocol translates human-readable domain names into IP addresses?",
-    "options": ["HTTP", "TCP/IP", "DNS", "FTP"],
-    "answerIndex": 2,
-    "explanation": "DNS (Domain Name System) translates domain names like google.com into IP addresses."
+    "question": "What is a 'Data Warehouse'?",
+    "options": [
+      "A room full of servers",
+      "A central repository for integrated, historical data",
+      "A database that updates every second",
+      "A place to store old paper files"
+    ],
+    "answerIndex": 1,
+    "explanation": "It is optimized for analysis and reporting across an organization."
   },
   {
     "id": 72,
-    "question": "Which architecture features nodes that can be specifically designated as either Servers or Clients?",
+    "question": "Which of these is a characteristic of a Data Warehouse?",
     "options": [
-      "Peer-to-Peer",
-      "Mesh Topology",
-      "Client-Server Architecture",
-      "Hybrid Architecture"
+      "Volatile",
+      "Subject-Oriented",
+      "Transactional",
+      "Process-Oriented"
     ],
-    "answerIndex": 2,
-    "explanation": "In Client-Server architecture, nodes are specifically designated as either servers or clients."
+    "answerIndex": 1,
+    "explanation": "Warehouses are organized by business themes like sales or customers."
   },
   {
     "id": 73,
-    "question": "In which architecture is there no concept of a central server?",
+    "question": "What does 'Non-Volatile' mean in a data warehouse?",
     "options": [
-      "Client-Server",
-      "Peer-to-Peer (P2P)",
-      "Star Topology",
-      "Cloud Networking"
+      "The data can explode",
+      "The data is frequently changed",
+      "Once entered, data is not updated or deleted",
+      "The data is only for IT staff"
     ],
-    "answerIndex": 1,
-    "explanation": "In Peer-to-Peer (P2P) architecture, all nodes are equal and there is no central server."
+    "answerIndex": 2,
+    "explanation": "Data is preserved for historical trend analysis."
   },
   {
     "id": 74,
-    "question": "What is the primary difference between the Internet and the World Wide Web (WWW)?",
+    "question": "What is 'ETL'?",
     "options": [
-      "The Internet is a service, while the WWW is a network.",
-      "The Internet is hardware-oriented; the WWW is software-oriented.",
-      "They are the same thing.",
-      "The WWW was invented before the Internet."
+      "Electronic Transfer List",
+      "Extract, Transform, Load",
+      "Every Time Loading",
+      "Easy Text Logic"
     ],
     "answerIndex": 1,
-    "explanation": "The Internet is the physical network infrastructure; the WWW is a service/software system that runs on top of the Internet."
+    "explanation": "ETL is the process of moving data from sources to a warehouse."
   },
   {
     "id": 75,
-    "question": "Which phase of the web design process involves research and strategy?",
+    "question": "What is a 'Data Mart'?",
     "options": [
-      "Design Phase",
-      "Discovery Phase",
-      "Development Phase",
-      "Testing Phase"
+      "A supermarket for data",
+      "A subset of a data warehouse focused on a specific department",
+      "A large transactional database",
+      "A type of NoSQL database"
     ],
     "answerIndex": 1,
-    "explanation": "The Discovery Phase involves research, strategy, stakeholder interviews, and user research."
+    "explanation": "Data marts provide tailored data for specific groups (e.g., Marketing)."
   },
   {
     "id": 76,
-    "question": "What tool is used in the discovery phase to show the hierarchy and navigation of a website?",
-    "options": ["Wireframe", "Sitemap", "Mockup", "Prototype"],
+    "question": "What is 'Data Mining'?",
+    "options": [
+      "Searching for gold in servers",
+      "Discovering patterns in large datasets",
+      "Deleting large datasets",
+      "Storing data in a cloud"
+    ],
     "answerIndex": 1,
-    "explanation": "A Sitemap is a visual representation of a website's hierarchy and navigation structure."
+    "explanation": "Data mining extracts hidden predictive information."
   },
   {
     "id": 77,
-    "question": "What is a 'low-fidelity sketch' of a website that focuses on functionality and layout called?",
-    "options": ["Sitemap", "Wireframe", "Final Design", "Metadata"],
-    "answerIndex": 1,
-    "explanation": "A Wireframe is a low-fidelity sketch focusing on functionality and usability, not visual design."
+    "question": "Which property ensures that a transaction is complete or not done at all?",
+    "options": ["Atomicity", "Consistency", "Isolation", "Durability"],
+    "answerIndex": 0,
+    "explanation": "Atomicity ensures 'all or nothing' transactions."
   },
   {
     "id": 78,
-    "question": "Which phase of the web design process converts the final design into a working prototype using HTML, CSS, and JavaScript?",
-    "options": ["Discovery", "Design", "Development", "Research"],
-    "answerIndex": 2,
-    "explanation": "The Development Phase converts designs into working web pages using HTML, CSS, and JavaScript."
+    "question": "What does the 'Consistency' property in ACID ensure?",
+    "options": [
+      "Data is always fast",
+      "The database follows all its rules after a transaction",
+      "Transactions happen one by one",
+      "Data is never lost"
+    ],
+    "answerIndex": 1,
+    "explanation": "Consistency moves the database from one valid state to another."
   },
   {
     "id": 79,
-    "question": "HTML elements are typically surrounded by which characters?",
+    "question": "What is 'Durability' in database transactions?",
     "options": [
-      "Square brackets [ ]",
-      "Curly braces { }",
-      "Angle brackets < >",
-      "Parentheses ( )"
+      "The database is physically strong",
+      "Once a transaction is committed, it stays even after a power failure",
+      "The database can handle many users",
+      "The database lasts for many years"
     ],
-    "answerIndex": 2,
-    "explanation": "HTML tags use angle brackets < > to wrap element names, e.g., <p>, <div>."
+    "answerIndex": 1,
+    "explanation": "Durability guarantees that committed data is permanent."
   },
   {
     "id": 80,
-    "question": "Which part of an HTML element provides additional information to modify its behavior?",
-    "options": ["Tags", "Attributes", "Content", "Elements"],
+    "question": "In NoSQL, 'Document' databases usually use which format?",
+    "options": ["CSV", "JSON or BSON", "MP4", "XLSX"],
     "answerIndex": 1,
-    "explanation": "Attributes provide additional information about HTML elements, e.g., href, src, class."
+    "explanation": "JSON is common due to its hierarchical and flexible structure."
   },
   {
     "id": 81,
-    "question": "In an HTML document, where is information like the title and metadata stored?",
-    "options": ["<body>", "<footer>", "<head>", "<script>"],
+    "question": "Which NoSQL type is best for social network analysis?",
+    "options": ["Key-value", "Document", "Graph", "Columnar"],
     "answerIndex": 2,
-    "explanation": "The <head> section contains metadata, title, links to stylesheets, and other non-visible information."
+    "explanation": "Graph databases excel at managing complex connections."
   },
   {
     "id": 82,
-    "question": "Which design principle involves arranging components to convey their importance?",
+    "question": "What is the primary disadvantage of NoSQL compared to SQL?",
     "options": [
-      "Simplicity",
-      "Visual Hierarchy",
-      "Consistency",
-      "Accessibility"
+      "It is too slow",
+      "It lacks a standardized query language",
+      "It cannot store large data",
+      "It is only for small companies"
     ],
     "answerIndex": 1,
-    "explanation": "Visual Hierarchy is the arrangement of elements to guide users' attention to the most important content first."
+    "explanation": "SQL is standardized; NoSQL varies significantly between types."
   },
   {
     "id": 83,
-    "question": "A website that adjusts to different screen sizes and devices is said to be:",
-    "options": ["Simple", "Responsive", "Consistent", "Accessible"],
+    "question": "What is 'Data Scalability'?",
+    "options": [
+      "The weight of data",
+      "The ability of a system to handle growing amounts of data",
+      "The color of data",
+      "The height of a data center"
+    ],
     "answerIndex": 1,
-    "explanation": "A Responsive website adapts its layout to different screen sizes (desktop, tablet, mobile)."
+    "explanation": "Scalability ensures performance remains stable as data increases."
   },
   {
     "id": 84,
-    "question": "Which attribute is used with the <img> tag to provide alternative text?",
-    "options": ["src", "link", "alt", "title"],
-    "answerIndex": 2,
-    "explanation": "The alt attribute provides alternative text for images, shown when image fails to load or for screen readers."
+    "question": "Which term describes removing personally identifiable information?",
+    "options": [
+      "Data Cleaning",
+      "Data Anonymization",
+      "Data Encryption",
+      "Data Mining"
+    ],
+    "answerIndex": 1,
+    "explanation": "Anonymization protects privacy by hiding identity."
   },
   {
     "id": 85,
-    "question": "What is the mandatory attribute for the <a> (hyperlink) element?",
-    "options": ["src", "href", "alt", "id"],
-    "answerIndex": 1,
-    "explanation": "The href attribute is required for the anchor <a> element as it specifies the link destination."
+    "question": "What does 'Time-Variant' mean in a Data Warehouse?",
+    "options": [
+      "Data is only kept for one day",
+      "The data changes every second",
+      "Data is kept over a long time and indexed by time",
+      "The time is always wrong"
+    ],
+    "answerIndex": 2,
+    "explanation": "Historical data is maintained to see changes over time."
   },
   {
     "id": 86,
-    "question": "Which protocol is the secure version of HTTP?",
-    "options": ["SMTP", "FTP", "HTTPS", "TCP"],
-    "answerIndex": 2,
-    "explanation": "HTTPS (HyperText Transfer Protocol Secure) encrypts data transmission for secure communication."
+    "question": "What is 'Data Governance'?",
+    "options": [
+      "The government's data",
+      "The management of data availability, usability, integrity, and security",
+      "A type of database software",
+      "The speed of the internet"
+    ],
+    "answerIndex": 1,
+    "explanation": "Governance involves policies and standards for data use."
   },
   {
     "id": 87,
-    "question": "Which organization developed the OSI 7-layer architecture?",
-    "options": [
-      "ARPANET",
-      "IEEE",
-      "International Organization for Standardization (ISO)",
-      "NASA"
-    ],
-    "answerIndex": 2,
-    "explanation": "The OSI model was developed by ISO (International Organization for Standardization)."
+    "question": "Which field uses data analysis for personalized medicine?",
+    "options": ["Finance", "Medicine/Healthcare", "Marketing", "Sports"],
+    "answerIndex": 1,
+    "explanation": "Data analysis helps tailor treatments to individual patients."
   },
   {
     "id": 88,
-    "question": "Which topology refers to the physical layout arrangement of devices?",
-    "options": ["Architecture", "Network Topology", "Protocol", "Interface"],
+    "question": "What is 'Predictive Analysis'?",
+    "options": [
+      "Telling the future with a crystal ball",
+      "Using historical data to predict future events",
+      "Deleting old data",
+      "Organizing data in a table"
+    ],
     "answerIndex": 1,
-    "explanation": "Network Topology refers to how devices are physically or logically arranged in a network."
+    "explanation": "It uses statistics and machine learning to forecast outcomes."
   },
   {
     "id": 89,
-    "question": "Which of the following is NOT a common network topology?",
-    "options": ["Star", "Ring", "Mesh", "Circle"],
-    "answerIndex": 3,
-    "explanation": "Circle is not a standard network topology. Star, Ring, Bus, Mesh, and Tree are standard topologies."
+    "question": "What is a 'Context Diagram' in DFD?",
+    "options": [
+      "A diagram with a lot of text",
+      "The highest-level view (Level 0) of a system",
+      "A diagram of a database schema",
+      "A map of a building"
+    ],
+    "answerIndex": 1,
+    "explanation": "It shows the system boundary and external interactions."
   },
   {
     "id": 90,
-    "question": "Which OSI layer is responsible for the 'Presentation' of data?",
-    "options": ["Layer 4", "Layer 6", "Layer 7", "Layer 2"],
+    "question": "What is 'Structured Analysis'?",
+    "options": [
+      "Analyzing a building",
+      "A method for analyzing a system by breaking it into smaller parts",
+      "A way to write SQL",
+      "A type of data storage"
+    ],
     "answerIndex": 1,
-    "explanation": "Layer 6 is the Presentation Layer — responsible for data formatting, encryption, and compression."
+    "explanation": "It uses diagrams to represent system requirements and functions."
   },
   {
     "id": 91,
-    "question": "Which protocol is used for sending and receiving emails?",
-    "options": ["HTTP", "FTP", "SMTP", "DHCP"],
-    "answerIndex": 2,
-    "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails. POP3/IMAP are used for receiving."
+    "question": "Which characteristic of data structures refers to arranging data in hierarchical form?",
+    "options": ["Linear", "Non-linear", "Static", "Dynamic"],
+    "answerIndex": 1,
+    "explanation": "Trees and graphs are non-linear data structures."
   },
   {
     "id": 92,
-    "question": "The origin of the internet is traced back to which 1960s project?",
-    "options": ["NSFNET", "ARPANET", "WWW", "TCP/IP"],
-    "answerIndex": 1,
-    "explanation": "ARPANET (Advanced Research Projects Agency Network) was the first network, developed in the late 1960s."
+    "question": "Which NoSQL database is a Column-family store?",
+    "options": ["Cassandra", "Redis", "MongoDB", "MySQL"],
+    "answerIndex": 0,
+    "explanation": "Cassandra is designed for large-scale column-oriented storage."
   },
   {
     "id": 93,
-    "question": "Which technique breaks data into small units called 'packets'?",
+    "question": "What is 'Data Profiling'?",
     "options": [
-      "Circuit-switching",
-      "Packet-switching",
-      "Data-linking",
-      "File-transferring"
+      "Taking a picture of data",
+      "Examining data to understand its structure and quality",
+      "Searching for a data scientist",
+      "A type of data encryption"
     ],
     "answerIndex": 1,
-    "explanation": "Packet-switching breaks data into small packets that travel independently across a network."
+    "explanation": "Profiling identifies patterns and anomalies in data."
   },
   {
     "id": 94,
-    "question": "What is the 'root' element of an HTML document?",
-    "options": ["<head>", "<body>", "<html>", "<!DOCTYPE>"],
-    "answerIndex": 2,
-    "explanation": "The <html> element is the root element that contains all other elements in an HTML document."
+    "question": "What is the 'Range' in statistics?",
+    "options": [
+      "The average",
+      "The difference between the highest and lowest values",
+      "The most common value",
+      "The middle value"
+    ],
+    "answerIndex": 1,
+    "explanation": "Range measures the total spread of the data."
   },
   {
     "id": 95,
-    "question": "Which element is used to include a JavaScript file in HTML?",
-    "options": ["<style>", "<link>", "<script>", "<meta>"],
-    "answerIndex": 2,
-    "explanation": "The <script> tag is used to embed or link JavaScript code in an HTML document."
+    "question": "In a DFD, what is a 'Sink'?",
+    "options": [
+      "A place to wash data",
+      "An external entity that receives data from the system",
+      "A data store",
+      "A process"
+    ],
+    "answerIndex": 1,
+    "explanation": "A sink is a destination for data exiting the system."
   },
   {
     "id": 96,
-    "question": "What does the <p> element define in HTML?",
-    "options": ["Page", "Picture", "Paragraph", "Protocol"],
-    "answerIndex": 2,
-    "explanation": "The <p> element defines a paragraph of text in HTML."
+    "question": "What does 'Data Architecture' involve?",
+    "options": [
+      "Building offices for data scientists",
+      "The design and structure of an organization's data assets",
+      "The speed of the network",
+      "Installing Windows"
+    ],
+    "answerIndex": 1,
+    "explanation": "It sets standards for how data is collected, stored, and integrated."
   },
   {
     "id": 97,
-    "question": "Which tag is used to define a list item within a list?",
-    "options": ["<ul>", "<ol>", "<li>", "<item>"],
-    "answerIndex": 2,
-    "explanation": "<li> defines individual list items within both <ul> (unordered) and <ol> (ordered) lists."
+    "question": "Which of these is a component of 'Maintain' in the Data Science Lifecycle?",
+    "options": [
+      "Data Mining",
+      "Data Warehousing",
+      "Data Visualization",
+      "Regression"
+    ],
+    "answerIndex": 1,
+    "explanation": "Maintaining involves storing and preparing data for use."
   },
   {
     "id": 98,
-    "question": "Which type of network is hosted on public/private cloud providers and accessible on demand?",
-    "options": ["LAN", "WAN", "Cloud Network", "Personal Network"],
-    "answerIndex": 2,
-    "explanation": "Cloud Networks are hosted on cloud infrastructure and accessible on-demand over the internet."
+    "question": "What is the primary benefit of data visualization?",
+    "options": [
+      "It saves space",
+      "It makes complex data easy to understand",
+      "It encrypts the data",
+      "It adds more rows to a table"
+    ],
+    "answerIndex": 1,
+    "explanation": "Graphs and charts help communicate insights quickly."
   },
   {
     "id": 99,
-    "question": "Which network device aids in communication between two separate network segments?",
-    "options": ["Hub only", "Switch only", "Bridge only", "All of the above"],
-    "answerIndex": 3,
-    "explanation": "Hubs, Switches, and Bridges all aid in network communication, each at different levels."
+    "question": "Which NoSQL database is a Graph database?",
+    "options": ["Neo4j", "PostgreSQL", "SQLite", "HBase"],
+    "answerIndex": 0,
+    "explanation": "Neo4j is the most popular graph database."
   },
   {
     "id": 100,
-    "question": "Which attribute of the <link> tag defines the kind of relationship between the document and the linked resource?",
-    "options": ["href", "rel", "type", "media"],
+    "question": "What is 'Descriptive Statistics'?",
+    "options": [
+      "Predicting future data",
+      "Summarizing and describing characteristics of a dataset",
+      "Deleting descriptive text",
+      "A type of programming"
+    ],
     "answerIndex": 1,
-    "explanation": "The rel attribute defines the relationship, e.g., rel=\"stylesheet\" indicates a CSS file."
+    "explanation": "It provides a simple summary of the sample and measures."
   },
   {
     "id": 101,
-    "question": "Which layer of the OSI model follows the Physical Layer?",
+    "question": "What is the main goal of Business Intelligence (BI)?",
     "options": [
-      "Network Layer",
-      "Data Link Layer",
-      "Session Layer",
-      "Transport Layer"
+      "To spy on other businesses",
+      "To turn data into actionable insights for decision-making",
+      "To build hardware",
+      "To write emails"
     ],
     "answerIndex": 1,
-    "explanation": "Layer 2 (Data Link Layer) follows Layer 1 (Physical Layer) in the OSI model."
+    "explanation": "BI tools help organizations track performance and trends."
   },
   {
     "id": 102,
-    "question": "The World Wide Web is a service that runs on top of the:",
-    "options": ["Browser", "Internet", "HTML", "Computer"],
+    "question": "What does a 'Data Flow' symbol represent?",
+    "options": [
+      "Data at rest",
+      "The movement of data between components",
+      "The transformation of data",
+      "A user login"
+    ],
     "answerIndex": 1,
-    "explanation": "The WWW is a service/application that runs on top of the Internet infrastructure."
+    "explanation": "Arrows show the direction and path of data movement."
   },
   {
     "id": 103,
-    "question": "What is the latest version of HTML?",
-    "options": ["HTML 4.01", "XHTML", "HTML5", "HTML6"],
-    "answerIndex": 2,
-    "explanation": "HTML5 is the current/latest version of HTML, introducing new semantic elements and APIs."
+    "question": "Which scale of measurement allows for absolute zero?",
+    "options": ["Nominal", "Ordinal", "Interval", "Ratio"],
+    "answerIndex": 3,
+    "explanation": "Ratio scales have a fixed zero point, allowing for multiplication/division (e.g., weight)."
   },
   {
     "id": 104,
-    "question": "Which element specifies the connection to an external stylesheet in HTML?",
-    "options": ["<style>", "<script>", "<link>", "<meta>"],
-    "answerIndex": 2,
-    "explanation": "The <link> element in the <head> section connects to external CSS stylesheets."
+    "question": "Which NoSQL database type is best for real-time web applications?",
+    "options": ["Relational", "Key-value", "Paper records", "Flat files"],
+    "answerIndex": 1,
+    "explanation": "Key-value stores provide extremely low-latency access."
   },
   {
     "id": 105,
-    "question": "Which attribute of the <script> tag specifies the URL of an external JavaScript file?",
-    "options": ["href", "src", "link", "rel"],
+    "question": "What is 'Data Inconsistency'?",
+    "options": [
+      "When data is stored on two different servers",
+      "When different versions of the same data appear in different places",
+      "When data is deleted",
+      "When data is numerical"
+    ],
     "answerIndex": 1,
-    "explanation": "The src attribute in <script src=\"file.js\"> specifies the URL of an external JS file."
+    "explanation": "Inconsistency leads to unreliable results and confusion."
   },
   {
     "id": 106,
-    "question": "Which of these defines a data cell in an HTML table?",
-    "options": ["<tr>", "<th>", "<td>", "<table>"],
-    "answerIndex": 2,
-    "explanation": "<td> (table data) defines standard data cells, while <th> defines header cells."
+    "question": "What is the primary role of a Data Scientist?",
+    "options": [
+      "Fixing broken computers",
+      "Analyzing data to solve complex problems",
+      "Entering data into spreadsheets all day",
+      "Writing marketing emails"
+    ],
+    "answerIndex": 1,
+    "explanation": "Data scientists use advanced analytics to find solutions."
   },
   {
     "id": 107,
-    "question": "In the OSI model, which layer is responsible for routing data packets?",
-    "options": [
-      "Physical Layer",
-      "Data Link Layer",
-      "Network Layer",
-      "Session Layer"
-    ],
-    "answerIndex": 2,
-    "explanation": "The Network Layer (Layer 3) handles routing, IP addressing, and packet forwarding."
+    "question": "Which type of data is XML?",
+    "options": ["Structured", "Semi-structured", "Unstructured", "Binary"],
+    "answerIndex": 1,
+    "explanation": "XML uses tags to define structure but is not a rigid table."
   },
   {
     "id": 108,
-    "question": "What does the 'S' in HTTPS stand for?",
-    "options": ["Simple", "Secure", "Standard", "System"],
+    "question": "What is 'Hadoop'?",
+    "options": [
+      "A type of smartphone",
+      "An open-source framework for distributed storage and processing of Big Data",
+      "A database language like SQL",
+      "A social media app"
+    ],
     "answerIndex": 1,
-    "explanation": "The 'S' stands for Secure — HTTPS encrypts communication using SSL/TLS."
+    "explanation": "Hadoop allows for the processing of large datasets across clusters of computers."
   },
   {
     "id": 109,
-    "question": "Which HTML tag is used to create a line break?",
-    "options": ["<lb>", "<break>", "<br>", "<hr>"],
-    "answerIndex": 2,
-    "explanation": "<br> is the line break tag, a self-closing element that moves content to the next line."
+    "question": "What is 'Data Redundancy'?",
+    "options": [
+      "When data is accurate",
+      "The unnecessary duplication of data",
+      "When data is missing",
+      "When data is too large"
+    ],
+    "answerIndex": 1,
+    "explanation": "Redundancy wastes space and can lead to inconsistency."
   },
   {
     "id": 110,
-    "question": "Which tag is used to create a horizontal rule (line) in HTML?",
-    "options": ["<line>", "<br>", "<hr>", "<rule>"],
+    "question": "Which characteristic of data refers to how long it is useful?",
+    "options": ["Veracity", "Validity", "Volatility", "Value"],
     "answerIndex": 2,
-    "explanation": "<hr> creates a horizontal rule (thematic break/dividing line) in HTML."
+    "explanation": "Volatility refers to how quickly data changes or becomes obsolete."
   },
   {
     "id": 111,
-    "question": "The <title> tag must be placed inside which HTML element?",
-    "options": ["<body>", "<head>", "<footer>", "<header>"],
+    "question": "What is a 'Primary Key' in a database?",
+    "options": [
+      "The password to the database",
+      "A unique identifier for each record in a table",
+      "The first column in every table",
+      "A key used for encryption"
+    ],
     "answerIndex": 1,
-    "explanation": "The <title> tag must be inside the <head> element to define the browser tab title."
+    "explanation": "Primary keys ensure each record can be uniquely retrieved."
   },
   {
     "id": 112,
-    "question": "Which type of network connects computers within a single building?",
-    "options": ["WAN", "MAN", "LAN", "PAN"],
-    "answerIndex": 2,
-    "explanation": "LAN (Local Area Network) typically covers a single building or small geographic area."
+    "question": "What is a 'Foreign Key'?",
+    "options": [
+      "A key from a different country",
+      "A column that creates a link between two tables",
+      "A secondary password",
+      "An invalid key"
+    ],
+    "answerIndex": 1,
+    "explanation": "Foreign keys establish relationships between relational tables."
   },
   {
     "id": 113,
-    "question": "A 'Buyer Persona' is developed during which web design phase?",
-    "options": ["Development", "Launch", "Discovery", "Maintenance"],
-    "answerIndex": 2,
-    "explanation": "Buyer Personas are created during the Discovery Phase as part of user research."
+    "question": "What is the purpose of 'Data Staging'?",
+    "options": [
+      "To show data to an audience",
+      "An intermediate area used for data processing before loading into a warehouse",
+      "A way to delete data",
+      "Formatting data for a printer"
+    ],
+    "answerIndex": 1,
+    "explanation": "Staging allows for cleaning and transformation without affecting source systems."
   },
   {
     "id": 114,
-    "question": "What is 'Scope Creep' in web design?",
+    "question": "What is 'Data Literacy'?",
     "options": [
-      "The speed at which a website loads",
-      "Uncontrolled growth in a project's scope",
-      "A type of computer virus",
-      "A design style"
+      "Writing a book about data",
+      "The ability to read, understand, create, and communicate data",
+      "Being able to type fast",
+      "Knowing how to turn on a computer"
     ],
     "answerIndex": 1,
-    "explanation": "Scope Creep is the uncontrolled expansion of a project beyond its original objectives."
+    "explanation": "Literacy is essential for informed decision-making in the modern world."
   },
   {
     "id": 115,
-    "question": "Which tag is used to define a row in an HTML table?",
-    "options": ["<td>", "<th>", "<tr>", "<table>"],
+    "question": "Which of these is a categorical variable?",
+    "options": ["Weight", "Age", "Eye color", "Income"],
     "answerIndex": 2,
-    "explanation": "<tr> (table row) defines a horizontal row within an HTML table."
+    "explanation": "Categorical variables represent groups or labels."
   },
   {
     "id": 116,
-    "question": "What is the purpose of the action attribute in a <form> tag?",
+    "question": "What is 'Inferential Statistics'?",
     "options": [
-      "Defines the button color",
-      "Specifies where to send the form data",
-      "Validates user input",
-      "Resets the form"
+      "Summarizing data",
+      "Making conclusions about a population based on a sample",
+      "Calculating the mean",
+      "Drawing a pie chart"
     ],
     "answerIndex": 1,
-    "explanation": "The action attribute specifies the URL of the server-side script that processes the form data."
+    "explanation": "It allows us to generalize findings from a smaller group to a larger one."
   },
   {
     "id": 117,
-    "question": "What does the method attribute in a form specify?",
+    "question": "What is the 'Spread' of data?",
     "options": [
-      "The programming language used",
-      "The HTTP method (GET or POST)",
-      "The font style",
-      "The database name"
+      "The average",
+      "How far apart the data points are from each other",
+      "The total sum of data",
+      "The number of rows"
     ],
     "answerIndex": 1,
-    "explanation": "The method attribute specifies how data is sent: GET (appended to URL) or POST (in HTTP body)."
+    "explanation": "Measures of spread include range, variance, and standard deviation."
   },
   {
     "id": 118,
-    "question": "Which tag is used to create a drop-down list in HTML?",
-    "options": ["<list>", "<dropdown>", "<select>", "<input type=\"list\">"],
-    "answerIndex": 2,
-    "explanation": "The <select> element creates a drop-down selection menu in HTML forms."
+    "question": "In a DFD, data flow can represent:",
+    "options": [
+      "A single piece of data or a collection of data",
+      "Only hardware connections",
+      "Only the speed of the system",
+      "A database password"
+    ],
+    "answerIndex": 0,
+    "explanation": "Arrows show the movement of information packets."
   },
   {
     "id": 119,
-    "question": "Within a <select> element, which tag defines an individual option/item?",
-    "options": ["<item>", "<list>", "<option>", "<choice>"],
-    "answerIndex": 2,
-    "explanation": "<option> tags define the individual items in a <select> drop-down list."
+    "question": "What is 'OLAP' used for?",
+    "options": [
+      "Handling daily transactions",
+      "Complex analytical queries and data discovery",
+      "Sending emails",
+      "Cleaning a keyboard"
+    ],
+    "answerIndex": 1,
+    "explanation": "OLAP tools allow users to view data from different perspectives."
   },
   {
     "id": 120,
-    "question": "Which tag is used for multi-line text input in HTML forms?",
+    "question": "What is a 'Cloud Database'?",
     "options": [
-      "<input type=\"text\">",
-      "<textbox>",
-      "<textarea>",
-      "<input type=\"paragraph\">"
+      "A database that stores weather data",
+      "A database service built and accessed through a cloud platform",
+      "A database that is invisible",
+      "A database that only works when it rains"
     ],
-    "answerIndex": 2,
-    "explanation": "<textarea> creates a resizable multi-line text input field in forms."
+    "answerIndex": 1,
+    "explanation": "Cloud databases offer scalability and remote accessibility."
   },
   {
     "id": 121,
-    "question": "Which of these is a legitimate value for the target attribute in a link that opens a new tab?",
-    "options": ["_newtab", "_blank", "_open", "_window"],
+    "question": "What is the primary benefit of NoSQL's 'Dynamic Schema'?",
+    "options": [
+      "It is always cheaper",
+      "It allows you to insert data without a pre-defined format",
+      "It makes SQL obsolete",
+      "It prevents all errors"
+    ],
     "answerIndex": 1,
-    "explanation": "target=\"_blank\" opens the linked document in a new browser tab or window."
+    "explanation": "Flexibility allows for rapid development and handling of varied data."
   },
   {
     "id": 122,
-    "question": "What is the character encoding standard typically used in HTML5?",
-    "options": ["ASCII", "UTF-8", "ISO-8859-1", "UTF-16"],
+    "question": "Which of these is a major cause of 'Bad Data'?",
+    "options": [
+      "Correct formatting",
+      "Manual data entry errors",
+      "High-speed internet",
+      "Using SQL"
+    ],
     "answerIndex": 1,
-    "explanation": "UTF-8 is the standard character encoding for HTML5, supporting all Unicode characters."
+    "explanation": "Human error is a frequent source of data quality issues."
   },
   {
     "id": 123,
-    "question": "Which metadata tag makes a website responsive on mobile devices?",
+    "question": "What is 'Data Ethics'?",
     "options": [
-      "<meta name=\"description\">",
-      "<meta name=\"viewport\">",
-      "<meta name=\"keywords\">",
-      "<meta name=\"author\">"
+      "A type of programming language",
+      "The moral principles that guide data collection and use",
+      "The cost of a database license",
+      "A law about computers"
     ],
     "answerIndex": 1,
-    "explanation": "<meta name=\"viewport\"> controls the viewport settings for responsive design on mobile devices."
+    "explanation": "Ethics ensures data is used responsibly and fairly."
   },
   {
     "id": 124,
-    "question": "What does SGML stand for?",
+    "question": "What is 'Real-time Data'?",
     "options": [
-      "Standard General Markup Language",
-      "Standard Generalized Markup Language",
-      "Simple General Markup Language",
-      "Secure General Markup Language"
+      "Data about clocks",
+      "Data that is delivered immediately after collection",
+      "Data that is 100 years old",
+      "Data that is only correct once"
     ],
     "answerIndex": 1,
-    "explanation": "SGML stands for Standard Generalized Markup Language, the parent of HTML and XML."
+    "explanation": "Real-time data is used for immediate monitoring and action."
   },
   {
     "id": 125,
-    "question": "Which markup language is known for being more 'strict' than HTML?",
-    "options": ["SGML", "XML", "XHTML", "HTML5"],
-    "answerIndex": 2,
-    "explanation": "XHTML (eXtensible HyperText Markup Language) is stricter than HTML — all tags must be properly closed and lowercase."
+    "question": "What is a 'Data Lake'?",
+    "options": [
+      "A large body of water",
+      "A repository that stores vast amounts of raw data in its native format",
+      "A subset of a data warehouse",
+      "A database for fish"
+    ],
+    "answerIndex": 1,
+    "explanation": "Lakes store both structured and unstructured data for future analysis."
   },
   {
     "id": 126,
-    "question": "An absolute hyperlink contains the:",
+    "question": "Which component of a data warehouse stores the summary of data for a specific department?",
     "options": [
-      "Full address of the destination",
-      "Relative path to the file",
-      "Image name only",
-      "Protocol name only"
+      "Metadata Repository",
+      "Data Mart",
+      "Staging Area",
+      "ETL Process"
     ],
-    "answerIndex": 0,
-    "explanation": "An absolute hyperlink contains the complete URL including protocol, domain, and path."
+    "answerIndex": 1,
+    "explanation": "A Data Mart is a subset of a data warehouse focused on a specific functional area or department."
   },
   {
     "id": 127,
-    "question": "Relative hyperlinks are useful for linking to:",
+    "question": "What is the primary objective of Data Analysis in the context of business?",
     "options": [
-      "External websites",
-      "Internal resources within the same domain",
-      "Different servers",
-      "Offline documents only"
+      "To increase hardware costs",
+      "To derive meaningful information and make business decisions",
+      "To delete old customer records",
+      "To replace human employees with robots"
     ],
     "answerIndex": 1,
-    "explanation": "Relative hyperlinks reference files relative to the current page, ideal for internal site navigation."
+    "explanation": "Data analysis focuses on finding patterns and insights to drive informed business strategies."
   },
   {
     "id": 128,
-    "question": "Which HTML tag is used to create a line break?",
-    "options": ["<lb>", "<break>", "<br>", "<hr>"],
+    "question": "In the evolution of Big Data, what was a major focus during the 2018 period?",
+    "options": [
+      "The invention of the internet",
+      "A decline in data collection",
+      "Dramatic growth in demand for data scientists globally",
+      "The removal of SQL standards"
+    ],
     "answerIndex": 2,
-    "explanation": "<br> creates a line break in HTML content."
+    "explanation": "2018 marked a significant peak in the global demand for qualified data science professionals."
   },
   {
     "id": 129,
-    "question": "Which OSI layer handles error detection and physical addressing (MAC addresses)?",
+    "question": "Which symbol represents a transformation of incoming data to outgoing data in a DFD?",
     "options": [
-      "Physical Layer",
-      "Data Link Layer",
-      "Network Layer",
-      "Transport Layer"
+      "Rectangle",
+      "Circle or rounded rectangle",
+      "Open rectangle",
+      "Arrow"
     ],
     "answerIndex": 1,
-    "explanation": "The Data Link Layer (Layer 2) handles MAC addresses, error detection, and frame delivery."
+    "explanation": "Processes (represented by circles or rounded rectangles) show the work performed on data."
   },
   {
     "id": 130,
-    "question": "Which device works at the Physical Layer (Layer 1) of the OSI model?",
-    "options": ["Router", "Switch", "Hub", "Bridge"],
+    "question": "What does 'Veracity' in Big Data refer to?",
+    "options": [
+      "The speed of data generation",
+      "The diversity of data sources",
+      "The quality, accuracy, and trustworthiness of data",
+      "The size of the data storage"
+    ],
     "answerIndex": 2,
-    "explanation": "A Hub operates at Layer 1 (Physical Layer), broadcasting data to all connected devices."
+    "explanation": "Veracity deals with the reliability and truthfulness of the data collected."
   },
   {
     "id": 131,
-    "question": "What is the name of the first network that used packet switching?",
-    "options": ["NSFNET", "ARPANET", "INTRANET", "ETHERNET"],
+    "question": "Which type of NoSQL database is most suitable for a recommendation engine?",
+    "options": [
+      "Key-value store",
+      "Graph database",
+      "Document database",
+      "Columnar database"
+    ],
     "answerIndex": 1,
-    "explanation": "ARPANET was the first packet-switching network, developed by DARPA in the late 1960s."
+    "explanation": "Graph databases focus on relationships between data points, which is key for recommendation systems."
   },
   {
     "id": 132,
-    "question": "Who is considered one of the 'Fathers of the Internet'?",
-    "options": ["Bill Gates", "Vint Cerf", "Mark Zuckerberg", "Steve Jobs"],
+    "question": "What is 'Data Mining' primarily used for?",
+    "options": [
+      "Entering data into a table",
+      "Discovering hidden patterns and trends in large datasets",
+      "Encrypting sensitive data",
+      "Physically cleaning server rooms"
+    ],
     "answerIndex": 1,
-    "explanation": "Vint Cerf, along with Robert Kahn, co-invented TCP/IP and is called a 'Father of the Internet'."
+    "explanation": "Data mining uses automated methods to extract predictive information from large databases."
   },
   {
     "id": 133,
-    "question": "Which of these is NOT a valid HTML heading tag?",
-    "options": ["<h1>", "<h3>", "<h7>", "<h6>"],
+    "question": "Which of these is a characteristic of an Operational Database?",
+    "options": [
+      "Supports historical analysis",
+      "Optimized for read-heavy operations",
+      "Handles day-to-day transactions and real-time updates",
+      "Data is non-volatile"
+    ],
     "answerIndex": 2,
-    "explanation": "HTML only has heading tags <h1> through <h6>. <h7> does not exist."
+    "explanation": "Operational databases (OLTP) are designed for frequent, real-time data modifications."
   },
   {
     "id": 134,
-    "question": "Which tag provides a caption for an HTML table?",
-    "options": ["<title>", "<head>", "<caption>", "<summary>"],
+    "question": "What does a 'Data Store' represent in a Data Flow Diagram?",
+    "options": [
+      "A person using the system",
+      "Data in motion",
+      "A repository where data is held at rest",
+      "A software program"
+    ],
     "answerIndex": 2,
-    "explanation": "The <caption> element provides a title or brief description for a table, placed right after <table>."
+    "explanation": "Data stores are files or databases where information is kept for future use."
   },
   {
     "id": 135,
-    "question": "Which element is used to group 'inline' elements for styling?",
-    "options": ["<div>", "<span>", "<section>", "<p>"],
+    "question": "What is the role of 'Metadata' in data discovery?",
+    "options": [
+      "It deletes unused data",
+      "It provides tags and keywords to help search databases effectively",
+      "It increases the speed of the CPU",
+      "It converts images to text"
+    ],
     "answerIndex": 1,
-    "explanation": "<span> is an inline container used to group inline elements for styling with CSS."
+    "explanation": "Metadata enhances the ability to find relevant data by describing its content and context."
   },
   {
     "id": 136,
-    "question": "Which element is a 'block-level' container in HTML?",
-    "options": ["<a>", "<span>", "<div>", "<img>"],
-    "answerIndex": 2,
-    "explanation": "<div> is a block-level container used to group and style sections of content."
+    "question": "Which property of a database transaction ensures that once it is committed, it remains so even during a crash?",
+    "options": ["Atomicity", "Consistency", "Isolation", "Durability"],
+    "answerIndex": 3,
+    "explanation": "Durability guarantees that the results of a committed transaction are permanent."
   },
   {
     "id": 137,
-    "question": "Which protocol is 'Connectionless' (does not establish a connection before sending)?",
-    "options": ["TCP", "UDP", "HTTP", "FTP"],
+    "question": "What is 'Data Cleaning'?",
+    "options": [
+      "Using soap on hard drives",
+      "Identifying and correcting errors or inconsistencies in data",
+      "Adding more data to a dataset",
+      "Printing data on clean paper"
+    ],
     "answerIndex": 1,
-    "explanation": "UDP (User Datagram Protocol) is connectionless — it sends data without establishing a connection first."
+    "explanation": "Data cleaning ensures data quality by removing noise and fixing errors."
   },
   {
     "id": 138,
-    "question": "Which protocol is 'Connection-oriented' (establishes a connection before sending data)?",
-    "options": ["IP", "UDP", "TCP", "ICMP"],
-    "answerIndex": 2,
-    "explanation": "TCP (Transmission Control Protocol) is connection-oriented — it performs a handshake before data transfer."
+    "question": "Which scale of measurement classifies data into categories with a natural order?",
+    "options": ["Nominal", "Ordinal", "Interval", "Ratio"],
+    "answerIndex": 1,
+    "explanation": "Ordinal scales provide a rank or order, but the distance between ranks is not defined."
   },
   {
     "id": 139,
-    "question": "In a 'Star Topology', all devices are connected to:",
+    "question": "What is the primary advantage of a Cloud Data Warehouse?",
     "options": [
-      "Each other",
-      "A central hub or switch",
-      "A single long cable",
-      "Two other devices"
+      "It doesn't require an internet connection",
+      "It offers scalability and reduces on-premise hardware needs",
+      "It is only for small businesses",
+      "It uses only paper records"
     ],
     "answerIndex": 1,
-    "explanation": "In Star Topology, all devices connect to a central hub or switch."
+    "explanation": "Cloud warehouses allow organizations to scale resources up or down based on demand."
   },
   {
     "id": 140,
-    "question": "Which topology is the most expensive and complex to implement but highly redundant?",
-    "options": ["Bus", "Ring", "Mesh", "Star"],
+    "question": "In a relational database, what is a 'row' often called?",
+    "options": ["Attribute", "Field", "Tuple or Record", "Schema"],
     "answerIndex": 2,
-    "explanation": "Mesh topology provides dedicated connections between every device, offering high redundancy but at high cost."
+    "explanation": "A row in a relational table represents a single, complete record (tuple)."
   },
   {
     "id": 141,
-    "question": "What is the main disadvantage of a 'Bus Topology'?",
-    "options": [
-      "It is very expensive",
-      "If the main cable breaks, the whole network goes down",
-      "It requires a central hub",
-      "It is too fast"
-    ],
-    "answerIndex": 1,
-    "explanation": "In Bus Topology, all devices share one cable; if that cable fails, the entire network goes down."
+    "question": "Which NoSQL database is a Key-value store?",
+    "options": ["MongoDB", "Neo4j", "Redis", "Cassandra"],
+    "answerIndex": 2,
+    "explanation": "Redis is a high-speed, key-value store often used for caching."
   },
   {
     "id": 142,
-    "question": "Which input type is used for passwords to hide the characters?",
+    "question": "What is the purpose of the 'Staging Area' in ETL?",
     "options": [
-      "<input type=\"hidden\">",
-      "<input type=\"password\">",
-      "<input type=\"secret\">",
-      "<input type=\"mask\">"
+      "To show data to the public",
+      "To hold raw data while it is being cleaned and transformed",
+      "To store the final report",
+      "To act as a backup for the website"
     ],
     "answerIndex": 1,
-    "explanation": "type=\"password\" masks the input characters for secure password entry."
+    "explanation": "The staging area is an intermediate storage used to process data before it enters the warehouse."
   },
   {
     "id": 143,
-    "question": "What does the <label> tag do in HTML forms?",
+    "question": "What does 'Isolation' in ACID properties mean?",
     "options": [
-      "Creates a bold heading",
-      "Defines a caption for an input element",
-      "Draws a border",
-      "Used for SEO"
+      "Data is kept in a separate room",
+      "Transactions are processed independently without interference",
+      "Only one user can use the database",
+      "Data is disconnected from the internet"
     ],
     "answerIndex": 1,
-    "explanation": "The <label> tag defines a text label for a form control, improving accessibility."
+    "explanation": "Isolation ensures that concurrent transactions do not affect each other's execution."
   },
   {
     "id": 144,
-    "question": "Which tag is used to embed a video in HTML5?",
-    "options": ["<media>", "<movie>", "<video>", "<embed>"],
+    "question": "Which of these is a categorical variable?",
+    "options": ["Height", "Temperature", "Gender", "Salary"],
     "answerIndex": 2,
-    "explanation": "The HTML5 <video> tag embeds video content directly in a web page."
+    "explanation": "Gender is a categorical (nominal) variable as it describes groups rather than quantities."
   },
   {
     "id": 145,
-    "question": "Which tag is used to embed audio in HTML5?",
-    "options": ["<sound>", "<music>", "<audio>", "<voice>"],
-    "answerIndex": 2,
-    "explanation": "The HTML5 <audio> tag embeds audio content (music, podcasts) in a web page."
+    "question": "What is a 'Level 1' DFD?",
+    "options": [
+      "A high-level context diagram",
+      "A detailed view that breaks down the main system processes",
+      "A diagram of the building's wiring",
+      "A list of SQL commands"
+    ],
+    "answerIndex": 1,
+    "explanation": "Level 1 DFDs expand on the context diagram to show internal system functions."
   },
   {
     "id": 146,
-    "question": "What is the 'Application Layer' in the OSI model?",
-    "options": ["Layer 1", "Layer 4", "Layer 7", "Layer 2"],
-    "answerIndex": 2,
-    "explanation": "Layer 7 is the Application Layer — the topmost layer, closest to the end user (HTTP, FTP, DNS)."
+    "question": "What is 'Data Integrity'?",
+    "options": [
+      "The cost of data",
+      "The accuracy, consistency, and reliability of data over its lifecycle",
+      "The speed of the database",
+      "The age of the data"
+    ],
+    "answerIndex": 1,
+    "explanation": "Integrity ensures data remains correct and trustworthy throughout its use."
   },
   {
     "id": 147,
-    "question": "Which organization manages domain names and IP addresses globally?",
-    "options": ["IEEE", "ICANN", "W3C", "ISO"],
-    "answerIndex": 1,
-    "explanation": "ICANN (Internet Corporation for Assigned Names and Numbers) manages domain names and IP addresses."
+    "question": "Which of these is an example of 'Variety' in Big Data?",
+    "options": [
+      "10 Terabytes of data",
+      "Processing data in milliseconds",
+      "A mix of CSV, JSON, images, and video files",
+      "Data that is 100% accurate"
+    ],
+    "answerIndex": 2,
+    "explanation": "Variety refers to the diverse formats and types of data being collected."
   },
   {
     "id": 148,
-    "question": "What does 'UX' stand for in web design?",
+    "question": "What tool is used for 'Multidimensional Analysis' in a data warehouse?",
     "options": [
-      "User X-ray",
-      "User Experience",
-      "Universal Exchange",
-      "Unit Extension"
+      "ETL Tool",
+      "OLAP (Online Analytical Processing)",
+      "Data Cleaning Tool",
+      "Word Processor"
     ],
     "answerIndex": 1,
-    "explanation": "UX stands for User Experience — the overall experience a user has with a product or website."
+    "explanation": "OLAP tools allow users to analyze data across multiple dimensions like time, geography, and product."
   },
   {
     "id": 149,
-    "question": "What does 'UI' stand for in web design?",
+    "question": "What is a 'Schema' in a relational database?",
     "options": [
-      "Unit Integration",
-      "User Interface",
-      "Universal Internet",
-      "User Input"
+      "A type of data virus",
+      "The blueprint or structure that defines tables and relationships",
+      "A list of all users",
+      "The physical hard drive"
     ],
     "answerIndex": 1,
-    "explanation": "UI stands for User Interface — the visual elements users interact with on a screen."
+    "explanation": "A schema defines the logical structure of the database."
   },
   {
     "id": 150,
-    "question": "Which tag is used to define the footer of a webpage?",
-    "options": ["<bottom>", "<end>", "<footer>", "<base>"],
-    "answerIndex": 2,
-    "explanation": "The HTML5 <footer> semantic element defines the footer section of a page."
+    "question": "Which field uses data analysis for 'Credit Scoring'?",
+    "options": ["Agriculture", "Finance", "Music", "Literature"],
+    "answerIndex": 1,
+    "explanation": "Financial institutions use data analysis to assess the risk of lending to individuals."
   },
   {
     "id": 151,
-    "question": "Which tag is used to define a navigation section in HTML5?",
-    "options": ["<menu>", "<nav>", "<links>", "<header>"],
+    "question": "What is 'Unstructured Data'?",
+    "options": [
+      "Data in a clean Excel sheet",
+      "Data that lacks a predefined format, like social media posts",
+      "Data that only contains numbers",
+      "Data that is perfectly organized"
+    ],
     "answerIndex": 1,
-    "explanation": "The <nav> semantic element defines a set of navigation links on a page."
+    "explanation": "Unstructured data includes text, video, and audio that does not fit into standard tables."
   },
   {
     "id": 152,
-    "question": "Which tag defines an independent, self-contained piece of content?",
-    "options": ["<section>", "<article>", "<aside>", "<div>"],
+    "question": "What does 'Velocity' mean in the context of Big Data?",
+    "options": [
+      "The size of the data",
+      "The speed at which data is generated and processed",
+      "The accuracy of the data",
+      "The cost of the data"
+    ],
     "answerIndex": 1,
-    "explanation": "<article> is a semantic HTML5 element for independent content like blog posts or news articles."
+    "explanation": "Velocity describes the rapid rate at which data flows from sources into the system."
   },
   {
     "id": 153,
-    "question": "Which tag defines content aside from the main content (like a sidebar)?",
-    "options": ["<article>", "<sidebar>", "<aside>", "<nav>"],
+    "question": "What is the primary role of an 'External Entity' in a DFD?",
+    "options": [
+      "To store data permanently",
+      "To transform data",
+      "To act as a source or destination of data outside the system",
+      "To write code"
+    ],
     "answerIndex": 2,
-    "explanation": "<aside> is used for content tangentially related to main content, like sidebars."
+    "explanation": "External entities represent the origins or endpoints of data interacting with the system."
   },
   {
     "id": 154,
-    "question": "What is the default port for HTTP?",
-    "options": ["443", "21", "80", "25"],
-    "answerIndex": 2,
-    "explanation": "Port 80 is the default port for HTTP connections."
+    "question": "Which NoSQL database is a Column-family store?",
+    "options": ["Neo4j", "Cassandra", "MongoDB", "Redis"],
+    "answerIndex": 1,
+    "explanation": "Cassandra is a distributed NoSQL database that stores data in columns rather than rows."
   },
   {
     "id": 155,
-    "question": "What is the default port for HTTPS?",
-    "options": ["80", "443", "22", "53"],
+    "question": "What is 'Primary Data'?",
+    "options": [
+      "Data collected from a textbook",
+      "First-hand data collected by a researcher for a specific purpose",
+      "Data found on Wikipedia",
+      "Old data from the 1990s"
+    ],
     "answerIndex": 1,
-    "explanation": "Port 443 is the default port for HTTPS (secure HTTP) connections."
+    "explanation": "Primary data is original information gathered directly through surveys, interviews, or experiments."
   },
   {
     "id": 156,
-    "question": "Which HTML element is used to highlight text?",
-    "options": ["<highlight>", "<mark>", "<color>", "<b>"],
-    "answerIndex": 1,
-    "explanation": "The <mark> element highlights text with a yellow background by default."
+    "question": "Which stage of the Data Science Lifecycle involves visualization and reporting?",
+    "options": ["Capture", "Maintain", "Process", "Communicate"],
+    "answerIndex": 3,
+    "explanation": "The Communicate stage focuses on presenting findings in an understandable way to stakeholders."
   },
   {
     "id": 157,
-    "question": "Which tag makes text bold in HTML?",
-    "options": ["<bold>", "<strong>", "<italic>", "<u>"],
+    "question": "What is 'Data Scalability'?",
+    "options": [
+      "The ability to measure data with a scale",
+      "The capability of a system to handle increasing amounts of data",
+      "The weight of a server",
+      "The size of a data chart"
+    ],
     "answerIndex": 1,
-    "explanation": "<strong> makes text bold AND indicates importance. <b> makes text bold without semantic meaning."
+    "explanation": "Scalability ensures that performance remains stable as the volume of data grows."
   },
   {
     "id": 158,
-    "question": "Which tag makes text italic in HTML?",
-    "options": ["<italic>", "<em>", "<mark>", "<ins>"],
+    "question": "Which of these is an example of 'Semi-structured' data?",
+    "options": [
+      "A photo",
+      "An XML or JSON file",
+      "A relational database table",
+      "A printed book"
+    ],
     "answerIndex": 1,
-    "explanation": "<em> makes text italic AND indicates emphasis. <i> makes text italic without semantic meaning."
+    "explanation": "Semi-structured data uses tags or markers but does not follow a rigid tabular structure."
   },
   {
     "id": 159,
-    "question": "What does the colspan attribute do in a table?",
-    "options": [
-      "Merges two or more columns",
-      "Merges two or more rows",
-      "Changes the column color",
-      "Sets the column width"
-    ],
-    "answerIndex": 0,
-    "explanation": "colspan stretches a cell horizontally to span multiple columns."
+    "question": "What is the 'Mean' of the dataset [2, 4, 6, 8]?",
+    "options": ["4", "5", "6", "20"],
+    "answerIndex": 1,
+    "explanation": "Mean is (2+4+6+8)/4 = 20/4 = 5."
   },
   {
     "id": 160,
-    "question": "What does the rowspan attribute do in a table?",
+    "question": "What does 'Atomicity' guarantee in a database transaction?",
     "options": [
-      "Merges columns",
-      "Merges rows vertically",
-      "Adds a new row",
-      "Deletes a row"
+      "The data is small",
+      "The transaction is either fully completed or not done at all",
+      "The database is fast",
+      "The data is radioactive"
     ],
     "answerIndex": 1,
-    "explanation": "rowspan stretches a cell vertically to span multiple rows downward."
+    "explanation": "Atomicity ensures 'all-or-nothing' execution for database operations."
   },
   {
     "id": 161,
-    "question": "Which of the following is NOT a web browser?",
-    "options": ["Safari", "Edge", "Apache", "Firefox"],
-    "answerIndex": 2,
-    "explanation": "Apache is a web SERVER software, not a browser. Safari, Edge, and Firefox are all browsers."
+    "question": "What is a 'Data Lake'?",
+    "options": [
+      "A storage for old hardware",
+      "A repository for raw, unprocessed data in its original format",
+      "A type of cleaning tool",
+      "A database for weather reports"
+    ],
+    "answerIndex": 1,
+    "explanation": "A data lake stores massive amounts of raw data, both structured and unstructured."
   },
   {
     "id": 162,
-    "question": "Which attribute is used to provide a unique identifier for an HTML element?",
-    "options": ["class", "id", "name", "type"],
-    "answerIndex": 1,
-    "explanation": "The id attribute gives an element a unique identifier used in CSS (#id) and JavaScript."
+    "question": "Which scale of measurement has an absolute zero point?",
+    "options": ["Nominal", "Ordinal", "Interval", "Ratio"],
+    "answerIndex": 3,
+    "explanation": "Ratio scales allow for meaningful comparisons of magnitude because they have a true zero."
   },
   {
     "id": 163,
-    "question": "What is the file extension for an HTML document?",
-    "options": [".ht", ".html or .htm", ".xml", ".txt"],
-    "answerIndex": 1,
-    "explanation": "HTML documents use the .html or .htm file extension."
+    "question": "In a DFD, what does a directed arrow represent?",
+    "options": [
+      "A data store",
+      "A process",
+      "The flow of data",
+      "An external entity"
+    ],
+    "answerIndex": 2,
+    "explanation": "Arrows indicate the movement and direction of data within the system."
   },
   {
     "id": 164,
-    "question": "What does ARPANET stand for?",
+    "question": "What is 'Secondary Data'?",
     "options": [
-      "Advanced Research Projects Agency Network",
-      "American Research Protocol and Network",
-      "Automated Resource Planning and Network",
-      "Academic Research Projects Association Network"
+      "The second most important data",
+      "Data that has already been collected and analyzed by others",
+      "Data collected through experiments",
+      "Incorrect data"
     ],
-    "answerIndex": 0,
-    "explanation": "ARPANET stands for Advanced Research Projects Agency Network, the predecessor to the modern internet."
+    "answerIndex": 1,
+    "explanation": "Secondary data is gathered from sources like journals, reports, and existing databases."
   },
   {
     "id": 165,
-    "question": "In what year was the first message sent over ARPANET?",
-    "options": ["1965", "1969", "1974", "1989"],
+    "question": "What is the purpose of 'Data Anonymization'?",
+    "options": [
+      "To delete data",
+      "To remove personally identifiable information for privacy",
+      "To name every data point",
+      "To make data faster"
+    ],
     "answerIndex": 1,
-    "explanation": "The first message was sent over ARPANET in 1969, between UCLA and Stanford."
+    "explanation": "Anonymization protects individuals' privacy by stripping identifying details from datasets."
   },
   {
     "id": 166,
-    "question": "Which network topology connects all devices to a single central cable?",
-    "options": ["Star", "Mesh", "Bus", "Ring"],
-    "answerIndex": 2,
-    "explanation": "Bus topology connects all devices to a single shared cable (the 'bus')."
+    "question": "Which characteristic of data structure refers to the arrangement of data in a non-sequential order?",
+    "options": ["Linear", "Non-Linear", "Static", "Dynamic"],
+    "answerIndex": 1,
+    "explanation": "Non-linear structures include trees and graphs where elements are not in a sequence."
   },
   {
     "id": 167,
-    "question": "What does PAN stand for?",
+    "question": "What does 'OLTP' stand for?",
     "options": [
-      "Personal Area Network",
-      "Private Access Network",
-      "Primary Area Node",
-      "Public Area Network"
+      "Online Linear Transaction Processing",
+      "Online Transaction Processing",
+      "Offline Total Link Processing",
+      "Only Large Transaction Processing"
     ],
-    "answerIndex": 0,
-    "explanation": "PAN stands for Personal Area Network — typically covers a range of a few meters (e.g., Bluetooth)."
+    "answerIndex": 1,
+    "explanation": "OLTP systems manage transaction-oriented applications in real-time."
   },
   {
     "id": 168,
-    "question": "What does GAN stand for?",
-    "options": [
-      "General Area Network",
-      "Global Area Network",
-      "Graphic Access Network",
-      "Group Area Node"
-    ],
-    "answerIndex": 1,
-    "explanation": "GAN stands for Global Area Network — covers the entire world (like the internet)."
+    "question": "Which NoSQL database is document-based?",
+    "options": ["Redis", "MySQL", "MongoDB", "Oracle"],
+    "answerIndex": 2,
+    "explanation": "MongoDB is a leading NoSQL database that stores data in JSON-like documents."
   },
   {
     "id": 169,
-    "question": "In a Client-Server architecture, what is the role of the 'Client'?",
-    "options": [
-      "To provide resources to other computers",
-      "To request services or resources from the server",
-      "To act as a central hub for all cables",
-      "To manage the network's security only"
-    ],
+    "question": "What is the 'Mode' of the dataset [1, 2, 2, 3, 4]?",
+    "options": ["1", "2", "3", "4"],
     "answerIndex": 1,
-    "explanation": "Clients request services/resources. Servers provide and respond to those requests."
+    "explanation": "Mode is the value that appears most frequently in a dataset."
   },
   {
     "id": 170,
-    "question": "Which architecture allows every computer to act as both a client and a server?",
+    "question": "What is the primary function of the 'Extract' step in ETL?",
     "options": [
-      "Client-Server",
-      "Peer-to-Peer (P2P)",
-      "Mainframe",
-      "Master-Slave"
+      "Cleaning the data",
+      "Pulling data from various source systems",
+      "Loading data into the warehouse",
+      "Sorting the data"
     ],
     "answerIndex": 1,
-    "explanation": "In Peer-to-Peer (P2P) architecture, every node can act as both a client and server."
+    "explanation": "Extracting involves gathering data from multiple disparate sources."
   },
   {
     "id": 171,
-    "question": "Which layer is the 7th (top) layer of the OSI model?",
+    "question": "Which of these is a benefit of a Data Warehouse?",
     "options": [
-      "Physical Layer",
-      "Network Layer",
-      "Application Layer",
-      "Transport Layer"
+      "Increases data redundancy",
+      "Provides a single version of the truth for an organization",
+      "Makes data entry slower",
+      "Deletes historical data"
     ],
-    "answerIndex": 2,
-    "explanation": "Layer 7, the Application Layer, is the topmost layer, providing network services to applications."
+    "answerIndex": 1,
+    "explanation": "A warehouse integrates data into a unified, consistent format for analysis."
   },
   {
     "id": 172,
-    "question": "Which layer is responsible for the physical transmission of data bits over a medium?",
+    "question": "What does a 'Context Diagram' (Level 0 DFD) show?",
     "options": [
-      "Data Link Layer",
-      "Physical Layer",
-      "Session Layer",
-      "Presentation Layer"
+      "Specific code functions",
+      "The entire system as a single process and its external entities",
+      "The database tables",
+      "The hardware architecture"
     ],
     "answerIndex": 1,
-    "explanation": "Layer 1 (Physical Layer) handles the raw transmission of bits over physical media (cables, radio waves)."
+    "explanation": "Context diagrams provide a high-level overview of system boundaries."
   },
   {
     "id": 173,
-    "question": "Which layer handles routing and IP addressing in the OSI model?",
-    "options": [
-      "Physical Layer",
-      "Network Layer",
-      "Application Layer",
-      "Transport Layer"
-    ],
+    "question": "What is 'Metadata' often called?",
+    "options": ["Small Data", "Data about data", "Big Data", "Invisible Data"],
     "answerIndex": 1,
-    "explanation": "The Network Layer (Layer 3) handles logical addressing (IP) and routing of packets."
+    "explanation": "Metadata provides information about other data to give it context."
   },
   {
     "id": 174,
-    "question": "What does ISP stand for?",
-    "options": [
-      "Internet Service Provider",
-      "Internal System Protocol",
-      "Internet Search Program",
-      "International Security Port"
-    ],
-    "answerIndex": 0,
-    "explanation": "ISP stands for Internet Service Provider — a company that provides internet access to customers."
+    "question": "Which NoSQL type is best for managing social media connections?",
+    "options": ["Key-value", "Graph", "Document", "Columnar"],
+    "answerIndex": 1,
+    "explanation": "Graph databases are designed to store and query relationships between entities."
   },
   {
     "id": 175,
-    "question": "What does DNS stand for?",
+    "question": "What is 'Statistical Modeling'?",
     "options": [
-      "Data Network System",
-      "Domain Name System",
-      "Digital Node Service",
-      "Desktop Network Server"
+      "Drawing pictures of math",
+      "A mathematical way of describing the relationship between variables",
+      "A type of computer hardware",
+      "A database language"
     ],
     "answerIndex": 1,
-    "explanation": "DNS stands for Domain Name System — it translates domain names into IP addresses."
+    "explanation": "It uses equations and probability to analyze and predict data trends."
   },
   {
     "id": 176,
-    "question": "What does TCP/IP stand for?",
+    "question": "What is 'Data Governance'?",
     "options": [
-      "Transmission Control Protocol / Internet Protocol",
-      "Transfer Control Program / Intercom Protocol",
-      "Technical Connection Protocol / Internal Process",
-      "Total Control Protocol / Information Protocol"
+      "The laws of a country",
+      "The management of data availability, integrity, and security in a company",
+      "A type of browser",
+      "A search engine"
     ],
-    "answerIndex": 0,
-    "explanation": "TCP/IP stands for Transmission Control Protocol / Internet Protocol — the fundamental communication protocols of the internet."
+    "answerIndex": 1,
+    "explanation": "Governance ensures data is managed according to specific policies and standards."
   },
   {
     "id": 177,
-    "question": "Which tag is used to define the most important heading in HTML?",
-    "options": ["<h6>", "<head>", "<heading>", "<h1>"],
-    "answerIndex": 3,
-    "explanation": "<h1> is the most important/largest heading; headings go from <h1> (largest) to <h6> (smallest)."
+    "question": "In the Data Science Lifecycle, what does the 'Analyze' stage involve?",
+    "options": [
+      "Gathering raw data",
+      "Applying statistical models and machine learning to find insights",
+      "Cleaning the server",
+      "Writing marketing emails"
+    ],
+    "answerIndex": 1,
+    "explanation": "Analyzing is the core stage where data is examined to uncover meaningful patterns."
   },
   {
     "id": 178,
-    "question": "How many levels of headings does HTML provide?",
-    "options": ["3", "5", "6", "10"],
-    "answerIndex": 2,
-    "explanation": "HTML provides 6 heading levels: <h1>, <h2>, <h3>, <h4>, <h5>, and <h6>."
+    "question": "What is 'Structured Query Language' (SQL) used for?",
+    "options": [
+      "Browsing the web",
+      "Interacting with relational databases",
+      "Designing graphics",
+      "Writing books"
+    ],
+    "answerIndex": 1,
+    "explanation": "SQL is the standard language for managing and querying relational databases."
   },
   {
     "id": 179,
-    "question": "What does WYSIWYG stand for?",
+    "question": "Which characteristic of data structure refers to the amount of memory required?",
     "options": [
-      "What You See Is What You Get",
-      "Where You Sit Is Where You Go",
-      "Web Yields Standard In Web Graphics",
-      "Windows Yield System In Web Groups"
+      "Time Complexity",
+      "Space Complexity",
+      "Correctness",
+      "Robustness"
     ],
-    "answerIndex": 0,
-    "explanation": "WYSIWYG means 'What You See Is What You Get' — editing tools that display output as it will appear."
+    "answerIndex": 1,
+    "explanation": "Space complexity measures the memory usage of an algorithm or data structure."
   },
   {
     "id": 180,
-    "question": "In a Description List, which tag is used for the term being described?",
-    "options": ["<dd>", "<dt>", "<dl>", "<term>"],
+    "question": "What is 'Data Visualization'?",
+    "options": [
+      "The process of reading data aloud",
+      "The graphical representation of information and data",
+      "A type of eye surgery",
+      "Printing data on paper"
+    ],
     "answerIndex": 1,
-    "explanation": "<dt> (description term) defines the term; <dd> (description detail) defines its description."
+    "explanation": "Visualization helps people understand the significance of data through visual aids like charts."
   },
   {
     "id": 181,
-    "question": "Which form method is more secure for sending sensitive data like passwords?",
-    "options": ["GET", "POST", "SEND", "PUT"],
+    "question": "What is the 'Median' of the dataset [10, 20, 30, 40, 50]?",
+    "options": ["20", "30", "40", "150"],
     "answerIndex": 1,
-    "explanation": "POST sends data in the HTTP body (not visible in URL), making it more secure than GET for sensitive data."
+    "explanation": "The median is the middle value in a sorted list."
   },
   {
     "id": 182,
-    "question": "Which input type creates a button that clears all fields in a form?",
-    "options": [
-      "type=\"clear\"",
-      "type=\"reset\"",
-      "type=\"delete\"",
-      "type=\"cancel\""
-    ],
+    "question": "What is the 'Range' of the dataset [5, 10, 15, 20, 25]?",
+    "options": ["5", "20", "25", "30"],
     "answerIndex": 1,
-    "explanation": "type=\"reset\" creates a button that resets all form controls to their initial values."
+    "explanation": "Range is the difference between the maximum (25) and minimum (5) values. 25 - 5 = 20."
   },
   {
     "id": 183,
-    "question": "Which attribute makes an input field mandatory to fill out?",
-    "options": ["checked", "mandatory", "required", "important"],
-    "answerIndex": 2,
-    "explanation": "The required attribute prevents form submission unless the field is filled out."
+    "question": "Which database type is better for handling massive, rapidly changing unstructured data?",
+    "options": [
+      "Relational (SQL)",
+      "Non-Relational (NoSQL)",
+      "Excel Spreadsheet",
+      "Flat file"
+    ],
+    "answerIndex": 1,
+    "explanation": "NoSQL databases are designed for flexibility and large-scale, varied data."
   },
   {
     "id": 184,
-    "question": "Which type of CSS is written directly inside an HTML tag using the style attribute?",
-    "options": ["Internal CSS", "Inline CSS", "External CSS", "Imported CSS"],
+    "question": "What is 'Data Redundancy'?",
+    "options": [
+      "Accurate data",
+      "Unnecessary duplication of data",
+      "Missing data",
+      "Fast data"
+    ],
     "answerIndex": 1,
-    "explanation": "Inline CSS is applied directly to an element: <p style=\"color:red;\">Text</p>"
+    "explanation": "Redundancy occurs when the same data is stored in multiple places unnecessarily."
   },
   {
     "id": 185,
-    "question": "Which type of CSS is written inside the <style> tag in the <head> section?",
-    "options": ["Inline CSS", "Internal CSS", "External CSS", "Outline CSS"],
+    "question": "In a DFD, what is a 'Source'?",
+    "options": [
+      "A data store",
+      "An external entity that sends data into the system",
+      "A process",
+      "A software bug"
+    ],
     "answerIndex": 1,
-    "explanation": "Internal (Embedded) CSS is placed in <style> tags within the <head> section of an HTML document."
+    "explanation": "A source is an external origin of data that enters the system."
   },
   {
     "id": 186,
-    "question": "In CSS, how do you select elements with a specific Class?",
+    "question": "What is 'ETL'?",
     "options": [
-      "Using a period (.)",
-      "Using a hash (#)",
-      "Using an asterisk (*)",
-      "Using a comma (,)"
+      "Easy Total Logic",
+      "Extract, Transform, Load",
+      "Electronic Transfer List",
+      "Every Time Loading"
     ],
-    "answerIndex": 0,
-    "explanation": "Classes are selected with a period (.) prefix: .myClass { } selects all elements with class=\"myClass\"."
+    "answerIndex": 1,
+    "explanation": "ETL is the process used to move data from source systems to a target database."
   },
   {
     "id": 187,
-    "question": "What does RGB stand for in CSS colors?",
-    "options": [
-      "Red Green Blue",
-      "Real Gold Bronze",
-      "Right Ground Base",
-      "Retro Grade Black"
-    ],
-    "answerIndex": 0,
-    "explanation": "RGB stands for Red, Green, Blue — the three color channels used in digital displays."
+    "question": "Which of these is a qualitative variable?",
+    "options": ["Age", "Income", "Car color", "Distance"],
+    "answerIndex": 2,
+    "explanation": "Car color is a descriptive, non-numerical attribute."
   },
   {
     "id": 188,
-    "question": "Which CSS property allows you to choose the typeface (e.g., Arial, Times New Roman)?",
-    "options": ["font-type", "font-family", "font-weight", "text-family"],
+    "question": "What does 'Consistency' in ACID ensure?",
+    "options": [
+      "The database is always the same size",
+      "A transaction brings the database from one valid state to another",
+      "The data is always numbers",
+      "The database never crashes"
+    ],
     "answerIndex": 1,
-    "explanation": "font-family specifies the typeface (font) for text, e.g., font-family: Arial, sans-serif;"
+    "explanation": "Consistency ensures that all database rules and constraints are followed after a transaction."
   },
   {
     "id": 189,
-    "question": "What are the four components of the CSS Box Model from innermost to outermost?",
+    "question": "What is a 'Primary Key'?",
     "options": [
-      "Content, Border, Padding, Margin",
-      "Content, Padding, Border, Margin",
-      "Margin, Border, Padding, Content",
-      "Padding, Content, Margin, Border"
+      "The main door key to the server room",
+      "A unique identifier for each row in a database table",
+      "The first word in a query",
+      "A backup password"
     ],
     "answerIndex": 1,
-    "explanation": "The CSS Box Model layers are: Content → Padding → Border → Margin (from inside out)."
+    "explanation": "Primary keys uniquely identify records in a relational table."
   },
   {
     "id": 190,
-    "question": "Which part of the CSS Box Model is the space between the content and the border?",
-    "options": ["Margin", "Padding", "Outline", "Gutter"],
-    "answerIndex": 1,
-    "explanation": "Padding is the space inside the border, between the content and the border edge."
+    "question": "Which NoSQL database focuses on storing data as 'nodes' and 'edges'?",
+    "options": ["MongoDB", "Redis", "Neo4j", "MySQL"],
+    "answerIndex": 2,
+    "explanation": "Graph databases use nodes (entities) and edges (relationships) to represent data."
   },
   {
     "id": 191,
-    "question": "Which part of the CSS Box Model is the outermost space that separates one element from another?",
-    "options": ["Padding", "Border", "Margin", "Content"],
-    "answerIndex": 2,
-    "explanation": "Margin is the outer spacing outside the border, creating space between elements."
+    "question": "What is the first step in the Data Analysis process?",
+    "options": [
+      "Data Visualization",
+      "Data Collection",
+      "Data Cleaning",
+      "Data Interpretation"
+    ],
+    "answerIndex": 1,
+    "explanation": "You must first collect data before it can be cleaned or analyzed."
   },
   {
     "id": 192,
-    "question": "To use Flexbox in CSS, what value must the display property have?",
-    "options": ["block", "inline", "flex", "grid"],
-    "answerIndex": 2,
-    "explanation": "Setting display: flex on a container activates Flexbox layout for its children."
+    "question": "What does 'Non-Volatile' mean in a data warehouse?",
+    "options": [
+      "The data is deleted every week",
+      "Once stored, data is not modified or deleted",
+      "The data is very unstable",
+      "The data is only temporary"
+    ],
+    "answerIndex": 1,
+    "explanation": "Non-volatility ensures historical data is preserved for long-term analysis."
   },
   {
     "id": 193,
-    "question": "Which Flexbox property aligns items horizontally (along the main axis)?",
+    "question": "What is 'Big Data'?",
     "options": [
-      "align-items",
-      "justify-content",
-      "flex-direction",
-      "align-content"
+      "A single large file",
+      "Datasets so large and complex that traditional software can't handle them",
+      "A list of large numbers",
+      "A database with 1000 rows"
     ],
     "answerIndex": 1,
-    "explanation": "justify-content aligns flex items along the main axis (horizontal by default)."
+    "explanation": "Big Data refers to massive scale, speed, and variety that exceeds typical processing limits."
   },
   {
     "id": 194,
-    "question": "What does XHTML stand for?",
-    "options": [
-      "X-linked Hypertext Markup Language",
-      "eXtensible HyperText Markup Language",
-      "Extra Hypertext Markup Language",
-      "X-treme Hypertext Management Language"
-    ],
-    "answerIndex": 1,
-    "explanation": "XHTML stands for eXtensible HyperText Markup Language — a stricter, XML-based version of HTML."
+    "question": "Which statistical measure represents the most frequent value?",
+    "options": ["Mean", "Median", "Mode", "Variance"],
+    "answerIndex": 2,
+    "explanation": "Mode is the observation that appears most often in a dataset."
   },
   {
     "id": 195,
-    "question": "What is the primary advantage of External CSS?",
+    "question": "What is the purpose of a 'Logical DFD'?",
     "options": [
-      "It makes the HTML file larger",
-      "It allows changing the look of an entire website by modifying just one file",
-      "It is faster to write than Inline CSS",
-      "It only works on modern browsers"
+      "To show the hardware components",
+      "To describe business processes without technical details",
+      "To show the SQL code",
+      "To design the user interface"
     ],
     "answerIndex": 1,
-    "explanation": "External CSS separates style from content, allowing site-wide style changes from one .css file."
+    "explanation": "Logical DFDs focus on the business activities and data flow rather than implementation."
   },
   {
     "id": 196,
-    "question": "Which tag is used to group block-level elements for layout and styling?",
-    "options": ["<span>", "<div>", "<block>", "<container>"],
+    "question": "What is 'Data Mining'?",
+    "options": [
+      "Deleting old data",
+      "Discovering patterns and knowledge from large amounts of data",
+      "Selling data to other companies",
+      "Typing data into a computer"
+    ],
     "answerIndex": 1,
-    "explanation": "<div> is a generic block-level container used to group and structure HTML content."
+    "explanation": "Data mining extracts hidden insights from massive datasets."
   },
   {
     "id": 197,
-    "question": "Which attribute in a <form> tag specifies where to send the form data?",
-    "options": ["method", "target", "action", "src"],
-    "answerIndex": 2,
-    "explanation": "The action attribute specifies the URL of the server script that processes the form submission."
+    "question": "Which property ensures a transaction is an 'all or nothing' operation?",
+    "options": ["Atomicity", "Consistency", "Isolation", "Durability"],
+    "answerIndex": 0,
+    "explanation": "Atomicity prevents partial updates to a database during a transaction."
   },
   {
     "id": 198,
-    "question": "The <fieldset> element is used to:",
+    "question": "What is an 'Ordinal Scale'?",
     "options": [
-      "Style a form button",
-      "Group related form controls logically",
-      "Create a text area",
-      "Define form submission"
+      "Data with no order",
+      "Data that has a natural order but no defined distance between points",
+      "Data with a true zero",
+      "Data that is only text"
     ],
     "answerIndex": 1,
-    "explanation": "<fieldset> groups related form elements together, often used with <legend> as a caption."
+    "explanation": "Examples of ordinal scales include rankings like 'first, second, third'."
   },
   {
     "id": 199,
-    "question": "What is the purpose of the GET method in HTML forms?",
+    "question": "What is the role of a 'Data Scientist'?",
     "options": [
-      "Sends data securely in the HTTP body",
-      "Appends form data to the URL",
-      "Uploads files to a server",
-      "Encrypts form data before sending"
+      "Fixing hardware",
+      "Using scientific methods to extract insights from data",
+      "Entering data into spreadsheets",
+      "Writing marketing slogans"
     ],
     "answerIndex": 1,
-    "explanation": "GET appends form data to the URL as query string parameters (e.g., ?name=value). Not for sensitive data."
+    "explanation": "Data scientists combine statistics, coding, and domain knowledge to solve complex problems."
   },
   {
     "id": 200,
-    "question": "Which tag is used to create a hyperlink (anchor) in HTML?",
-    "options": ["<link>", "<href>", "<a>", "<url>"],
-    "answerIndex": 2,
-    "explanation": "The <a> (anchor) tag creates hyperlinks in HTML. The href attribute specifies the destination."
+    "question": "What does 'Variety' in Big Data include?",
+    "options": [
+      "Only numbers",
+      "Text, images, video, and sensor data",
+      "Only spreadsheets",
+      "Only website names"
+    ],
+    "answerIndex": 1,
+    "explanation": "Variety refers to the many different types and formats of data generated today."
   },
   {
     "id": 201,
-    "question": "Which of the following is used to define a hyperlink in HTML?",
-    "options": ["<link>", "<a>", "<href>", "<hyper>"],
+    "question": "Which of these is a characteristic of a Data Warehouse?",
+    "options": [
+      "Transactional",
+      "Subject-Oriented",
+      "Volatile",
+      "Application-Oriented"
+    ],
     "answerIndex": 1,
-    "explanation": "The <a> (anchor) tag is used to create hyperlinks in HTML."
+    "explanation": "Data warehouses are organized by business subjects (like 'Sales') rather than applications."
   },
   {
     "id": 202,
-    "question": "Which of the following is NOT a type of CSS?",
-    "options": ["Inline CSS", "Internal CSS", "External CSS", "Remote CSS"],
-    "answerIndex": 3,
-    "explanation": "Remote CSS is not a valid type. The three types are Inline, Internal, and External CSS."
+    "question": "What is a 'Physical DFD'?",
+    "options": [
+      "A diagram made of paper",
+      "A diagram showing how the system is actually implemented with hardware/software",
+      "A diagram of the human body",
+      "A diagram showing only logic"
+    ],
+    "answerIndex": 1,
+    "explanation": "Physical DFDs describe the actual technological components used in a system."
   },
   {
     "id": 203,
-    "question": "Which is the correct CSS syntax for setting a background color to blue?",
+    "question": "What is 'Standard Deviation' used for?",
     "options": [
-      "background-color: blue;",
-      "bg-color: blue;",
-      "color: blue;",
-      "background: blue-color;"
+      "Calculating the average",
+      "Measuring the amount of variation or spread in data",
+      "Finding the middle number",
+      "Counting the number of rows"
     ],
-    "answerIndex": 0,
-    "explanation": "background-color is the correct CSS property for setting background color."
+    "answerIndex": 1,
+    "explanation": "It tells you how much the data deviates from the mean."
   },
   {
     "id": 204,
-    "question": "What is the default alignment of text in an HTML paragraph (<p>) element?",
-    "options": ["Left", "Center", "Right", "Justify"],
-    "answerIndex": 0,
-    "explanation": "By default, text in a <p> element is left-aligned."
+    "question": "Which NoSQL type is best for simple, fast data lookups?",
+    "options": ["Graph", "Key-value", "Document", "Relational"],
+    "answerIndex": 1,
+    "explanation": "Key-value stores are optimized for rapid retrieval using a unique key."
   },
   {
     "id": 205,
-    "question": "Which tag is used to create a checkbox in an HTML form?",
+    "question": "What does 'Subject-Oriented' mean in Data Warehousing?",
     "options": [
-      "<checkbox>",
-      "<input type=\"checkbox\">",
-      "<check>",
-      "<option>"
+      "Data is about students",
+      "Data is organized around business topics like Sales or Customers",
+      "Data is about school subjects",
+      "Data is disorganized"
     ],
     "answerIndex": 1,
-    "explanation": "Checkboxes are created using <input type=\"checkbox\"> in HTML forms."
+    "explanation": "Organization around subjects helps users analyze specific areas of a business."
   },
   {
     "id": 206,
-    "question": "Which of the following is a scripting language?",
-    "options": ["HTML", "CSS", "JavaScript", "XML"],
+    "question": "What is the primary language used for Relational Databases?",
+    "options": ["Python", "C++", "SQL", "Java"],
     "answerIndex": 2,
-    "explanation": "JavaScript is a scripting language. HTML and CSS are markup/style languages; XML is a data language."
+    "explanation": "Structured Query Language (SQL) is the standard for RDBMS."
   },
   {
     "id": 207,
-    "question": "What is the correct syntax to create an email link in HTML?",
+    "question": "What is 'Data Ethics'?",
     "options": [
-      "<a href=\"mail:someone@example.com\">Email</a>",
-      "<a href=mailto:someone@example.com>Email</a>",
-      "<mail href=someone@example.com>Email</mail>",
-      "<email>someone@example.com</email>"
+      "The cost of data",
+      "The principles and practices of handling data responsibly",
+      "A type of computer program",
+      "A database brand"
     ],
     "answerIndex": 1,
-    "explanation": "Email links use mailto: in the href attribute: <a href=\"mailto:someone@example.com\">"
+    "explanation": "Ethics involves ensuring data privacy, fairness, and transparency."
   },
   {
     "id": 208,
-    "question": "Which protocol is used to browse the web?",
-    "options": ["FTP", "SMTP", "HTTP", "SNMP"],
-    "answerIndex": 2,
-    "explanation": "HTTP (HyperText Transfer Protocol) is the protocol used for browsing web pages."
+    "question": "Which characteristic of data refers to its accuracy and reliability?",
+    "options": ["Volume", "Veracity", "Velocity", "Variety"],
+    "answerIndex": 1,
+    "explanation": "Veracity measures the truthfulness and quality of the data."
   },
   {
     "id": 209,
-    "question": "Which CSS unit is NOT a valid length unit?",
-    "options": ["px", "cm", "pt", "gm"],
-    "answerIndex": 3,
-    "explanation": "gm is not a valid CSS unit. Valid units include px, em, rem, cm, pt, %, vh, vw etc."
+    "question": "What is 'Data Visualization'?",
+    "options": [
+      "A type of video game",
+      "Using charts and graphs to represent data",
+      "Blindly entering data",
+      "Scanning paper documents"
+    ],
+    "answerIndex": 1,
+    "explanation": "Visualization turns raw data into visual insights."
   },
   {
     "id": 210,
-    "question": "What is the purpose of the <meta> tag in HTML?",
+    "question": "What is the purpose of 'Data Cleaning'?",
     "options": [
-      "To create a new paragraph",
-      "To define metadata about an HTML document",
-      "To insert an image",
-      "To make text bold"
+      "To delete all data",
+      "To remove errors and inconsistencies",
+      "To add more errors",
+      "To change the font size"
     ],
     "answerIndex": 1,
-    "explanation": "The <meta> tag defines metadata such as charset, viewport, description, and keywords."
+    "explanation": "Cleaning ensures that the data is accurate before analysis."
   },
   {
     "id": 211,
-    "question": "What does HTTP stand for?",
-    "options": [
-      "Hyper Text Transfer Protocol",
-      "High Text Transfer Protocol",
-      "Hyperlink and Text Transfer Protocol",
-      "Home Tool Transfer Protocol"
-    ],
-    "answerIndex": 0,
-    "explanation": "HTTP stands for HyperText Transfer Protocol, the foundation of data communication on the web."
+    "question": "In a DFD, what does a rectangle represent?",
+    "options": ["A process", "An external entity", "A data store", "Data flow"],
+    "answerIndex": 1,
+    "explanation": "Rectangles or squares denote external entities like users or other systems."
   },
   {
     "id": 212,
-    "question": "What is the default file name for a home page on most web servers?",
-    "options": ["homepage.html", "index.html", "main.html", "start.html"],
+    "question": "What is 'Data Scalability'?",
+    "options": [
+      "The weight of data",
+      "The ability to handle growth in data volume",
+      "The size of a laptop",
+      "The speed of the mouse"
+    ],
     "answerIndex": 1,
-    "explanation": "index.html is the default home page file name recognized by most web servers."
+    "explanation": "Scalability is the system's ability to maintain performance as data expands."
   },
   {
     "id": 213,
-    "question": "Which of the following is NOT a valid HTML element?",
-    "options": ["<h1>", "<p>", "<div>", "<text>"],
-    "answerIndex": 3,
-    "explanation": "<text> is not a valid HTML element. Use <p>, <span>, or <div> for text content."
+    "question": "What is a 'Primary Key'?",
+    "options": [
+      "A master key for the office",
+      "A unique identifier for a record in a table",
+      "The most important data point",
+      "The first column in a spreadsheet"
+    ],
+    "answerIndex": 1,
+    "explanation": "Primary keys uniquely distinguish one record from another in a database."
   },
   {
     "id": 214,
-    "question": "Which CSS property creates space INSIDE an element between content and border?",
-    "options": ["margin", "padding", "spacing", "indent"],
+    "question": "What does 'Non-Volatile' mean?",
+    "options": [
+      "Data is easily lost",
+      "Data is stable and not easily changed after being stored",
+      "Data is explosive",
+      "Data is very fast"
+    ],
     "answerIndex": 1,
-    "explanation": "Padding is the inner spacing between the content and the border of an element."
+    "explanation": "In a data warehouse, non-volatile means data is preserved historically."
   },
   {
     "id": 215,
-    "question": "What does VPN stand for?",
+    "question": "What is 'Statistical Modeling'?",
     "options": [
-      "Virtual Private Network",
-      "Very Personal Network",
-      "Virtual Personal Network",
-      "Verified Protocol Network"
+      "Modeling clothes",
+      "Using math to describe relationships between variables",
+      "Making toys",
+      "Drawing graphs"
     ],
-    "answerIndex": 0,
-    "explanation": "VPN stands for Virtual Private Network — it creates a secure, encrypted connection over the internet."
+    "answerIndex": 1,
+    "explanation": "It uses mathematical equations to analyze datasets."
   },
   {
     "id": 216,
-    "question": "Which HTML element is used to define important text (bold with semantic meaning)?",
-    "options": ["<strong>", "<b>", "<i>", "<important>"],
-    "answerIndex": 0,
-    "explanation": "<strong> marks text as important (bold). <b> is just visually bold with no semantic meaning."
+    "question": "What is 'Data Mining'?",
+    "options": [
+      "Digging for coal",
+      "Searching for patterns in large data sets",
+      "Typing data",
+      "Deleting files"
+    ],
+    "answerIndex": 1,
+    "explanation": "Data mining involves extracting useful information from big datasets."
   },
   {
     "id": 217,
-    "question": "What is the correct syntax for creating a comment in HTML?",
+    "question": "What does 'ETL' stand for?",
     "options": [
-      "// This is a comment",
-      "/* This is a comment */",
-      "<!-- This is a comment -->",
-      "# This is a comment"
+      "Every Time Loading",
+      "Extract, Transform, Load",
+      "Easy Text List",
+      "Electronic Task Log"
     ],
-    "answerIndex": 2,
-    "explanation": "HTML comments use <!-- comment --> syntax and are not displayed in the browser."
+    "answerIndex": 1,
+    "explanation": "ETL is the process of extracting, cleaning, and loading data."
   },
   {
     "id": 218,
-    "question": "Which of the following is NOT a network topology?",
-    "options": ["Bus", "Star", "Grid", "Mesh"],
+    "question": "Which of these is a categorical variable?",
+    "options": ["Age", "Height", "Blood Type", "Weight"],
     "answerIndex": 2,
-    "explanation": "Grid is not a standard network topology. Valid ones include Bus, Star, Ring, Mesh, and Tree."
+    "explanation": "Blood Type represents distinct categories rather than a numerical scale."
   },
   {
     "id": 219,
-    "question": "What is the purpose of the <canvas> element in HTML5?",
+    "question": "What is the 'Mean'?",
     "options": [
-      "To create forms",
-      "To draw graphics using JavaScript",
-      "To display tables",
-      "To define a footer"
+      "The middle number",
+      "The most common number",
+      "The average",
+      "The smallest number"
     ],
-    "answerIndex": 1,
-    "explanation": "The <canvas> element provides a drawable region that JavaScript uses to render 2D/3D graphics."
+    "answerIndex": 2,
+    "explanation": "Mean is calculated by adding all values and dividing by the total count."
   },
   {
     "id": 220,
-    "question": "Which of the following is NOT a valid value for the target attribute in a hyperlink?",
-    "options": ["_blank", "_self", "_top", "_middle"],
-    "answerIndex": 3,
-    "explanation": "_middle is not a valid target value. Valid values are _blank, _self, _parent, and _top."
+    "question": "What is the 'Median'?",
+    "options": [
+      "The average",
+      "The middle value",
+      "The highest value",
+      "The sum"
+    ],
+    "answerIndex": 1,
+    "explanation": "Median is the middle point of a sorted dataset."
   },
   {
     "id": 221,
-    "question": "Which HTML element is used to display a progress bar?",
-    "options": ["<progress>", "<bar>", "<loading>", "<meter>"],
-    "answerIndex": 0,
-    "explanation": "The <progress> element displays a progress bar indicating task completion."
+    "question": "What is the 'Mode'?",
+    "options": [
+      "The average",
+      "The most frequent value",
+      "The difference",
+      "The middle value"
+    ],
+    "answerIndex": 1,
+    "explanation": "Mode is the number that appears most often."
   },
   {
     "id": 222,
-    "question": "How do you select all <p> elements with the class 'intro' in CSS?",
-    "options": ["p.intro", "p#intro", ".p intro", "#p intro"],
-    "answerIndex": 0,
-    "explanation": "p.intro selects all <p> elements that have class=\"intro\". Period (.) is the class selector."
+    "question": "What is 'Unstructured Data'?",
+    "options": [
+      "Data in a table",
+      "Data like text, images, and videos",
+      "Data with numbers only",
+      "Perfectly organized data"
+    ],
+    "answerIndex": 1,
+    "explanation": "Unstructured data does not have a fixed format."
   },
   {
     "id": 223,
-    "question": "What does the z-index property do in CSS?",
+    "question": "What is 'Structured Data'?",
     "options": [
-      "Controls vertical spacing between elements",
-      "Sets the transparency of an element",
-      "Specifies the stack order of elements",
-      "Defines the width of a box"
+      "Data that is messy",
+      "Data in a fixed format like a spreadsheet",
+      "A collection of videos",
+      "Social media posts"
     ],
-    "answerIndex": 2,
-    "explanation": "z-index controls the stacking order of overlapping elements. Higher values appear on top."
+    "answerIndex": 1,
+    "explanation": "Structured data is highly organized and easy to search."
   },
   {
     "id": 224,
-    "question": "Which CSS property is used to make text italic?",
-    "options": ["font-style", "text-style", "font-italic", "italicize"],
-    "answerIndex": 0,
-    "explanation": "font-style: italic; makes text appear in italic. Values include normal, italic, and oblique."
+    "question": "What is 'Big Data'?",
+    "options": [
+      "A few files",
+      "Massive and complex datasets",
+      "One large image",
+      "A small database"
+    ],
+    "answerIndex": 1,
+    "explanation": "Big Data involves volume, variety, and velocity."
   },
   {
     "id": 225,
-    "question": "What is the purpose of the opacity property in CSS?",
+    "question": "What is 'Data Integrity'?",
     "options": [
-      "To change text color",
-      "To control the transparency of an element",
-      "To add shadows to text",
-      "To set the background color"
+      "Data cost",
+      "Data accuracy and consistency",
+      "Data speed",
+      "Data age"
     ],
     "answerIndex": 1,
-    "explanation": "opacity controls transparency: 0 is fully transparent, 1 is fully opaque."
+    "explanation": "Integrity ensures that data remains correct and reliable."
   },
   {
     "id": 226,
-    "question": "What does the CSS property display: none; do?",
+    "question": "What is a 'Data Flow Diagram'?",
     "options": [
-      "Hides an element but still takes up space",
-      "Removes an element from the layout flow entirely",
-      "Makes an element transparent",
-      "Disables all interactions with an element"
+      "A drawing of a computer",
+      "A graphical representation of data flow in a system",
+      "A list of passwords",
+      "A flowchart for a game"
     ],
     "answerIndex": 1,
-    "explanation": "display: none removes the element from the layout — it takes up no space and is invisible."
+    "explanation": "DFDs show how data moves through a system."
   },
   {
     "id": 227,
-    "question": "What is the correct way to apply a border to an element in CSS?",
+    "question": "What does a 'Process' symbol do in a DFD?",
     "options": [
-      "border: 1px solid black;",
-      "border-style: black solid 1px;",
-      "border-width: 1px; border-color: black;",
-      "border: black solid;"
+      "Stores data",
+      "Transforms data",
+      "Deletes data",
+      "Sends data outside"
     ],
-    "answerIndex": 0,
-    "explanation": "The shorthand border: 1px solid black; sets width, style, and color in one declaration."
+    "answerIndex": 1,
+    "explanation": "Processes represent the work done on the data."
   },
   {
     "id": 228,
-    "question": "What is the default value of the flex-direction property in CSS Flexbox?",
-    "options": ["row", "column", "row-reverse", "column-reverse"],
-    "answerIndex": 0,
-    "explanation": "flex-direction defaults to row — flex items are placed horizontally from left to right."
+    "question": "What is 'Metadata'?",
+    "options": [
+      "Big Data",
+      "Data about data",
+      "Missing data",
+      "Incorrect data"
+    ],
+    "answerIndex": 1,
+    "explanation": "Metadata provides context for raw data."
   },
   {
     "id": 229,
-    "question": "Which of the following is NOT a valid CSS color format?",
-    "options": ["Hexadecimal", "RGB", "CMYK", "HSL"],
-    "answerIndex": 2,
-    "explanation": "CMYK is a print color model and is not supported in CSS. CSS uses HEX, RGB, RGBA, HSL, and HSLA."
+    "question": "What is an 'Operational Database'?",
+    "options": [
+      "A database for old files",
+      "A database for day-to-day transactions",
+      "A database for charts",
+      "A non-existent database"
+    ],
+    "answerIndex": 1,
+    "explanation": "Operational databases handle real-time business activities."
   },
   {
     "id": 230,
-    "question": "What is the CSS float property used for?",
-    "options": [
-      "To align an element horizontally",
-      "To set the transparency of an element",
-      "To create shadows",
-      "To move an element to the back"
-    ],
-    "answerIndex": 0,
-    "explanation": "float positions an element to the left or right, allowing text/content to wrap around it."
+    "question": "Which of these is a NoSQL database?",
+    "options": ["MySQL", "Oracle", "MongoDB", "SQL Server"],
+    "answerIndex": 2,
+    "explanation": "MongoDB is a popular non-relational (NoSQL) database."
   },
   {
     "id": 231,
-    "question": "Which CSS property is used to control the space BETWEEN elements (outside the border)?",
-    "options": ["padding", "spacing", "margin", "border-spacing"],
-    "answerIndex": 2,
-    "explanation": "margin controls the outer spacing between elements, outside their borders."
+    "question": "What is 'Data Visualization'?",
+    "options": [
+      "Typing",
+      "Using graphs to represent data",
+      "Closing eyes",
+      "Deleting data"
+    ],
+    "answerIndex": 1,
+    "explanation": "Visualization turns numbers into visual patterns."
   },
   {
     "id": 232,
-    "question": "Which value of the CSS position property places an element relative to its first non-static ancestor?",
-    "options": ["relative", "absolute", "fixed", "static"],
+    "question": "What is 'Data Privacy'?",
+    "options": [
+      "Selling data",
+      "Protecting personal information",
+      "Showing data to everyone",
+      "Ignoring data"
+    ],
     "answerIndex": 1,
-    "explanation": "position: absolute removes the element from normal flow and positions it relative to its nearest positioned ancestor."
+    "explanation": "Privacy ensures sensitive info is kept safe."
   },
   {
     "id": 233,
-    "question": "What does overflow: hidden; do in CSS?",
+    "question": "What is 'Data Scalability'?",
     "options": [
-      "Hides content that overflows the element",
-      "Expands the element to fit the content",
-      "Moves the element to the back",
-      "Allows content to scroll"
+      "Measuring height",
+      "Handling more data as it grows",
+      "Deleting data",
+      "Changing data color"
     ],
-    "answerIndex": 0,
-    "explanation": "overflow: hidden clips any content that extends beyond the element's boundaries."
+    "answerIndex": 1,
+    "explanation": "Scalability allows a system to grow with data needs."
   },
   {
     "id": 234,
-    "question": "Which CSS property is used to add a shadow to text?",
-    "options": ["text-shadow", "font-shadow", "shadow-text", "text-effect"],
-    "answerIndex": 0,
-    "explanation": "text-shadow adds a shadow effect to text. Syntax: text-shadow: h-offset v-offset blur color;"
+    "question": "What is 'Data Governance'?",
+    "options": [
+      "The government's computer",
+      "Managing data rules and quality",
+      "A type of mouse",
+      "A search engine"
+    ],
+    "answerIndex": 1,
+    "explanation": "Governance sets the rules for how data is handled."
   },
   {
     "id": 235,
-    "question": "Which CSS property is used to change the bullet style of a list?",
-    "options": ["list-style-type", "bullet-style", "list-bullet", "list-style"],
-    "answerIndex": 0,
-    "explanation": "list-style-type sets the bullet/number style: disc, circle, square, decimal, none, etc."
+    "question": "What is 'ETL'?",
+    "options": [
+      "Electronic Task List",
+      "Extract, Transform, Load",
+      "Every Time Light",
+      "Easy Text Log"
+    ],
+    "answerIndex": 1,
+    "explanation": "ETL is the process of moving data to a warehouse."
   },
   {
     "id": 236,
-    "question": "What is the default behavior of position: static; in CSS?",
+    "question": "What is 'Structured Data'?",
     "options": [
-      "The element follows the normal document flow",
-      "The element is fixed in place",
-      "The element is positioned relative to another element",
-      "The element moves when scrolling"
+      "Messy data",
+      "Organized data in tables",
+      "Random videos",
+      "Social media chats"
+    ],
+    "answerIndex": 1,
+    "explanation": "Structured data is clean and organized."
+  },
+  {
+    "id": 237,
+    "question": "What is 'Unstructured Data'?",
+    "options": [
+      "Table data",
+      "Videos and images",
+      "Spreadsheets",
+      "Organized lists"
+    ],
+    "answerIndex": 1,
+    "explanation": "Unstructured data has no fixed structure."
+  },
+  {
+    "id": 238,
+    "question": "What is 'Mean'?",
+    "options": ["Middle", "Most frequent", "Average", "Range"],
+    "answerIndex": 2,
+    "explanation": "Mean is the sum divided by the count."
+  },
+  {
+    "id": 239,
+    "question": "What is 'Median'?",
+    "options": ["Average", "Middle value", "Highest", "Sum"],
+    "answerIndex": 1,
+    "explanation": "Median is the center of a sorted list."
+  },
+  {
+    "id": 240,
+    "question": "What is 'Mode'?",
+    "options": ["Average", "Frequent value", "Difference", "Middle"],
+    "answerIndex": 1,
+    "explanation": "Mode is the most common value."
+  },
+  {
+    "id": 241,
+    "question": "What is 'Standard Deviation'?",
+    "options": ["The average", "The spread of data", "The middle", "The count"],
+    "answerIndex": 1,
+    "explanation": "It shows how spread out the data is."
+  },
+  {
+    "id": 242,
+    "question": "What is 'Data Mining'?",
+    "options": ["Digging", "Finding patterns", "Typing", "Deleting"],
+    "answerIndex": 1,
+    "explanation": "Finding hidden info in data."
+  },
+  {
+    "id": 243,
+    "question": "What is 'Big Data'?",
+    "options": ["Small files", "Massive datasets", "One image", "A table"],
+    "answerIndex": 1,
+    "explanation": "Very large and complex data."
+  },
+  {
+    "id": 244,
+    "question": "What is 'Data Integrity'?",
+    "options": ["Cost", "Accuracy", "Speed", "Age"],
+    "answerIndex": 1,
+    "explanation": "Correct and consistent data."
+  },
+  {
+    "id": 245,
+    "question": "What is a 'Data Warehouse'?",
+    "options": [
+      "Storage for furniture",
+      "Storage for integrated historical data",
+      "A small database",
+      "A trash can for data"
+    ],
+    "answerIndex": 1,
+    "explanation": "A central repository for analysis."
+  },
+  {
+    "id": 246,
+    "question": "What is 'NoSQL'?",
+    "options": [
+      "Non-relational database",
+      "Always SQL",
+      "Only numbers",
+      "Not a database"
     ],
     "answerIndex": 0,
-    "explanation": "static is the default position value — elements follow the normal top-to-bottom document flow."
+    "explanation": "A flexible database for varied data types."
+  },
+  {
+    "id": 247,
+    "question": "What is 'Metadata'?",
+    "options": ["Small Data", "Data about data", "Missing data", "Fast data"],
+    "answerIndex": 1,
+    "explanation": "Information describing other data."
+  },
+  {
+    "id": 248,
+    "question": "What is a 'Primary Key'?",
+    "options": ["Main key", "Unique identifier", "First row", "Backup"],
+    "answerIndex": 1,
+    "explanation": "Uniquely identifies a record."
+  },
+  {
+    "id": 249,
+    "question": "What is 'Statistical Modeling'?",
+    "options": ["Drawing", "Mathematical relationship", "Toy making", "Coding"],
+    "answerIndex": 1,
+    "explanation": "Using math to explain data."
+  },
+  {
+    "id": 250,
+    "question": "What is 'Data Ethics'?",
+    "options": ["Cost", "Responsible data use", "Software", "Brand"],
+    "answerIndex": 1,
+    "explanation": "Moral principles for handling data."
   }
 ]
