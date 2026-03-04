@@ -1,0 +1,2192 @@
+[
+  {
+    "id": 1,
+    "question": "What is the charge of a proton?",
+    "options": ["-1.6 × 10⁻¹⁹ C", "+1.6 × 10⁻¹⁹ C", "0 C", "1.6 × 10⁻² C"],
+    "answerIndex": 1,
+    "explanation": "A proton carries a positive charge of +1.6 × 10⁻¹⁹ C."
+  },
+  {
+    "id": 2,
+    "question": "What is the charge of an electron?",
+    "options": ["+1.6 × 10⁻¹⁹ C", "-1.6 × 10⁻¹⁹ C", "0 C", "1.6 × 10⁻¹⁹ C"],
+    "answerIndex": 1,
+    "explanation": "An electron carries a negative charge of -1.6 × 10⁻¹⁹ C."
+  },
+  {
+    "id": 3,
+    "question": "What happens when two like charges are brought close to each other?",
+    "options": [
+      "They attract",
+      "They neutralize",
+      "They repel",
+      "They oscillate"
+    ],
+    "answerIndex": 2,
+    "explanation": "Like charges (both positive or both negative) repel each other."
+  },
+  {
+    "id": 4,
+    "question": "What happens when two unlike charges are brought close to each other?",
+    "options": [
+      "They repel",
+      "They attract",
+      "They neutralize",
+      "They disappear"
+    ],
+    "answerIndex": 1,
+    "explanation": "Unlike charges (positive and negative) attract each other."
+  },
+  {
+    "id": 5,
+    "question": "The unit of electric charge is the:",
+    "options": ["Newton", "Volt", "Coulomb", "Ampere"],
+    "answerIndex": 2,
+    "explanation": "The coulomb (C) is the SI unit of electric charge."
+  },
+  {
+    "id": 6,
+    "question": "What type of ion is formed when an atom loses electrons?",
+    "options": ["Negative ion", "Neutral atom", "Positive ion", "Molecule"],
+    "answerIndex": 2,
+    "explanation": "When an atom loses electrons, it has more protons than electrons, becoming a positive ion."
+  },
+  {
+    "id": 7,
+    "question": "What type of ion is formed when an atom gains electrons?",
+    "options": ["Positive ion", "Neutral atom", "Negative ion", "Proton"],
+    "answerIndex": 2,
+    "explanation": "When an atom gains electrons, it has more electrons than protons, becoming a negative ion."
+  },
+  {
+    "id": 8,
+    "question": "Coulomb's law describes the force between:",
+    "options": [
+      "Gravitational masses",
+      "Magnetic poles",
+      "Electric charges",
+      "Neutral atoms"
+    ],
+    "answerIndex": 2,
+    "explanation": "Coulomb's law gives the electric force between two point charges."
+  },
+  {
+    "id": 9,
+    "question": "The value of Coulomb's constant k in free space is:",
+    "options": [
+      "9.0 × 10⁹ N·m²/C²",
+      "8.85 × 10⁻¹² N·m²/C²",
+      "6.67 × 10⁻¹¹ N·m²/kg²",
+      "1.6 × 10⁻¹⁹ N·m²/C²"
+    ],
+    "answerIndex": 0,
+    "explanation": "Coulomb's constant k = 9.0 × 10⁹ N·m²/C² in free space."
+  },
+  {
+    "id": 10,
+    "question": "The permittivity of free space ε₀ has the value:",
+    "options": [
+      "9.0 × 10⁹ C²/N·m²",
+      "8.85 × 10⁻¹² C²/N·m²",
+      "4π × 10⁻⁷ T·m/A",
+      "1.6 × 10⁻¹⁹ C"
+    ],
+    "answerIndex": 1,
+    "explanation": "ε₀ = 8.85 × 10⁻¹² C²/N·m² (or F/m)."
+  },
+  {
+    "id": 11,
+    "question": "A positive test charge placed in an electric field moves:",
+    "options": [
+      "Perpendicular to the field lines",
+      "Against the field direction",
+      "In the direction of the field",
+      "Randomly"
+    ],
+    "answerIndex": 2,
+    "explanation": "A positive test charge experiences a force in the direction of the electric field."
+  },
+  {
+    "id": 12,
+    "question": "A negative test charge placed in an electric field moves:",
+    "options": [
+      "In the direction of the field",
+      "Opposite to the field direction",
+      "Perpendicular to the field",
+      "Randomly"
+    ],
+    "answerIndex": 1,
+    "explanation": "A negative charge experiences a force opposite to the direction of the electric field."
+  },
+  {
+    "id": 13,
+    "question": "The force on a charge q in an electric field E is given by:",
+    "options": ["F = q/E", "F = qE", "F = E/q", "F = q²E"],
+    "answerIndex": 1,
+    "explanation": "The electric force on a charge is F = qE, where E is the electric field."
+  },
+  {
+    "id": 14,
+    "question": "The potential difference is defined as:",
+    "options": [
+      "Force per unit charge",
+      "Work per unit charge",
+      "Mass per unit charge",
+      "Charge per unit voltage"
+    ],
+    "answerIndex": 1,
+    "explanation": "Potential difference V = W/q, where W is work done to move charge q."
+  },
+  {
+    "id": 15,
+    "question": "The unit of electric field is:",
+    "options": ["C/m", "V·m", "V/m", "C·V"],
+    "answerIndex": 2,
+    "explanation": "Electric field is measured in volts per meter (V/m) or newtons per coulomb (N/C)."
+  },
+  {
+    "id": 16,
+    "question": "A 5 C charge moved across a potential difference of 2 × 10⁶ V dissipates how much energy?",
+    "options": ["1 × 10⁶ J", "1 × 10⁷ J", "1 × 10⁵ J", "1 × 10⁸ J"],
+    "answerIndex": 1,
+    "explanation": "W = qV = (5 C)(2 × 10⁶ V) = 1 × 10⁷ J."
+  },
+  {
+    "id": 17,
+    "question": "In a uniform electric field, the potential difference between two plates separated by distance s is:",
+    "options": ["V = E/s", "V = Es", "V = s/E", "V = 1/Es"],
+    "answerIndex": 1,
+    "explanation": "For a uniform field, V = Ed, where d is the separation distance."
+  },
+  {
+    "id": 18,
+    "question": "The gravitational force between two protons is negligible compared to the electric force because:",
+    "options": [
+      "It cancels due to repulsion",
+      "Electric force is much stronger",
+      "Gravity doesn't affect protons",
+      "Electrons interfere"
+    ],
+    "answerIndex": 1,
+    "explanation": "The electric force between protons is about 10³⁶ times stronger than the gravitational force."
+  },
+  {
+    "id": 19,
+    "question": "The work done to move a 10⁻⁶ C charge through a 5000 V/m electric field across 2 m is:",
+    "options": ["0.01 J", "0.02 J", "0.001 J", "0.1 J"],
+    "answerIndex": 0,
+    "explanation": "V = Ed = (5000 V/m)(2 m) = 10000 V; W = qV = (10⁻⁶ C)(10000 V) = 0.01 J."
+  },
+  {
+    "id": 20,
+    "question": "Ohm's Law is written as:",
+    "options": ["V = IR", "I = R/V", "V = I/R", "R = VI"],
+    "answerIndex": 0,
+    "explanation": "Ohm's law states V = IR, where V is voltage, I is current, and R is resistance."
+  },
+  {
+    "id": 21,
+    "question": "What is the resistance of a conductor if a current of 2 A flows under a 10 V potential difference?",
+    "options": ["5 Ω", "10 Ω", "20 Ω", "0.2 Ω"],
+    "answerIndex": 0,
+    "explanation": "R = V/I = 10 V / 2 A = 5 Ω."
+  },
+  {
+    "id": 22,
+    "question": "What is the SI unit of resistance?",
+    "options": ["Watt", "Volt", "Ampere", "Ohm"],
+    "answerIndex": 3,
+    "explanation": "The ohm (Ω) is the SI unit of electrical resistance."
+  },
+  {
+    "id": 23,
+    "question": "When resistors are connected in series, the total resistance:",
+    "options": [
+      "Equals the largest resistance",
+      "Is the reciprocal sum",
+      "Is the sum of the resistances",
+      "Is the difference of the resistances"
+    ],
+    "answerIndex": 2,
+    "explanation": "For series resistors, R_total = R₁ + R₂ + R₃ + ..."
+  },
+  {
+    "id": 24,
+    "question": "The equivalent resistance of two 10 Ω resistors in parallel is:",
+    "options": ["5 Ω", "10 Ω", "20 Ω", "2 Ω"],
+    "answerIndex": 0,
+    "explanation": "For parallel resistors, 1/R = 1/10 + 1/10 = 2/10, so R = 5 Ω."
+  },
+  {
+    "id": 25,
+    "question": "Electric power in a circuit is given by:",
+    "options": ["P = I²/R", "P = IR", "P = VI", "P = R/V"],
+    "answerIndex": 2,
+    "explanation": "Electric power P = VI (voltage × current)."
+  },
+  {
+    "id": 26,
+    "question": "Which of the following materials is a good conductor of electricity?",
+    "options": ["Glass", "Wood", "Copper", "Plastic"],
+    "answerIndex": 2,
+    "explanation": "Copper is an excellent conductor of electricity due to its free electrons."
+  },
+  {
+    "id": 27,
+    "question": "The resistance of a conductor increases with:",
+    "options": [
+      "Decreasing temperature",
+      "Decreasing length",
+      "Increasing temperature",
+      "Decreasing resistivity"
+    ],
+    "answerIndex": 2,
+    "explanation": "For most metals, resistance increases with increasing temperature."
+  },
+  {
+    "id": 28,
+    "question": "What is the formula for resistivity?",
+    "options": ["ρ = RA/L", "ρ = RL/A", "ρ = A/(RL)", "ρ = L/(RA)"],
+    "answerIndex": 0,
+    "explanation": "Resistivity ρ = RA/L, where R is resistance, A is cross-sectional area, L is length."
+  },
+  {
+    "id": 29,
+    "question": "The resistance of a copper wire 20 m long and 0.5 mm in diameter is approximately (ρ = 1.7 × 10⁻⁸ Ω·m):",
+    "options": ["1.73 Ω", "17.3 Ω", "0.173 Ω", "3.46 Ω"],
+    "answerIndex": 0,
+    "explanation": "A = πr² = π(0.25×10⁻³)² = 1.96×10⁻⁷ m²; R = ρL/A = (1.7×10⁻⁸)(20)/(1.96×10⁻⁷) = 1.73 Ω."
+  },
+  {
+    "id": 30,
+    "question": "In a conductor, the flow of current is due to the movement of:",
+    "options": ["Protons", "Neutrons", "Electrons", "Holes"],
+    "answerIndex": 2,
+    "explanation": "In metallic conductors, current is due to the flow of free electrons."
+  },
+  {
+    "id": 31,
+    "question": "What is the unit of electric current?",
+    "options": ["Watt", "Coulomb", "Ampere", "Volt"],
+    "answerIndex": 2,
+    "explanation": "The ampere (A) is the SI unit of electric current."
+  },
+  {
+    "id": 32,
+    "question": "1 ampere equals:",
+    "options": ["1 C/s", "1 V/s", "1 J/C", "1 V/A"],
+    "answerIndex": 0,
+    "explanation": "1 ampere = 1 coulomb per second of charge flow."
+  },
+  {
+    "id": 33,
+    "question": "A 120-V appliance that draws 20 A of current consumes how much power?",
+    "options": ["140 W", "2.4 kW", "60 W", "0.6 kW"],
+    "answerIndex": 1,
+    "explanation": "P = VI = (120 V)(20 A) = 2400 W = 2.4 kW."
+  },
+  {
+    "id": 34,
+    "question": "A 1-kW heater connected to 240 V draws a current of:",
+    "options": ["2.4 A", "4.17 A", "8.33 A", "0.42 A"],
+    "answerIndex": 1,
+    "explanation": "I = P/V = 1000 W / 240 V = 4.17 A."
+  },
+  {
+    "id": 35,
+    "question": "Electric power in terms of resistance and current is:",
+    "options": ["P = V/R", "P = I²R", "P = V²R", "P = R/I²"],
+    "answerIndex": 1,
+    "explanation": "Since V = IR, P = VI = I(IR) = I²R."
+  },
+  {
+    "id": 36,
+    "question": "The potential difference across a battery with emf ε and internal resistance r when delivering current I is:",
+    "options": ["V = ε + Ir", "V = ε - Ir", "V = Ir - ε", "V = ε·Ir"],
+    "answerIndex": 1,
+    "explanation": "Terminal voltage V = ε - Ir, accounting for the voltage drop across internal resistance."
+  },
+  {
+    "id": 37,
+    "question": "A fuse is used in electrical circuits to:",
+    "options": [
+      "Increase current",
+      "Provide energy",
+      "Prevent overcurrent",
+      "Regulate voltage"
+    ],
+    "answerIndex": 2,
+    "explanation": "A fuse melts and breaks the circuit when current exceeds a safe value, preventing overcurrent."
+  },
+  {
+    "id": 38,
+    "question": "Two resistors of 10 Ω and 20 Ω are connected in series. Their equivalent resistance is:",
+    "options": ["5 Ω", "10 Ω", "20 Ω", "30 Ω"],
+    "answerIndex": 3,
+    "explanation": "Series: R = 10 + 20 = 30 Ω."
+  },
+  {
+    "id": 39,
+    "question": "Two resistors of 10 Ω and 20 Ω are connected in parallel. Their equivalent resistance is:",
+    "options": ["30 Ω", "15 Ω", "6.67 Ω", "0.15 Ω"],
+    "answerIndex": 2,
+    "explanation": "Parallel: 1/R = 1/10 + 1/20 = 3/20, so R = 20/3 = 6.67 Ω."
+  },
+  {
+    "id": 40,
+    "question": "In a series circuit, the current through each resistor is:",
+    "options": ["Different", "Divided", "The same", "Zero"],
+    "answerIndex": 2,
+    "explanation": "In series, the same current flows through all components."
+  },
+  {
+    "id": 41,
+    "question": "In a parallel circuit, the voltage across each resistor is:",
+    "options": ["Zero", "Different", "The same", "Doubled"],
+    "answerIndex": 2,
+    "explanation": "In parallel, the same voltage appears across all parallel branches."
+  },
+  {
+    "id": 42,
+    "question": "A Wheatstone bridge is balanced when:",
+    "options": [
+      "Current through galvanometer is maximum",
+      "No current flows through galvanometer",
+      "Voltage across battery is zero",
+      "Resistance is infinite"
+    ],
+    "answerIndex": 1,
+    "explanation": "A Wheatstone bridge is balanced when the galvanometer shows zero current."
+  },
+  {
+    "id": 43,
+    "question": "The equation for balancing a Wheatstone bridge is:",
+    "options": [
+      "R₁ + R₂ = R₃ + Rx",
+      "R₁/R₂ = R₃/Rx",
+      "R₁·R₂ = R₃·Rx",
+      "R₁ - R₂ = R₃ - Rx"
+    ],
+    "answerIndex": 1,
+    "explanation": "Balance condition: R₁/R₂ = R₃/Rx, so Rx = (R₂R₃)/R₁."
+  },
+  {
+    "id": 44,
+    "question": "A voltmeter is used to measure:",
+    "options": ["Resistance", "Current", "Voltage", "Power"],
+    "answerIndex": 2,
+    "explanation": "A voltmeter measures potential difference (voltage) and is connected in parallel."
+  },
+  {
+    "id": 45,
+    "question": "An ammeter is used to measure:",
+    "options": ["Voltage", "Resistance", "Current", "Power"],
+    "answerIndex": 2,
+    "explanation": "An ammeter measures electric current and is connected in series."
+  },
+  {
+    "id": 46,
+    "question": "A 50-Ω resistor and a 10-Ω resistor are connected in series to a 600-V supply. What is the current?",
+    "options": ["10 A", "12 A", "60 A", "0.1 A"],
+    "answerIndex": 0,
+    "explanation": "R_total = 50 + 10 = 60 Ω; I = V/R = 600/60 = 10 A."
+  },
+  {
+    "id": 47,
+    "question": "A 240-Ω bulb is connected in parallel with another 240-Ω bulb. The equivalent resistance is:",
+    "options": ["240 Ω", "480 Ω", "120 Ω", "60 Ω"],
+    "answerIndex": 2,
+    "explanation": "Parallel: 1/R = 1/240 + 1/240 = 2/240 = 1/120, so R = 120 Ω."
+  },
+  {
+    "id": 48,
+    "question": "What is the power dissipated in a 10-Ω resistor carrying 2 A of current?",
+    "options": ["20 W", "5 W", "40 W", "100 W"],
+    "answerIndex": 2,
+    "explanation": "P = I²R = (2 A)² × 10 Ω = 4 × 10 = 40 W."
+  },
+  {
+    "id": 49,
+    "question": "Which factor does not affect the resistance of a wire?",
+    "options": ["Material", "Temperature", "Current", "Length"],
+    "answerIndex": 2,
+    "explanation": "Resistance depends on material, length, cross-sectional area, and temperature, but not on current."
+  },
+  {
+    "id": 50,
+    "question": "What is the unit of resistivity?",
+    "options": ["Ω·m", "Ω/m", "A/Ω", "V·m"],
+    "answerIndex": 0,
+    "explanation": "Resistivity ρ is measured in ohm-meters (Ω·m)."
+  },
+  {
+    "id": 51,
+    "question": "When temperature increases, the resistance of a typical metal:",
+    "options": ["Remains constant", "Decreases", "Increases", "Becomes zero"],
+    "answerIndex": 2,
+    "explanation": "For metals, resistance increases with temperature due to increased lattice vibrations."
+  },
+  {
+    "id": 52,
+    "question": "A battery has emf 12 V and internal resistance 1 Ω. If the circuit draws 2 A, terminal voltage is:",
+    "options": ["14 V", "10 V", "12 V", "8 V"],
+    "answerIndex": 1,
+    "explanation": "V = ε - Ir = 12 - (2)(1) = 10 V."
+  },
+  {
+    "id": 53,
+    "question": "How many electrons flow per second in a 3 A current? (e = 1.6 × 10⁻¹⁹ C)",
+    "options": ["1.87 × 10¹⁸", "3.75 × 10¹⁹", "1.87 × 10¹⁹", "3.75 × 10¹⁸"],
+    "answerIndex": 2,
+    "explanation": "Number = I/e = 3 / (1.6 × 10⁻¹⁹) = 1.875 × 10¹⁹ electrons/s."
+  },
+  {
+    "id": 54,
+    "question": "Which of the following devices stores electrical energy chemically?",
+    "options": ["Resistor", "Capacitor", "Generator", "Battery"],
+    "answerIndex": 3,
+    "explanation": "A battery stores chemical energy and converts it to electrical energy."
+  },
+  {
+    "id": 55,
+    "question": "Electric power is measured in:",
+    "options": ["Joules", "Watts", "Volts", "Amperes"],
+    "answerIndex": 1,
+    "explanation": "Power is measured in watts (W)."
+  },
+  {
+    "id": 56,
+    "question": "An electric field of 1000 V/m exerts what force on a +1.6 × 10⁻¹⁹ C charge?",
+    "options": [
+      "1.6 × 10²² N",
+      "1.6 × 10⁻¹⁶ N",
+      "1.6 × 10⁻¹⁹ N",
+      "1.6 × 10¹² N"
+    ],
+    "answerIndex": 1,
+    "explanation": "F = qE = (1.6 × 10⁻¹⁹)(1000) = 1.6 × 10⁻¹⁶ N."
+  },
+  {
+    "id": 57,
+    "question": "A plastic sphere has a net charge of +1.6 × 10⁻¹⁹ C. It has how many excess protons?",
+    "options": ["10", "1", "100", "1.6"],
+    "answerIndex": 1,
+    "explanation": "Number = q/e = (1.6 × 10⁻¹⁹)/(1.6 × 10⁻¹⁹) = 1 proton."
+  },
+  {
+    "id": 58,
+    "question": "The electric field around a point charge varies with distance as:",
+    "options": ["1/r", "1/r²", "r", "r²"],
+    "answerIndex": 1,
+    "explanation": "E = kq/r², so it varies inversely with the square of the distance."
+  },
+  {
+    "id": 59,
+    "question": "Field lines around a positive point charge:",
+    "options": [
+      "Point inward",
+      "Are circular",
+      "Point outward",
+      "Are parallel"
+    ],
+    "answerIndex": 2,
+    "explanation": "Electric field lines point radially outward from a positive charge."
+  },
+  {
+    "id": 60,
+    "question": "Field lines around a negative point charge:",
+    "options": [
+      "Point outward",
+      "Are circular",
+      "Point inward",
+      "Are parallel"
+    ],
+    "answerIndex": 2,
+    "explanation": "Electric field lines point radially inward toward a negative charge."
+  },
+  {
+    "id": 61,
+    "question": "Which of the following has the lowest resistivity?",
+    "options": ["Copper", "Nichrome", "Iron", "Carbon"],
+    "answerIndex": 0,
+    "explanation": "Copper has very low resistivity (1.7 × 10⁻⁸ Ω·m), making it an excellent conductor."
+  },
+  {
+    "id": 62,
+    "question": "In a circuit, if power is 90 W and voltage is 30 V, what is the current?",
+    "options": ["3 A", "0.33 A", "60 A", "2 A"],
+    "answerIndex": 0,
+    "explanation": "I = P/V = 90/30 = 3 A."
+  },
+  {
+    "id": 63,
+    "question": "An electric motor draws 25 A from a 240 V source. Its resistance is:",
+    "options": ["6.0 Ω", "9.6 Ω", "0.104 Ω", "12.5 Ω"],
+    "answerIndex": 1,
+    "explanation": "R = V/I = 240/25 = 9.6 Ω."
+  },
+  {
+    "id": 64,
+    "question": "If two equal charges are 5 cm apart and repel with a force of 0.36 N, the value of one charge is (k = 9 × 10⁹):",
+    "options": ["1 × 10⁻⁷ C", "1 × 10⁻⁶ C", "2 × 10⁻⁷ C", "1 × 10⁻⁵ C"],
+    "answerIndex": 0,
+    "explanation": "F = kq²/r² → q = √(Fr²/k) = √(0.36 × 0.05² / 9×10⁹) = 1 × 10⁻⁷ C."
+  },
+  {
+    "id": 65,
+    "question": "A resistor has color bands: red, violet, orange, gold. Its resistance is:",
+    "options": ["2.7 kΩ ± 5%", "27 kΩ ± 5%", "2.7 kΩ ± 10%", "27 kΩ ± 10%"],
+    "answerIndex": 1,
+    "explanation": "Red=2, Violet=7, Orange=3 zeros → 27,000 Ω = 27 kΩ, gold=±5%."
+  },
+  {
+    "id": 66,
+    "question": "What is the current through a 6 Ω resistor when 12 V is applied?",
+    "options": ["2 A", "0.5 A", "72 A", "6 A"],
+    "answerIndex": 0,
+    "explanation": "I = V/R = 12/6 = 2 A."
+  },
+  {
+    "id": 67,
+    "question": "An electric field does no work on a particle that:",
+    "options": [
+      "Moves perpendicular to the field",
+      "Moves parallel to the field",
+      "Has a charge",
+      "Has mass"
+    ],
+    "answerIndex": 0,
+    "explanation": "Work = Fd cosθ, so when motion is perpendicular to force (θ=90°), work = 0."
+  },
+  {
+    "id": 68,
+    "question": "What is the power consumed by a 20 Ω resistor with 3 A flowing through it?",
+    "options": ["20 W", "60 W", "180 W", "9 W"],
+    "answerIndex": 2,
+    "explanation": "P = I²R = (3)² × 20 = 9 × 20 = 180 W."
+  },
+  {
+    "id": 69,
+    "question": "The charge of one electron is:",
+    "options": ["+1.6 × 10⁻¹⁹ C", "-1.6 × 10⁻¹⁹ C", "0 C", "+1.6 × 10⁻¹⁵ C"],
+    "answerIndex": 1,
+    "explanation": "An electron has a negative charge of -1.6 × 10⁻¹⁹ C."
+  },
+  {
+    "id": 70,
+    "question": "In which configuration is current the same through all resistors?",
+    "options": ["Series", "Parallel", "Mixed", "None"],
+    "answerIndex": 0,
+    "explanation": "In series circuits, current is the same through all components."
+  },
+  {
+    "id": 71,
+    "question": "The rate at which electric energy is converted into another form is called:",
+    "options": ["Voltage", "Resistance", "Power", "Charge"],
+    "answerIndex": 2,
+    "explanation": "Power is the rate of energy conversion or transfer."
+  },
+  {
+    "id": 72,
+    "question": "The potential difference needed to produce an electric field of 500 V/m across 0.2 m is:",
+    "options": ["250 V", "1000 V", "200 V", "100 V"],
+    "answerIndex": 3,
+    "explanation": "V = Ed = (500)(0.2) = 100 V."
+  },
+  {
+    "id": 73,
+    "question": "When a conductor is in electrostatic equilibrium, the electric field inside it is:",
+    "options": ["Zero", "Constant", "Maximum", "Infinite"],
+    "answerIndex": 0,
+    "explanation": "In electrostatic equilibrium, the electric field inside a conductor is zero."
+  },
+  {
+    "id": 74,
+    "question": "A 12-V battery delivers 15 C/s. What power does it deliver?",
+    "options": ["1.25 W", "180 W", "12 W", "0.8 W"],
+    "answerIndex": 1,
+    "explanation": "15 C/s = 15 A; P = VI = 12 × 15 = 180 W."
+  },
+  {
+    "id": 75,
+    "question": "An electron is placed in an electric field of 4000 V/m. What is the force on it?",
+    "options": [
+      "6.4 × 10⁻¹⁶ N",
+      "3.2 × 10⁻¹⁵ N",
+      "1.6 × 10⁻¹⁹ N",
+      "4.0 × 10⁻¹⁶ N"
+    ],
+    "answerIndex": 0,
+    "explanation": "F = eE = (1.6 × 10⁻¹⁹)(4000) = 6.4 × 10⁻¹⁶ N."
+  },
+  {
+    "id": 76,
+    "question": "Which statement about electric field lines is correct?",
+    "options": [
+      "They intersect at right angles",
+      "They always form closed loops",
+      "They originate on positive and terminate on negative charges",
+      "They move in circular paths"
+    ],
+    "answerIndex": 2,
+    "explanation": "Electric field lines start on positive charges and end on negative charges."
+  },
+  {
+    "id": 77,
+    "question": "What energy is used when a 240-V dryer runs at 15 A for 2 hours?",
+    "options": ["7.2 kWh", "2.4 kWh", "3.6 kWh", "4.8 kWh"],
+    "answerIndex": 0,
+    "explanation": "P = VI = 240 × 15 = 3600 W = 3.6 kW; Energy = Pt = 3.6 kW × 2 h = 7.2 kWh."
+  },
+  {
+    "id": 78,
+    "question": "A bulb rated 60 W, 120 V draws what current?",
+    "options": ["0.5 A", "2 A", "0.25 A", "1 A"],
+    "answerIndex": 0,
+    "explanation": "I = P/V = 60/120 = 0.5 A."
+  },
+  {
+    "id": 79,
+    "question": "A 10-Ω resistor carries 0.5 A. Voltage across it is:",
+    "options": ["5 V", "10 V", "0.5 V", "20 V"],
+    "answerIndex": 0,
+    "explanation": "V = IR = 0.5 × 10 = 5 V."
+  },
+  {
+    "id": 80,
+    "question": "If 120 V is applied to a 20-Ω resistor, what is the current?",
+    "options": ["6 A", "2 A", "4 A", "0.17 A"],
+    "answerIndex": 0,
+    "explanation": "I = V/R = 120/20 = 6 A."
+  },
+  {
+    "id": 81,
+    "question": "Which equation represents power in terms of voltage and resistance?",
+    "options": ["P = I²R", "P = V²/R", "P = IV", "P = V/I"],
+    "answerIndex": 1,
+    "explanation": "P = V²/R (since I = V/R, substitute into P = VI = V(V/R) = V²/R)."
+  },
+  {
+    "id": 82,
+    "question": "The power loss in wires increases with:",
+    "options": [
+      "Lower resistance",
+      "Higher current",
+      "Lower voltage",
+      "Shorter wires"
+    ],
+    "answerIndex": 1,
+    "explanation": "Power loss = I²R, so it increases with higher current."
+  },
+  {
+    "id": 83,
+    "question": "When two identical bulbs are connected in series, each receives:",
+    "options": [
+      "Half the voltage",
+      "Full voltage",
+      "Zero voltage",
+      "Unequal voltage"
+    ],
+    "answerIndex": 0,
+    "explanation": "In series, voltage divides equally across identical bulbs."
+  },
+  {
+    "id": 84,
+    "question": "If a current of 1 A flows for 2 minutes, how much charge passes?",
+    "options": ["60 C", "120 C", "30 C", "2 C"],
+    "answerIndex": 1,
+    "explanation": "Q = I × t = 1 A × 120 s = 120 C."
+  },
+  {
+    "id": 85,
+    "question": "Which of the following increases resistance?",
+    "options": [
+      "Decreasing length",
+      "Increasing cross-sectional area",
+      "Increasing temperature (in metals)",
+      "Using copper instead of nichrome"
+    ],
+    "answerIndex": 2,
+    "explanation": "For metals, resistance increases with temperature."
+  },
+  {
+    "id": 86,
+    "question": "What is the force between two 1-C charges placed 1 m apart?",
+    "options": [
+      "9 × 10⁹ N",
+      "8.85 × 10⁻¹² N",
+      "1.6 × 10⁻¹⁹ N",
+      "6.67 × 10⁻¹¹ N"
+    ],
+    "answerIndex": 0,
+    "explanation": "F = kq₁q₂/r² = (9×10⁹)(1)(1)/1² = 9×10⁹ N (repulsive)."
+  },
+  {
+    "id": 87,
+    "question": "Which term describes the flow of electric charge?",
+    "options": ["Voltage", "Resistance", "Current", "Capacitance"],
+    "answerIndex": 2,
+    "explanation": "Current is the rate of flow of electric charge."
+  },
+  {
+    "id": 88,
+    "question": "What happens to the resistance of a wire if its length is doubled and cross-sectional area is halved?",
+    "options": [
+      "It becomes 4 times larger",
+      "It remains the same",
+      "It becomes half",
+      "It becomes one-fourth"
+    ],
+    "answerIndex": 0,
+    "explanation": "R = ρL/A. If L doubles and A halves, R becomes ρ(2L)/(A/2) = 4ρL/A = 4R₀."
+  },
+  {
+    "id": 89,
+    "question": "The SI unit for electric potential (voltage) is:",
+    "options": ["Coulomb", "Watt", "Joule", "Volt"],
+    "answerIndex": 3,
+    "explanation": "The volt (V) is the SI unit of electric potential."
+  },
+  {
+    "id": 90,
+    "question": "A copper wire has lower resistance than a nichrome wire of the same dimensions because copper:",
+    "options": [
+      "Has smaller atomic radius",
+      "Has lower resistivity",
+      "Has more electrons",
+      "Is denser"
+    ],
+    "answerIndex": 1,
+    "explanation": "Copper has much lower resistivity (1.7×10⁻⁸ Ω·m) than nichrome (≈10⁻⁶ Ω·m)."
+  },
+  {
+    "id": 91,
+    "question": "What is the potential difference required to move 2 C of charge through a 10 Ω resistor in 4 seconds?",
+    "options": ["5 V", "2.5 V", "10 V", "20 V"],
+    "answerIndex": 0,
+    "explanation": "I = Q/t = 2/4 = 0.5 A; V = IR = 0.5 × 10 = 5 V."
+  },
+  {
+    "id": 92,
+    "question": "Which condition results in the highest power dissipation for a resistor?",
+    "options": [
+      "Low current",
+      "Low resistance",
+      "High voltage",
+      "High current"
+    ],
+    "answerIndex": 3,
+    "explanation": "P = I²R, so power increases with the square of current."
+  },
+  {
+    "id": 93,
+    "question": "A charged object is brought near a neutral conductor. The conductor:",
+    "options": [
+      "Gains charge by contact",
+      "Becomes permanently charged",
+      "Polarizes",
+      "Remains unaffected"
+    ],
+    "answerIndex": 2,
+    "explanation": "The conductor polarizes - charges redistribute but net charge remains zero."
+  },
+  {
+    "id": 94,
+    "question": "A 1.5-V battery connected to a 0.5-Ω resistor provides a current of:",
+    "options": ["3 A", "0.3 A", "7.5 A", "1 A"],
+    "answerIndex": 0,
+    "explanation": "I = V/R = 1.5/0.5 = 3 A."
+  },
+  {
+    "id": 95,
+    "question": "The resistance of a wire depends on:",
+    "options": [
+      "Voltage applied",
+      "Type of current",
+      "Material and dimensions",
+      "Current only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Resistance depends on material, length, and cross-sectional area."
+  },
+  {
+    "id": 96,
+    "question": "A 10-Ω and a 30-Ω resistor in parallel have an equivalent resistance of:",
+    "options": ["5 Ω", "7.5 Ω", "20 Ω", "40 Ω"],
+    "answerIndex": 1,
+    "explanation": "1/R = 1/10 + 1/30 = 4/30 = 2/15, so R = 7.5 Ω."
+  },
+  {
+    "id": 97,
+    "question": "In an electric field, the acceleration of a charged particle is:",
+    "options": [
+      "Constant",
+      "Zero",
+      "Variable depending on force and mass",
+      "Infinite"
+    ],
+    "answerIndex": 2,
+    "explanation": "a = F/m = qE/m, so acceleration depends on q, E, and m."
+  },
+  {
+    "id": 98,
+    "question": "An electron moving parallel to electric field lines will:",
+    "options": [
+      "Gain kinetic energy",
+      "Move in a circle",
+      "Lose energy",
+      "Remain stationary"
+    ],
+    "answerIndex": 2,
+    "explanation": "Since electron charge is negative, force opposes field direction, so it loses energy when moving parallel to field lines."
+  },
+  {
+    "id": 99,
+    "question": "Electric energy delivered over time is measured in:",
+    "options": ["Volts", "Amperes", "Kilowatt-hours", "Ohm-seconds"],
+    "answerIndex": 2,
+    "explanation": "Energy is measured in kilowatt-hours (kWh) for practical applications."
+  },
+  {
+    "id": 100,
+    "question": "A fuse is rated at 5 A. Which current would cause it to blow?",
+    "options": ["4 A", "3 A", "5 A", "6 A"],
+    "answerIndex": 3,
+    "explanation": "A fuse blows when current exceeds its rating, so 6 A would blow a 5 A fuse."
+  },
+  {
+    "id": 101,
+    "question": "When electrons are removed from an object, it becomes:",
+    "options": [
+      "Negatively charged",
+      "Positively charged",
+      "Neutral",
+      "Grounded"
+    ],
+    "answerIndex": 1,
+    "explanation": "Removing electrons (negative charges) leaves excess positive charge."
+  },
+  {
+    "id": 102,
+    "question": "The field inside a uniformly charged spherical shell is:",
+    "options": ["Strongest at the center", "Zero", "Uniform", "Infinite"],
+    "answerIndex": 1,
+    "explanation": "By Gauss's law, the electric field inside a uniformly charged spherical shell is zero."
+  },
+  {
+    "id": 103,
+    "question": "The energy stored in a battery is in what form?",
+    "options": ["Magnetic", "Thermal", "Chemical", "Mechanical"],
+    "answerIndex": 2,
+    "explanation": "A battery stores chemical energy and converts it to electrical energy."
+  },
+  {
+    "id": 104,
+    "question": "What is the energy delivered by a 100 W bulb left on for 3 hours?",
+    "options": ["300 J", "1800 J", "0.3 kWh", "30 kWh"],
+    "answerIndex": 2,
+    "explanation": "Energy = 0.1 kW × 3 h = 0.3 kWh."
+  },
+  {
+    "id": 105,
+    "question": "The effect of internal resistance is to:",
+    "options": [
+      "Increase terminal voltage",
+      "Decrease current",
+      "Decrease terminal voltage",
+      "Increase current"
+    ],
+    "answerIndex": 2,
+    "explanation": "Internal resistance causes a voltage drop Ir, reducing terminal voltage."
+  },
+  {
+    "id": 106,
+    "question": "A voltmeter is always connected in:",
+    "options": [
+      "Series",
+      "Parallel",
+      "Either series or parallel",
+      "Perpendicular"
+    ],
+    "answerIndex": 1,
+    "explanation": "A voltmeter is connected in parallel to measure potential difference across a component."
+  },
+  {
+    "id": 107,
+    "question": "An ammeter is always connected in:",
+    "options": [
+      "Series",
+      "Parallel",
+      "Either series or parallel",
+      "Perpendicular"
+    ],
+    "answerIndex": 0,
+    "explanation": "An ammeter is connected in series to measure current through a component."
+  },
+  {
+    "id": 108,
+    "question": "What is the magnetic force on a stationary charge in a magnetic field?",
+    "options": ["qvB", "qE", "Zero", "qvB sinθ"],
+    "answerIndex": 2,
+    "explanation": "Magnetic force F = qvB sinθ, so if v = 0, F = 0."
+  },
+  {
+    "id": 109,
+    "question": "The direction of the magnetic field around a straight current-carrying wire is given by:",
+    "options": [
+      "Left-hand rule",
+      "Right-hand rule",
+      "Fleming's rule",
+      "Cork-screw rule"
+    ],
+    "answerIndex": 1,
+    "explanation": "The right-hand rule: thumb in current direction, fingers curl in field direction."
+  },
+  {
+    "id": 110,
+    "question": "The magnetic field a distance s from a long straight current I is:",
+    "options": ["B = μ₀I/2πs", "B = μ₀I/2s", "B = μ₀I/πs", "B = 2πμ₀I/s"],
+    "answerIndex": 0,
+    "explanation": "B = (μ₀I)/(2πs) for a long straight current-carrying wire."
+  },
+  {
+    "id": 111,
+    "question": "The value of μ₀ (permeability of free space) is:",
+    "options": [
+      "4π × 10⁻⁷ T·m/A",
+      "8.85 × 10⁻¹² T·m/A",
+      "9 × 10⁹ T·m/A",
+      "1.6 × 10⁻¹⁹ T·m/A"
+    ],
+    "answerIndex": 0,
+    "explanation": "μ₀ = 4π × 10⁻⁷ T·m/A = 1.257 × 10⁻⁶ T·m/A."
+  },
+  {
+    "id": 112,
+    "question": "The magnetic field at the center of a current loop of radius r is:",
+    "options": ["B = μ₀I/2r", "B = μ₀I/2πr", "B = μ₀I/2πr²", "B = μ₀I/2r²"],
+    "answerIndex": 0,
+    "explanation": "B = (μ₀I)/(2r) at the center of a circular current loop."
+  },
+  {
+    "id": 113,
+    "question": "The magnetic field inside a long solenoid is:",
+    "options": ["B = μ₀nI", "B = μ₀I/2πr", "B = μ₀I/2r", "B = μ₀nI/2πr"],
+    "answerIndex": 0,
+    "explanation": "B = μ₀nI, where n = N/L is the number of turns per unit length."
+  },
+  {
+    "id": 114,
+    "question": "Two parallel wires carrying currents in the same direction:",
+    "options": [
+      "Repel each other",
+      "Attract each other",
+      "Have no effect",
+      "Rotate"
+    ],
+    "answerIndex": 1,
+    "explanation": "Parallel currents in the same direction attract each other."
+  },
+  {
+    "id": 115,
+    "question": "Two parallel wires carrying currents in opposite directions:",
+    "options": [
+      "Attract each other",
+      "Repel each other",
+      "Have no effect",
+      "Rotate"
+    ],
+    "answerIndex": 1,
+    "explanation": "Parallel currents in opposite directions repel each other."
+  },
+  {
+    "id": 116,
+    "question": "The force per unit length between two parallel currents I₁ and I₂ separated by distance s is:",
+    "options": [
+      "F/L = (μ₀/2π)(I₁I₂/s)",
+      "F/L = (μ₀/2π)(I₁I₂/s²)",
+      "F/L = (μ₀/2π)(I₁I₂)s",
+      "F/L = (μ₀/2π)(I₁+I₂)/s"
+    ],
+    "answerIndex": 0,
+    "explanation": "F/L = (μ₀/2π)(I₁I₂/s) for parallel currents."
+  },
+  {
+    "id": 117,
+    "question": "The unit of magnetic field is the:",
+    "options": ["Tesla", "Weber", "Gauss", "All of the above"],
+    "answerIndex": 3,
+    "explanation": "Magnetic field B is measured in tesla (T), weber/m², or gauss (1 G = 10⁻⁴ T)."
+  },
+  {
+    "id": 118,
+    "question": "1 tesla equals:",
+    "options": ["1 N/(A·m)", "1 Wb/m²", "10⁴ gauss", "All of the above"],
+    "answerIndex": 3,
+    "explanation": "1 T = 1 N/(A·m) = 1 Wb/m² = 10⁴ G."
+  },
+  {
+    "id": 119,
+    "question": "The magnetic force on a charge q moving with velocity v perpendicular to magnetic field B is:",
+    "options": ["F = qvB", "F = qv/B", "F = qB/v", "F = q/vB"],
+    "answerIndex": 0,
+    "explanation": "When v ⟂ B, sinθ = 1, so F = qvB."
+  },
+  {
+    "id": 120,
+    "question": "The direction of magnetic force on a moving positive charge is given by:",
+    "options": [
+      "Left-hand rule",
+      "Right-hand rule",
+      "Fleming's left-hand rule",
+      "Cork-screw rule"
+    ],
+    "answerIndex": 2,
+    "explanation": "Fleming's left-hand rule gives force direction for positive charge motion in magnetic field."
+  },
+  {
+    "id": 121,
+    "question": "A current-carrying wire in a magnetic field experiences maximum force when:",
+    "options": [
+      "Wire is parallel to field",
+      "Wire is perpendicular to field",
+      "Wire is at 45° to field",
+      "Current is zero"
+    ],
+    "answerIndex": 1,
+    "explanation": "F = ILB sinθ, maximum when θ = 90° (wire ⟂ field)."
+  },
+  {
+    "id": 122,
+    "question": "A current-carrying wire in a magnetic field experiences zero force when:",
+    "options": [
+      "Wire is perpendicular to field",
+      "Wire is parallel to field",
+      "Current is high",
+      "Field is strong"
+    ],
+    "answerIndex": 1,
+    "explanation": "F = ILB sinθ = 0 when θ = 0° (wire parallel to field)."
+  },
+  {
+    "id": 123,
+    "question": "A current loop in a magnetic field tends to rotate so that its plane becomes:",
+    "options": [
+      "Parallel to the field",
+      "Perpendicular to the field",
+      "At 45° to the field",
+      "Random"
+    ],
+    "answerIndex": 1,
+    "explanation": "The torque aligns the loop's magnetic moment with the field, making its plane perpendicular to B."
+  },
+  {
+    "id": 124,
+    "question": "The earth's magnetic field is approximately:",
+    "options": ["0.5 T", "5 × 10⁻⁵ T", "5 T", "0 T"],
+    "answerIndex": 1,
+    "explanation": "Earth's magnetic field is about 0.3-0.6 × 10⁻⁴ T (0.3-0.6 G)."
+  },
+  {
+    "id": 125,
+    "question": "A proton moves north in a magnetic field directed east. The force on it is:",
+    "options": ["Up", "Down", "West", "Zero"],
+    "answerIndex": 1,
+    "explanation": "Using right-hand rule: v north, B east → force out of page? Actually F = qv×B gives direction perpendicular to both. If v north, B east, force is upward if positive? Let's check: north (y), east (x) → cross product = out of page? Actually, v = +y, B = +x, v×B = +z (up) for right-handed system."
+  },
+  {
+    "id": 126,
+    "question": "An electron moves north in a magnetic field directed east. The force on it is:",
+    "options": ["Up", "Down", "West", "Zero"],
+    "answerIndex": 0,
+    "explanation": "For positive charge, force is up. For electron (negative), force is opposite, so down."
+  },
+  {
+    "id": 127,
+    "question": "The radius of the circular path of a charged particle in a perpendicular magnetic field is:",
+    "options": ["r = mv/qB", "r = qB/mv", "r = mv²/qB", "r = qB/mv²"],
+    "answerIndex": 0,
+    "explanation": "Centripetal force = magnetic force: mv²/r = qvB → r = mv/qB."
+  },
+  {
+    "id": 128,
+    "question": "The period of revolution of a charged particle in a uniform magnetic field is:",
+    "options": ["T = 2πm/qB", "T = qB/2πm", "T = 2πr/v", "T = 2πm/qB²"],
+    "answerIndex": 0,
+    "explanation": "T = 2πr/v = 2π(mv/qB)/v = 2πm/qB (independent of v and r)."
+  },
+  {
+    "id": 129,
+    "question": "Ferromagnetic materials have permeability μ:",
+    "options": ["Less than μ₀", "Equal to μ₀", "Greater than μ₀", "Zero"],
+    "answerIndex": 2,
+    "explanation": "Ferromagnetic materials (iron, nickel, cobalt) have μ >> μ₀."
+  },
+  {
+    "id": 130,
+    "question": "Diamagnetic materials have permeability μ:",
+    "options": ["Less than μ₀", "Equal to μ₀", "Greater than μ₀", "Infinite"],
+    "answerIndex": 0,
+    "explanation": "Diamagnetic materials (copper, water) have μ slightly less than μ₀."
+  },
+  {
+    "id": 131,
+    "question": "Paramagnetic materials have permeability μ:",
+    "options": [
+      "Less than μ₀",
+      "Slightly greater than μ₀",
+      "Much greater than μ₀",
+      "Zero"
+    ],
+    "answerIndex": 1,
+    "explanation": "Paramagnetic materials (aluminum) have μ slightly greater than μ₀."
+  },
+  {
+    "id": 132,
+    "question": "Magnetic intensity H is defined as:",
+    "options": ["H = B/μ", "H = μB", "H = Bμ", "H = B + μ"],
+    "answerIndex": 0,
+    "explanation": "H = B/μ, where μ is permeability of the medium."
+  },
+  {
+    "id": 133,
+    "question": "The unit of magnetic intensity H is:",
+    "options": ["Tesla", "A/m", "Wb/m²", "N/(A·m)"],
+    "answerIndex": 1,
+    "explanation": "H is measured in amperes per meter (A/m)."
+  },
+  {
+    "id": 134,
+    "question": "A magnetic material that retains magnetization after the external field is removed is called:",
+    "options": [
+      "Diamagnetic",
+      "Paramagnetic",
+      "Ferromagnetic",
+      "Permanent magnet"
+    ],
+    "answerIndex": 3,
+    "explanation": "Materials with high retentivity make good permanent magnets."
+  },
+  {
+    "id": 135,
+    "question": "The phenomenon of lagging of B behind H in a magnetic material is called:",
+    "options": ["Hysteresis", "Retentivity", "Coercivity", "Saturation"],
+    "answerIndex": 0,
+    "explanation": "Hysteresis is the lag between B and H when magnetization changes."
+  },
+  {
+    "id": 136,
+    "question": "The value of B when H = 0 in a magnetic material is called:",
+    "options": ["Saturation", "Retentivity", "Coercivity", "Permeability"],
+    "answerIndex": 1,
+    "explanation": "Retentivity (remanence) is the residual B when H returns to zero."
+  },
+  {
+    "id": 137,
+    "question": "The reverse H needed to reduce B to zero in a magnetic material is called:",
+    "options": ["Retentivity", "Saturation", "Coercivity", "Permeability"],
+    "answerIndex": 2,
+    "explanation": "Coercivity is the reverse magnetic intensity needed to demagnetize the material."
+  },
+  {
+    "id": 138,
+    "question": "Electromagnetic induction is the production of:",
+    "options": [
+      "Electric field by magnetic field",
+      "Magnetic field by electric current",
+      "EMF by changing magnetic flux",
+      "Current by electric field"
+    ],
+    "answerIndex": 2,
+    "explanation": "Electromagnetic induction produces an EMF when magnetic flux changes."
+  },
+  {
+    "id": 139,
+    "question": "Faraday's law states that induced EMF equals:",
+    "options": ["-N dΦ/dt", "-dΦ/dt", "-N Φ", "-N dΦ/dx"],
+    "answerIndex": 0,
+    "explanation": "Faraday's law: ε = -N dΦ/dt, where Φ is magnetic flux."
+  },
+  {
+    "id": 140,
+    "question": "Lenz's law states that induced current opposes:",
+    "options": [
+      "The magnetic field",
+      "The change that produced it",
+      "The motion",
+      "The current"
+    ],
+    "answerIndex": 1,
+    "explanation": "Lenz's law: induced current opposes the change in flux that produced it."
+  },
+  {
+    "id": 141,
+    "question": "The unit of magnetic flux is the:",
+    "options": ["Tesla", "Weber", "Gauss", "Henry"],
+    "answerIndex": 1,
+    "explanation": "Magnetic flux Φ is measured in webers (Wb). 1 Wb = 1 T·m²."
+  },
+  {
+    "id": 142,
+    "question": "Magnetic flux through an area A with field B at angle θ is:",
+    "options": ["Φ = BA sinθ", "Φ = BA cosθ", "Φ = BA tanθ", "Φ = B/A"],
+    "answerIndex": 1,
+    "explanation": "Φ = BA cosθ, where θ is angle between B and area normal."
+  },
+  {
+    "id": 143,
+    "question": "The motional EMF induced in a conductor of length L moving with velocity v perpendicular to B is:",
+    "options": ["ε = BLv", "ε = BL/v", "ε = Bv/L", "ε = Lv/B"],
+    "answerIndex": 0,
+    "explanation": "ε = BLv when v, B, and conductor are mutually perpendicular."
+  },
+  {
+    "id": 144,
+    "question": "A transformer works on the principle of:",
+    "options": [
+      "Self-inductance",
+      "Mutual inductance",
+      "Magnetic force",
+      "Electric force"
+    ],
+    "answerIndex": 1,
+    "explanation": "A transformer uses mutual inductance between primary and secondary coils."
+  },
+  {
+    "id": 145,
+    "question": "In a step-up transformer, the secondary voltage is:",
+    "options": [
+      "Less than primary",
+      "Greater than primary",
+      "Equal to primary",
+      "Zero"
+    ],
+    "answerIndex": 1,
+    "explanation": "Step-up transformer has more turns in secondary than primary: V₂ > V₁."
+  },
+  {
+    "id": 146,
+    "question": "In a step-down transformer, the secondary current is:",
+    "options": [
+      "Less than primary",
+      "Greater than primary",
+      "Equal to primary",
+      "Zero"
+    ],
+    "answerIndex": 1,
+    "explanation": "For step-down, V₂ < V₁, so I₂ > I₁ since power is conserved."
+  },
+  {
+    "id": 147,
+    "question": "The transformer equation relating voltages and turns is:",
+    "options": ["V₁/V₂ = N₁/N₂", "V₁/V₂ = N₂/N₁", "V₁V₂ = N₁N₂", "V₁N₁ = V₂N₂"],
+    "answerIndex": 0,
+    "explanation": "V₁/V₂ = N₁/N₂ for an ideal transformer."
+  },
+  {
+    "id": 148,
+    "question": "The transformer equation relating currents and turns is:",
+    "options": ["I₁/I₂ = N₁/N₂", "I₁/I₂ = N₂/N₁", "I₁I₂ = N₁N₂", "I₁N₁ = I₂N₂"],
+    "answerIndex": 1,
+    "explanation": "I₁/I₂ = N₂/N₁ from power conservation: V₁I₁ = V₂I₂ and V₁/V₂ = N₁/N₂."
+  },
+  {
+    "id": 149,
+    "question": "The self-inductance L of a coil is defined by:",
+    "options": ["ε = -L dI/dt", "ε = -L I", "ε = -L dΦ/dt", "ε = -L dI/dx"],
+    "answerIndex": 0,
+    "explanation": "Self-induced EMF ε = -L dI/dt, where L is inductance."
+  },
+  {
+    "id": 150,
+    "question": "The unit of inductance is the:",
+    "options": ["Henry", "Tesla", "Weber", "Farad"],
+    "answerIndex": 0,
+    "explanation": "Inductance is measured in henrys (H). 1 H = 1 V·s/A."
+  },
+  {
+    "id": 151,
+    "question": "The inductance of a solenoid with N turns, area A, length l is:",
+    "options": ["L = μ₀N²A/l", "L = μ₀N A/l", "L = μ₀N²l/A", "L = μ₀N A l"],
+    "answerIndex": 0,
+    "explanation": "L = μ₀N²A/l for an air-core solenoid."
+  },
+  {
+    "id": 152,
+    "question": "The energy stored in an inductor carrying current I is:",
+    "options": ["W = ½LI²", "W = LI²", "W = ½LI", "W = ½L²I"],
+    "answerIndex": 0,
+    "explanation": "Magnetic energy in an inductor is W = ½LI²."
+  },
+  {
+    "id": 153,
+    "question": "The time constant of an RL circuit is:",
+    "options": ["τ = R/L", "τ = L/R", "τ = RL", "τ = 1/RL"],
+    "answerIndex": 1,
+    "explanation": "The time constant τ = L/R for an RL circuit."
+  },
+  {
+    "id": 154,
+    "question": "In an RL circuit, the current reaches 63% of its final value in time:",
+    "options": ["τ", "2τ", "τ/2", "3τ"],
+    "answerIndex": 0,
+    "explanation": "After one time constant τ = L/R, current reaches (1 - 1/e) = 63% of final value."
+  },
+  {
+    "id": 155,
+    "question": "The time constant of an RC circuit is:",
+    "options": ["τ = RC", "τ = R/C", "τ = C/R", "τ = 1/RC"],
+    "answerIndex": 0,
+    "explanation": "The time constant τ = RC for an RC circuit."
+  },
+  {
+    "id": 156,
+    "question": "In an RC circuit, the charge on a charging capacitor reaches 63% of final value in time:",
+    "options": ["τ", "2τ", "τ/2", "3τ"],
+    "answerIndex": 0,
+    "explanation": "After τ = RC, charge reaches (1 - 1/e) = 63% of final charge."
+  },
+  {
+    "id": 157,
+    "question": "The capacitance of a parallel-plate capacitor with area A, separation d, dielectric constant K is:",
+    "options": ["C = Kε₀A/d", "C = Kε₀d/A", "C = Kε₀Ad", "C = Kε₀/A d"],
+    "answerIndex": 0,
+    "explanation": "C = Kε₀A/d, where ε₀ = 8.85 × 10⁻¹² F/m."
+  },
+  {
+    "id": 158,
+    "question": "The unit of capacitance is the:",
+    "options": ["Farad", "Henry", "Ohm", "Tesla"],
+    "answerIndex": 0,
+    "explanation": "Capacitance is measured in farads (F). 1 F = 1 C/V."
+  },
+  {
+    "id": 159,
+    "question": "1 microfarad (μF) equals:",
+    "options": ["10⁻³ F", "10⁻⁶ F", "10⁻⁹ F", "10⁻¹² F"],
+    "answerIndex": 1,
+    "explanation": "1 μF = 10⁻⁶ F."
+  },
+  {
+    "id": 160,
+    "question": "1 picofarad (pF) equals:",
+    "options": ["10⁻⁶ F", "10⁻⁹ F", "10⁻¹² F", "10⁻¹⁵ F"],
+    "answerIndex": 2,
+    "explanation": "1 pF = 10⁻¹² F."
+  },
+  {
+    "id": 161,
+    "question": "The energy stored in a capacitor with capacitance C and voltage V is:",
+    "options": ["W = ½CV²", "W = CV²", "W = ½C²V", "W = ½CV"],
+    "answerIndex": 0,
+    "explanation": "W = ½CV² = ½QV = ½Q²/C."
+  },
+  {
+    "id": 162,
+    "question": "For capacitors in series, the equivalent capacitance is given by:",
+    "options": [
+      "1/C = 1/C₁ + 1/C₂ + ...",
+      "C = C₁ + C₂ + ...",
+      "C = C₁C₂/(C₁+C₂)",
+      "Both A and C"
+    ],
+    "answerIndex": 3,
+    "explanation": "For series: 1/C_eq = 1/C₁ + 1/C₂ + ...; for two: C_eq = C₁C₂/(C₁+C₂)."
+  },
+  {
+    "id": 163,
+    "question": "For capacitors in parallel, the equivalent capacitance is:",
+    "options": [
+      "1/C = 1/C₁ + 1/C₂ + ...",
+      "C = C₁ + C₂ + ...",
+      "C = C₁C₂/(C₁+C₂)",
+      "None"
+    ],
+    "answerIndex": 1,
+    "explanation": "For parallel, C_eq = C₁ + C₂ + ..."
+  },
+  {
+    "id": 164,
+    "question": "When a dielectric is inserted into a capacitor connected to a battery, the capacitance:",
+    "options": ["Increases", "Decreases", "Stays the same", "Becomes zero"],
+    "answerIndex": 0,
+    "explanation": "Inserting a dielectric increases capacitance by factor K."
+  },
+  {
+    "id": 165,
+    "question": "When a dielectric is inserted into a charged isolated capacitor, the voltage:",
+    "options": ["Increases", "Decreases", "Stays the same", "Becomes zero"],
+    "answerIndex": 1,
+    "explanation": "With battery disconnected, Q constant; C increases, so V = Q/C decreases."
+  },
+  {
+    "id": 166,
+    "question": "A capacitor of 20 μF connected to a 100 V battery stores charge of:",
+    "options": ["0.002 C", "0.02 C", "0.2 C", "2 C"],
+    "answerIndex": 0,
+    "explanation": "Q = CV = 20×10⁻⁶ × 100 = 2×10⁻³ C = 0.002 C."
+  },
+  {
+    "id": 167,
+    "question": "The equivalent capacitance of two 10 μF capacitors in series is:",
+    "options": ["5 μF", "10 μF", "20 μF", "0.2 μF"],
+    "answerIndex": 0,
+    "explanation": "C_eq = (10×10)/(10+10) = 100/20 = 5 μF."
+  },
+  {
+    "id": 168,
+    "question": "The equivalent capacitance of two 10 μF capacitors in parallel is:",
+    "options": ["5 μF", "10 μF", "20 μF", "100 μF"],
+    "answerIndex": 2,
+    "explanation": "C_eq = 10 + 10 = 20 μF."
+  },
+  {
+    "id": 169,
+    "question": "A 5 μF capacitor stores 0.01 J of energy. The voltage across it is:",
+    "options": ["20 V", "63.2 V", "100 V", "200 V"],
+    "answerIndex": 1,
+    "explanation": "W = ½CV² → V = √(2W/C) = √(2×0.01/5×10⁻⁶) = √(4000) = 63.2 V."
+  },
+  {
+    "id": 170,
+    "question": "The force between two point charges is 10 N when separated by 10 cm. If separation becomes 20 cm, force becomes:",
+    "options": ["40 N", "20 N", "5 N", "2.5 N"],
+    "answerIndex": 2,
+    "explanation": "F ∝ 1/r², so doubling distance reduces force by factor 4: 10/4 = 2.5 N."
+  },
+  {
+    "id": 171,
+    "question": "If the charge on both of two point charges is doubled, the force between them becomes:",
+    "options": ["Same", "Double", "Quadruple", "Half"],
+    "answerIndex": 2,
+    "explanation": "F ∝ q₁q₂, so doubling both charges multiplies force by 4."
+  },
+  {
+    "id": 172,
+    "question": "If the distance between two point charges is halved, the force becomes:",
+    "options": ["Same", "Double", "Quadruple", "Half"],
+    "answerIndex": 2,
+    "explanation": "F ∝ 1/r², so halving distance multiplies force by 4."
+  },
+  {
+    "id": 173,
+    "question": "An electric dipole consists of:",
+    "options": [
+      "Two equal and opposite charges separated by a distance",
+      "Two like charges",
+      "Two magnetic poles",
+      "A single charge"
+    ],
+    "answerIndex": 0,
+    "explanation": "An electric dipole is a pair of equal and opposite charges separated by a small distance."
+  },
+  {
+    "id": 174,
+    "question": "The electric field at a point due to a dipole varies with distance as:",
+    "options": ["1/r", "1/r²", "1/r³", "1/√r"],
+    "answerIndex": 2,
+    "explanation": "Electric field of a dipole varies as 1/r³ at large distances."
+  },
+  {
+    "id": 175,
+    "question": "Gauss's law relates electric flux to:",
+    "options": ["Magnetic field", "Charge enclosed", "Current", "Voltage"],
+    "answerIndex": 1,
+    "explanation": "Gauss's law: Φ_E = ∮ E·dA = Q_enclosed/ε₀."
+  },
+  {
+    "id": 176,
+    "question": "The electric flux through a closed surface depends on:",
+    "options": [
+      "The shape of the surface",
+      "The size of the surface",
+      "The charge enclosed",
+      "All of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": "Gauss's law: flux depends only on charge enclosed, not on surface shape or size."
+  },
+  {
+    "id": 177,
+    "question": "The electric field inside a charged conductor in electrostatic equilibrium is:",
+    "options": ["Zero", "Constant", "Infinite", "Radial"],
+    "answerIndex": 0,
+    "explanation": "In electrostatic equilibrium, E = 0 inside a conductor."
+  },
+  {
+    "id": 178,
+    "question": "All excess charge on a conductor resides:",
+    "options": [
+      "Inside the conductor",
+      "On the surface",
+      "Evenly distributed",
+      "At the center"
+    ],
+    "answerIndex": 1,
+    "explanation": "Excess charge on a conductor resides entirely on its outer surface."
+  },
+  {
+    "id": 179,
+    "question": "The electric field just outside a charged conductor is:",
+    "options": [
+      "Zero",
+      "Perpendicular to the surface",
+      "Parallel to the surface",
+      "Radial"
+    ],
+    "answerIndex": 1,
+    "explanation": "E just outside a conductor is perpendicular to the surface."
+  },
+  {
+    "id": 180,
+    "question": "The electric field of an infinite line of charge varies as:",
+    "options": ["1/r", "1/r²", "1/r³", "Constant"],
+    "answerIndex": 0,
+    "explanation": "For an infinite line charge, E ∝ 1/r."
+  },
+  {
+    "id": 181,
+    "question": "The electric field of an infinite plane of charge is:",
+    "options": [
+      "Proportional to 1/r",
+      "Proportional to 1/r²",
+      "Constant",
+      "Zero"
+    ],
+    "answerIndex": 2,
+    "explanation": "For an infinite plane, E = σ/(2ε₀), constant independent of distance."
+  },
+  {
+    "id": 182,
+    "question": "Two 10-Ω resistors in series with a 20-V battery dissipate total power of:",
+    "options": ["10 W", "20 W", "40 W", "80 W"],
+    "answerIndex": 1,
+    "explanation": "R_total = 20 Ω, I = 20/20 = 1 A, P = I²R = 1 × 20 = 20 W."
+  },
+  {
+    "id": 183,
+    "question": "Two 10-Ω resistors in parallel with a 20-V battery dissipate total power of:",
+    "options": ["10 W", "20 W", "40 W", "80 W"],
+    "answerIndex": 3,
+    "explanation": "R_eq = 5 Ω, I_total = 20/5 = 4 A, P = I²R = 16 × 5 = 80 W."
+  },
+  {
+    "id": 184,
+    "question": "Kirchhoff's current law states that:",
+    "options": [
+      "Sum of voltages around a loop is zero",
+      "Sum of currents at a node is zero",
+      "Sum of powers is zero",
+      "Sum of resistances is constant"
+    ],
+    "answerIndex": 1,
+    "explanation": "KCL: The sum of currents entering a junction equals sum leaving (or ΣI = 0)."
+  },
+  {
+    "id": 185,
+    "question": "Kirchhoff's voltage law states that:",
+    "options": [
+      "Sum of currents at a node is zero",
+      "Sum of voltages around a closed loop is zero",
+      "Sum of powers is zero",
+      "Sum of EMFs is zero"
+    ],
+    "answerIndex": 1,
+    "explanation": "KVL: The sum of all voltage drops around any closed loop equals zero."
+  },
+  {
+    "id": 186,
+    "question": "The Wheatstone bridge is balanced when:",
+    "options": [
+      "R₁/R₂ = R₃/Rₓ",
+      "R₁R₂ = R₃Rₓ",
+      "R₁ + R₂ = R₃ + Rₓ",
+      "R₁ - R₂ = R₃ - Rₓ"
+    ],
+    "answerIndex": 0,
+    "explanation": "Balance condition: R₁/R₂ = R₃/Rₓ."
+  },
+  {
+    "id": 187,
+    "question": "The internal resistance of an ideal voltmeter is:",
+    "options": ["Zero", "Infinite", "Very low", "1 Ω"],
+    "answerIndex": 1,
+    "explanation": "An ideal voltmeter has infinite resistance to draw no current."
+  },
+  {
+    "id": 188,
+    "question": "The internal resistance of an ideal ammeter is:",
+    "options": ["Zero", "Infinite", "Very high", "1 Ω"],
+    "answerIndex": 0,
+    "explanation": "An ideal ammeter has zero resistance to not affect the circuit."
+  },
+  {
+    "id": 189,
+    "question": "A 100-W, 240-V bulb has resistance of:",
+    "options": ["57.6 Ω", "576 Ω", "5.76 Ω", "5760 Ω"],
+    "answerIndex": 1,
+    "explanation": "R = V²/P = (240)²/100 = 57600/100 = 576 Ω."
+  },
+  {
+    "id": 190,
+    "question": "A 100-W, 120-V bulb has resistance of:",
+    "options": ["14.4 Ω", "144 Ω", "1.44 Ω", "1440 Ω"],
+    "answerIndex": 1,
+    "explanation": "R = V²/P = (120)²/100 = 14400/100 = 144 Ω."
+  },
+  {
+    "id": 191,
+    "question": "The equivalent resistance of three 6-Ω resistors in parallel is:",
+    "options": ["2 Ω", "3 Ω", "6 Ω", "18 Ω"],
+    "answerIndex": 0,
+    "explanation": "1/R = 1/6 + 1/6 + 1/6 = 3/6 = 1/2, so R = 2 Ω."
+  },
+  {
+    "id": 192,
+    "question": "The equivalent resistance of three 6-Ω resistors in series is:",
+    "options": ["2 Ω", "6 Ω", "12 Ω", "18 Ω"],
+    "answerIndex": 3,
+    "explanation": "R = 6 + 6 + 6 = 18 Ω."
+  },
+  {
+    "id": 193,
+    "question": "A 12-V battery with 2-Ω internal resistance delivers 2 A. Terminal voltage is:",
+    "options": ["8 V", "10 V", "12 V", "14 V"],
+    "answerIndex": 1,
+    "explanation": "V = ε - Ir = 12 - (2)(2) = 12 - 4 = 8 V."
+  },
+  {
+    "id": 194,
+    "question": "Maximum power transfer occurs when load resistance equals:",
+    "options": [
+      "Zero",
+      "Source resistance",
+      "Twice source resistance",
+      "Half source resistance"
+    ],
+    "answerIndex": 1,
+    "explanation": "Maximum power is transferred when load resistance = source resistance (impedance matching)."
+  },
+  {
+    "id": 195,
+    "question": "The force on a wire of length 0.5 m carrying 3 A perpendicular to a 0.2 T field is:",
+    "options": ["0.3 N", "0.6 N", "0.03 N", "3 N"],
+    "answerIndex": 0,
+    "explanation": "F = BIL = 0.2 × 3 × 0.5 = 0.3 N."
+  },
+  {
+    "id": 196,
+    "question": "A charge of 2 μC in an electric field of 500 N/C experiences force of:",
+    "options": ["0.001 N", "0.002 N", "0.01 N", "0.02 N"],
+    "answerIndex": 0,
+    "explanation": "F = qE = 2×10⁻⁶ × 500 = 1×10⁻³ N = 0.001 N."
+  },
+  {
+    "id": 197,
+    "question": "The potential at a distance r from a point charge q is:",
+    "options": ["V = kq/r", "V = kq/r²", "V = kq²/r", "V = k/r"],
+    "answerIndex": 0,
+    "explanation": "Electric potential V = kq/r from a point charge."
+  },
+  {
+    "id": 198,
+    "question": "The potential difference between two points in an electric field is 100 V. The work done to move 5 C between them is:",
+    "options": ["20 J", "50 J", "500 J", "0.05 J"],
+    "answerIndex": 2,
+    "explanation": "W = qV = 5 × 100 = 500 J."
+  },
+  {
+    "id": 199,
+    "question": "An electron volt (eV) is a unit of:",
+    "options": ["Voltage", "Current", "Energy", "Power"],
+    "answerIndex": 2,
+    "explanation": "1 eV = 1.6 × 10⁻¹⁹ J, unit of energy."
+  },
+  {
+    "id": 200,
+    "question": "1 eV equals:",
+    "options": [
+      "1.6 × 10⁻¹⁹ J",
+      "1.6 × 10⁻¹⁹ V",
+      "1.6 × 10⁻¹⁹ C",
+      "1.6 × 10⁻¹⁹ W"
+    ],
+    "answerIndex": 0,
+    "explanation": "1 eV = 1.6 × 10⁻¹⁹ joules."
+  },
+  {
+    "id": 201,
+    "question": "The force between two parallel wires carrying currents I₁ and I₂ separated by distance d is:",
+    "options": [
+      "Attractive if currents same direction",
+      "Repulsive if currents opposite",
+      "Proportional to I₁I₂",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "Force is attractive for same direction, repulsive for opposite, and F ∝ I₁I₂."
+  },
+  {
+    "id": 202,
+    "question": "A step-up transformer increases:",
+    "options": ["Voltage", "Current", "Power", "Frequency"],
+    "answerIndex": 0,
+    "explanation": "Step-up transformer increases voltage, decreases current (power constant)."
+  },
+  {
+    "id": 203,
+    "question": "A step-down transformer decreases:",
+    "options": ["Voltage", "Current", "Power", "Frequency"],
+    "answerIndex": 0,
+    "explanation": "Step-down transformer decreases voltage, increases current."
+  },
+  {
+    "id": 204,
+    "question": "In an ideal transformer, power in primary equals:",
+    "options": [
+      "Power in secondary",
+      "Less than secondary",
+      "Greater than secondary",
+      "Zero"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ideal transformer: input power = output power (no losses)."
+  },
+  {
+    "id": 205,
+    "question": "The core of a transformer is laminated to reduce:",
+    "options": ["Copper losses", "Eddy currents", "Hysteresis", "Flux leakage"],
+    "answerIndex": 1,
+    "explanation": "Laminations reduce eddy current losses in the core."
+  },
+  {
+    "id": 206,
+    "question": "Eddy currents are induced in:",
+    "options": [
+      "Conductors in changing magnetic fields",
+      "Insulators",
+      "Dielectrics",
+      "Vacuum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Eddy currents are loops of current induced in conductors by changing magnetic fields."
+  },
+  {
+    "id": 207,
+    "question": "Hysteresis loss in a transformer core depends on:",
+    "options": [
+      "Frequency",
+      "Magnetic material",
+      "Flux density",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hysteresis loss depends on frequency, material, and flux density."
+  },
+  {
+    "id": 208,
+    "question": "The direction of induced EMF is given by:",
+    "options": [
+      "Fleming's left-hand rule",
+      "Fleming's right-hand rule",
+      "Right-hand rule",
+      "Lenz's law"
+    ],
+    "answerIndex": 1,
+    "explanation": "Fleming's right-hand rule (generator rule) gives direction of induced EMF."
+  },
+  {
+    "id": 209,
+    "question": "The direction of force on a current-carrying conductor in a magnetic field is given by:",
+    "options": [
+      "Fleming's left-hand rule",
+      "Fleming's right-hand rule",
+      "Right-hand rule",
+      "Lenz's law"
+    ],
+    "answerIndex": 0,
+    "explanation": "Fleming's left-hand rule (motor rule) gives force direction on current-carrying wire."
+  },
+  {
+    "id": 210,
+    "question": "The mutual inductance between two coils depends on:",
+    "options": [
+      "Number of turns",
+      "Distance between coils",
+      "Core material",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "Mutual inductance depends on turns, geometry, distance, and core permeability."
+  },
+  {
+    "id": 211,
+    "question": "When the current in an inductor increases, the induced EMF:",
+    "options": [
+      "Opposes the increase",
+      "Aids the increase",
+      "Is zero",
+      "Is constant"
+    ],
+    "answerIndex": 0,
+    "explanation": "Lenz's law: induced EMF opposes the change in current."
+  },
+  {
+    "id": 212,
+    "question": "When the current in an inductor decreases, the induced EMF:",
+    "options": [
+      "Opposes the decrease",
+      "Aids the decrease",
+      "Is zero",
+      "Is constant"
+    ],
+    "answerIndex": 0,
+    "explanation": "Induced EMF opposes the decrease, trying to maintain current."
+  },
+  {
+    "id": 213,
+    "question": "The time constant for an RL circuit with L = 2 H and R = 4 Ω is:",
+    "options": ["0.5 s", "2 s", "8 s", "0.25 s"],
+    "answerIndex": 0,
+    "explanation": "τ = L/R = 2/4 = 0.5 s."
+  },
+  {
+    "id": 214,
+    "question": "The time constant for an RC circuit with C = 10 μF and R = 1 kΩ is:",
+    "options": ["0.01 s", "0.1 s", "1 s", "10 s"],
+    "answerIndex": 0,
+    "explanation": "τ = RC = 1000 × 10×10⁻⁶ = 0.01 s."
+  },
+  {
+    "id": 215,
+    "question": "In an AC circuit, the opposition to current flow from an inductor is called:",
+    "options": [
+      "Resistance",
+      "Capacitance",
+      "Inductive reactance",
+      "Impedance"
+    ],
+    "answerIndex": 2,
+    "explanation": "Inductive reactance X_L = ωL opposes AC current in an inductor."
+  },
+  {
+    "id": 216,
+    "question": "In an AC circuit, the opposition to current flow from a capacitor is called:",
+    "options": [
+      "Resistance",
+      "Capacitive reactance",
+      "Inductive reactance",
+      "Impedance"
+    ],
+    "answerIndex": 1,
+    "explanation": "Capacitive reactance X_C = 1/ωC opposes AC current in a capacitor."
+  },
+  {
+    "id": 217,
+    "question": "Inductive reactance X_L is given by:",
+    "options": ["X_L = ωL", "X_L = 1/ωL", "X_L = ωC", "X_L = 1/ωC"],
+    "answerIndex": 0,
+    "explanation": "X_L = ωL = 2πfL."
+  },
+  {
+    "id": 218,
+    "question": "Capacitive reactance X_C is given by:",
+    "options": ["X_C = ωC", "X_C = 1/ωC", "X_C = ωL", "X_C = 1/ωL"],
+    "answerIndex": 1,
+    "explanation": "X_C = 1/(ωC) = 1/(2πfC)."
+  },
+  {
+    "id": 219,
+    "question": "In a purely resistive AC circuit, voltage and current are:",
+    "options": ["In phase", "Out of phase by 90°", "Opposite", "Random"],
+    "answerIndex": 0,
+    "explanation": "In a resistive circuit, V and I are in phase."
+  },
+  {
+    "id": 220,
+    "question": "In a purely inductive AC circuit, voltage leads current by:",
+    "options": ["0°", "45°", "90°", "180°"],
+    "answerIndex": 2,
+    "explanation": "In an inductor, voltage leads current by 90°."
+  },
+  {
+    "id": 221,
+    "question": "In a purely capacitive AC circuit, voltage lags current by:",
+    "options": ["0°", "45°", "90°", "180°"],
+    "answerIndex": 2,
+    "explanation": "In a capacitor, voltage lags current by 90° (current leads voltage)."
+  },
+  {
+    "id": 222,
+    "question": "The resonant frequency of an LC circuit is:",
+    "options": ["f = 1/(2π√LC)", "f = 2π√LC", "f = √(L/C)", "f = √(C/L)"],
+    "answerIndex": 0,
+    "explanation": "Resonant frequency f₀ = 1/(2π√LC)."
+  },
+  {
+    "id": 223,
+    "question": "At resonance in a series RLC circuit, impedance is:",
+    "options": ["Minimum", "Maximum", "Zero", "Infinite"],
+    "answerIndex": 0,
+    "explanation": "At resonance, X_L = X_C, so impedance Z = R (minimum)."
+  },
+  {
+    "id": 224,
+    "question": "At resonance in a parallel RLC circuit, impedance is:",
+    "options": ["Minimum", "Maximum", "Zero", "Infinite"],
+    "answerIndex": 1,
+    "explanation": "At parallel resonance, impedance is maximum (ideally infinite)."
+  },
+  {
+    "id": 225,
+    "question": "The quality factor Q of a resonant circuit is a measure of:",
+    "options": [
+      "Bandwidth",
+      "Sharpness of resonance",
+      "Energy storage",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "Q factor indicates sharpness of resonance and bandwidth (Q = f₀/Δf)."
+  },
+  {
+    "id": 226,
+    "question": "Maxwell's equations describe:",
+    "options": [
+      "Electric fields",
+      "Magnetic fields",
+      "Electromagnetic phenomena",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "Maxwell's equations unify electricity and magnetism into electromagnetism."
+  },
+  {
+    "id": 227,
+    "question": "The speed of electromagnetic waves in vacuum is:",
+    "options": ["3 × 10⁸ m/s", "3 × 10⁶ m/s", "3 × 10⁵ m/s", "3 × 10⁹ m/s"],
+    "answerIndex": 0,
+    "explanation": "c = 1/√(μ₀ε₀) = 3 × 10⁸ m/s."
+  },
+  {
+    "id": 228,
+    "question": "Electromagnetic waves consist of:",
+    "options": [
+      "Oscillating electric fields only",
+      "Oscillating magnetic fields only",
+      "Oscillating electric and magnetic fields perpendicular to each other",
+      "Sound waves"
+    ],
+    "answerIndex": 2,
+    "explanation": "EM waves have E and B fields perpendicular to each other and to propagation direction."
+  },
+  {
+    "id": 229,
+    "question": "The direction of propagation of an EM wave is given by:",
+    "options": ["E × B", "E · B", "E + B", "E - B"],
+    "answerIndex": 0,
+    "explanation": "Poynting vector S = E × B gives direction of energy flow."
+  },
+  {
+    "id": 230,
+    "question": "Visible light is part of the:",
+    "options": [
+      "Electromagnetic spectrum",
+      "Sound spectrum",
+      "Particle spectrum",
+      "None"
+    ],
+    "answerIndex": 0,
+    "explanation": "Visible light is a small part of the electromagnetic spectrum."
+  },
+  {
+    "id": 231,
+    "question": "The wavelength range of visible light is approximately:",
+    "options": ["400-700 nm", "400-700 μm", "400-700 mm", "400-700 pm"],
+    "answerIndex": 0,
+    "explanation": "Visible light wavelengths: about 400 nm (violet) to 700 nm (red)."
+  },
+  {
+    "id": 232,
+    "question": "Electromagnetic waves are:",
+    "options": [
+      "Transverse waves",
+      "Longitudinal waves",
+      "Mechanical waves",
+      "Both transverse and longitudinal"
+    ],
+    "answerIndex": 0,
+    "explanation": "EM waves are transverse waves (oscillations perpendicular to propagation)."
+  },
+  {
+    "id": 233,
+    "question": "The ratio of electric field to magnetic field in an EM wave is:",
+    "options": ["c", "1/c", "μ₀", "ε₀"],
+    "answerIndex": 0,
+    "explanation": "E/B = c in vacuum."
+  },
+  {
+    "id": 234,
+    "question": "The Poynting vector represents:",
+    "options": ["Energy density", "Power per unit area", "Momentum", "Force"],
+    "answerIndex": 1,
+    "explanation": "Poynting vector S = (E × B)/μ₀ gives power flow per unit area (W/m²)."
+  },
+  {
+    "id": 235,
+    "question": "The energy density of an electric field is:",
+    "options": ["½ε₀E²", "½B²/μ₀", "ε₀E²", "B²/μ₀"],
+    "answerIndex": 0,
+    "explanation": "Electric energy density u_E = ½ε₀E²."
+  },
+  {
+    "id": 236,
+    "question": "The energy density of a magnetic field is:",
+    "options": ["½ε₀E²", "½B²/μ₀", "ε₀E²", "B²/μ₀"],
+    "answerIndex": 1,
+    "explanation": "Magnetic energy density u_B = ½B²/μ₀."
+  },
+  {
+    "id": 237,
+    "question": "In an EM wave, the electric and magnetic energy densities are:",
+    "options": ["Equal", "Different", "Zero", "Opposite"],
+    "answerIndex": 0,
+    "explanation": "In an EM wave, u_E = u_B = ½ε₀E² = ½B²/μ₀."
+  },
+  {
+    "id": 238,
+    "question": "Displacement current was introduced by Maxwell to:",
+    "options": [
+      "Explain capacitance",
+      "Make Ampere's law consistent",
+      "Explain induction",
+      "Explain resistance"
+    ],
+    "answerIndex": 1,
+    "explanation": "Displacement current ensures continuity of current and makes Ampere's law consistent."
+  },
+  {
+    "id": 239,
+    "question": "Displacement current is due to:",
+    "options": [
+      "Changing electric field",
+      "Changing magnetic field",
+      "Conduction current",
+      "Charge flow"
+    ],
+    "answerIndex": 0,
+    "explanation": "Displacement current I_d = ε₀ dΦ_E/dt, due to changing electric flux."
+  },
+  {
+    "id": 240,
+    "question": "The four Maxwell's equations in integral form include:",
+    "options": [
+      "Gauss's law for electricity",
+      "Gauss's law for magnetism",
+      "Faraday's law",
+      "Ampere-Maxwell law"
+    ],
+    "answerIndex": 3,
+    "explanation": "All four are Maxwell's equations: Gauss's laws, Faraday's law, and Ampere-Maxwell law."
+  },
+  {
+    "id": 241,
+    "question": "Gauss's law for magnetism states that:",
+    "options": [
+      "∮ B·dA = 0",
+      "∮ B·dA = μ₀I",
+      "∮ B·dA = Q/ε₀",
+      "∮ B·dA = μ₀ε₀ dΦ_E/dt"
+    ],
+    "answerIndex": 0,
+    "explanation": "Gauss's law for magnetism: net magnetic flux through closed surface = 0 (no magnetic monopoles)."
+  },
+  {
+    "id": 242,
+    "question": "Ampere-Maxwell law includes:",
+    "options": [
+      "Conduction current only",
+      "Displacement current only",
+      "Both conduction and displacement currents",
+      "Neither"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ampere-Maxwell law: ∮ B·dl = μ₀(I + ε₀ dΦ_E/dt)."
+  },
+  {
+    "id": 243,
+    "question": "Electromagnetic waves were first experimentally produced by:",
+    "options": ["Maxwell", "Hertz", "Faraday", "Tesla"],
+    "answerIndex": 1,
+    "explanation": "Heinrich Hertz first generated and detected EM waves experimentally."
+  },
+  {
+    "id": 244,
+    "question": "The frequency of an EM wave is related to wavelength by:",
+    "options": ["f = c/λ", "f = cλ", "f = λ/c", "f = 1/(cλ)"],
+    "answerIndex": 0,
+    "explanation": "c = fλ, so f = c/λ."
+  },
+  {
+    "id": 245,
+    "question": "Radio waves, visible light, and X-rays are all:",
+    "options": [
+      "Sound waves",
+      "Electromagnetic waves",
+      "Mechanical waves",
+      "Particle waves"
+    ],
+    "answerIndex": 1,
+    "explanation": "They are all part of the electromagnetic spectrum."
+  },
+  {
+    "id": 246,
+    "question": "The skin depth in conductors for EM waves decreases with:",
+    "options": [
+      "Increasing frequency",
+      "Decreasing frequency",
+      "Increasing conductivity",
+      "Both A and C"
+    ],
+    "answerIndex": 3,
+    "explanation": "Skin depth δ = √(2/ωμσ) decreases with increasing f and σ."
+  },
+  {
+    "id": 247,
+    "question": "The impedance of free space Z₀ is given by:",
+    "options": ["Z₀ = √(μ₀/ε₀)", "Z₀ = √(ε₀/μ₀)", "Z₀ = μ₀/ε₀", "Z₀ = ε₀/μ₀"],
+    "answerIndex": 0,
+    "explanation": "Z₀ = √(μ₀/ε₀) ≈ 377 Ω."
+  },
+  {
+    "id": 248,
+    "question": "The Brewster angle is the angle at which reflected light is:",
+    "options": [
+      "Completely polarized",
+      "Completely transmitted",
+      "Absorbed",
+      "Diffracted"
+    ],
+    "answerIndex": 0,
+    "explanation": "At Brewster's angle, reflected light is completely polarized perpendicular to the plane of incidence."
+  },
+  {
+    "id": 249,
+    "question": "The critical angle for total internal reflection occurs when:",
+    "options": [
+      "Light goes from denser to rarer medium",
+      "Angle of incidence exceeds critical angle",
+      "Snell's law gives sinθ₂ = 1",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "Total internal reflection occurs when light travels from higher to lower refractive index at angle > critical angle."
+  },
+  {
+    "id": 250,
+    "question": "The wavelength of light in a medium with refractive index n is:",
+    "options": ["λ = λ₀/n", "λ = nλ₀", "λ = λ₀n", "λ = λ₀ + n"],
+    "answerIndex": 0,
+    "explanation": "Wavelength in medium: λ = λ₀/n, where λ₀ is vacuum wavelength."
+  }
+]
