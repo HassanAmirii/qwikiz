@@ -1,0 +1,2512 @@
+[
+  {
+    "id": 1,
+    "question": "How many ethnic groups are estimated to exist in Nigeria?",
+    "options": ["Over 100", "Over 250", "Over 500", "Over 1000"],
+    "answerIndex": 2,
+    "explanation": "There are over 250 ethnic groups in Nigeria, each with its own distinct language, culture, and traditions."
+  },
+  {
+    "id": 2,
+    "question": "In what year did Lord Frederick Lugard amalgamate the Northern and Southern Protectorates to create Nigeria?",
+    "options": ["1900", "1914", "1920", "1960"],
+    "answerIndex": 1,
+    "explanation": "Nigeria was created in 1914 through the amalgamation of the Northern and Southern Protectorates by colonial master Lord Frederick Lugard."
+  },
+  {
+    "id": 3,
+    "question": "According to legend, from where did the Hausa people claim to have descended?",
+    "options": ["Egypt", "Baghdad", "Mecca", "Ghana"],
+    "answerIndex": 1,
+    "explanation": "The Hausa claim to have descended from a hero named Bayajida or Abu Yazid, a refugee prince from Baghdad."
+  },
+  {
+    "id": 4,
+    "question": "What was the name of the evil snake that Bayajida killed in Daura?",
+    "options": ["Sarki", "Kisra", "The snake in the well", "Magajiya"],
+    "answerIndex": 2,
+    "explanation": "Bayajida was credited with killing an evil snake that was preventing people of Daura from drawing water from a well."
+  },
+  {
+    "id": 5,
+    "question": "Who did Bayajida marry after killing the snake in Daura?",
+    "options": [
+      "Magira",
+      "The Queen of Daura (Magajiya)",
+      "A Fulani princess",
+      "A Kanuri princess"
+    ],
+    "answerIndex": 1,
+    "explanation": "As a reward for his bravery, Bayajida married the Queen of Daura (Magajiya), which enabled him to become ruler of the state."
+  },
+  {
+    "id": 6,
+    "question": "What are the seven original Hausa states collectively known as?",
+    "options": [
+      "Hausa Bakwai",
+      "Banza Bokwai",
+      "Seven Kingdoms",
+      "Hausa Confederacy"
+    ],
+    "answerIndex": 0,
+    "explanation": "The descendants of Bayajida founded the seven Hausa states known as the Hausa Bakwai: Biram, Bagauda (Kano), Gunguma (Zazzau), Duma (Gobir), Kumayo (Katsina), Zamma (Rano), and Gazora (Daura)."
+  },
+  {
+    "id": 7,
+    "question": "Which states are known as the Banza Bokwai?",
+    "options": [
+      "The original seven Hausa states",
+      "Kebbi, Zamfara, Nupe, Gwari, Yauri, Ilorin and Kwararafa",
+      "The Fulani states",
+      "The seven Igbo states"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Banza Bokwai are the seven illegitimate states: Kebbi, Zamfara, Nupe, Gwari, Yauri, Ilorin and Kwararafa."
+  },
+  {
+    "id": 8,
+    "question": "What was the earliest form of worship in Hausa land?",
+    "options": [
+      "Islam",
+      "Christianity",
+      "Animism (pagan idol worship)",
+      "Judaism"
+    ],
+    "answerIndex": 2,
+    "explanation": "The earliest form of worship in Hausa land was animism, or pagan idol worship."
+  },
+  {
+    "id": 9,
+    "question": "In which century did Fulani missionaries from Mali begin converting people in Hausa land to Islam?",
+    "options": ["12th century", "14th century", "16th century", "18th century"],
+    "answerIndex": 1,
+    "explanation": "It was not until the 14th century that Fulani missionaries from Mali started serious work of converting people from paganism to Islam in Hausa land."
+  },
+  {
+    "id": 10,
+    "question": "Who led the Islamic Jihad in Hausa land in the early 19th century?",
+    "options": [
+      "Sultan Bello",
+      "Shehu Usman Dan Fodio",
+      "Sir Ahmadu Bello",
+      "Emir of Kano"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Islamic Jihad of the early 19th Century was led by Usman Dan Fodio, which transformed Hausa land into a theocratic state governed by Islamic law."
+  },
+  {
+    "id": 11,
+    "question": "Where are the Fulani believed to have originated from?",
+    "options": [
+      "Egypt",
+      "Futa Jalon highland region of West Africa",
+      "Saudi Arabia",
+      "Morocco"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Fulani are believed to have originated from the Futa Jalon highland region of West Africa."
+  },
+  {
+    "id": 12,
+    "question": "What do the Fulani call themselves?",
+    "options": ["Fulbe", "Peul", "Fula", "Fellata"],
+    "answerIndex": 0,
+    "explanation": "The Fulani call themselves 'Fulbe'."
+  },
+  {
+    "id": 13,
+    "question": "What are the two categories of Fulani mentioned in the text?",
+    "options": [
+      "Fulani Bororo and Fulani Gida",
+      "Fulani Nomads and Fulani Settlers",
+      "Fulani Muslims and Fulani Pagans",
+      "Fulani North and Fulani South"
+    ],
+    "answerIndex": 0,
+    "explanation": "The two categories are the Fulani Bororo (cattle rearers) and the Fulani Gida (town dwellers who engage in urban crafts and trade)."
+  },
+  {
+    "id": 14,
+    "question": "What is the main occupation of Fulani Bororo males?",
+    "options": ["Farming", "Trading", "Cattle-rearing", "Fishing"],
+    "answerIndex": 2,
+    "explanation": "Fulani Bororo males are primarily engaged in cattle-rearing."
+  },
+  {
+    "id": 15,
+    "question": "What is the main occupation of Fulani females?",
+    "options": ["Farming", "Trading", "Cow-milking", "Weaving"],
+    "answerIndex": 2,
+    "explanation": "Fulani females are primarily engaged in cow-milking."
+  },
+  {
+    "id": 16,
+    "question": "What are the Kanuri people also known as by their Hausa neighbours?",
+    "options": ["Fellata", "Beri Beri", "Maguzawa", "Bakwai"],
+    "answerIndex": 1,
+    "explanation": "The Kanuri people are also known as Beri Beri by their Hausa neighbours."
+  },
+  {
+    "id": 17,
+    "question": "Where are the Kanuri predominantly found in Nigeria?",
+    "options": [
+      "Kano and Katsina",
+      "Borno and Yobe",
+      "Sokoto and Kebbi",
+      "Adamawa and Taraba"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Kanuri are predominantly found in Borno and Yobe State."
+  },
+  {
+    "id": 18,
+    "question": "What version of Kanuri origin reveals that Kanuri were the original settlers in Kanem-Borno?",
+    "options": [
+      "The Saif version",
+      "The Kisra legend",
+      "The 'So' version",
+      "The Arab version"
+    ],
+    "answerIndex": 2,
+    "explanation": "The 'So' version reveals that Kanuri were the original settlers in Kanem-Borno."
+  },
+  {
+    "id": 19,
+    "question": "Who established the renowned Saifawa Dynasty according to Kanuri tradition?",
+    "options": ["Kisra", "Ali Ghaji", "Saif bin Dhi Yazan", "Idris Alooma"],
+    "answerIndex": 2,
+    "explanation": "Saif bin Dhi Yazan of Himyar was credited with establishing the renowned Saifawa Dynasty."
+  },
+  {
+    "id": 20,
+    "question": "Who were the two great leaders who contributed to the fortune of the Kanem-Bornu Empire?",
+    "options": [
+      "Saif and Kisra",
+      "Ali Ghaji and Idris Alooma",
+      "Usman Dan Fodio and Sultan Bello",
+      "Bayajida and Magajiya"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ali Ghaji and Idris Alooma were two great leaders who contributed to the fortune of the Kanem-Bornu Empire."
+  },
+  {
+    "id": 21,
+    "question": "How long did the Kanuri Empire last?",
+    "options": ["500 years", "Over 1000 years", "300 years", "750 years"],
+    "answerIndex": 1,
+    "explanation": "The Kanuri Empire lasted for over a thousand years, placing it as one of the longest lasting dynasties in world history."
+  },
+  {
+    "id": 22,
+    "question": "According to scholars, where did the Nupe people originate from?",
+    "options": ["Ghana", "Egypt", "Mali", "Songhai"],
+    "answerIndex": 1,
+    "explanation": "Scholars have argued that the first people of Nupeland originated from Egypt."
+  },
+  {
+    "id": 23,
+    "question": "Who is considered by some Nupe people as the founder of their state?",
+    "options": [
+      "Attah Igala",
+      "Edegi (Tsoede)",
+      "Etsu Nupe",
+      "Usman Dan Fodio"
+    ],
+    "answerIndex": 1,
+    "explanation": "Edegi is considered by some Nupe people as the founder of their state."
+  },
+  {
+    "id": 24,
+    "question": "What was Edegi's parentage according to Nupe tradition?",
+    "options": [
+      "Both Nupe parents",
+      "An Igala father and a Nupe mother",
+      "A Yoruba father and Nupe mother",
+      "A Hausa father and Igala mother"
+    ],
+    "answerIndex": 1,
+    "explanation": "Edegi had an Igala father and a Nupe mother, and was raised at the Palace of Attah Igala in Idah."
+  },
+  {
+    "id": 25,
+    "question": "When did Edegi re-establish Nupe independence?",
+    "options": ["14th Century", "15th Century", "16th Century", "17th Century"],
+    "answerIndex": 2,
+    "explanation": "Edegi re-established Nupe independence in the 16th Century."
+  },
+  {
+    "id": 26,
+    "question": "What is the title of the King of Nupeland?",
+    "options": ["Attah", "Etsu Nupe", "Oba", "Sarki"],
+    "answerIndex": 1,
+    "explanation": "The King of Nupeland is called Etsu Nupe."
+  },
+  {
+    "id": 27,
+    "question": "What name did Pacheco Pereira identify the Yoruba as in 1500?",
+    "options": ["Aku", "Lucumi", "Yoruba", "Oyo"],
+    "answerIndex": 1,
+    "explanation": "Pacheco Pereira identified the Yoruba in 1500 as the Lucumi."
+  },
+  {
+    "id": 28,
+    "question": "What name did early missionary accounts of the 19th Century refer to the Yoruba as?",
+    "options": ["Lucumi", "Yoruba", "Aku", "Oyo"],
+    "answerIndex": 2,
+    "explanation": "Early missionary accounts of the 19th Century referred to the Yoruba as the Aku."
+  },
+  {
+    "id": 29,
+    "question": "According to archaeological evidence from Iwo Eleru, when do human remains date the existence of Yoruba in the region?",
+    "options": ["5000 BCE", "9000 BCE", "3000 BCE", "1000 BCE"],
+    "answerIndex": 1,
+    "explanation": "Archaeological evidence from human remains at Iwo Eleru dates Yoruba existence in the region to around 9000 BCE."
+  },
+  {
+    "id": 30,
+    "question": "According to Samuel Johnson, from whom are the Yoruba said to have sprung?",
+    "options": ["Oduduwa", "Lamurudu", "Nimrod", "Oranmiyan"],
+    "answerIndex": 1,
+    "explanation": "According to Samuel Johnson, the Yoruba are said to have sprung from Lamurudu, one of the kings of Mecca."
+  },
+  {
+    "id": 31,
+    "question": "Who were the offspring of Lamurudu according to Samuel Johnson?",
+    "options": [
+      "Oduduwa, the Kings of Gogobiri and Kukawa",
+      "Oranmiyan and his brothers",
+      "The seven Yoruba kings",
+      "The Oyo and Ife kings"
+    ],
+    "answerIndex": 0,
+    "explanation": "Lamurudu's offspring were Oduduwa (ancestor of the Yoruba), and the Kings of Gogobiri and Kukawa (two tribes in Hausa land)."
+  },
+  {
+    "id": 32,
+    "question": "Who traced the first written account of Yoruba origin to Sultan Mohammed Bello?",
+    "options": ["Samuel Johnson", "R.C.C. Law", "Oduduwa", "Oranmiyan"],
+    "answerIndex": 1,
+    "explanation": "R.C.C. Law traced the first written account of Yoruba origin to the second Sultan of the Sokoto Caliphate, Sultan Mohammed Bello."
+  },
+  {
+    "id": 33,
+    "question": "In Sultan Bello's version of Yoruba origin (1812), from whom did the Yoruba derive?",
+    "options": ["Lamurudu", "Oduduwa", "Nimrod", "Oranmiyan"],
+    "answerIndex": 2,
+    "explanation": "Sultan Bello stated that the Yoruba derived from Nimrod, a descendant of the cursed Ham who fled Mecca while resisting Islam."
+  },
+  {
+    "id": 34,
+    "question": "According to Yoruba mythology, where did Oduduwa first arrive on earth?",
+    "options": ["Oyo", "Ile-Ife", "Benin", "Ibadan"],
+    "answerIndex": 1,
+    "explanation": "According to Yoruba mythology, Oduduwa's first point of arrival on earth was Ile-Ife."
+  },
+  {
+    "id": 35,
+    "question": "What is Ile-Ife considered in Yoruba tradition?",
+    "options": [
+      "The political capital",
+      "The centre of the earth and cradle of civilization",
+      "The military headquarters",
+      "The trading centre"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ile-Ife is considered the centre of the earth and the cradle of civilization, not only of the Yoruba but the entire world."
+  },
+  {
+    "id": 36,
+    "question": "Who did Oduduwa marry according to tradition?",
+    "options": ["Omonide", "Moremi", "Queen of Daura", "Magajiya"],
+    "answerIndex": 0,
+    "explanation": "Oduduwa is said to have married Omonide, who gave birth to a daughter and a number of sons."
+  },
+  {
+    "id": 37,
+    "question": "From which century did the Yoruba begin to emerge as one people?",
+    "options": ["8th Century", "10th Century", "12th Century", "14th Century"],
+    "answerIndex": 1,
+    "explanation": "It was from the 10th Century that the Yoruba began to emerge as one people."
+  },
+  {
+    "id": 38,
+    "question": "Which states in Nigeria are Yoruba speaking people concentrated in today?",
+    "options": [
+      "Lagos, Ogun, Oyo, Ondo, Ekiti, Kwara",
+      "Enugu, Anambra, Imo, Abia",
+      "Kano, Katsina, Kaduna",
+      "Rivers, Bayelsa, Delta"
+    ],
+    "answerIndex": 0,
+    "explanation": "Yoruba speaking people are concentrated in Ogun, Oyo, Ondo, Kwara, Ekiti and Lagos State."
+  },
+  {
+    "id": 39,
+    "question": "According to scholars like G.T. Basden and M.D.W. Jeffreys, where do they believe the Igbo originated from?",
+    "options": [
+      "Egypt or Hebrew people",
+      "The Middle East only",
+      "Benin",
+      "Ghana"
+    ],
+    "answerIndex": 0,
+    "explanation": "Scholars like G.T. Basden and M.D.W. Jeffreys believe the Igbo are a part of early Egyptian or Hebrew people."
+  },
+  {
+    "id": 40,
+    "question": "What are the three versions of Igbo origin mentioned in the text?",
+    "options": [
+      "Egyptian, Hebrew, Arabic",
+      "Middle East migration, always in present location, descended from the sky",
+      "Benin, Ife, Nri",
+      "East, West, North"
+    ],
+    "answerIndex": 1,
+    "explanation": "The three versions are: migration from the Middle East, always in their present location from the beginning, and descent from the sky."
+  },
+  {
+    "id": 41,
+    "question": "Which area is considered the 'core Igbo centre' where the Igbo first settled?",
+    "options": [
+      "Nsukka-Udi highlands",
+      "Nri-Awka-Orlu complex",
+      "Ohafia and Arochukwu",
+      "Ngwa and Umuahia"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Nri-Awka-Orlu complex is considered the 'core Igbo centre' where the Igbo first settled."
+  },
+  {
+    "id": 42,
+    "question": "According to G.I. Jones, which areas are described as the 'core Igbo centre'?",
+    "options": [
+      "Nri Awka, and Isuama (Odu) area",
+      "Onitsha and Enugu",
+      "Aba and Owerri",
+      "Nsukka and Udi"
+    ],
+    "answerIndex": 0,
+    "explanation": "G.I. Jones described the Nri Awka, and Isuama (Odu) area as the 'core Igbo centre' or areas where they first settled."
+  },
+  {
+    "id": 43,
+    "question": "According to Edo mythology, who founded the Benin Kingdom?",
+    "options": [
+      "Oranmiyan",
+      "Eweka",
+      "The youngest of the children of Osanubua",
+      "Oduduwa"
+    ],
+    "answerIndex": 2,
+    "explanation": "According to Edo mythology, the Benin Kingdom was founded by the youngest of the children of Osanubua (the high god)."
+  },
+  {
+    "id": 44,
+    "question": "Who did the elders of Benin request from the King of Ife (Oduduwa) to be their king?",
+    "options": ["Oranmiyan", "Eweka", "Osanubua", "Ogun"],
+    "answerIndex": 0,
+    "explanation": "The elders of Benin requested the King of Ife (Oduduwa) to send his son as the King of Benin, and Oduduwa complied by sending Oranmiyan."
+  },
+  {
+    "id": 45,
+    "question": "Who was installed as the first Oba of Benin?",
+    "options": ["Oranmiyan", "Eweka", "Oduduwa", "Osanubua"],
+    "answerIndex": 1,
+    "explanation": "Oranmiyan impregnated the daughter of the Onogie of Edo, and this woman later delivered a son who was installed as the first Oba of Benin called Eweka."
+  },
+  {
+    "id": 46,
+    "question": "According to Igharevba (1968), where did the Benin migrate from?",
+    "options": ["Ife", "Egypt to West Africa via Sudan", "Ghana", "Mali"],
+    "answerIndex": 1,
+    "explanation": "According to Igharevba (1968), the Benin migrated from Egypt to West Africa, sojourned in Sudan, settled at Ile-Ife, and finally moved to their present location."
+  },
+  {
+    "id": 47,
+    "question": "Who ascribed the establishment of Ijaw politico-religious institutions to the commencement of trans-Atlantic trade?",
+    "options": ["G.I. Jones", "E.J. Alagoa", "Kenneth Dike", "Robin Horton"],
+    "answerIndex": 2,
+    "explanation": "Kenneth Dike ascribed the establishment of Ijaw politico-religious institutions to the commencement of trans-Atlantic trade around the 15th Century."
+  },
+  {
+    "id": 48,
+    "question": "Who propounded claims of Ijaw migration from Eastern Delta pinning it to the period before Portuguese contact?",
+    "options": ["Kenneth Dike", "E.J. Alagoa", "G.I. Jones", "P.A. Talbot"],
+    "answerIndex": 2,
+    "explanation": "G.I. Jones propounded claims of Ijaw migration from Eastern Delta pinning it to the period of or before Portuguese contact with the region (1450-1550)."
+  },
+  {
+    "id": 49,
+    "question": "Who brought up another tradition asserting Ijaw migration from Central Delta to Eastern Delta?",
+    "options": ["Kenneth Dike", "G.I. Jones", "E.J. Alagoa", "Robin Horton"],
+    "answerIndex": 2,
+    "explanation": "E.J. Alagoa, an Ijaw, brought up another tradition to assert migration from Central Delta to Eastern Delta."
+  },
+  {
+    "id": 50,
+    "question": "What linguistic subgroup do the Ijaw belong to?",
+    "options": ["Afro-Asiatic", "Nilo-Saharan", "Niger-Congo", "Khoisan"],
+    "answerIndex": 2,
+    "explanation": "The Ijaw belong to the Niger-Congo linguistic subgroup and they speak Izon."
+  },
+  {
+    "id": 51,
+    "question": "Who founded Oyo according to various traditions?",
+    "options": ["Oduduwa", "Oranmiyan", "Sango", "Alaafin"],
+    "answerIndex": 1,
+    "explanation": "Various traditions believe that Oyo was founded by Oranmiyan, a son or grandson of Oduduwa."
+  },
+  {
+    "id": 52,
+    "question": "Around what time was Oyo founded?",
+    "options": [
+      "10th-11th century",
+      "13th-14th century",
+      "15th-16th century",
+      "17th-18th century"
+    ],
+    "answerIndex": 1,
+    "explanation": "Oyo was founded around the 13th-14th century and rose to a strong kingdom by the middle of the fifteen century."
+  },
+  {
+    "id": 53,
+    "question": "Who was the head of the Oyo Empire?",
+    "options": ["Ooni", "Alaafin", "Oba", "Etsu"],
+    "answerIndex": 1,
+    "explanation": "The Alaafin was the head of the Oyo Empire and was resident in the capital."
+  },
+  {
+    "id": 54,
+    "question": "What is the name of the Oyo capital?",
+    "options": ["Ile-Ife", "Oyo-Ile (Katunga)", "Ibadan", "Ogbomoso"],
+    "answerIndex": 1,
+    "explanation": "The Alaafin lived in the palace at Oyo-Ile, also known as Katunga."
+  },
+  {
+    "id": 55,
+    "question": "What was the council of seven members headed by Bashorun called in Oyo?",
+    "options": ["Ogboni", "Oyomesi", "Eghaevbo", "Uzama"],
+    "answerIndex": 1,
+    "explanation": "The Oyomesi was a council of seven members headed by Bashorun who acted as the Prime Minister and Commander-in-Chief of the army."
+  },
+  {
+    "id": 56,
+    "question": "What were the powers of the Oyomesi regarding the Alaafin?",
+    "options": [
+      "They could only advise",
+      "They were king makers and could remove any Alaafin",
+      "They had no power",
+      "They could only appoint but not remove"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Oyomesi were king makers and had the power to remove any Alaafin, especially when he appeared dictatorial or transgressed the laws of the land."
+  },
+  {
+    "id": 57,
+    "question": "What was expected of a deposed Alaafin?",
+    "options": [
+      "To leave the kingdom",
+      "To commit suicide",
+      "To become a priest",
+      "To join the army"
+    ],
+    "answerIndex": 1,
+    "explanation": "The deposed Alaafin was expected to commit suicide."
+  },
+  {
+    "id": 58,
+    "question": "What was the Ogboni cult's role in Oyo administration?",
+    "options": [
+      "Military defense",
+      "Religious worship only",
+      "It was a powerful arm of government",
+      "Tax collection"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Ogboni cult was a very powerful arm of government in Oyo."
+  },
+  {
+    "id": 59,
+    "question": "What was the title of the head of the Oyo Army?",
+    "options": ["Bashorun", "Are-Ona-Kankanfo", "Kakanfo", "Balogun"],
+    "answerIndex": 1,
+    "explanation": "The head of the Oyo Army was conferred with the coveted title of Are-Ona-Kankanfo."
+  },
+  {
+    "id": 60,
+    "question": "What were the Esos in Oyo?",
+    "options": [
+      "Palace guards",
+      "A group of captains of military guards made up of 70 war chiefs",
+      "Tax collectors",
+      "Religious priests"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Esos were a group of captains of military guards made up of 70 war chiefs."
+  },
+  {
+    "id": 61,
+    "question": "What were the Ajele in Oyo Empire?",
+    "options": [
+      "Tax collectors",
+      "Personal agents of the Alaafin serving as 'Intendants' or 'Colonial Governors'",
+      "Spiritual leaders",
+      "Traders"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Ajele ('Intendants') served more or less like 'Colonial Governors' or sub-kings, overseeing the provinces."
+  },
+  {
+    "id": 62,
+    "question": "What were the Ilari in Oyo Empire?",
+    "options": [
+      "Tax collectors",
+      "Messengers of the Alaafin serving as his 'ears and eyes'",
+      "Palace guards",
+      "Army generals"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Ilari were messengers of the Alaafin and served as his 'ears and eyes' in the provinces."
+  },
+  {
+    "id": 63,
+    "question": "What festival did the Alaafin use to acknowledge the renewal of allegiance of provincial governors?",
+    "options": [
+      "Osun festival",
+      "Bere festival",
+      "Olojo festival",
+      "Eyo festival"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Alaafin used the Bere annual festival periods to acknowledge the renewal of allegiance of the provincial governors to him."
+  },
+  {
+    "id": 64,
+    "question": "When did the Bini kingdom exchange ambassadors with a major European power?",
+    "options": ["1450-1500", "1481 and 1504", "1550-1600", "1601-1650"],
+    "answerIndex": 1,
+    "explanation": "The Bini kingdom exchanged ambassadors with a major European power between 1481 and 1504."
+  },
+  {
+    "id": 65,
+    "question": "What was unique about succession to the Bini throne?",
+    "options": [
+      "By election",
+      "By primogeniture (first surviving son succeeded his father)",
+      "By appointment of the council",
+      "By rotation among families"
+    ],
+    "answerIndex": 1,
+    "explanation": "Succession to the Bini throne was by primogeniture, meaning the first surviving son succeeded his father."
+  },
+  {
+    "id": 66,
+    "question": "What were the two distinct classes in Bini society?",
+    "options": [
+      "Rich and poor",
+      "Nobility (Adesotu) and commoner (Ighiotu)",
+      "Free and slave",
+      "Priests and warriors"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Bini society was classified into the nobility (Adesotu) and the commoner (Ighiotu)."
+  },
+  {
+    "id": 67,
+    "question": "How many groups of titled chiefs were there in Benin?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "answerIndex": 1,
+    "explanation": "The nobility was organised into three groups of title holders: the Uzama, the Eghaevbo n' Ogbe (palace chiefs), and the Eghaevbo n' ore (town chiefs)."
+  },
+  {
+    "id": 68,
+    "question": "How many members did the Uzama have?",
+    "options": ["Five", "Seven", "Nine", "Twelve"],
+    "answerIndex": 1,
+    "explanation": "Like the Oyomesi, members of the Uzama were seven in number."
+  },
+  {
+    "id": 69,
+    "question": "Who was the leader of the Uzama?",
+    "options": ["Ezomo", "Oliha", "Edaiken", "Ero"],
+    "answerIndex": 1,
+    "explanation": "The Oliha was the leader of the Uzama."
+  },
+  {
+    "id": 70,
+    "question": "Who was the heir to the Bini throne?",
+    "options": ["Ezomo", "Edaiken", "Oliha", "Iyashere"],
+    "answerIndex": 1,
+    "explanation": "The Edaiken was the heir to the throne among the Uzama members."
+  },
+  {
+    "id": 71,
+    "question": "What were the three palace associations or societies in Benin?",
+    "options": [
+      "Iwebo, Iweguea, Ibiwe",
+      "Uzama, Eghaevbo, Ighiotu",
+      "Edion, Iroghae, Ighele",
+      "Ekue, Ekpo, Ogboni"
+    ],
+    "answerIndex": 0,
+    "explanation": "The three palace associations were the Iwebo (in charge of regalia), Iweguea (in charge of households), and Ibiwe (in charge of the harem)."
+  },
+  {
+    "id": 72,
+    "question": "Who was the leader of the Town Chiefs (Eghaevbo n' ore) in Benin?",
+    "options": ["Oba", "Iyase or Iyashere", "Uwungue", "Ezomo"],
+    "answerIndex": 1,
+    "explanation": "The leader of the Town Chiefs was the Iyase or Iyashere, who also served as the Prime Minister."
+  },
+  {
+    "id": 73,
+    "question": "What were the guilds in Benin society?",
+    "options": [
+      "Religious groups",
+      "Professional groups of common people",
+      "Military units",
+      "Age sets"
+    ],
+    "answerIndex": 1,
+    "explanation": "The guilds were professional groups of the common people, including carvers, brass-workers, blacksmiths, doctors, and butchers."
+  },
+  {
+    "id": 74,
+    "question": "What were the age sets in Benin called?",
+    "options": [
+      "Iroghae, Ighele, Edion",
+      "Uzama, Eghaevbo",
+      "Iwebo, Iweguea, Ibiwe",
+      "Ekue, Ekpo, Ogboni"
+    ],
+    "answerIndex": 0,
+    "explanation": "The age sets included Iroghae (boys at puberty), Ighele (young men 25-30), and Edion (senior elders)."
+  },
+  {
+    "id": 75,
+    "question": "Who led the Edion (senior elders) in Benin villages?",
+    "options": ["Oba", "Odionwere (the oldest man)", "Iyase", "Ezomo"],
+    "answerIndex": 1,
+    "explanation": "The Edion (senior grades of elders) was led by the Odionwere, the oldest man in the village."
+  },
+  {
+    "id": 76,
+    "question": "What type of political system did the Igbo people have in pre-colonial times?",
+    "options": [
+      "Centralized monarchy",
+      "Fragmentary or acephalous (decentralized)",
+      "Theocratic state",
+      "Feudal system"
+    ],
+    "answerIndex": 1,
+    "explanation": "Unlike the Yoruba and Bini, the Igbo people did not build any strong centralized states. Their society was fragmentary or acephalous."
+  },
+  {
+    "id": 77,
+    "question": "What was the centre of government in traditional Igbo society?",
+    "options": ["The kingdom", "The village", "The empire", "The city-state"],
+    "answerIndex": 1,
+    "explanation": "In traditional Igbo society, the village was the centre of government, described as direct democracy."
+  },
+  {
+    "id": 78,
+    "question": "What was the highest unit of political organization among the Igbo?",
+    "options": [
+      "The kingdom",
+      "The empire",
+      "The Village or Village Group",
+      "The clan"
+    ],
+    "answerIndex": 2,
+    "explanation": "The highest unit of political organization among the Igbo was the Village or Village Group in some instances."
+  },
+  {
+    "id": 79,
+    "question": "What was the form of general assembly in traditional Igbo society called?",
+    "options": ["Oyomesi", "Amala Oha", "Ogboni", "Uzama"],
+    "answerIndex": 1,
+    "explanation": "Amala Oha was the form of general assembly in traditional Igbo society where all male adults met to perform legislative functions."
+  },
+  {
+    "id": 80,
+    "question": "Where were Amala Oha meetings held in ancient times?",
+    "options": [
+      "In the palace",
+      "In the open village square",
+      "In the forest",
+      "In the market"
+    ],
+    "answerIndex": 1,
+    "explanation": "In ancient times, Amala Oha meetings were held in the open village square."
+  },
+  {
+    "id": 81,
+    "question": "What was the basis of recognition for an individual in traditional Igbo society?",
+    "options": [
+      "Family background only",
+      "Individual capability and age",
+      "Wealth only",
+      "Connection to the king"
+    ],
+    "answerIndex": 1,
+    "explanation": "Recognition of an individual in Igbo society was based on individual capability and age rather than family background."
+  },
+  {
+    "id": 82,
+    "question": "What were the two major forms of socio-political organisation among the Ijaw?",
+    "options": [
+      "Centralized and decentralized",
+      "Fishing/Farming Village and City-State",
+      "Monarchy and democracy",
+      "Houses and clans"
+    ],
+    "answerIndex": 1,
+    "explanation": "The two major forms are the Fishing/Farming Village Political Organisation and the City-State or Trading City-State Political organization."
+  },
+  {
+    "id": 83,
+    "question": "What system characterized Ijaw societies?",
+    "options": [
+      "Kingship system",
+      "The 'House System'",
+      "Age-grade system only",
+      "Clan system"
+    ],
+    "answerIndex": 1,
+    "explanation": "The 'House System' characterized Ijaw societies."
+  },
+  {
+    "id": 84,
+    "question": "What were the traditional major Ijaw city-states?",
+    "options": [
+      "Benin, Warri, Sapele",
+      "Bonny, Kalabari, Okrika, and Brass-Nembe",
+      "Lagos, Ibadan, Abeokuta",
+      "Kano, Katsina, Zaria"
+    ],
+    "answerIndex": 1,
+    "explanation": "The traditional major Ijaw city-states were Bonny, Kalabari, Okrika, and Brass-Nembe."
+  },
+  {
+    "id": 85,
+    "question": "What was the smallest unit of Ijaw political organization?",
+    "options": [
+      "The village",
+      "The Compounds (Jitu)",
+      "The clan",
+      "The city-state"
+    ],
+    "answerIndex": 1,
+    "explanation": "The smallest unit was the Compounds, made up of nuclear/extended families living in compounds, known as Jitu among some Ijo groups."
+  },
+  {
+    "id": 86,
+    "question": "What was the next level after Compounds in Ijaw political organization?",
+    "options": [
+      "The village",
+      "The Quarters/Wards (Idumu)",
+      "The clan",
+      "The city-state"
+    ],
+    "answerIndex": 1,
+    "explanation": "The next level was the Quarters/Wards (known as Idumu), made up of lineage groups by various sons of the founder of the village."
+  },
+  {
+    "id": 87,
+    "question": "What was the highest level of Ijaw political organization?",
+    "options": [
+      "The Compounds",
+      "The Quarters/Wards",
+      "The Village (Gibni) or Village Group/Clan (Ibe)",
+      "The city-state"
+    ],
+    "answerIndex": 2,
+    "explanation": "The highest level was the Village (called Gibni) or Village Group/Clan (known as Ibe)."
+  },
+  {
+    "id": 88,
+    "question": "What was the Council of Elders called in Ijaw villages?",
+    "options": ["Amala Oha", "Okosuwei", "Ogboni", "Oyomesi"],
+    "answerIndex": 1,
+    "explanation": "At the village level, there was the Council of Elders known as Okosuwei."
+  },
+  {
+    "id": 89,
+    "question": "Who headed the Council of Elders in Ijaw villages?",
+    "options": [
+      "The youngest member",
+      "The oldest member (Gibni-okosuwei)",
+      "The richest member",
+      "The warrior"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Council of Elders was headed by the oldest member of the village called Gibni-okosuwei."
+  },
+  {
+    "id": 90,
+    "question": "What was the Village Assembly called in Ijaw society?",
+    "options": ["Amagula", "Amala Oha", "Okosuwei", "Ibe"],
+    "answerIndex": 0,
+    "explanation": "The Village Assembly was called Amagula, involving participation of all adult males."
+  },
+  {
+    "id": 91,
+    "question": "What term describes the Ijaw political system due to emphasis on age?",
+    "options": [
+      "Democracy",
+      "Gerontocracy (government by elders)",
+      "Monarchy",
+      "Theocracy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Because of the emphasis on age, the Ijaw political system has been described as Gerontocracy or 'government by elders'."
+  },
+  {
+    "id": 92,
+    "question": "What was the head of Ijaw city-states called?",
+    "options": ["Oba", "Amayanabo (Owner of the Town)", "Etsu", "Sarki"],
+    "answerIndex": 1,
+    "explanation": "The head of Ijaw city-states was called Amayanabo, meaning 'Owner of the Town'."
+  },
+  {
+    "id": 93,
+    "question": "What was the head of any typical Hausa state called?",
+    "options": ["Emir", "Sarki", "Alaafin", "Oba"],
+    "answerIndex": 1,
+    "explanation": "The Sarki has always been known as the head of any typical Hausa state."
+  },
+  {
+    "id": 94,
+    "question": "What was the full title given to any effective and efficient head of Hausa State?",
+    "options": [
+      "Sarkin Kasar (ruler of the land)",
+      "Sarkin Musulmi",
+      "Emir",
+      "Alkali"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sarkin Kasar, meaning 'ruler of the land', was the full title given to any effective head of Hausa State."
+  },
+  {
+    "id": 95,
+    "question": "What new political institutions emerged in Hausa states between 14th and 15th centuries due to Islam adoption?",
+    "options": [
+      "Galadima, Madawaki, Magaji, Dogari, Yari Sarki and Sarki Yau",
+      "Oyomesi and Ogboni",
+      "Uzama and Eghaevbo",
+      "Alkali and Qadi only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Islam adoption gave birth to new political institutions such as the offices of the Galadima, Madawaki, Magaji, Dogari, Yari Sarki and Sarki Yau."
+  },
+  {
+    "id": 96,
+    "question": "What code of behaviour do the pastoral Fulani adhere to?",
+    "options": ["Pulaaku", "Sharia", "Fulani code", "Nomadic code"],
+    "answerIndex": 0,
+    "explanation": "The Fulani generally adhere to a code of behaviour referred to as pulaaku, requiring qualities like bravery and ownership of cows."
+  },
+  {
+    "id": 97,
+    "question": "What was the highest authority in the political structure of the Kanem-Borno empire?",
+    "options": ["The Mai (king)", "The Galadima", "The Kaigama", "The Nokena"],
+    "answerIndex": 0,
+    "explanation": "The Mai (king) was the highest authority in the political structure of the Kanem-Borno empire."
+  },
+  {
+    "id": 98,
+    "question": "Who were the two important women in the Kanem-Borno political structure?",
+    "options": [
+      "The Queen and princesses",
+      "The mother of the Mai (magira) and sister of the Mai (mogaram)",
+      "The wives of the Mai",
+      "The female elders"
+    ],
+    "answerIndex": 1,
+    "explanation": "The mother of the Mai (magira) and the sister of the Mai (mogaram) were very important and respected in the Kanem-Borno political structure."
+  },
+  {
+    "id": 99,
+    "question": "What was the imperial state council in Kanem-Borno called?",
+    "options": [
+      "Oyomesi",
+      "The council of the twelve or 'Nokena'",
+      "Uzama",
+      "Ogboni"
+    ],
+    "answerIndex": 1,
+    "explanation": "The imperial state council was known as the council of the twelve, or the 'Nokena'."
+  },
+  {
+    "id": 100,
+    "question": "Who was the chief judge of the State in Kanem-Borno?",
+    "options": ["The Mai", "The Maini Kanendi", "The Galadima", "The Kaigama"],
+    "answerIndex": 1,
+    "explanation": "The Maini Kanendi was the chief judge of the State and the Mai's legal adviser."
+  },
+  {
+    "id": 101,
+    "question": "How was the Kanem-Borno army divided?",
+    "options": [
+      "North and South",
+      "Cavalry and infantry",
+      "A home division and a bush garrison",
+      "Regular and reserve"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Kanem-Borno army was divided into two divisions: a home division and a bush garrison."
+  },
+  {
+    "id": 102,
+    "question": "Who was the head of the Nupe Kingdom?",
+    "options": ["Etsu Nupe", "Attah", "Oba", "Sarki"],
+    "answerIndex": 0,
+    "explanation": "The Etsu Nupe was the head of the Nupe Kingdom."
+  },
+  {
+    "id": 103,
+    "question": "What were the two levels of administration in Nupe Kingdom?",
+    "options": [
+      "Central and provincial",
+      "Urban and rural",
+      "Military and civil",
+      "Religious and secular"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Etsu Nupe operated a two-level administration: central and provincial."
+  },
+  {
+    "id": 104,
+    "question": "What class of powerful gentlemen helped the Etsu Nupe in carrying out his duties?",
+    "options": [
+      "The Uzama",
+      "The nobility (Shaba, Kpotuh, Maku)",
+      "The Oyomesi",
+      "The Alkali"
+    ],
+    "answerIndex": 1,
+    "explanation": "There was a class of powerful gentlemen called nobility, including Shaba, Kpotuh and Maku, who helped the king."
+  },
+  {
+    "id": 105,
+    "question": "What was each village head called in traditional Nupe land?",
+    "options": ["Zitzu", "Odionwere", "Sarkin", "Oba"],
+    "answerIndex": 0,
+    "explanation": "In traditional Nupe land, each village was headed by the Zitzu, an appointee of the Etsu."
+  },
+  {
+    "id": 106,
+    "question": "What is the meaning of culture according to the document?",
+    "options": [
+      "Only language and religion",
+      "The characteristics and knowledge of a particular group, encompassing language, religion, cuisine, social habits, music and arts",
+      "Only food and dressing",
+      "Only music and dance"
+    ],
+    "answerIndex": 1,
+    "explanation": "Culture is the characteristics and knowledge of a particular group, encompassing language, religion, cuisine, social habits, music and arts."
+  },
+  {
+    "id": 107,
+    "question": "What is the French term 'colere' meaning, from which the word culture derives?",
+    "options": [
+      "To learn",
+      "To tend to the earth and grow, or cultivation and nurture",
+      "To gather",
+      "To worship"
+    ],
+    "answerIndex": 1,
+    "explanation": "The word 'culture' derives from the Latin 'colere,' which means to tend to the earth and grow, or cultivation and nurture."
+  },
+  {
+    "id": 108,
+    "question": "What festival in the North features horsemen in vibrant attire displaying riding skills?",
+    "options": ["Eid-el-Kabir", "Durbar Festival", "Sallah", "Hawan Daushe"],
+    "answerIndex": 1,
+    "explanation": "The Durbar Festival features horsemen in vibrant attire displaying their riding skills, accompanied by traditional drums and Fulani flute."
+  },
+  {
+    "id": 109,
+    "question": "What festival in Lagos features a grand parade of masqueraders in flowing white robes?",
+    "options": [
+      "Osun-Osogbo Festival",
+      "Eyo Festival",
+      "Ojude Oba",
+      "New Yam Festival"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Eyo Festival features a grand parade of masqueraders in flowing white robes, celebrating Lagos's heritage."
+  },
+  {
+    "id": 110,
+    "question": "What festival honours the river goddess Osun?",
+    "options": [
+      "Eyo Festival",
+      "Osun-Osogbo Festival",
+      "Ojude Oba",
+      "Durbar Festival"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Osun-Osogbo Festival is a colourful and spiritual event honouring the river goddess Osun."
+  },
+  {
+    "id": 111,
+    "question": "What do the Igbo celebrate marking the end of the farming season?",
+    "options": [
+      "Ikeji Festival",
+      "New Yam Festival",
+      "Mmanwu Festival",
+      "Ofala Festival"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Igbo celebrate the New Yam Festival, marking the end of the farming season and thanking the deities for a bountiful harvest."
+  },
+  {
+    "id": 112,
+    "question": "What festival showcases a dazzling array of masks and costumes among the Igbo?",
+    "options": [
+      "New Yam Festival",
+      "Mmanwu Festival",
+      "Ikeji Festival",
+      "Ekpe Festival"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Mmanwu Festival showcases a dazzling array of masks and costumes, each telling a unique story."
+  },
+  {
+    "id": 113,
+    "question": "What is the popular type of Yoruba clothing called?",
+    "options": ["Ankara", "Aso-oke", "George", "Lace"],
+    "answerIndex": 1,
+    "explanation": "The Yoruba are known for their popular type of clothing called Aso-oke."
+  },
+  {
+    "id": 114,
+    "question": "What are the three major colours of Aso-oke?",
+    "options": [
+      "Red, blue, green",
+      "Aaari (rich red), Sanyan (brown), Etu (dark blue)",
+      "Black, white, yellow",
+      "Gold, silver, bronze"
+    ],
+    "answerIndex": 1,
+    "explanation": "The three major colours are Aaari (rich red), Sanyan (brown and usual light brown), and Etu (dark blue)."
+  },
+  {
+    "id": 115,
+    "question": "What do Yoruba men wear as caps?",
+    "options": ["Fila", "Eleti-aja and fila-etu", "Kufi", "Agbada"],
+    "answerIndex": 1,
+    "explanation": "Yoruba men wear matching caps such as Eleti-aja and fila-etu."
+  },
+  {
+    "id": 116,
+    "question": "What do Yoruba women wear as headgear?",
+    "options": ["Iro", "Gele", "Buba", "Ipele"],
+    "answerIndex": 1,
+    "explanation": "Yoruba women match their outfit with gele (headgear)."
+  },
+  {
+    "id": 117,
+    "question": "What do Igbo women wear on their waists as ornaments?",
+    "options": ["Beads", "Jigida (waist-beads)", "Coral", "Gold"],
+    "answerIndex": 1,
+    "explanation": "Igbo women wear jigida (waist-beads) on their waists as ornaments of beautification."
+  },
+  {
+    "id": 118,
+    "question": "What are the Igbo now majorly known for wearing in the 20th century?",
+    "options": [
+      "Aso-oke",
+      "Isi-ago apparel with red cap for men and lace blouse with double wrapper for women",
+      "Agbada",
+      "Dansiki"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Igbos are now majorly known for their isi-ago apparel and a red cap for the men, and the women wear a lace blouse and a double wrapper adorned with beads."
+  },
+  {
+    "id": 119,
+    "question": "What nickname were the Hausa given due to their indigo blue dressing?",
+    "options": ["Blue men", "Indigo people", "Desert men", "Tie-dye people"],
+    "answerIndex": 0,
+    "explanation": "The Hausa were often characterized by their Indigo blue dressing and emblems which earned them the nickname 'blue men'."
+  },
+  {
+    "id": 120,
+    "question": "Where are renowned indigo dye pits located in Hausa region?",
+    "options": ["Sokoto", "Kano", "Katsina", "Zaria"],
+    "answerIndex": 1,
+    "explanation": "Renowned indigo dye pits are located in and around Kano, Nigeria."
+  },
+  {
+    "id": 121,
+    "question": "What do Hausa men wear around the turban to veil the face?",
+    "options": ["Hula", "Alasho", "Kufi", "Fila"],
+    "answerIndex": 1,
+    "explanation": "Hausa men may wear the turban around the cap to veil the face, called Alasho."
+  },
+  {
+    "id": 122,
+    "question": "What do Hausa women use for beautification on their hands and feet?",
+    "options": ["Kohl", "Henna designs", "Paint", "Tattoo"],
+    "answerIndex": 1,
+    "explanation": "Hausa women usually have henna designs on their hands and feet as a form of beautification."
+  },
+  {
+    "id": 123,
+    "question": "What do Hausa women use around the eyes as eye shadow?",
+    "options": ["Henna", "Kohl ('kwalli')", "Paint", "Powder"],
+    "answerIndex": 1,
+    "explanation": "In Hausa land, both men and women use kohl ('kwalli') around the eyes as eye shadow."
+  },
+  {
+    "id": 124,
+    "question": "Why did the Yoruba use tribal marks after the end of the slave trade?",
+    "options": [
+      "For beauty only",
+      "To trace their way home as the design of marks was particular to localities",
+      "For religious purposes",
+      "For identification of royalty"
+    ],
+    "answerIndex": 1,
+    "explanation": "People used the marks on their faces to trace their way home as the design of the marks is particular to localities."
+  },
+  {
+    "id": 125,
+    "question": "What does red stand for in body decoration among Nigerian ethnic groups?",
+    "options": ["Sickness", "Fertility and marriage", "Death", "Purity"],
+    "answerIndex": 1,
+    "explanation": "Red stands for fertility and marriage in body decoration."
+  },
+  {
+    "id": 126,
+    "question": "What does yellow stand for in body decoration?",
+    "options": ["Fertility", "Sickness", "Purity", "Magic"],
+    "answerIndex": 1,
+    "explanation": "Yellow stands for sickness in body decoration."
+  },
+  {
+    "id": 127,
+    "question": "What does white stand for in body decoration?",
+    "options": ["Fertility", "Sickness", "Purity or magic", "Death"],
+    "answerIndex": 2,
+    "explanation": "White stands for purity or magic in body decoration."
+  },
+  {
+    "id": 128,
+    "question": "What is henna art commonly used for among the Kanuri of Borno State?",
+    "options": [
+      "Facial marks",
+      "Hair treatment, skin cleansing and body making-up",
+      "Clothing decoration",
+      "House painting"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Kanuri engage in henna art for hair treatment, skin cleansing and body making-up."
+  },
+  {
+    "id": 129,
+    "question": "What is the pre-marriage ceremony involving henna called in Northern Nigeria?",
+    "options": [
+      "Wedding night",
+      "The night of henna",
+      "Henna festival",
+      "Beauty night"
+    ],
+    "answerIndex": 1,
+    "explanation": "Henna dye is used during pre-marriage ceremony, known as 'The night of henna'."
+  },
+  {
+    "id": 130,
+    "question": "What dye is popular among the peoples of Igbo land, Ibibio land and Efik land?",
+    "options": ["Henna", "Uli dye from randi cordata plant", "Indigo", "Kohl"],
+    "answerIndex": 1,
+    "explanation": "Among the peoples of Igbo land, Ibibio land and Efik land, the use of Uli dye is popular."
+  },
+  {
+    "id": 131,
+    "question": "What is 'Tiro' used for in traditional beautification?",
+    "options": [
+      "Hair dye",
+      "To outline the upper eyelid",
+      "Lip colour",
+      "Cheek colour"
+    ],
+    "answerIndex": 1,
+    "explanation": "'Tiro' is a sort of traditional antimony used to outline the upper eyelid."
+  },
+  {
+    "id": 132,
+    "question": "What is 'eji' in Yoruba culture?",
+    "options": [
+      "A type of food",
+      "Traditional removal of front teeth to create a gap",
+      "A hairstyle",
+      "A type of cloth"
+    ],
+    "answerIndex": 1,
+    "explanation": "Yoruba people call the traditional removal of front teeth 'eji'."
+  },
+  {
+    "id": 133,
+    "question": "Which tribe in Bauchi State practices locking women's lips to prevent them from talking to other men?",
+    "options": ["Kanuri", "Jarawa", "Fulani", "Hausa"],
+    "answerIndex": 1,
+    "explanation": "The Jarawa tribe of Bauchi State practice locking women's lips to prevent them from talking to other men when outside their villages."
+  },
+  {
+    "id": 134,
+    "question": "What was the crested hairstyle popular among Igbo women called?",
+    "options": ["Isi owu", "Ojongo", "Threaded hair", "Fulani mohawk"],
+    "answerIndex": 1,
+    "explanation": "The crested hairstyle ojongo was popular among Igbo women until the mid-20th century."
+  },
+  {
+    "id": 135,
+    "question": "What hairstyle using thread is still common among some Igbo women today?",
+    "options": ["Ojongo", "Isi owu", "Thread and beads", "Fulani braids"],
+    "answerIndex": 1,
+    "explanation": "The hairstyle called Isi owu, created using thread, is still common among some Igbo women today."
+  },
+  {
+    "id": 136,
+    "question": "What are the three broad linguistic groups that languages of Nigeria are classified into?",
+    "options": [
+      "Bantu, Semitic, Hamitic",
+      "Niger-Congo, Nilo-Saharan, and Afro-Asiatic",
+      "West African, East African, North African",
+      "Sudanic, Saharan, Guinean"
+    ],
+    "answerIndex": 1,
+    "explanation": "The languages of Nigeria are classified into three broad linguistic groups: Niger-Congo, Nilo-Saharan, and Afro-Asiatic."
+  },
+  {
+    "id": 137,
+    "question": "Which linguistic group includes Hausa, Margi, and Bade?",
+    "options": ["Niger-Congo", "Nilo-Saharan", "Afro-Asiatic", "Khoisan"],
+    "answerIndex": 2,
+    "explanation": "Afro-Asiatic is a much larger linguistic group and comprises Hausa, Margi, and Bade, among others."
+  },
+  {
+    "id": 138,
+    "question": "Which linguistic group is represented in Nigeria principally by Kanuri?",
+    "options": ["Niger-Congo", "Nilo-Saharan", "Afro-Asiatic", "Kwa"],
+    "answerIndex": 1,
+    "explanation": "The Nilo-Saharan group is represented in Nigeria principally by Kanuri."
+  },
+  {
+    "id": 139,
+    "question": "According to archaeological finds, how far back do finds from Nigeria represent the first life of people?",
+    "options": ["500 years", "1000 years", "Up to 2000 years", "5000 years"],
+    "answerIndex": 2,
+    "explanation": "According to archaeological finds, finds from Nigeria represent the first life of people who go back up to 2000 years."
+  },
+  {
+    "id": 140,
+    "question": "Where are brass and bronze casting still practised in Nigeria?",
+    "options": [
+      "Ife only",
+      "Benin, Bida and in the southwest",
+      "Kano only",
+      "Igbo-Ukwu only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Brass and bronze casting are still practised in Benin, Bida and in the southwest of Nigeria."
+  },
+  {
+    "id": 141,
+    "question": "Which archaeological finds revealed ancient and advanced works of art with elaborate intricate designs?",
+    "options": ["Nok", "Ife", "Igbo-Ukwu", "Benin"],
+    "answerIndex": 2,
+    "explanation": "The Igbo-Ukwu bronzes have elaborate intricate and symmetrical designs, as well as the most famous Ife work."
+  },
+  {
+    "id": 142,
+    "question": "Where are wood arts and carving prominent in Nigeria?",
+    "options": [
+      "Kano and Sokoto",
+      "Osogbo and Benin",
+      "Lagos and Ibadan",
+      "Enugu and Onitsha"
+    ],
+    "answerIndex": 1,
+    "explanation": "Wood arts and carving are prominent in places like Osogbo and Benin."
+  },
+  {
+    "id": 143,
+    "question": "Which cities are recognized as the centre of wood carvings in Nigeria?",
+    "options": [
+      "Benin and Ife",
+      "Oyo and Awka",
+      "Kano and Katsina",
+      "Lagos and Abeokuta"
+    ],
+    "answerIndex": 1,
+    "explanation": "Oyo and Awka are recognized as the centre of wood carvings."
+  },
+  {
+    "id": 144,
+    "question": "Where is ivory carving a popular artwork in Nigeria?",
+    "options": [
+      "Kano, Sokoto",
+      "Benin, Owo and Oyo",
+      "Lagos, Ibadan",
+      "Enugu, Onitsha"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ivory carving is a popular artwork in Benin, Owo and Oyo."
+  },
+  {
+    "id": 145,
+    "question": "Where is glass and metalwork common in Nigeria?",
+    "options": [
+      "Bida people in Niger State",
+      "Benin people",
+      "Yoruba people",
+      "Igbo people"
+    ],
+    "answerIndex": 0,
+    "explanation": "Glass and metalwork is another art and craft that is common among the Bida people in Niger State."
+  },
+  {
+    "id": 146,
+    "question": "Which are the most famous ceramic centres in Nigeria?",
+    "options": [
+      "Benin, Ife",
+      "Abuja, Suleja and Ilorin",
+      "Kano, Katsina",
+      "Lagos, Ibadan"
+    ],
+    "answerIndex": 1,
+    "explanation": "The most famous ceramic centres in Nigeria are Abuja, Suleja and Ilorin."
+  },
+  {
+    "id": 147,
+    "question": "Who was the famous Nigeria ceramics worker mentioned in the text?",
+    "options": [
+      "Ben Enwonwu",
+      "Dr Ladi Kwali",
+      "Yusuf Grillo",
+      "Bruce Onobrakpeya"
+    ],
+    "answerIndex": 1,
+    "explanation": "The late Dr Ladi Kwali was a famous Nigeria ceramics worker."
+  },
+  {
+    "id": 148,
+    "question": "What is the leather from Sokoto, Zamfara and some Northern states popularly known as?",
+    "options": [
+      "Nigerian leather",
+      "Moroccan leather",
+      "Hausa leather",
+      "Northern leather"
+    ],
+    "answerIndex": 1,
+    "explanation": "The leather from Sokoto, Zamfara and some Northern states is popularly known as 'Moroccan leather'."
+  },
+  {
+    "id": 149,
+    "question": "Where do archaeological remains of woven bark fragments from the 9th century A.D. provide evidence of earliest known weaving in Nigeria?",
+    "options": ["Nok", "Ife", "Igbo Ukwu", "Benin"],
+    "answerIndex": 2,
+    "explanation": "Archaeological remains of woven bark fragments from the 9th century A.D. at Igbo Ukwu provide evidence of the earliest known weaving in Nigeria."
+  },
+  {
+    "id": 150,
+    "question": "Where are painting and symbolic drawing showing affinity with Saharan paintings found?",
+    "options": ["Ife", "Benin", "Birnin Kudu", "Kano"],
+    "answerIndex": 2,
+    "explanation": "In Birnin Kudu, painting and symbolic drawing show affinity with some Saharan paintings."
+  },
+  {
+    "id": 151,
+    "question": "What are the three major religions in Nigeria?",
+    "options": [
+      "Christianity, Islam, Buddhism",
+      "Christianity, Islam, African Traditional Religion (ATR)",
+      "Islam, Hinduism, Judaism",
+      "Christianity, Judaism, ATR"
+    ],
+    "answerIndex": 1,
+    "explanation": "The three major religions in Nigeria are Christianity, Islam and African Traditional Religion (ATR)."
+  },
+  {
+    "id": 152,
+    "question": "What is the Yoruba name for the supreme god in traditional religion?",
+    "options": ["Chukwu", "Olorun Olodumare", "Osalobua", "Abasi Ibom"],
+    "answerIndex": 1,
+    "explanation": "The Yoruba call the supreme god Olorun Olodumare."
+  },
+  {
+    "id": 153,
+    "question": "What is the Igbo name for the supreme god?",
+    "options": ["Olorun Olodumare", "Chukwu", "Osalobua", "Abasi Ibom"],
+    "answerIndex": 1,
+    "explanation": "The Igbo call the supreme god Chukwu."
+  },
+  {
+    "id": 154,
+    "question": "What is the Edo name for the supreme god?",
+    "options": ["Olorun Olodumare", "Chukwu", "Osalobua", "Abasi Ibom"],
+    "answerIndex": 2,
+    "explanation": "The Edo call the supreme god Osalobua."
+  },
+  {
+    "id": 155,
+    "question": "What is the Ibibio name for the supreme god?",
+    "options": ["Olorun Olodumare", "Chukwu", "Osalobua", "Abasi Ibom"],
+    "answerIndex": 3,
+    "explanation": "The Ibibio call the supreme god Abasi Ibom."
+  },
+  {
+    "id": 156,
+    "question": "When is the Osun Festival celebrated?",
+    "options": ["In January", "In August", "In December", "In March"],
+    "answerIndex": 1,
+    "explanation": "The Osun Festival is held in the month of August."
+  },
+  {
+    "id": 157,
+    "question": "What is the major highlight of the Osun Festival?",
+    "options": [
+      "Masquerade dance",
+      "When the Arugba carries sacrifices to the Osun Riverbank",
+      "Horse riding",
+      "Fishing competition"
+    ],
+    "answerIndex": 1,
+    "explanation": "The major highlight is when the Arugba (Carrier of the Calabash) carries the sacrifices and offerings from the Oba's palace to the Osun Riverbank."
+  },
+  {
+    "id": 158,
+    "question": "When is the New Yam Festival celebrated among the Igbo?",
+    "options": [
+      "January to March",
+      "May to July",
+      "August to October",
+      "November to December"
+    ],
+    "answerIndex": 2,
+    "explanation": "The New Yam Festival is celebrated between August and October."
+  },
+  {
+    "id": 159,
+    "question": "What is Eyo Festival also known as?",
+    "options": [
+      "Lagos Festival",
+      "Adimu Orisa",
+      "Masquerade Festival",
+      "Isale Eko Festival"
+    ],
+    "answerIndex": 1,
+    "explanation": "Eyo Festival is also known as Adimu Orisa."
+  },
+  {
+    "id": 160,
+    "question": "What do the Eyo masquerades represent?",
+    "options": ["Living kings", "Spirits of ancestors", "Warriors", "Traders"],
+    "answerIndex": 1,
+    "explanation": "The Eyo masquerade represents the spirits of ancestors."
+  },
+  {
+    "id": 161,
+    "question": "What are the different Eyo groups and their colours?",
+    "options": [
+      "Eyo Adimu (Black), Eyo Laba (Red), Eyo Oniko (Yellow), Eyo Ologede (Green), Eyo Olokun (White), Eyo Agere (Purple)",
+      "Eyo Red, Blue, Green",
+      "Eyo Black, White, Gold",
+      "Eyo Senior, Junior, Middle"
+    ],
+    "answerIndex": 0,
+    "explanation": "Eyo groups include Eyo Adimu (Black), Eyo Laba (Red), Eyo Oniko (Yellow), Eyo Ologede (Green), Eyo Olokun (White) and Eyo Agere (Purple)."
+  },
+  {
+    "id": 162,
+    "question": "What staff do Eyo masqueraders carry called?",
+    "options": ["Ogun", "Opambata", "Ose", "Eda"],
+    "answerIndex": 1,
+    "explanation": "Eyo masqueraders always carry a staff called opambata, used to ward off undesirable forces."
+  },
+  {
+    "id": 163,
+    "question": "What does Ojude Oba translate to?",
+    "options": [
+      "King's palace",
+      "King's front yard",
+      "King's festival",
+      "King's court"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ojude Oba translates to 'king's front yard'."
+  },
+  {
+    "id": 164,
+    "question": "When was the Ojude Oba festival first held?",
+    "options": ["1880", "1892", "1900", "1914"],
+    "answerIndex": 1,
+    "explanation": "The Ojude Oba festival was first held in 1892."
+  },
+  {
+    "id": 165,
+    "question": "When is the Ojude Oba festival held?",
+    "options": [
+      "During Christmas",
+      "On the third day of Eid-el-Kabir",
+      "During Easter",
+      "On Sallah day"
+    ],
+    "answerIndex": 1,
+    "explanation": "Though the festival started as a religious festival for Muslims, it is now held on the third day of Eid-el-Kabir."
+  },
+  {
+    "id": 166,
+    "question": "When did the Argunu Fishing Festival begin?",
+    "options": ["1900", "1914", "1934", "1960"],
+    "answerIndex": 2,
+    "explanation": "The Argunu Fishing Festival began in the year 1934."
+  },
+  {
+    "id": 167,
+    "question": "What does the Argunu Fishing Festival mark?",
+    "options": [
+      "The beginning of fishing season",
+      "The end of centuries-old hostility between Sokoto Caliphate and Kebbi Kingdom",
+      "The harvest season",
+      "The new year"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Argunu Fishing Festival began in 1934 as a mark of the end of the centuries-old hostility between the Sokoto Caliphate and the Kebbi Kingdom."
+  },
+  {
+    "id": 168,
+    "question": "When is the Argunu Fishing Festival held?",
+    "options": ["January", "February or March", "August", "December"],
+    "answerIndex": 1,
+    "explanation": "The Argunu Fishing Festival is held on the Sokoto River in February or March."
+  },
+  {
+    "id": 169,
+    "question": "What is the origin of Ikeji Arondizuogu festival?",
+    "options": [
+      "20th century",
+      "Over five centuries ago",
+      "After independence",
+      "During colonial era"
+    ],
+    "answerIndex": 1,
+    "explanation": "The origin of Ikeji Arondizuogu festival dates back to over five centuries."
+  },
+  {
+    "id": 170,
+    "question": "When is Ikeji Arondizuogu festival held?",
+    "options": ["January", "March or April", "August", "December"],
+    "answerIndex": 1,
+    "explanation": "Ikeji Arondizuogu festival is held annually in March or April."
+  },
+  {
+    "id": 171,
+    "question": "How long does the Ikeji Arondizuogu festival last?",
+    "options": ["One day", "Four days", "One week", "Two weeks"],
+    "answerIndex": 1,
+    "explanation": "Ikeji Arondizuogu festival is a four-day festival of propitiation, thanksgiving and feasting."
+  },
+  {
+    "id": 172,
+    "question": "What are the four market days corresponding to the Igbo week?",
+    "options": [
+      "Monday, Tuesday, Wednesday, Thursday",
+      "Eke, Oye/Orie, Afo and Nkwu",
+      "Nkwo, Eke, Orie, Afo",
+      "Sunday, Monday, Tuesday, Wednesday"
+    ],
+    "answerIndex": 2,
+    "explanation": "The four market days in Igbo calendar are Nkwo, Eke, Orie, and Afo."
+  },
+  {
+    "id": 173,
+    "question": "What traditional musical instruments are used to accompany masquerades during Ikeji festival?",
+    "options": [
+      "Talking drum, bata",
+      "Ekwe, ogene, bells, maracas and oja",
+      "Kalangu, sarewa",
+      "Gangan, sakara"
+    ],
+    "answerIndex": 1,
+    "explanation": "Traditional musical instruments used are ekwe (wooden slit drum), ogene (metal gong), bells, maracas and oja (wooden flutes)."
+  },
+  {
+    "id": 174,
+    "question": "What is the raconteur known as during Ikeji festival?",
+    "options": ["Griot", "Ima mbem", "Storyteller", "Praise singer"],
+    "answerIndex": 1,
+    "explanation": "The raconteur during Ikeji festival is known as ima mbem."
+  },
+  {
+    "id": 175,
+    "question": "What is Kallon Kuwa festival?",
+    "options": [
+      "Fishing festival",
+      "A post-harvest youth cultural festival",
+      "New yam festival",
+      "Durbar festival"
+    ],
+    "answerIndex": 1,
+    "explanation": "Kallon Kuwa is a post-harvest youth cultural festival."
+  },
+  {
+    "id": 176,
+    "question": "What does Kallon Kuwa mean in Hausa?",
+    "options": [
+      "Harvest festival",
+      "Viewing for all",
+      "Youth festival",
+      "Celebration time"
+    ],
+    "answerIndex": 1,
+    "explanation": "Kallon Kuwa means 'viewing for all' in Hausa."
+  },
+  {
+    "id": 177,
+    "question": "When did Kallon Kuwa festival start?",
+    "options": ["1914", "1935", "1960", "1970"],
+    "answerIndex": 1,
+    "explanation": "Kallon Kuwa festival started around 1935."
+  },
+  {
+    "id": 178,
+    "question": "What is celebrated during Kallon Kuwa?",
+    "options": [
+      "Wedding season",
+      "Successful completion of cropping season and the coming of 'Kaka'",
+      "New year",
+      "Independence day"
+    ],
+    "answerIndex": 1,
+    "explanation": "Kallon Kuwa celebrates the successful completion of the cropping season and the coming of 'Kaka' - a time of prosperity."
+  },
+  {
+    "id": 179,
+    "question": "What is the Durbar festival called in Hausa language?",
+    "options": ["Sallah", "Hawan Daushe", "Eid", "Kallon Kuwa"],
+    "answerIndex": 1,
+    "explanation": "The Durbar festival is called Hawan Daushe in the Hausa language."
+  },
+  {
+    "id": 180,
+    "question": "When is the Durbar celebrated?",
+    "options": [
+      "Only at Eid-ul-Kabir",
+      "At the end of Ramadan and Eid-ul-Kabir",
+      "Only at the end of Ramadan",
+      "During the new year"
+    ],
+    "answerIndex": 1,
+    "explanation": "Durbar is celebrated twice annually as part of the festivities at the end of the Ramadan and Eid-ul-Kabir."
+  },
+  {
+    "id": 181,
+    "question": "What is the highlight of the Durbar festival?",
+    "options": ["Drumming", "The Jahi race", "Feasting", "Prayers"],
+    "answerIndex": 1,
+    "explanation": "The highlight of the Durbar is the Jahi race, where several horsemen race towards the Emir at top speed."
+  },
+  {
+    "id": 182,
+    "question": "What is the definition of trade according to the document?",
+    "options": [
+      "The buying of goods only",
+      "The exchange of goods, services, or resources between individuals, businesses, or nations",
+      "The selling of goods only",
+      "The transportation of goods"
+    ],
+    "answerIndex": 1,
+    "explanation": "Trade refers to the exchange of goods, services, or resources between individuals, businesses, or nations."
+  },
+  {
+    "id": 183,
+    "question": "What does self-reliance in economics refer to?",
+    "options": [
+      "Relying on foreign aid",
+      "A state where a nation meets its needs through its own resources with minimal external reliance",
+      "Dependence on imports",
+      "Economic isolation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Self-reliance in economics refers to a state where a nation meets its needs through its own resources, capabilities, and efforts, with minimal reliance on external assistance or imports."
+  },
+  {
+    "id": 184,
+    "question": "What is autarky in economic terms?",
+    "options": [
+      "Free trade",
+      "Economic self-sufficiency where a country produces all goods domestically",
+      "Import promotion",
+      "Export orientation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Autarky is a theoretical framework advocating for economic self-sufficiency, where a country aims to produce all goods and services it needs domestically."
+  },
+  {
+    "id": 185,
+    "question": "What is Import Substitution Industrialization (ISI)?",
+    "options": [
+      "Promoting imports",
+      "An economic strategy replacing imported goods with domestically produced substitutes",
+      "Export promotion",
+      "Free trade policy"
+    ],
+    "answerIndex": 1,
+    "explanation": "ISI is an economic strategy that aims to promote domestic industrialization by replacing imported goods with domestically produced substitutes."
+  },
+  {
+    "id": 186,
+    "question": "What are tariffs?",
+    "options": [
+      "Subsidies for exporters",
+      "Taxes imposed on imported goods and services",
+      "Limits on import quantities",
+      "Trade agreements"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tariffs are taxes imposed on imported goods and services at the point of entry into a country."
+  },
+  {
+    "id": 187,
+    "question": "What are import quotas?",
+    "options": [
+      "Taxes on imports",
+      "Limits on the quantity of specific goods that can be imported",
+      "Subsidies for importers",
+      "Export restrictions"
+    ],
+    "answerIndex": 1,
+    "explanation": "Import quotas establish limits on the quantity of specific goods that can be imported into a country during a specified period."
+  },
+  {
+    "id": 188,
+    "question": "What are Voluntary Export Restraints (VERs)?",
+    "options": [
+      "Taxes imposed by importing countries",
+      "Agreements where exporting country voluntarily limits exports",
+      "Import quotas",
+      "Export subsidies"
+    ],
+    "answerIndex": 1,
+    "explanation": "VERs are agreements between exporting and importing countries where the exporting country voluntarily limits the quantity of goods it exports."
+  },
+  {
+    "id": 189,
+    "question": "What are anti-dumping duties?",
+    "options": [
+      "Subsidies for exporters",
+      "Tariffs imposed on goods sold below fair market value",
+      "Import quotas",
+      "Export taxes"
+    ],
+    "answerIndex": 1,
+    "explanation": "Anti-dumping duties are tariffs imposed on imported goods sold at prices lower than their fair market value or below cost of production."
+  },
+  {
+    "id": 190,
+    "question": "What is social justice according to the document?",
+    "options": [
+      "Equal distribution of wealth only",
+      "Fair and equitable distribution of resources, opportunities, and rights among all members of society",
+      "Equal outcomes for all",
+      "Government control of resources"
+    ],
+    "answerIndex": 1,
+    "explanation": "Social justice refers to the fair and equitable distribution of resources, opportunities, and rights among all members of society."
+  },
+  {
+    "id": 191,
+    "question": "What is the key difference between equality and equity?",
+    "options": [
+      "They are the same",
+      "Equality treats everyone the same; equity recognizes different starting positions and provides support based on need",
+      "Equity treats everyone the same",
+      "Equality is about outcomes, equity about inputs"
+    ],
+    "answerIndex": 1,
+    "explanation": "Equality focuses on treating everyone the same, while equity recognizes that individuals may need different levels of support to achieve fair outcomes."
+  },
+  {
+    "id": 192,
+    "question": "Which theoretical perspective on social justice emphasizes individual rights, freedoms, and equality of opportunity?",
+    "options": ["Marxism", "Liberalism", "Feminism", "Postcolonialism"],
+    "answerIndex": 1,
+    "explanation": "Liberal theories emphasize individual rights, freedoms, and equality of opportunity, with justice achieved through equal rights and fair competition."
+  },
+  {
+    "id": 193,
+    "question": "Which theoretical perspective focuses on critique of capitalism and structural inequalities?",
+    "options": ["Liberalism", "Marxism", "Feminism", "Capabilities Approach"],
+    "answerIndex": 1,
+    "explanation": "Marxist theories focus on critique of capitalism and structural inequalities, advocating for abolition of private property and classless society."
+  },
+  {
+    "id": 194,
+    "question": "Which theoretical perspective highlights intersections of gender, race, class, and other forms of identity-based oppression?",
+    "options": ["Liberalism", "Marxism", "Feminism", "Postcolonialism"],
+    "answerIndex": 2,
+    "explanation": "Feminist theories highlight intersections of gender, race, class, and other forms of identity-based oppression."
+  },
+  {
+    "id": 195,
+    "question": "Who developed the Capabilities Approach to social justice?",
+    "options": [
+      "John Rawls and Robert Nozick",
+      "Amartya Sen and Martha Nussbaum",
+      "Karl Marx and Friedrich Engels",
+      "Frantz Fanon and Edward Said"
+    ],
+    "answerIndex": 1,
+    "explanation": "The capabilities approach was developed by economist Amartya Sen and philosopher Martha Nussbaum."
+  },
+  {
+    "id": 196,
+    "question": "What does the capabilities approach focus on?",
+    "options": [
+      "Income distribution only",
+      "Enhancing individuals' capabilities to lead valuable and meaningful lives",
+      "Resource allocation only",
+      "GDP growth"
+    ],
+    "answerIndex": 1,
+    "explanation": "The capabilities approach focuses on enhancing individuals' capabilities to lead valuable and meaningful lives, considering freedoms and opportunities to achieve well-being."
+  },
+  {
+    "id": 197,
+    "question": "What is political exclusion?",
+    "options": [
+      "Voting in elections",
+      "Systematic marginalization of individuals from participating in political processes",
+      "Political participation",
+      "Campaigning"
+    ],
+    "answerIndex": 1,
+    "explanation": "Political exclusion refers to systematic marginalization, disenfranchisement, and disempowerment of individuals from participating in political processes."
+  },
+  {
+    "id": 198,
+    "question": "What is social discrimination?",
+    "options": [
+      "Equal treatment of all",
+      "Unjust treatment based on perceived social identities",
+      "Fair treatment",
+      "Positive discrimination"
+    ],
+    "answerIndex": 1,
+    "explanation": "Social discrimination is unjust or prejudicial treatment of individuals or groups based on their perceived or actual social identities."
+  },
+  {
+    "id": 199,
+    "question": "What is intersectionality?",
+    "options": [
+      "One-dimensional identity",
+      "The interconnected nature of social categorizations creating overlapping systems of discrimination",
+      "Separate identities",
+      "Single identity focus"
+    ],
+    "answerIndex": 1,
+    "explanation": "Intersectionality refers to the interconnected nature of social categorizations such as race, gender, class, creating overlapping systems of discrimination."
+  },
+  {
+    "id": 200,
+    "question": "Who coined the term intersectionality?",
+    "options": [
+      "Amartya Sen",
+      "Kimberlé Crenshaw",
+      "Martha Nussbaum",
+      "John Rawls"
+    ],
+    "answerIndex": 1,
+    "explanation": "Legal scholar Kimberlé Crenshaw coined the term intersectionality in the late 1980s."
+  },
+  {
+    "id": 201,
+    "question": "What are norms in social context?",
+    "options": [
+      "Personal preferences",
+      "Socially accepted rules or guidelines that govern behavior",
+      "Legal laws",
+      "Individual choices"
+    ],
+    "answerIndex": 1,
+    "explanation": "Norms refer to socially accepted rules or guidelines that govern behavior within a specific group, community, or society."
+  },
+  {
+    "id": 202,
+    "question": "What are values in social context?",
+    "options": [
+      "Material possessions",
+      "Deeply held beliefs or principles considered important and desirable",
+      "Social rules",
+      "Behavioral guidelines"
+    ],
+    "answerIndex": 1,
+    "explanation": "Values are deeply held beliefs or principles that individuals or groups consider important and desirable."
+  },
+  {
+    "id": 203,
+    "question": "Which sociological perspective views norms and values as essential for maintaining social order?",
+    "options": [
+      "Conflict theory",
+      "Structural functionalism",
+      "Symbolic interactionism",
+      "Feminism"
+    ],
+    "answerIndex": 1,
+    "explanation": "Structural functionalism views norms and values as essential for maintaining social order and cohesion within societies."
+  },
+  {
+    "id": 204,
+    "question": "Which sociological perspective highlights power dynamics in shaping norms and values?",
+    "options": [
+      "Structural functionalism",
+      "Conflict theory",
+      "Symbolic interactionism",
+      "Feminism"
+    ],
+    "answerIndex": 1,
+    "explanation": "Conflict theory highlights the role of power dynamics and social inequalities in shaping norms and values."
+  },
+  {
+    "id": 205,
+    "question": "Which psychological theory suggests individuals acquire norms through observation and reinforcement?",
+    "options": [
+      "Cognitive dissonance theory",
+      "Social learning theory",
+      "Moral development theory",
+      "Psychoanalytic theory"
+    ],
+    "answerIndex": 1,
+    "explanation": "Social learning theory suggests individuals acquire norms and values through observation, imitation, and reinforcement."
+  },
+  {
+    "id": 206,
+    "question": "What does cognitive dissonance theory posit?",
+    "options": [
+      "People always act rationally",
+      "People experience discomfort when beliefs conflict with behavior",
+      "People seek pleasure",
+      "People avoid pain"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cognitive dissonance theory posits that individuals experience psychological discomfort when their beliefs or values conflict with their behavior."
+  },
+  {
+    "id": 207,
+    "question": "Which anthropological perspective emphasizes understanding norms within their cultural context?",
+    "options": [
+      "Cultural materialism",
+      "Cultural relativism",
+      "Symbolic anthropology",
+      "Structural anthropology"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cultural relativism emphasizes understanding norms and values within their cultural context without imposing external judgments."
+  },
+  {
+    "id": 208,
+    "question": "What is social conformity?",
+    "options": [
+      "Rebelling against norms",
+      "Adjusting attitudes and behaviors to align with group norms",
+      "Ignoring social expectations",
+      "Individualism"
+    ],
+    "answerIndex": 1,
+    "explanation": "Social conformity is the tendency of individuals to adjust their attitudes, beliefs, and behaviors to align with group norms."
+  },
+  {
+    "id": 209,
+    "question": "What is normative social influence?",
+    "options": [
+      "Conforming to be correct",
+      "Conforming to gain social approval or avoid rejection",
+      "Conforming due to expertise",
+      "Conforming due to authority"
+    ],
+    "answerIndex": 1,
+    "explanation": "Normative social influence occurs when individuals conform to gain social approval, acceptance, or avoid rejection."
+  },
+  {
+    "id": 210,
+    "question": "What is informational social influence?",
+    "options": [
+      "Conforming to be liked",
+      "Conforming because others' interpretations are believed correct",
+      "Conforming to avoid punishment",
+      "Conforming due to pressure"
+    ],
+    "answerIndex": 1,
+    "explanation": "Informational social influence occurs when individuals conform because they believe others' interpretations of reality are correct."
+  },
+  {
+    "id": 211,
+    "question": "What is deviance in sociological terms?",
+    "options": [
+      "Following norms strictly",
+      "Behaviors that violate societal norms or expectations",
+      "Conforming behavior",
+      "Normal behavior"
+    ],
+    "answerIndex": 1,
+    "explanation": "Deviance refers to behaviors, beliefs, or attributes that violate societal norms or expectations."
+  },
+  {
+    "id": 212,
+    "question": "What is deontology in ethical frameworks?",
+    "options": [
+      "Focus on consequences",
+      "Emphasis on moral duties and rules, not consequences",
+      "Focus on character",
+      "Focus on happiness"
+    ],
+    "answerIndex": 1,
+    "explanation": "Deontology emphasizes inherent rightness or wrongness of actions based on moral rules, duties, and principles, rather than their consequences."
+  },
+  {
+    "id": 213,
+    "question": "Who is associated with deontological ethics?",
+    "options": [
+      "John Stuart Mill",
+      "Immanuel Kant",
+      "Aristotle",
+      "Jeremy Bentham"
+    ],
+    "answerIndex": 1,
+    "explanation": "Deontological ethics is associated with philosopher Immanuel Kant."
+  },
+  {
+    "id": 214,
+    "question": "What is Kant's categorical imperative?",
+    "options": [
+      "Act according to desires",
+      "Act only according to maxims that can be universal laws",
+      "Act for pleasure",
+      "Act for the majority"
+    ],
+    "answerIndex": 1,
+    "explanation": "The categorical imperative states that individuals should act only according to maxims that they can will to be universal laws without contradiction."
+  },
+  {
+    "id": 215,
+    "question": "What is consequentialism?",
+    "options": [
+      "Focus on duties",
+      "Evaluating morality based on outcomes or consequences",
+      "Focus on character",
+      "Focus on intentions"
+    ],
+    "answerIndex": 1,
+    "explanation": "Consequentialism evaluates morality of actions based on their outcomes or consequences."
+  },
+  {
+    "id": 216,
+    "question": "Who are associated with utilitarianism?",
+    "options": [
+      "Kant and Hegel",
+      "Jeremy Bentham and John Stuart Mill",
+      "Aristotle and Plato",
+      "Marx and Engels"
+    ],
+    "answerIndex": 1,
+    "explanation": "Utilitarianism was proposed by philosophers like Jeremy Bentham and John Stuart Mill."
+  },
+  {
+    "id": 217,
+    "question": "What is virtue ethics focused on?",
+    "options": [
+      "Rules and duties",
+      "Consequences of actions",
+      "Moral character and cultivation of virtuous traits",
+      "Social contracts"
+    ],
+    "answerIndex": 2,
+    "explanation": "Virtue ethics focuses on moral character of individuals and emphasizes cultivation of virtuous traits or dispositions."
+  },
+  {
+    "id": 218,
+    "question": "Who developed virtue ethics?",
+    "options": ["Kant", "Mill", "Aristotle", "Rawls"],
+    "answerIndex": 2,
+    "explanation": "Virtue ethics was developed by philosopher Aristotle."
+  },
+  {
+    "id": 219,
+    "question": "What is eudaimonia in virtue ethics?",
+    "options": [
+      "Pleasure",
+      "Human flourishing or well-being",
+      "Wealth",
+      "Power"
+    ],
+    "answerIndex": 1,
+    "explanation": "Eudaimonia, often translated as 'human flourishing' or 'well-being', is the highest good in virtue ethics."
+  },
+  {
+    "id": 220,
+    "question": "What is the golden mean in Aristotelian ethics?",
+    "options": [
+      "Average of all virtues",
+      "Moral virtues lie between extremes of deficiency and excess",
+      "Mean of all actions",
+      "Middle of the road"
+    ],
+    "answerIndex": 1,
+    "explanation": "The golden mean suggests moral virtues lie between the extremes of deficiency and excess."
+  },
+  {
+    "id": 221,
+    "question": "What is ethical relativism?",
+    "options": [
+      "Universal moral principles",
+      "Moral principles vary across cultures or individuals",
+      "Absolute moral standards",
+      "Objective morality"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ethical relativism holds that moral principles and values are culturally or individually determined and vary across societies."
+  },
+  {
+    "id": 222,
+    "question": "What is ethical universalism?",
+    "options": [
+      "Morality varies by culture",
+      "Certain moral principles are universally applicable to all individuals",
+      "No objective moral truths",
+      "Individual moral preferences"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ethical universalism posits that certain moral principles and values are universally applicable and binding on all individuals."
+  },
+  {
+    "id": 223,
+    "question": "What is cultural relativism?",
+    "options": [
+      "All cultures are the same",
+      "Ethical norms are relative to cultural context",
+      "Culture doesn't affect ethics",
+      "One culture is superior"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cultural relativism asserts that ethical norms and values are relative to the cultural context in which they arise."
+  },
+  {
+    "id": 224,
+    "question": "What is moral absolutism?",
+    "options": [
+      "Morality depends on situation",
+      "Objective and immutable moral principles apply universally",
+      "No moral truths",
+      "Morality is relative"
+    ],
+    "answerIndex": 1,
+    "explanation": "Moral absolutism maintains existence of objective and immutable moral principles that apply universally and without exception."
+  },
+  {
+    "id": 225,
+    "question": "What is privilege in social context?",
+    "options": [
+      "Earned advantages",
+      "Unearned advantages by virtue of social identity or position",
+      "Everyone has same advantages",
+      "Only economic benefits"
+    ],
+    "answerIndex": 1,
+    "explanation": "Privilege refers to unearned advantages, benefits, or opportunities that individuals or groups enjoy by virtue of their social identity or position."
+  },
+  {
+    "id": 226,
+    "question": "What is formal power?",
+    "options": [
+      "Power from personal charisma",
+      "Power derived from official positions, roles, or titles",
+      "Power from social networks",
+      "Power from wealth"
+    ],
+    "answerIndex": 1,
+    "explanation": "Formal power is derived from official positions, roles, or titles within organizations or institutions."
+  },
+  {
+    "id": 227,
+    "question": "What is informal power?",
+    "options": [
+      "Power from official titles",
+      "Power from personal attributes, social networks, or interpersonal relationships",
+      "Power from laws",
+      "Power from hierarchy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Informal power arises from personal attributes, social networks, or interpersonal relationships."
+  },
+  {
+    "id": 228,
+    "question": "What is structural power?",
+    "options": [
+      "Power in small groups",
+      "Power embedded within societal institutions, systems, and norms",
+      "Power of individuals",
+      "Temporary power"
+    ],
+    "answerIndex": 1,
+    "explanation": "Structural power is embedded within societal institutions, systems, and norms, reflecting unequal distribution of resources."
+  },
+  {
+    "id": 229,
+    "question": "What is the Durbar festival's Jahi race?",
+    "options": [
+      "A camel race",
+      "Where horsemen race towards the Emir and turn aside before reaching him",
+      "A foot race",
+      "A boat race"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Jahi race features horsemen racing towards the Emir at top speed and abruptly turning aside just before reaching him."
+  },
+  {
+    "id": 230,
+    "question": "What does the Pategi Regatta showcase among the Nupe people?",
+    "options": [
+      "Horse riding",
+      "Boat races and cultural displays",
+      "Wrestling",
+      "Archery"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Pategi Regatta, with its thrilling boat races and cultural displays, is a vivid expression of Nupe culture."
+  },
+  {
+    "id": 231,
+    "question": "What is the Kwagh-Hir Festival among the Tiv?",
+    "options": [
+      "Dance festival",
+      "Unique Tiv puppet theatre blending storytelling with intricate puppetry",
+      "Music festival",
+      "Harvest festival"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Kwagh-Hir Festival showcases the unique Tiv puppet theatre that blends storytelling with intricate puppetry."
+  },
+  {
+    "id": 232,
+    "question": "What is the Ekpe society among the Efik?",
+    "options": [
+      "A dance group",
+      "A secretive and influential cultural group",
+      "A religious group",
+      "A trading group"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Ekpe society is a secretive and influential cultural group that plays a significant role in Efik life."
+  },
+  {
+    "id": 233,
+    "question": "What is the Shadi Festival among the Kanuri?",
+    "options": [
+      "Fishing festival",
+      "Festival featuring horse racing, traditional dances, and music",
+      "New yam festival",
+      "Durbar festival"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Shadi Festival features horse racing, traditional dances, and music reflecting the deep-rooted traditions of the Kanuri."
+  },
+  {
+    "id": 234,
+    "question": "What is the Swange dance among the Tiv?",
+    "options": [
+      "War dance",
+      "Vibrant expression of their connection to the land",
+      "Religious dance",
+      "Wedding dance"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Swange dance is a vibrant expression of the Tiv people's connection to the land."
+  },
+  {
+    "id": 235,
+    "question": "What is the Seigbein Festival among the Ijaw?",
+    "options": [
+      "Fishing festival",
+      "Festival bringing community together with dance, music, and masquerades",
+      "New yam festival",
+      "Boat regatta"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Seigbein Festival brings the Ijaw community together in vibrant celebrations of dance, music, and masquerades."
+  },
+  {
+    "id": 236,
+    "question": "What is the significance of the Nok culture in Nigerian history?",
+    "options": [
+      "Bronze works",
+      "Terra-cotta figurines are some of the earliest statues from sub-Saharan Africa",
+      "Wood carvings",
+      "Textile weaving"
+    ],
+    "answerIndex": 1,
+    "explanation": "The terra-cotta figurines of the Nok are some of the earliest statues in existence from sub-Saharan Africa."
+  },
+  {
+    "id": 237,
+    "question": "What are Ekpe masks associated with in Nigerian art?",
+    "options": [
+      "Yoruba culture",
+      "Igbo culture in eastern Nigeria",
+      "Hausa culture",
+      "Benin culture"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ekpe masks are associated with the Igbo in eastern Nigeria."
+  },
+  {
+    "id": 238,
+    "question": "What are ikenga in Igbo culture?",
+    "options": [
+      "Musical instruments",
+      "Personal shrines",
+      "War masks",
+      "Royal crowns"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ikenga are personal shrines from the Igbo in eastern Nigeria."
+  },
+  {
+    "id": 239,
+    "question": "What are ibeji sculptures in Yoruba culture?",
+    "options": [
+      "Ancestral figures",
+      "Twin sculptures",
+      "Kings' statues",
+      "Goddess figures"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ibeji (twin) sculptures are from the Yoruba in western Nigeria."
+  },
+  {
+    "id": 240,
+    "question": "Where is Akwete cloth produced?",
+    "options": ["Oyo State", "Abia State", "Kogi State", "Niger State"],
+    "answerIndex": 1,
+    "explanation": "Akwete Akwete fabric in Abia State is produced on a wide frame."
+  },
+  {
+    "id": 241,
+    "question": "Where is Ebira weaving located?",
+    "options": [
+      "Oyo State",
+      "Okene in Kogi State",
+      "Abia State",
+      "Niger State"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ebira weaving is at Okene in Kogi State."
+  },
+  {
+    "id": 242,
+    "question": "What is the circular economy model?",
+    "options": [
+      "Linear production",
+      "Decoupling growth from resource consumption through recycling and closed-loop systems",
+      "Wasteful economy",
+      "Resource extraction"
+    ],
+    "answerIndex": 1,
+    "explanation": "The circular economy model decouples economic growth from resource consumption by promoting resource efficiency, recycling, and closed-loop systems."
+  },
+  {
+    "id": 243,
+    "question": "What is the doughnut economics model?",
+    "options": [
+      "Economic growth only",
+      "Balancing human needs and planetary boundaries within a safe and just space",
+      "Resource extraction",
+      "Consumerism"
+    ],
+    "answerIndex": 1,
+    "explanation": "The doughnut economics model seeks to balance human needs and planetary boundaries within a 'safe and just space for humanity'."
+  },
+  {
+    "id": 244,
+    "question": "Who proposed the doughnut economics model?",
+    "options": ["Amartya Sen", "Kate Raworth", "Martha Nussbaum", "John Rawls"],
+    "answerIndex": 1,
+    "explanation": "The doughnut economics model was proposed by economist Kate Raworth."
+  },
+  {
+    "id": 245,
+    "question": "What is the degrowth movement?",
+    "options": [
+      "Economic expansion",
+      "Planned reduction of economic growth in affluent societies for sustainability",
+      "Increased consumption",
+      "Industrial growth"
+    ],
+    "answerIndex": 1,
+    "explanation": "The degrowth movement advocates planned reduction of economic growth and consumption in affluent societies for ecological sustainability."
+  },
+  {
+    "id": 246,
+    "question": "What are Technical Barriers to Trade (TBT)?",
+    "options": [
+      "Tariffs",
+      "Regulations and standards on imported products for health, safety, or quality reasons",
+      "Import quotas",
+      "Export subsidies"
+    ],
+    "answerIndex": 1,
+    "explanation": "TBT refers to regulations, standards, and certification requirements on imported products for health, safety, environmental, or quality reasons."
+  },
+  {
+    "id": 247,
+    "question": "What are Sanitary and Phytosanitary (SPS) measures?",
+    "options": [
+      "Trade agreements",
+      "Health and safety regulations on imported products",
+      "Tariffs",
+      "Subsidies"
+    ],
+    "answerIndex": 1,
+    "explanation": "SPS measures are regulations imposed on imported products for health and safety reasons."
+  },
+  {
+    "id": 248,
+    "question": "What is the 'resource curse' phenomenon?",
+    "options": [
+      "Abundance of resources",
+      "Reliance on resource exports hindering diversification and perpetuating inequality",
+      "Resource scarcity",
+      "Sustainable resource use"
+    ],
+    "answerIndex": 1,
+    "explanation": "The resource curse refers to countries with abundant natural resources experiencing hindered diversification, poor governance, and perpetuated inequality."
+  },
+  {
+    "id": 249,
+    "question": "What is the significance of October 1, 1960 in Nigerian history?",
+    "options": [
+      "Amalgamation date",
+      "Independence from British colonial rule",
+      "Republic day",
+      "Civil war start"
+    ],
+    "answerIndex": 1,
+    "explanation": "Nigeria gained independence from British colonial rule on October 1, 1960."
+  },
+  {
+    "id": 250,
+    "question": "What is the significance of 1963 in Nigerian history?",
+    "options": [
+      "Independence",
+      "Nigeria became a republic",
+      "Amalgamation",
+      "Civil war"
+    ],
+    "answerIndex": 1,
+    "explanation": "Nigeria became a republic in 1963."
+  }
+]

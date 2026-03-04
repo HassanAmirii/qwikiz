@@ -17,7 +17,6 @@ async function startQuiz() {
   const subjectSelect = document.getElementById("subject-select");
   const subject = subjectSelect.value;
   const subjectName = subjectSelect.selectedOptions[0].innerText;
-
   const timeSelect = document.getElementById("time-select");
   const limit = parseInt(
     timeSelect.selectedOptions[0].getAttribute("data-limit"),

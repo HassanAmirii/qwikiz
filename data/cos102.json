@@ -1,0 +1,2772 @@
+[
+  {
+    "id": 1,
+    "question": "What is the IQ of a computer?",
+    "options": ["Infinite", "High", "Zero", "Variable"],
+    "answerIndex": 2,
+    "explanation": "A computer has zero IQ because it cannot think on its own and must be instructed by humans."
+  },
+  {
+    "id": 2,
+    "question": "Who is responsible for instructing the computer in a correct and precise manner?",
+    "options": [
+      "The computer itself",
+      "The user",
+      "The programmer",
+      "The operating system"
+    ],
+    "answerIndex": 2,
+    "explanation": "The programmer is responsible for providing correct and precise instructions to the computer."
+  },
+  {
+    "id": 3,
+    "question": "What is necessary before attempting to write a computer program to solve a given problem?",
+    "options": [
+      "Coding and implementation",
+      "Developing the solution",
+      "Formulating or defining the problem in a precise manner",
+      "Analyzing the problem"
+    ],
+    "answerIndex": 2,
+    "explanation": "Before writing a program, you must first formulate or define the problem precisely."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is NOT a stage in solving a problem by computer?",
+    "options": [
+      "Understanding the problem",
+      "Analyzing the problem",
+      "Debating the solution",
+      "Coding and implementation"
+    ],
+    "answerIndex": 2,
+    "explanation": "Debating the solution is not a formal stage in computer problem-solving."
+  },
+  {
+    "id": 5,
+    "question": "What is the first step in problem-solving according to the document?",
+    "options": [
+      "Analyzing the problem",
+      "Developing the solution",
+      "Understanding the problem",
+      "Coding and implementation"
+    ],
+    "answerIndex": 2,
+    "explanation": "Understanding the problem is the first and most crucial step in problem-solving."
+  },
+  {
+    "id": 6,
+    "question": "What is the purpose of the 'Analyzing the problem' stage?",
+    "options": [
+      "To convert the solution into a computer language",
+      "To understand the problem objectives thoroughly",
+      "To search for appropriate solutions and evaluate methods",
+      "To expand the overview into detailed steps"
+    ],
+    "answerIndex": 2,
+    "explanation": "Analyzing the problem involves searching for appropriate solutions and evaluating different methods."
+  },
+  {
+    "id": 7,
+    "question": "What is the end result of the 'Analyzing the problem' stage?",
+    "options": [
+      "A detailed step-by-step solution",
+      "A broad overview of the sequence of operations",
+      "The final computer program",
+      "A clear understanding of the problem objectives"
+    ],
+    "answerIndex": 1,
+    "explanation": "The analyzing stage produces a broad overview of the sequence of operations needed."
+  },
+  {
+    "id": 8,
+    "question": "What happens in the 'Developing the solution' stage?",
+    "options": [
+      "The problem is understood in totality",
+      "Different ways of solving the problem are looked at",
+      "The detailed sequence of operations is converted into computer language",
+      "The overview of operations is expanded into a detailed step-by-step solution"
+    ],
+    "answerIndex": 3,
+    "explanation": "In developing the solution, the overview is expanded into detailed step-by-step instructions."
+  },
+  {
+    "id": 9,
+    "question": "What is the last stage of problem-solving?",
+    "options": [
+      "Understanding the problem",
+      "Analyzing the problem",
+      "Developing the solution",
+      "Coding and implementation"
+    ],
+    "answerIndex": 3,
+    "explanation": "Coding and implementation is the final stage where the solution is converted into a computer program."
+  },
+  {
+    "id": 10,
+    "question": "What is an Algorithm defined as in the document?",
+    "options": [
+      "A diagrammatic representation of logic paths",
+      "A set of sequential steps usually written in Ordinary Language to solve a given problem",
+      "A computer program",
+      "A graphical representation of data"
+    ],
+    "answerIndex": 1,
+    "explanation": "An algorithm is a set of sequential steps written in ordinary language to solve a problem."
+  },
+  {
+    "id": 11,
+    "question": "Which factor is considered the most important in the choice of an algorithm?",
+    "options": [
+      "Reliability",
+      "Accuracy",
+      "Easy to modify",
+      "Time requirement to execute it"
+    ],
+    "answerIndex": 3,
+    "explanation": "The time requirement to execute an algorithm is the most important factor in choosing it."
+  },
+  {
+    "id": 12,
+    "question": "What is the best algorithm considered to be?",
+    "options": [
+      "The one that is easiest to modify",
+      "The one that is most accurate",
+      "The one that needs the least time when executed",
+      "The one that is most reliable"
+    ],
+    "answerIndex": 2,
+    "explanation": "The best algorithm is the one that requires the least time when executed."
+  },
+  {
+    "id": 13,
+    "question": "What is the first step in algorithm development?",
+    "options": [
+      "Identification of output",
+      "Identification of input",
+      "Identification of processing operations",
+      "Processing definiteness"
+    ],
+    "answerIndex": 1,
+    "explanation": "The first step in algorithm development is identifying the input required."
+  },
+  {
+    "id": 14,
+    "question": "What must be produced from an algorithm?",
+    "options": [
+      "Zero quantities",
+      "At least one quantity as output",
+      "Only input quantities",
+      "Only processing operations"
+    ],
+    "answerIndex": 1,
+    "explanation": "An algorithm must produce at least one quantity as output."
+  },
+  {
+    "id": 15,
+    "question": "What does 'Processing Definiteness' in an algorithm imply?",
+    "options": [
+      "The algorithm must terminate after a finite number of steps",
+      "The instructions must be sufficiently basic and easily carried out",
+      "The instructions must be clear and without any ambiguity",
+      "The algorithm must take zero, one or more quantities as input"
+    ],
+    "answerIndex": 2,
+    "explanation": "Processing definiteness means instructions must be clear and unambiguous."
+  },
+  {
+    "id": 16,
+    "question": "What does 'Processing Finiteness' in an algorithm imply?",
+    "options": [
+      "The instructions must be clear and unambiguous",
+      "The algorithm should terminate after a finite number of steps for all cases",
+      "The instructions must be sufficiently basic",
+      "The algorithm must take input data"
+    ],
+    "answerIndex": 1,
+    "explanation": "Processing finiteness means the algorithm must terminate after a finite number of steps."
+  },
+  {
+    "id": 17,
+    "question": "Which property of an algorithm states that each step must be precisely and unambiguously stated?",
+    "options": ["Finiteness", "Definiteness", "Effectiveness", "Generality"],
+    "answerIndex": 1,
+    "explanation": "Definiteness requires each step to be precisely and unambiguously stated."
+  },
+  {
+    "id": 18,
+    "question": "What does the 'Effectiveness' property of an algorithm mean?",
+    "options": [
+      "It must terminate in a finite number of steps",
+      "It must be precisely and unambiguously stated",
+      "Each step should be primitive and easily convertible into a program statement, executable in finite time",
+      "It must be complete in itself for any input data"
+    ],
+    "answerIndex": 2,
+    "explanation": "Effectiveness means each step should be primitive and easily convertible into program statements."
+  },
+  {
+    "id": 19,
+    "question": "What property of an algorithm states that it must be complete in itself so that it can be used to solve problems of a specific type for any input data?",
+    "options": ["Finiteness", "Definiteness", "Effectiveness", "Generality"],
+    "answerIndex": 3,
+    "explanation": "Generality means the algorithm should solve problems of a specific type for any valid input data."
+  },
+  {
+    "id": 20,
+    "question": "How many input quantities can an algorithm take?",
+    "options": [
+      "Exactly one",
+      "Zero, one, or more",
+      "Exactly two",
+      "Only integer values"
+    ],
+    "answerIndex": 1,
+    "explanation": "An algorithm can take zero, one, or more input quantities."
+  },
+  {
+    "id": 21,
+    "question": "What are algorithms written in English-like languages sometimes called?",
+    "options": [
+      "Flowcharts",
+      "Pseudocode",
+      "Machine code",
+      "High-level language"
+    ],
+    "answerIndex": 1,
+    "explanation": "Algorithms written in English-like languages are called pseudocode."
+  },
+  {
+    "id": 22,
+    "question": "What is the formula for Simple Interest given in the document?",
+    "options": [
+      "Simple interest = P + R + T",
+      "Simple interest = P * R * T / 100",
+      "Simple interest = P - R - T",
+      "Simple interest = (P + R) * T"
+    ],
+    "answerIndex": 1,
+    "explanation": "Simple Interest is calculated as (Principal * Rate * Time) / 100."
+  },
+  {
+    "id": 23,
+    "question": "What is the first step in the algorithm to calculate simple interest?",
+    "options": [
+      "Calculate simple interest",
+      "Print simple interest",
+      "Read the three input quantities P, R and T",
+      "Stop"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first step is to read the input quantities: Principal, Rate, and Time."
+  },
+  {
+    "id": 24,
+    "question": "What is a Flowchart defined as?",
+    "options": [
+      "A set of sequential steps written in ordinary language",
+      "A computer program",
+      "A step-by-step diagrammatic representation of the logic paths to solve a given problem",
+      "A text-based description of an algorithm"
+    ],
+    "answerIndex": 2,
+    "explanation": "A flowchart is a diagrammatic representation of logic paths to solve a problem."
+  },
+  {
+    "id": 25,
+    "question": "What is one advantage of flowcharts mentioned?",
+    "options": [
+      "They are always faster to execute",
+      "They replace the need for algorithms",
+      "They show the logic of a problem in a pictorial fashion, facilitating easier checking",
+      "They are primarily used for complex programs"
+    ],
+    "answerIndex": 2,
+    "explanation": "Flowcharts show logic pictorially, making it easier to check and understand."
+  },
+  {
+    "id": 26,
+    "question": "What type of symbol is used to indicate START/STOP of the program in flowcharts?",
+    "options": [
+      "Rectangle",
+      "Oval/Rounded rectangle",
+      "Parallelogram",
+      "Diamond"
+    ],
+    "answerIndex": 1,
+    "explanation": "Oval or rounded rectangle symbols indicate the start and stop of a program."
+  },
+  {
+    "id": 27,
+    "question": "Which symbol represents input and output operations in a flowchart?",
+    "options": ["Rectangle", "Oval", "Parallelogram", "Diamond"],
+    "answerIndex": 2,
+    "explanation": "Parallelogram symbols represent input and output operations in flowcharts."
+  },
+  {
+    "id": 28,
+    "question": "What do rectangles indicate in a flowchart?",
+    "options": [
+      "Input/output operations",
+      "START/STOP of the program",
+      "Process steps and arithmetic operations",
+      "Decision making"
+    ],
+    "answerIndex": 2,
+    "explanation": "Rectangles represent process steps and arithmetic operations in flowcharts."
+  },
+  {
+    "id": 29,
+    "question": "What symbol is used for decision making in a flowchart?",
+    "options": ["Rectangle", "Oval", "Parallelogram", "Diamond"],
+    "answerIndex": 3,
+    "explanation": "Diamond symbols are used for decision making in flowcharts."
+  },
+  {
+    "id": 30,
+    "question": "What do flow lines indicate in a flowchart?",
+    "options": [
+      "Input data",
+      "Output data",
+      "The direction of flow in the flowchart",
+      "Processing operations"
+    ],
+    "answerIndex": 2,
+    "explanation": "Flow lines indicate the direction of flow in a flowchart."
+  },
+  {
+    "id": 31,
+    "question": "What is the purpose of on-page connectors in flowcharts?",
+    "options": [
+      "To indicate a break in the path of the flowchart",
+      "To join different parts of a flowchart on the same page",
+      "To connect different pages of a flowchart",
+      "To represent input operations"
+    ],
+    "answerIndex": 1,
+    "explanation": "On-page connectors join different parts of a flowchart on the same page."
+  },
+  {
+    "id": 32,
+    "question": "What is the purpose of off-page connectors?",
+    "options": [
+      "To indicate the end of the program",
+      "To join different parts of a flowchart on the same page",
+      "To represent a break in the path of a flowchart that cannot fit on a single page",
+      "To show a decision point"
+    ],
+    "answerIndex": 2,
+    "explanation": "Off-page connectors represent breaks when a flowchart cannot fit on a single page."
+  },
+  {
+    "id": 33,
+    "question": "What is Pseudocode according to the document?",
+    "options": [
+      "A diagrammatic representation of an algorithm",
+      "A programming language used for direct execution",
+      "A written algorithm in more a program, it is a bastard form of a program",
+      "A set of sequential steps using only mathematical notation"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pseudocode is a written algorithm that resembles a program but is not actual code."
+  },
+  {
+    "id": 34,
+    "question": "What is one advantage of Pseudocode?",
+    "options": [
+      "It is difficult to read",
+      "It is easy to understand",
+      "It is not easily supported by compilers",
+      "It requires a lot of memory"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pseudocode is easy to understand because it uses English-like statements."
+  },
+  {
+    "id": 35,
+    "question": "What is the problem-solving task primarily attributed to?",
+    "options": [
+      "The computer",
+      "The programmer",
+      "The user",
+      "The operating system"
+    ],
+    "answerIndex": 1,
+    "explanation": "Problem-solving is primarily the task of the programmer, not the computer."
+  },
+  {
+    "id": 36,
+    "question": "What does the document state about ambiguous instructions to a computer?",
+    "options": [
+      "They are harmless",
+      "They may sometimes prove disastrous",
+      "They lead to faster execution",
+      "They are automatically corrected"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ambiguous instructions to a computer may sometimes prove disastrous."
+  },
+  {
+    "id": 37,
+    "question": "What is the first step in the process of program development according to the COS 102 PDF?",
+    "options": [
+      "Design",
+      "Coding",
+      "Analyze (Definition of the problem)",
+      "Testing"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first step is to analyze and define the problem thoroughly."
+  },
+  {
+    "id": 38,
+    "question": "What should the programmer understand during the analysis stage?",
+    "options": [
+      "Only the programming language",
+      "What the output should be and all factors like input/output, processing requirements",
+      "Only the input requirements",
+      "The cost of development"
+    ],
+    "answerIndex": 1,
+    "explanation": "The programmer should understand what the output should be and all factors like input/output and processing requirements."
+  },
+  {
+    "id": 39,
+    "question": "What is an algorithm according to the COS 102 PDF?",
+    "options": [
+      "A computer program",
+      "A finite sequence of well-defined computer implementable instructions",
+      "A programming language",
+      "A hardware component"
+    ],
+    "answerIndex": 1,
+    "explanation": "An algorithm is a finite sequence of well-defined computer implementable instructions."
+  },
+  {
+    "id": 40,
+    "question": "What are the three popular methods used to implement an algorithm?",
+    "options": [
+      "C, C++, Java",
+      "Flowcharts, pseudocodes and hierarchy charts",
+      "Input, Process, Output",
+      "Analysis, Design, Coding"
+    ],
+    "answerIndex": 1,
+    "explanation": "The three popular methods are flowcharts, pseudocodes, and hierarchy charts."
+  },
+  {
+    "id": 41,
+    "question": "What is a Hierarchy Chart also called?",
+    "options": [
+      "Flowchart",
+      "Pseudocode",
+      "Structured charts or HIPO",
+      "Algorithm"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hierarchy charts are also called structured charts or HIPO (Hierarchy Plus Input-Process-Output) charts."
+  },
+  {
+    "id": 42,
+    "question": "What does a Hierarchy Chart describe?",
+    "options": [
+      "The specific processing logic",
+      "What each part/module of the program does and how modules relate",
+      "The programming language syntax",
+      "The hardware requirements"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hierarchy charts describe what each module does and how modules relate to each other."
+  },
+  {
+    "id": 43,
+    "question": "How is a Hierarchy Chart read?",
+    "options": [
+      "From bottom to top",
+      "From right to left",
+      "From top to bottom and from left to right",
+      "Randomly"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hierarchy charts are read from top to bottom and from left to right."
+  },
+  {
+    "id": 44,
+    "question": "What is the main advantage of hierarchy charts?",
+    "options": [
+      "They show detailed processing logic",
+      "They help in initial planning of a program",
+      "They are the final program code",
+      "They replace the need for testing"
+    ],
+    "answerIndex": 1,
+    "explanation": "The main advantage is in the initial planning of a program."
+  },
+  {
+    "id": 45,
+    "question": "In the postage stamp algorithm, how many sheets of paper require one stamp?",
+    "options": [
+      "Every 10 sheets",
+      "Every 5 sheets or fraction thereof",
+      "Every 3 sheets",
+      "Every sheet requires a stamp"
+    ],
+    "answerIndex": 1,
+    "explanation": "The rule is to use one stamp for every five sheets of paper or fraction thereof."
+  },
+  {
+    "id": 46,
+    "question": "What is a flowchart defined as in the COS 102 PDF?",
+    "options": [
+      "A textual description of a program",
+      "A step-by-step diagrammatic representation of the logic paths to solve a problem",
+      "A programming language",
+      "A type of algorithm"
+    ],
+    "answerIndex": 1,
+    "explanation": "A flowchart is a step-by-step diagrammatic representation of logic paths to solve a problem."
+  },
+  {
+    "id": 47,
+    "question": "What is the advantage of flowcharts according to the document?",
+    "options": [
+      "They are easy to modify for large programs",
+      "They provide a pictorial representation making logic easier to follow",
+      "They are faster to execute than code",
+      "They require less memory"
+    ],
+    "answerIndex": 1,
+    "explanation": "Flowcharts provide a pictorial representation that makes logic easier to follow."
+  },
+  {
+    "id": 48,
+    "question": "What is a disadvantage of flowcharts mentioned in the document?",
+    "options": [
+      "They are too simple",
+      "For large programs, they may continue for many pages and become difficult to follow and modify",
+      "They cannot represent decisions",
+      "They are not pictorial"
+    ],
+    "answerIndex": 1,
+    "explanation": "For large programs, flowcharts may extend many pages and become difficult to follow and modify."
+  },
+  {
+    "id": 49,
+    "question": "What is the purpose of the flowline symbol in flowcharts?",
+    "options": [
+      "To indicate input/output",
+      "To indicate the direction of flow",
+      "To represent decisions",
+      "To show process steps"
+    ],
+    "answerIndex": 1,
+    "explanation": "Flowline symbols indicate the direction of flow and must have arrows."
+  },
+  {
+    "id": 50,
+    "question": "How many entry and exit paths does a decision symbol have?",
+    "options": [
+      "One entry and one exit",
+      "One entry and two exit paths",
+      "Two entries and one exit",
+      "Two entries and two exits"
+    ],
+    "answerIndex": 1,
+    "explanation": "The decision symbol has one entry and two exit paths."
+  },
+  {
+    "id": 51,
+    "question": "What is the purpose of the annotation symbol in flowcharts?",
+    "options": [
+      "To represent decisions",
+      "To provide additional information about another flowchart symbol",
+      "To show input/output",
+      "To indicate the start/stop"
+    ],
+    "answerIndex": 1,
+    "explanation": "The annotation symbol provides additional information about another flowchart symbol."
+  },
+  {
+    "id": 52,
+    "question": "What does the subroutine predefined symbol indicate?",
+    "options": [
+      "Input operations",
+      "A sequence of actions that perform a specific task embedded within a larger process",
+      "Decision points",
+      "Output operations"
+    ],
+    "answerIndex": 1,
+    "explanation": "It indicates a sequence of actions that perform a specific task within a larger process."
+  },
+  {
+    "id": 53,
+    "question": "What does the sort symbol indicate in flowcharts?",
+    "options": [
+      "A decision point",
+      "A step that organizes a list of items into a sequence or sets based on predefined criteria",
+      "Input from database",
+      "Manual input"
+    ],
+    "answerIndex": 1,
+    "explanation": "The sort symbol indicates a step that organizes items into a sequence or sets."
+  },
+  {
+    "id": 54,
+    "question": "What does the merge symbol represent in flowcharts?",
+    "options": [
+      "A decision point",
+      "Where 2 or more sub-lists or sub-processes become one",
+      "The end of a process",
+      "Input from multiple sources"
+    ],
+    "answerIndex": 1,
+    "explanation": "The merge symbol shows where two or more sub-lists or sub-processes combine into one."
+  },
+  {
+    "id": 55,
+    "question": "What does the manual loop symbol indicate?",
+    "options": [
+      "An automatic loop",
+      "A sequence of commands that will continue to repeat until stopped manually",
+      "A decision loop",
+      "An infinite loop"
+    ],
+    "answerIndex": 1,
+    "explanation": "The manual loop symbol indicates commands that repeat until stopped manually."
+  },
+  {
+    "id": 56,
+    "question": "What does the database symbol indicate in flowcharts?",
+    "options": [
+      "A decision based on data",
+      "A list of information with a standard structure allowing searching and sorting",
+      "Manual input",
+      "Output to storage"
+    ],
+    "answerIndex": 1,
+    "explanation": "The database symbol indicates information with a standard structure for searching and sorting."
+  },
+  {
+    "id": 57,
+    "question": "What is pseudocode according to the COS 102 PDF?",
+    "options": [
+      "A diagrammatic representation",
+      "An abbreviated version of actual computer code, an abstract form of a program",
+      "A programming language",
+      "A hardware description"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pseudocode is an abbreviated version of actual computer code, an abstract form of a program."
+  },
+  {
+    "id": 58,
+    "question": "In pseudocode, what replaces the geometric symbols used in flowcharts?",
+    "options": [
+      "Numbers",
+      "English-like statements",
+      "Mathematical formulas",
+      "Special characters"
+    ],
+    "answerIndex": 1,
+    "explanation": "In pseudocode, geometric symbols are replaced by English-like statements."
+  },
+  {
+    "id": 59,
+    "question": "What advantage does pseudocode have over flowcharts for large programs?",
+    "options": [
+      "It is more pictorial",
+      "It is more compact and probably won't extend for as many pages",
+      "It is harder to write",
+      "It requires special software"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pseudocode is more compact and won't extend for as many pages as flowcharts for large programs."
+  },
+  {
+    "id": 60,
+    "question": "What are the two basic types of structures in programming mentioned in the document?",
+    "options": [
+      "Linear and circular",
+      "Sequence structure and decision structure",
+      "Simple and complex",
+      "Input and output"
+    ],
+    "answerIndex": 1,
+    "explanation": "The two basic structures are the sequence structure and the decision structure."
+  },
+  {
+    "id": 61,
+    "question": "What is the formula to convert temperature from Fahrenheit to Celsius?",
+    "options": [
+      "C = (F - 32) * 5/9",
+      "C = (F + 32) * 5/9",
+      "C = F * 9/5 + 32",
+      "C = F - 32 * 9/5"
+    ],
+    "answerIndex": 0,
+    "explanation": "The correct formula is C = (5/9) * (F - 32)."
+  },
+  {
+    "id": 62,
+    "question": "In the algorithm to compute wages, what are the inputs?",
+    "options": [
+      "Only hours worked",
+      "Number of hours and rate per hour",
+      "Only rate per hour",
+      "Wages and hours"
+    ],
+    "answerIndex": 1,
+    "explanation": "The inputs are the number of hours worked and the rate per hour."
+  },
+  {
+    "id": 63,
+    "question": "What is the formula for simple interest on a loan?",
+    "options": [
+      "(P + R + T)/100",
+      "(P * R * T)/100",
+      "(P - R - T)/100",
+      "(P * R)/T"
+    ],
+    "answerIndex": 1,
+    "explanation": "Simple interest is calculated as (Principal * Rate * Time)/100."
+  },
+  {
+    "id": 64,
+    "question": "What is the formula to compute the volume of a cube?",
+    "options": [
+      "Length + Width + Height",
+      "Length * Width * Height",
+      "2 * (Length + Width + Height)",
+      "Length^2 * Height"
+    ],
+    "answerIndex": 1,
+    "explanation": "Volume of a cube (rectangular prism) is Length * Width * Height."
+  },
+  {
+    "id": 65,
+    "question": "What is the freezing point temperature used in the algorithm to determine freezing?",
+    "options": ["0°F", "32°F", "100°F", "212°F"],
+    "answerIndex": 1,
+    "explanation": "The algorithm checks if temperature is less than 32°F to determine freezing."
+  },
+  {
+    "id": 66,
+    "question": "In the algorithm to determine if a student passed, what is the passing average grade?",
+    "options": ["50", "60", "70", "75"],
+    "answerIndex": 1,
+    "explanation": "The algorithm uses 60 as the passing average grade."
+  },
+  {
+    "id": 67,
+    "question": "In the algorithm to compute the sum of five numbers, what is the initial value of counter?",
+    "options": ["1", "0", "5", "10"],
+    "answerIndex": 1,
+    "explanation": "The counter is initially set to 0."
+  },
+  {
+    "id": 68,
+    "question": "In the algorithm to compute the sum of five numbers, when is the sum printed?",
+    "options": [
+      "After each input",
+      "When counter = 5",
+      "When counter < 5",
+      "When counter > 5"
+    ],
+    "answerIndex": 1,
+    "explanation": "The sum is printed when counter is not less than 5 (i.e., when counter = 5)."
+  },
+  {
+    "id": 69,
+    "question": "In the auditor's forum promotion algorithm, what are the conditions for awarding a gift voucher?",
+    "options": [
+      "Spending more than $10,000",
+      "Last month spending not less than $10,000 AND current spending greater than $15,000",
+      "Current spending greater than last month spending",
+      "Any spending over $5,000"
+    ],
+    "answerIndex": 1,
+    "explanation": "The conditions are: last month spending ≥ $10,000 AND current spending > $15,000."
+  },
+  {
+    "id": 70,
+    "question": "What does BASIC stand for?",
+    "options": [
+      "Basic All-purpose Symbolic Instruction Code",
+      "Beginner's All-purpose Symbolic Instruction Code",
+      "Binary Automated Symbolic Instruction Code",
+      "British American Standard Instruction Code"
+    ],
+    "answerIndex": 1,
+    "explanation": "BASIC stands for Beginner's All-purpose Symbolic Instruction Code."
+  },
+  {
+    "id": 71,
+    "question": "What type of programming language is Visual Basic?",
+    "options": [
+      "Text-based and sequential",
+      "Visual and Event-driven",
+      "Machine language",
+      "Assembly language"
+    ],
+    "answerIndex": 1,
+    "explanation": "Visual Basic is a Visual and Event-driven programming language."
+  },
+  {
+    "id": 72,
+    "question": "How is programming done in traditional BASIC compared to Visual Basic?",
+    "options": [
+      "In a graphical environment in both",
+      "In BASIC, text-only environment with sequential execution; in VB, graphical environment with event-driven programming",
+      "They are exactly the same",
+      "BASIC is event-driven, VB is sequential"
+    ],
+    "answerIndex": 1,
+    "explanation": "BASIC uses text-only environment with sequential execution, while VB uses graphical environment with event-driven programming."
+  },
+  {
+    "id": 73,
+    "question": "What are examples of events in Visual Basic?",
+    "options": [
+      "Only clicking a command button",
+      "Clicking a command button, entering text in a text box, selecting an item in a listbox",
+      "Only entering text",
+      "Only selecting items"
+    ],
+    "answerIndex": 1,
+    "explanation": "Events include clicking a command button, entering text in a text box, and selecting an item in a listbox."
+  },
+  {
+    "id": 74,
+    "question": "How do you invoke Visual Basic 6.0?",
+    "options": [
+      "By typing VB at command prompt",
+      "Click Start → All Programs → Microsoft Visual Basic 6.0",
+      "By restarting the computer",
+      "By opening a web browser"
+    ],
+    "answerIndex": 1,
+    "explanation": "You invoke VB by clicking Start, pointing to All Programs, then Microsoft Visual Basic 6.0."
+  },
+  {
+    "id": 75,
+    "question": "What does EXE stand for in Standard EXE icon?",
+    "options": [
+      "Executive Program",
+      "Executable Program",
+      "External Extension",
+      "Extended Execution"
+    ],
+    "answerIndex": 1,
+    "explanation": "EXE stands for Executable Program."
+  },
+  {
+    "id": 76,
+    "question": "What does the VB Environment consist of?",
+    "options": [
+      "Only the main window",
+      "Main window, blank form, project window, toolbox, form layout window",
+      "Only the toolbox",
+      "Only the form window"
+    ],
+    "answerIndex": 1,
+    "explanation": "The VB environment consists of the main window, blank form, project window, toolbox, and form layout window."
+  },
+  {
+    "id": 77,
+    "question": "What is the purpose of the form window in VB?",
+    "options": [
+      "To write code only",
+      "Central for developing applications - where users draw their applications",
+      "To display properties",
+      "To show the toolbox"
+    ],
+    "answerIndex": 1,
+    "explanation": "The form window is central for developing applications - it's where users draw their applications."
+  },
+  {
+    "id": 78,
+    "question": "What does the project window display in VB?",
+    "options": [
+      "Only the code",
+      "A list of all forms and modules making up a user application",
+      "Only the properties",
+      "Only the toolbox"
+    ],
+    "answerIndex": 1,
+    "explanation": "The project window displays a list of all forms and modules in the application."
+  },
+  {
+    "id": 79,
+    "question": "What are the two views available in the properties window?",
+    "options": [
+      "Simple and Advanced",
+      "Alphabetic and Categorized",
+      "Basic and Detailed",
+      "List and Icon"
+    ],
+    "answerIndex": 1,
+    "explanation": "The two views available are Alphabetic and Categorized."
+  },
+  {
+    "id": 80,
+    "question": "What is the Textbox control used for in VB?",
+    "options": [
+      "Only to display output",
+      "To receive input from users and display output",
+      "Only to handle graphics",
+      "To execute commands"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Textbox control receives input from users and displays output."
+  },
+  {
+    "id": 81,
+    "question": "How can string in a textbox be converted to numeric data in VB?",
+    "options": [
+      "Using the Num() function",
+      "Using the Val(text) function",
+      "Using the Str() function",
+      "Using the Int() function"
+    ],
+    "answerIndex": 1,
+    "explanation": "String in a textbox can be converted to numeric data using the Val(text) function."
+  },
+  {
+    "id": 82,
+    "question": "What is the Label control used for in VB?",
+    "options": [
+      "Only to receive input",
+      "To provide instructions and guides to users, and display outputs",
+      "Only to execute commands",
+      "To handle graphics"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Label control provides instructions/guides and can display outputs."
+  },
+  {
+    "id": 83,
+    "question": "What is the most common event associated with the Command Button?",
+    "options": [
+      "Double-click event",
+      "Click event",
+      "Mouse-over event",
+      "Key-press event"
+    ],
+    "answerIndex": 1,
+    "explanation": "The most common event associated with the command button is the click event."
+  },
+  {
+    "id": 84,
+    "question": "What is the major difference between Picture box and Image box in VB?",
+    "options": [
+      "Picture box cannot display images",
+      "Image in an image box is stretchable (resizable)",
+      "Picture box is for text only",
+      "Image box cannot load pictures"
+    ],
+    "answerIndex": 1,
+    "explanation": "The major difference is that the image in an image box is stretchable/resizable."
+  },
+  {
+    "id": 85,
+    "question": "What method is used to add items to a List box in VB?",
+    "options": [
+      "AddList method",
+      "AddItem method",
+      "Insert method",
+      "Append method"
+    ],
+    "answerIndex": 1,
+    "explanation": "The AddItem method is used to add items to a list box."
+  },
+  {
+    "id": 86,
+    "question": "What are the values of a Checkbox when checked and unchecked?",
+    "options": [
+      "Checked = 0, Unchecked = 1",
+      "Checked = 1, Unchecked = 0",
+      "Checked = True, Unchecked = False",
+      "Checked = On, Unchecked = Off"
+    ],
+    "answerIndex": 1,
+    "explanation": "When checked, value is 1; when unchecked, value is 0."
+  },
+  {
+    "id": 87,
+    "question": "How many Option boxes can be selected at one time?",
+    "options": ["Multiple", "Only one", "Two", "All"],
+    "answerIndex": 1,
+    "explanation": "Only one option box can be selected at a time."
+  },
+  {
+    "id": 88,
+    "question": "What does the Drive List Box display in VB?",
+    "options": [
+      "Files only",
+      "List of drives available on a user's computer",
+      "Folders only",
+      "Network connections"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Drive List Box displays the list of drives available on the computer."
+  },
+  {
+    "id": 89,
+    "question": "What does the Directory Listbox display?",
+    "options": [
+      "Files only",
+      "List of directories or folders in a selected drive",
+      "Drives only",
+      "Network locations"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Directory Listbox displays the list of directories or folders in a selected drive."
+  },
+  {
+    "id": 90,
+    "question": "What does the File Listbox display?",
+    "options": [
+      "Drives only",
+      "List of files in a selected directory or folder",
+      "Directories only",
+      "System information"
+    ],
+    "answerIndex": 1,
+    "explanation": "The File Listbox displays the list of files in a selected directory or folder."
+  },
+  {
+    "id": 91,
+    "question": "What are the three primary steps in developing a Visual Basic program?",
+    "options": [
+      "Plan, Code, Test",
+      "Create interface, Set properties, Write/attach code",
+      "Design, Debug, Deploy",
+      "Input, Process, Output"
+    ],
+    "answerIndex": 1,
+    "explanation": "The three steps are: Create the interface, Set properties, and Write/attach code."
+  },
+  {
+    "id": 92,
+    "question": "What are the two ways to place controls on a form in VB?",
+    "options": [
+      "Drag and drop only",
+      "Double-click on tool, or click tool and draw on form",
+      "Copy and paste only",
+      "Import from file only"
+    ],
+    "answerIndex": 1,
+    "explanation": "You can double-click the tool, or click the tool and draw on the form."
+  },
+  {
+    "id": 93,
+    "question": "What is the structure of an event procedure in VB?",
+    "options": [
+      "Sub ObjectName_event()",
+      "Private Sub ObjectName_event() Statements End Sub",
+      "Function ObjectName_event()",
+      "Procedure ObjectName_event()"
+    ],
+    "answerIndex": 1,
+    "explanation": "The structure is: Private Sub ObjectName_event() Statements End Sub"
+  },
+  {
+    "id": 94,
+    "question": "What does the word 'Private' mean in an event procedure?",
+    "options": [
+      "It can be accessed from anywhere",
+      "The event procedure cannot be invoked by an event from another form",
+      "It is hidden",
+      "It is temporary"
+    ],
+    "answerIndex": 1,
+    "explanation": "Private means the event procedure cannot be invoked by an event from another form."
+  },
+  {
+    "id": 95,
+    "question": "What is the syntax to change object properties while a program is running?",
+    "options": [
+      "objectName.property = setting",
+      "objectName.property setting",
+      "setting = objectName.property",
+      "objectName = property.setting"
+    ],
+    "answerIndex": 0,
+    "explanation": "Properties are changed using the format: objectName.property = setting"
+  },
+  {
+    "id": 96,
+    "question": "What is the default object (control) in Visual Basic code?",
+    "options": ["Command button", "The form", "Textbox", "Label"],
+    "answerIndex": 1,
+    "explanation": "The form is the default object in Visual Basic code."
+  },
+  {
+    "id": 97,
+    "question": "What is a professional way to end a Visual Basic program?",
+    "options": [
+      "Press Alt+F4",
+      "Click the End icon",
+      "Create a Command button with End Sub event procedure",
+      "Create a Command button named CmdQuit with End in its click event"
+    ],
+    "answerIndex": 3,
+    "explanation": "Creating a Command button named CmdQuit with End in its click event is a professional way."
+  },
+  {
+    "id": 98,
+    "question": "What color constant gives a green background in VB?",
+    "options": ["vbGreen", "vbGreen", "Color.Green", "GreenColor"],
+    "answerIndex": 1,
+    "explanation": "vbGreen is the color constant for green."
+  },
+  {
+    "id": 99,
+    "question": "What method is used to display numbers in a picture box in VB?",
+    "options": [
+      "Display method",
+      "Print method",
+      "Show method",
+      "Output method"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Print method is used to display numbers in a picture box."
+  },
+  {
+    "id": 100,
+    "question": "What does the Cls method do in VB?",
+    "options": [
+      "Close the program",
+      "Clear all text and graphics from a picture box",
+      "Calculate something",
+      "Create a new class"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Cls method erases all text and graphics from the picture box."
+  },
+  {
+    "id": 101,
+    "question": "What is the order of arithmetic operations in VB?",
+    "options": [
+      "Addition/Subtraction first",
+      "Exponentials, then Multiplication/Division, then Addition/Subtraction",
+      "Left to right only",
+      "Multiplication first, then any order"
+    ],
+    "answerIndex": 1,
+    "explanation": "The order is: Exponentials, then Multiplication/Division, then Addition/Subtraction."
+  },
+  {
+    "id": 102,
+    "question": "What are syntax errors in VB?",
+    "options": [
+      "Errors while running the program",
+      "Errors that appear while writing code, like misspelling or incorrect punctuation",
+      "Errors in logic",
+      "Errors in output"
+    ],
+    "answerIndex": 1,
+    "explanation": "Syntax errors appear while writing code and include misspelling or incorrect punctuation."
+  },
+  {
+    "id": 103,
+    "question": "What is the Option Explicit Statement used for in VB?",
+    "options": [
+      "To make code run faster",
+      "To force the programmer to declare variables in advance, avoiding syntax errors",
+      "To add comments",
+      "To end the program"
+    ],
+    "answerIndex": 1,
+    "explanation": "Option Explicit forces variable declaration, helping to avoid syntax errors."
+  },
+  {
+    "id": 104,
+    "question": "What are run-time errors in VB?",
+    "options": [
+      "Errors while writing code",
+      "Errors detected while running a program",
+      "Errors in comments",
+      "Errors in design"
+    ],
+    "answerIndex": 1,
+    "explanation": "Run-time errors are detected while running a program."
+  },
+  {
+    "id": 105,
+    "question": "What happens when you click the Debug Button after a run-time error?",
+    "options": [
+      "The program restarts",
+      "VB highlights in yellow the line of code that caused the error",
+      "The program ends",
+      "The error is ignored"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clicking Debug highlights the line of code that caused the error."
+  },
+  {
+    "id": 106,
+    "question": "What are logic errors in VB?",
+    "options": [
+      "Errors in syntax",
+      "Errors that appear once the application is in use, causing unwanted or unexpected results",
+      "Errors in variable declaration",
+      "Compile-time errors"
+    ],
+    "answerIndex": 1,
+    "explanation": "Logic errors appear when the application is in use, causing unexpected results."
+  },
+  {
+    "id": 107,
+    "question": "What are the two primary types of data that can be processed by Visual Basic?",
+    "options": [
+      "Text and Images",
+      "Numbers and Strings",
+      "Audio and Video",
+      "Objects and Classes"
+    ],
+    "answerIndex": 1,
+    "explanation": "Visual Basic processes two primary types of data: Numbers and Strings."
+  },
+  {
+    "id": 108,
+    "question": "What is concatenation in VB?",
+    "options": [
+      "Dividing strings",
+      "Combining strings using the & operator",
+      "Multiplying strings",
+      "Comparing strings"
+    ],
+    "answerIndex": 1,
+    "explanation": "Concatenation is combining strings using the & operator."
+  },
+  {
+    "id": 109,
+    "question": "What is a variable in programming?",
+    "options": [
+      "A fixed value",
+      "A storage location paired with an associated name which contains some known or unknown information called value",
+      "A constant",
+      "A reserved word"
+    ],
+    "answerIndex": 1,
+    "explanation": "A variable is a storage location with a name that contains a value that can change."
+  },
+  {
+    "id": 110,
+    "question": "What are the rules for naming variables in VB?",
+    "options": [
+      "Can be any length with spaces",
+      "Must be ≤255 characters, begin with a letter, no spaces or periods, not a reserved word",
+      "Must be all uppercase",
+      "Can include periods"
+    ],
+    "answerIndex": 1,
+    "explanation": "Variable names must be ≤255 chars, begin with a letter, no spaces/periods, not reserved words."
+  },
+  {
+    "id": 111,
+    "question": "Does Visual Basic distinguish between upper and lower case letters in variable names?",
+    "options": ["Yes", "No", "Only for keywords", "Only for the first letter"],
+    "answerIndex": 1,
+    "explanation": "Visual Basic does not distinguish between upper and lower case letters."
+  },
+  {
+    "id": 112,
+    "question": "What are the three ways of declaring variables in Visual Basic?",
+    "options": [
+      "Simple, Medium, Complex",
+      "Default, Implicit, Explicit",
+      "Static, Dynamic, Constant",
+      "Public, Private, Protected"
+    ],
+    "answerIndex": 1,
+    "explanation": "The three ways are: Default, Implicit, and Explicit declaration."
+  },
+  {
+    "id": 113,
+    "question": "What is the variant data type in VB?",
+    "options": [
+      "A type for numbers only",
+      "A special type that can contain numeric, string or date data",
+      "A type for strings only",
+      "A type for objects only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Variant is a special type that can contain numeric, string, or date data."
+  },
+  {
+    "id": 114,
+    "question": "What is the suffix for Integer data type in VB?",
+    "options": ["$", "%", "#", "!"],
+    "answerIndex": 1,
+    "explanation": "The suffix for Integer is %."
+  },
+  {
+    "id": 115,
+    "question": "What is the suffix for String data type in VB?",
+    "options": ["%", "&", "$", "#"],
+    "answerIndex": 2,
+    "explanation": "The suffix for String is $."
+  },
+  {
+    "id": 116,
+    "question": "What is the syntax for explicit declaration in VB using Dim?",
+    "options": [
+      "Dim variableName",
+      "Dim variableName As DataType",
+      "Declare variableName As DataType",
+      "Variable variableName = DataType"
+    ],
+    "answerIndex": 1,
+    "explanation": "Explicit declaration uses: Dim variableName As DataType"
+  },
+  {
+    "id": 117,
+    "question": "What does Dim stand for?",
+    "options": [
+      "Dimension = Declare in memory",
+      "Diminish",
+      "Digital input method",
+      "Data in memory"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dim stands for Dimension, meaning declare in memory."
+  },
+  {
+    "id": 118,
+    "question": "What range of values can a Byte data type store in VB?",
+    "options": ["-128 to 127", "0 to 255", "-32,768 to 32,767", "0 to 65,535"],
+    "answerIndex": 1,
+    "explanation": "Byte stores integer values from 0 to 255."
+  },
+  {
+    "id": 119,
+    "question": "What range of values can an Integer data type store in VB?",
+    "options": [
+      "0 to 255",
+      "-32,768 to +32,767",
+      "-2,147,483 to +2,147,483",
+      "-3.4x10^38 to +3.4x10^38"
+    ],
+    "answerIndex": 1,
+    "explanation": "Integer stores values from -32,768 to +32,767."
+  },
+  {
+    "id": 120,
+    "question": "What is a reserved word (Keyword) in VB?",
+    "options": [
+      "A word that can be used as variable name",
+      "A word with a specific function or command that cannot be used as variable name",
+      "A word for comments",
+      "A user-defined word"
+    ],
+    "answerIndex": 1,
+    "explanation": "Reserved words have specific functions and cannot be used as variable names."
+  },
+  {
+    "id": 121,
+    "question": "Why is 'Print' not allowed as a variable name in VB?",
+    "options": [
+      "It's too short",
+      "It's a reserved word/Keyword",
+      "It's a number",
+      "It's a symbol"
+    ],
+    "answerIndex": 1,
+    "explanation": "Print is a reserved word (Keyword) in VB and cannot be used as a variable name."
+  },
+  {
+    "id": 122,
+    "question": "What is the scope of a variable?",
+    "options": [
+      "Its data type",
+      "Which part of the code in an application is aware of the variable's existence",
+      "Its value",
+      "Its name"
+    ],
+    "answerIndex": 1,
+    "explanation": "Scope determines which parts of the code are aware of the variable's existence."
+  },
+  {
+    "id": 123,
+    "question": "What are local variables in VB?",
+    "options": [
+      "Variables available to all procedures",
+      "Variables recognized only in the procedure in which they are declared",
+      "Variables in modules",
+      "Public variables"
+    ],
+    "answerIndex": 1,
+    "explanation": "Local variables are recognized only in the procedure where they are declared."
+  },
+  {
+    "id": 124,
+    "question": "What keywords are used for local variables in VB?",
+    "options": [
+      "Public and Private",
+      "Dim and Static",
+      "Global and Local",
+      "Const and Let"
+    ],
+    "answerIndex": 1,
+    "explanation": "Local variables use the Dim and Static keywords."
+  },
+  {
+    "id": 125,
+    "question": "How long do local variables declared with Dim exist?",
+    "options": [
+      "For the entire application lifetime",
+      "Only as long as the procedure is being executed",
+      "Permanently",
+      "Until the computer restarts"
+    ],
+    "answerIndex": 1,
+    "explanation": "Local variables with Dim exist only while the procedure is being executed."
+  },
+  {
+    "id": 126,
+    "question": "What is special about Static variables in VB?",
+    "options": [
+      "They cannot change value",
+      "They are not re-initialized each time and preserve value even when the procedure ends",
+      "They are always zero",
+      "They are global"
+    ],
+    "answerIndex": 1,
+    "explanation": "Static variables preserve their value even when the procedure ends."
+  },
+  {
+    "id": 127,
+    "question": "What is a control structure in programming?",
+    "options": [
+      "A type of variable",
+      "A block that analyzes variables and chooses direction based on parameters - basic decision making process",
+      "A data type",
+      "An object"
+    ],
+    "answerIndex": 1,
+    "explanation": "A control structure analyzes variables and chooses direction based on parameters."
+  },
+  {
+    "id": 128,
+    "question": "What are the two types of control structures mentioned in the document?",
+    "options": [
+      "Linear and Circular",
+      "Selective and Repetitive (Reflective)",
+      "Simple and Complex",
+      "Basic and Advanced"
+    ],
+    "answerIndex": 1,
+    "explanation": "Visual Basic supports Selective and Repetitive (Reflective) structures."
+  },
+  {
+    "id": 129,
+    "question": "What does the If...Then selection structure do?",
+    "options": [
+      "Always performs an action",
+      "Performs an action only when condition is True; otherwise skips",
+      "Performs action when False",
+      "Loops indefinitely"
+    ],
+    "answerIndex": 1,
+    "explanation": "If...Then performs action only when condition is True; otherwise it skips."
+  },
+  {
+    "id": 130,
+    "question": "What does the If...Then...Else selective structure allow?",
+    "options": [
+      "Only one action",
+      "Different actions when condition is True versus when condition is False",
+      "No actions",
+      "Only loops"
+    ],
+    "answerIndex": 1,
+    "explanation": "It allows different actions for True and False conditions."
+  },
+  {
+    "id": 131,
+    "question": "What is a loop in programming?",
+    "options": [
+      "A single instruction",
+      "A structure that repeats a sequence of instructions until a specific condition is met",
+      "A decision point",
+      "An input operation"
+    ],
+    "answerIndex": 1,
+    "explanation": "A loop repeats instructions until a specific condition is met."
+  },
+  {
+    "id": 132,
+    "question": "What are the two basic types of loops mentioned?",
+    "options": [
+      "For and While",
+      "Pretest and Posttest",
+      "Simple and Complex",
+      "Infinite and Finite"
+    ],
+    "answerIndex": 1,
+    "explanation": "The two basic types are pretest and posttest loops."
+  },
+  {
+    "id": 133,
+    "question": "What is a pretest loop?",
+    "options": [
+      "Loop that tests after execution",
+      "Loop where condition is checked before each repetition - may not execute at all",
+      "Loop that always executes once",
+      "Loop with no condition"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pretest loops check condition before each repetition and may not execute at all."
+  },
+  {
+    "id": 134,
+    "question": "What is a pretest loop also called?",
+    "options": [
+      "Exit controlled loop",
+      "Entrance controlled loop",
+      "Post-check loop",
+      "Bottom-check loop"
+    ],
+    "answerIndex": 1,
+    "explanation": "A pretest loop is called an entrance controlled loop."
+  },
+  {
+    "id": 135,
+    "question": "What is a post-test loop?",
+    "options": [
+      "Tests at the top",
+      "Tests condition at the bottom, always executes at least once",
+      "Never executes",
+      "Tests in the middle"
+    ],
+    "answerIndex": 1,
+    "explanation": "Post-test loops test at the bottom and always execute at least once."
+  },
+  {
+    "id": 136,
+    "question": "What are the three basic parts of a loop?",
+    "options": [
+      "Start, Middle, End",
+      "Initialization, Terminating Condition, Loop Body",
+      "Input, Process, Output",
+      "Setup, Test, Execute"
+    ],
+    "answerIndex": 1,
+    "explanation": "The three parts are: Initialization, Terminating Condition, and Loop Body."
+  },
+  {
+    "id": 137,
+    "question": "How does the Do...While...Loop statement work in VB?",
+    "options": [
+      "Executes then tests",
+      "Tests condition first, executes statements if True, repeats until condition is False",
+      "Always executes once",
+      "Never executes"
+    ],
+    "answerIndex": 1,
+    "explanation": "Do...While tests condition first, executes if True, and repeats until condition is False."
+  },
+  {
+    "id": 138,
+    "question": "How does the Do...Loop...While statement work in VB?",
+    "options": [
+      "Tests first",
+      "Executes statements first, then tests condition after each execution",
+      "Never executes",
+      "Only tests"
+    ],
+    "answerIndex": 1,
+    "explanation": "Do...Loop...While executes statements first, then tests condition after each execution."
+  },
+  {
+    "id": 139,
+    "question": "How does the Do...Until...Loop statement work?",
+    "options": [
+      "Executes while condition is True",
+      "Tests condition for Falsity, executes repeatedly as long as loop-continuation test evaluates False",
+      "Executes once",
+      "Never executes"
+    ],
+    "answerIndex": 1,
+    "explanation": "Do...Until executes repeatedly as long as the condition evaluates False."
+  },
+  {
+    "id": 140,
+    "question": "What is the correct syntax to output 'Hello World' in C?",
+    "options": [
+      "cout << 'Hello World';",
+      "System.out.println('Hello World');",
+      "printf('Hello World');",
+      "Console.WriteLine('Hello World');"
+    ],
+    "answerIndex": 2,
+    "explanation": "printf('Hello World'); is the correct syntax in C."
+  },
+  {
+    "id": 141,
+    "question": "How do you write a single-line comment in C?",
+    "options": [
+      "# This is a comment",
+      "// This is a comment",
+      "/* This is a comment */",
+      "-- This is a comment"
+    ],
+    "answerIndex": 1,
+    "explanation": "// is used for single-line comments in C."
+  },
+  {
+    "id": 142,
+    "question": "Which header file is required to use printf() function?",
+    "options": ["<conio.h>", "<stdio.h>", "<stdlib.h>", "<string.h>"],
+    "answerIndex": 1,
+    "explanation": "<stdio.h> (standard input/output header) is required for printf()."
+  },
+  {
+    "id": 143,
+    "question": "What is the correct format specifier for an integer in printf()?",
+    "options": ["%s", "%f", "%c", "%d"],
+    "answerIndex": 3,
+    "explanation": "%d is the format specifier for integers in C."
+  },
+  {
+    "id": 144,
+    "question": "How do you declare a float variable named price and assign it the value 9.99?",
+    "options": [
+      "float price = '9.99';",
+      "float price = 9.99;",
+      "float price = 9,99;",
+      "float = 9.99 price;"
+    ],
+    "answerIndex": 1,
+    "explanation": "float price = 9.99; is the correct declaration and assignment."
+  },
+  {
+    "id": 145,
+    "question": "How do you declare a constant integer named MAX with value 100?",
+    "options": [
+      "int const MAX = 100;",
+      "#define MAX = 100;",
+      "const int MAX = 100;",
+      "static const int MAX = 100;"
+    ],
+    "answerIndex": 2,
+    "explanation": "const int MAX = 100; is the correct way to declare a constant integer."
+  },
+  {
+    "id": 146,
+    "question": "Which operator is used to find the remainder of a division?",
+    "options": ["/", "*", "%", "^"],
+    "answerIndex": 2,
+    "explanation": "% is the modulus operator that returns the remainder."
+  },
+  {
+    "id": 147,
+    "question": "Which of the following is the logical AND operator in C?",
+    "options": ["&", "&&", "||", "!="],
+    "answerIndex": 1,
+    "explanation": "&& is the logical AND operator in C."
+  },
+  {
+    "id": 148,
+    "question": "What does this code print if x = 20? if (x >= 18) { printf('Adult'); } else { printf('Minor'); }",
+    "options": ["Minor", "Adult", "Nothing", "Error"],
+    "answerIndex": 1,
+    "explanation": "Since 20 >= 18 is true, 'Adult' will be printed."
+  },
+  {
+    "id": 149,
+    "question": "Which is true about a switch statement in C?",
+    "options": [
+      "It is slower than if",
+      "It supports string comparison",
+      "It evaluates integer or character expressions",
+      "It uses loops internally"
+    ],
+    "answerIndex": 2,
+    "explanation": "Switch statements evaluate integer or character expressions in C."
+  },
+  {
+    "id": 150,
+    "question": "Which loop is best suited when the number of iterations is known in advance?",
+    "options": ["while", "do-while", "for", "goto"],
+    "answerIndex": 2,
+    "explanation": "The for loop is best when the number of iterations is known in advance."
+  },
+  {
+    "id": 151,
+    "question": "What does this code print? for (int i = 0; i < 5; i++) printf('%d ', i);",
+    "options": ["0 1 2 3 4", "1 2 3 4 5", "0 1 2 3 4 5", "1 2 3 4"],
+    "answerIndex": 0,
+    "explanation": "The loop prints i from 0 to 4."
+  },
+  {
+    "id": 152,
+    "question": "Which statement stops the current iteration and moves to the next in a loop?",
+    "options": ["stop", "exit", "continue", "break"],
+    "answerIndex": 2,
+    "explanation": "continue skips the rest of current iteration and moves to the next iteration."
+  },
+  {
+    "id": 153,
+    "question": "How do you declare an integer array with 5 elements?",
+    "options": [
+      "int arr(5);",
+      "int arr[5];",
+      "array int arr[5];",
+      "int arr[] = {5};"
+    ],
+    "answerIndex": 1,
+    "explanation": "int arr[5]; declares an integer array with 5 elements."
+  },
+  {
+    "id": 154,
+    "question": "How do you access the third element of an array arr in C?",
+    "options": ["arr[3]", "arr[2]", "arr[3]", "arr.2"],
+    "answerIndex": 1,
+    "explanation": "Array indices start at 0, so the third element is at index 2: arr[2]."
+  },
+  {
+    "id": 155,
+    "question": "Which function is used to find the length of a string?",
+    "options": ["len()", "strlen()", "length()", "size()"],
+    "answerIndex": 1,
+    "explanation": "strlen() is used to find the length of a string in C."
+  },
+  {
+    "id": 156,
+    "question": "How do you declare a function in C that returns an int and takes two int parameters?",
+    "options": [
+      "int function(int a, int b);",
+      "function int(int a, int b);",
+      "int function(a, b);",
+      "function(a int, b int);"
+    ],
+    "answerIndex": 0,
+    "explanation": "int function(int a, int b); is the correct function declaration."
+  },
+  {
+    "id": 157,
+    "question": "What is recursion in C?",
+    "options": [
+      "Function that repeats a loop",
+      "Function that calls another function",
+      "Function that calls itself",
+      "A macro"
+    ],
+    "answerIndex": 2,
+    "explanation": "Recursion is when a function calls itself."
+  },
+  {
+    "id": 158,
+    "question": "What is the keyword used to return a value from a function?",
+    "options": ["give", "return", "yield", "send"],
+    "answerIndex": 1,
+    "explanation": "return is used to send a value back from a function."
+  },
+  {
+    "id": 159,
+    "question": "How do you declare a pointer to an integer in C?",
+    "options": ["int* p;", "int p*;", "int *p();", "pointer int p;"],
+    "answerIndex": 0,
+    "explanation": "int* p; declares a pointer to an integer."
+  },
+  {
+    "id": 160,
+    "question": "What is the output of this code? int a = 10; int* p = &a; printf('%d', *p);",
+    "options": ["Memory address of a", "10", "0", "Error"],
+    "answerIndex": 1,
+    "explanation": "*p dereferences the pointer, giving the value of a which is 10."
+  },
+  {
+    "id": 161,
+    "question": "Which function is used to allocate memory dynamically?",
+    "options": ["alloc()", "malloc()", "new()", "realloc()"],
+    "answerIndex": 1,
+    "explanation": "malloc() is used for dynamic memory allocation in C."
+  },
+  {
+    "id": 162,
+    "question": "Which keyword is used to define a structure in C?",
+    "options": ["class", "record", "struct", "table"],
+    "answerIndex": 2,
+    "explanation": "struct is used to define structures in C."
+  },
+  {
+    "id": 163,
+    "question": "What is the correct syntax to access the field name in struct student with instance s?",
+    "options": ["s->name", "student.name", "s.name", "s:name"],
+    "answerIndex": 2,
+    "explanation": "Dot operator (.) is used to access structure members: s.name"
+  },
+  {
+    "id": 164,
+    "question": "What is the correct way to declare an enum for days?",
+    "options": [
+      "enum days {Mon, Tue};",
+      "days = {Mon, Tue};",
+      "enum = {Mon, Tue};",
+      "enum {days: Mon, Tue};"
+    ],
+    "answerIndex": 0,
+    "explanation": "enum days {Mon, Tue}; is the correct enum declaration."
+  },
+  {
+    "id": 165,
+    "question": "Which function opens a file in C?",
+    "options": ["fileopen()", "fread()", "fopen()", "openfile()"],
+    "answerIndex": 2,
+    "explanation": "fopen() is used to open files in C."
+  },
+  {
+    "id": 166,
+    "question": "What does 'w' mode mean in fopen()?",
+    "options": [
+      "Read mode",
+      "Write mode (truncate)",
+      "Append mode",
+      "Write without truncating"
+    ],
+    "answerIndex": 1,
+    "explanation": "'w' opens file for writing, truncating it to zero length."
+  },
+  {
+    "id": 167,
+    "question": "What function is used to write to a file in C?",
+    "options": ["fprintf()", "fwrite()", "write()", "print()"],
+    "answerIndex": 0,
+    "explanation": "fprintf() is commonly used to write formatted output to a file."
+  },
+  {
+    "id": 168,
+    "question": "How do you close a file in C?",
+    "options": ["fstop()", "endfile()", "closefile()", "fclose()"],
+    "answerIndex": 3,
+    "explanation": "fclose() is used to close a file in C."
+  },
+  {
+    "id": 169,
+    "question": "What is the correct way to define a macro PI with value 3.14?",
+    "options": [
+      "#define PI = 3.14;",
+      "const PI = 3.14;",
+      "#define PI 3.14",
+      "macro PI 3.14"
+    ],
+    "answerIndex": 2,
+    "explanation": "#define PI 3.14 is the correct macro definition."
+  },
+  {
+    "id": 170,
+    "question": "What should you do to avoid mistakes in algorithm development?",
+    "options": [
+      "Write all code at once",
+      "Use top-down design (hierarchy) and test logic with representative data",
+      "Skip testing",
+      "Use only one method"
+    ],
+    "answerIndex": 1,
+    "explanation": "Use top-down design and test logic with representative data to avoid mistakes."
+  },
+  {
+    "id": 171,
+    "question": "What is the divide and conquer method in programming?",
+    "options": [
+      "Dividing hardware",
+      "Breaking down major parts, then refining each module into more detailed plans",
+      "Conquering errors",
+      "Dividing memory"
+    ],
+    "answerIndex": 1,
+    "explanation": "Divide and conquer means breaking down major parts and refining each module."
+  },
+  {
+    "id": 172,
+    "question": "In the stamp algorithm, what happens if you have 16 sheets of paper?",
+    "options": ["3 stamps", "4 stamps", "5 stamps", "2 stamps"],
+    "answerIndex": 1,
+    "explanation": "16/5 = 3.2, rounded up to the next whole number gives 4 stamps."
+  },
+  {
+    "id": 173,
+    "question": "What is the purpose of testing the algorithm by hand?",
+    "options": [
+      "To make it longer",
+      "To ensure it is correct using representative data",
+      "To waste time",
+      "To confuse the programmer"
+    ],
+    "answerIndex": 1,
+    "explanation": "Testing by hand with representative data ensures the algorithm is correct."
+  },
+  {
+    "id": 174,
+    "question": "What type of structure is the postage stamp example?",
+    "options": [
+      "Decision structure",
+      "Sequence structure",
+      "Loop structure",
+      "Selection structure"
+    ],
+    "answerIndex": 1,
+    "explanation": "The postage stamp example uses sequence structure - each step in sequence without skipping."
+  },
+  {
+    "id": 175,
+    "question": "In the temperature conversion algorithm, what is step 1?",
+    "options": [
+      "Calculate C = (5/9)*(F-32)",
+      "Print temperature in Celsius",
+      "Read temperature in Fahrenheit",
+      "Stop"
+    ],
+    "answerIndex": 2,
+    "explanation": "Step 1 is to read the temperature in Fahrenheit."
+  },
+  {
+    "id": 176,
+    "question": "In the algorithm to compute wages, what is the processing step?",
+    "options": [
+      "Input hours and rate",
+      "Calculate the wages",
+      "Print wages",
+      "Stop"
+    ],
+    "answerIndex": 1,
+    "explanation": "The processing step is to calculate the wages."
+  },
+  {
+    "id": 177,
+    "question": "In the algorithm to compute volume of a cube, what are the inputs?",
+    "options": [
+      "Length only",
+      "Length, Width and Height",
+      "Volume only",
+      "Area only"
+    ],
+    "answerIndex": 1,
+    "explanation": "The inputs are Length, Width, and Height."
+  },
+  {
+    "id": 178,
+    "question": "In the algorithm to determine freezing point, what is the condition checked?",
+    "options": [
+      "Temperature > 32°F",
+      "Temperature < 32°F",
+      "Temperature = 32°F",
+      "Temperature ≥ 32°F"
+    ],
+    "answerIndex": 1,
+    "explanation": "The condition checks if temperature is less than 32°F."
+  },
+  {
+    "id": 179,
+    "question": "In the algorithm to determine pass/fail, how is average grade calculated?",
+    "options": [
+      "Sum of scores / 4",
+      "Sum of scores * 4",
+      "Scores - 4",
+      "Scores + 4"
+    ],
+    "answerIndex": 0,
+    "explanation": "Average grade = Sum of the scores divided by 4."
+  },
+  {
+    "id": 180,
+    "question": "What is Visual Basic according to the document?",
+    "options": [
+      "A low-level language",
+      "A high-level programming language that evolved from BASIC",
+      "An assembly language",
+      "A machine language"
+    ],
+    "answerIndex": 1,
+    "explanation": "Visual Basic is a high-level programming language that evolved from BASIC."
+  },
+  {
+    "id": 181,
+    "question": "What versions of BASIC are mentioned in the document?",
+    "options": [
+      "Only Microsoft QBASIC",
+      "Microsoft QBASIC, QUICKBASIC, GWBASIC",
+      "Only GWBASIC",
+      "Only Visual Basic"
+    ],
+    "answerIndex": 1,
+    "explanation": "Versions include Microsoft QBASIC, QUICKBASIC, and GWBASIC."
+  },
+  {
+    "id": 182,
+    "question": "What is on display when you first invoke Visual Basic 6.0?",
+    "options": [
+      "Only the form",
+      "A tabbed dialog box with three tabs (New, Existing, Recent)",
+      "Only the toolbox",
+      "Only the menu"
+    ],
+    "answerIndex": 1,
+    "explanation": "A tabbed dialog box with New, Existing, and Recent tabs is displayed."
+  },
+  {
+    "id": 183,
+    "question": "How many project icons show with the Professional and Enterprise Editions?",
+    "options": ["3", "13", "10", "5"],
+    "answerIndex": 1,
+    "explanation": "Professional and Enterprise Editions show thirteen (13) project icons."
+  },
+  {
+    "id": 184,
+    "question": "What does the title bar in the main window indicate?",
+    "options": [
+      "Only the time",
+      "The project name, current VB operating mode, and current form",
+      "Only the project name",
+      "Only the mode"
+    ],
+    "answerIndex": 1,
+    "explanation": "The title bar indicates project name, current operating mode, and current form."
+  },
+  {
+    "id": 185,
+    "question": "What does the form layout window show?",
+    "options": [
+      "The code",
+      "Where upon program execution the user's window will be displayed relative to the screen",
+      "The toolbox",
+      "The properties"
+    ],
+    "answerIndex": 1,
+    "explanation": "It shows where the user's window will be displayed relative to the screen."
+  },
+  {
+    "id": 186,
+    "question": "What can the user obtain from the project window?",
+    "options": [
+      "Only the form view",
+      "View of the form or code windows",
+      "Only the code view",
+      "Only the properties"
+    ],
+    "answerIndex": 1,
+    "explanation": "The user can obtain a view of the form or code windows from the project window."
+  },
+  {
+    "id": 187,
+    "question": "What is the purpose of the properties window?",
+    "options": [
+      "To write code",
+      "To display initial properties for objects and change how objects look",
+      "To run the program",
+      "To save the program"
+    ],
+    "answerIndex": 1,
+    "explanation": "Properties window displays and allows changes to object properties."
+  },
+  {
+    "id": 188,
+    "question": "What can the Textbox control handle in VB?",
+    "options": [
+      "Only text",
+      "String and numeric data but not images",
+      "Only images",
+      "Only numbers"
+    ],
+    "answerIndex": 1,
+    "explanation": "Textbox can handle string and numeric data but not images."
+  },
+  {
+    "id": 189,
+    "question": "What is the Picture box used for in VB?",
+    "options": [
+      "Text input",
+      "Handling graphics - pictures can be loaded at design or runtime",
+      "Button clicks",
+      "Data entry"
+    ],
+    "answerIndex": 1,
+    "explanation": "Picture box handles graphics; pictures can be loaded at design or runtime."
+  },
+  {
+    "id": 190,
+    "question": "What is the Image box used for in VB?",
+    "options": [
+      "Similar to picture box but image is stretchable/resizable",
+      "Only for icons",
+      "Only for text",
+      "For buttons"
+    ],
+    "answerIndex": 0,
+    "explanation": "Image box is similar to picture box but the image is stretchable."
+  },
+  {
+    "id": 191,
+    "question": "What is the List box used for in VB?",
+    "options": [
+      "To enter text",
+      "To present a list of items for users to select from",
+      "To draw graphics",
+      "To display images"
+    ],
+    "answerIndex": 1,
+    "explanation": "List box presents a list of items for users to select."
+  },
+  {
+    "id": 192,
+    "question": "How many Option boxes must work together?",
+    "options": ["One", "Two or more", "None", "Exactly three"],
+    "answerIndex": 1,
+    "explanation": "Two or more option boxes must work together - selecting one deselects others."
+  },
+  {
+    "id": 193,
+    "question": "What does the Drive List Box do in VB?",
+    "options": [
+      "Lists files",
+      "Displays list of drives available on computer",
+      "Lists folders",
+      "Lists programs"
+    ],
+    "answerIndex": 1,
+    "explanation": "Drive List Box displays the list of drives available on the computer."
+  },
+  {
+    "id": 194,
+    "question": "What does the Directory Listbox do in VB?",
+    "options": [
+      "Lists drives",
+      "Displays list of directories or folders in a selected drive",
+      "Lists files",
+      "Lists programs"
+    ],
+    "answerIndex": 1,
+    "explanation": "Directory Listbox displays directories or folders in a selected drive."
+  },
+  {
+    "id": 195,
+    "question": "What does the File Listbox do in VB?",
+    "options": [
+      "Lists drives",
+      "Lists directories",
+      "Displays list of files in a selected directory",
+      "Displays system information"
+    ],
+    "answerIndex": 2,
+    "explanation": "File Listbox displays the list of files in a selected directory."
+  },
+  {
+    "id": 196,
+    "question": "How do you resize a control in VB?",
+    "options": [
+      "Drag the control",
+      "Click the object so sizing handles appear, then use handles to resize",
+      "Double-click",
+      "Right-click and select resize"
+    ],
+    "answerIndex": 1,
+    "explanation": "Click the object to show sizing handles, then use them to resize."
+  },
+  {
+    "id": 197,
+    "question": "What does the word Sub mean in an event procedure?",
+    "options": [
+      "Substitute",
+      "Signals the beginning of the event procedure",
+      "Subroutine end",
+      "Subject"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sub signals the beginning of the event procedure."
+  },
+  {
+    "id": 198,
+    "question": "What does End Sub signal in an event procedure?",
+    "options": [
+      "The start",
+      "The termination of an event procedure",
+      "A loop",
+      "An error"
+    ],
+    "answerIndex": 1,
+    "explanation": "End Sub signals the termination of an event procedure."
+  },
+  {
+    "id": 199,
+    "question": "What are assignment statements in VB?",
+    "options": [
+      "Statements that compare values",
+      "Statements that change object properties while program is running, of the form objectName.property = setting",
+      "Statements that declare variables",
+      "Statements that end programs"
+    ],
+    "answerIndex": 1,
+    "explanation": "Assignment statements change object properties using the format objectName.property = setting."
+  },
+  {
+    "id": 200,
+    "question": "What is the Print method in VB?",
+    "options": [
+      "A way to send to printer",
+      "A reserved word used to display output",
+      "A way to save files",
+      "A way to input data"
+    ],
+    "answerIndex": 1,
+    "explanation": "Print is a reserved word and method used to display output."
+  },
+  {
+    "id": 201,
+    "question": "What can be used to display several numbers with one method in VB?",
+    "options": ["Commas", "Semicolons", "Spaces", "Plus signs"],
+    "answerIndex": 1,
+    "explanation": "Semicolons can be used to display several numbers with one Print method."
+  },
+  {
+    "id": 202,
+    "question": "What characters must numbers NOT contain in VB?",
+    "options": [
+      "Decimal points",
+      "Commas, dollar signs, or percent signs",
+      "Digits",
+      "Negative signs"
+    ],
+    "answerIndex": 1,
+    "explanation": "Numbers must not contain commas, dollar signs, or percent signs."
+  },
+  {
+    "id": 203,
+    "question": "What happens in case of ties in arithmetic operations in VB?",
+    "options": [
+      "Rightmost operation first",
+      "Leftmost operation is carried out",
+      "Random order",
+      "Error occurs"
+    ],
+    "answerIndex": 1,
+    "explanation": "In case of ties, the leftmost operation is carried out."
+  },
+  {
+    "id": 204,
+    "question": "What type of error is 'Division by zero' in VB?",
+    "options": [
+      "Syntax error",
+      "Run-time error",
+      "Logic error",
+      "Compile error"
+    ],
+    "answerIndex": 1,
+    "explanation": "Division by zero is a run-time error."
+  },
+  {
+    "id": 205,
+    "question": "When is a program said to be in Break Mode in VB?",
+    "options": [
+      "During normal execution",
+      "When run-time errors occur",
+      "At startup",
+      "When saving"
+    ],
+    "answerIndex": 1,
+    "explanation": "When run-time errors occur, the program is in Break Mode."
+  },
+  {
+    "id": 206,
+    "question": "Why are logic errors the hardest to fix?",
+    "options": [
+      "They cause program crashes",
+      "It is not always clear where they originate",
+      "They are syntax errors",
+      "They stop the program"
+    ],
+    "answerIndex": 1,
+    "explanation": "Logic errors are hardest because it's not always clear where they originate."
+  },
+  {
+    "id": 207,
+    "question": "In the example 'owe = FirstNum + SecondNum/2', what type of error is present if it produces incorrect values?",
+    "options": [
+      "Syntax error",
+      "Logic error",
+      "Run-time error",
+      "Compile error"
+    ],
+    "answerIndex": 1,
+    "explanation": "The missing parentheses cause a logic error - incorrect values but syntactically correct."
+  },
+  {
+    "id": 208,
+    "question": "What are examples of strings in VB?",
+    "options": [
+      "Only numbers",
+      "Sentences, phrases, names, telephone numbers, addresses",
+      "Only single characters",
+      "Only special symbols"
+    ],
+    "answerIndex": 1,
+    "explanation": "Strings include sentences, phrases, names, telephone numbers, and addresses."
+  },
+  {
+    "id": 209,
+    "question": "How must string constants be written in Assignment or Print statements?",
+    "options": [
+      "Without quotes",
+      "Surrounded by quotation marks",
+      "In parentheses",
+      "In brackets"
+    ],
+    "answerIndex": 1,
+    "explanation": "String constants must be surrounded by quotation marks."
+  },
+  {
+    "id": 210,
+    "question": "How are string variables used in Print statements?",
+    "options": [
+      "With quotes",
+      "Never surrounded by quotation marks",
+      "Always in uppercase",
+      "Always in lowercase"
+    ],
+    "answerIndex": 1,
+    "explanation": "String variables are never surrounded by quotation marks in Print statements."
+  },
+  {
+    "id": 211,
+    "question": "What role do variables play in programming?",
+    "options": [
+      "They make programs inflexible",
+      "They enable programmers to write flexible programs and represent data",
+      "They are only for numbers",
+      "They are constants"
+    ],
+    "answerIndex": 1,
+    "explanation": "Variables enable flexible programs and represent data that can change."
+  },
+  {
+    "id": 212,
+    "question": "What is the maximum length of a variable name in VB?",
+    "options": [
+      "128 characters",
+      "255 characters",
+      "100 characters",
+      "50 characters"
+    ],
+    "answerIndex": 1,
+    "explanation": "Variable names must not be more than 255 characters."
+  },
+  {
+    "id": 213,
+    "question": "What is not permitted in variable names in VB?",
+    "options": ["Letters", "Numbers", "Period (.)", "Underscore"],
+    "answerIndex": 2,
+    "explanation": "Period (.) is not permitted in variable names."
+  },
+  {
+    "id": 214,
+    "question": "What happens if a variable is not implicitly or explicitly declared in VB?",
+    "options": [
+      "Error occurs",
+      "They are assigned the variant type by default",
+      "They become integers",
+      "They are ignored"
+    ],
+    "answerIndex": 1,
+    "explanation": "They are assigned the variant type by default."
+  },
+  {
+    "id": 215,
+    "question": "In implicit declaration, what does amount% = 300 create?",
+    "options": [
+      "A string variable",
+      "An integer variable",
+      "A long variable",
+      "A single variable"
+    ],
+    "answerIndex": 1,
+    "explanation": "The % suffix creates an integer variable."
+  },
+  {
+    "id": 216,
+    "question": "What does the Boolean data type store in VB?",
+    "options": [
+      "Numbers only",
+      "Either a True or False value",
+      "Strings only",
+      "Dates only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Boolean holds either True or False values."
+  },
+  {
+    "id": 217,
+    "question": "How are Boolean values internally stored in VB?",
+    "options": [
+      "As strings",
+      "As 1 (True) or 0 (False)",
+      "As 'T' or 'F'",
+      "As Yes or No"
+    ],
+    "answerIndex": 1,
+    "explanation": "Boolean values are internally stored as 1 (True) or 0 (False)."
+  },
+  {
+    "id": 218,
+    "question": "What happens when VB encounters a new undeclared variable?",
+    "options": [
+      "Error",
+      "It assigns the default variable type variant",
+      "It ignores it",
+      "It stops"
+    ],
+    "answerIndex": 1,
+    "explanation": "It assigns the default variable type variant."
+  },
+  {
+    "id": 219,
+    "question": "Why is it advisable to declare variables explicitly?",
+    "options": [
+      "It's harder",
+      "It avoids errors that may not be recognized at run-time",
+      "It's faster",
+      "It's required by law"
+    ],
+    "answerIndex": 1,
+    "explanation": "Explicit declaration helps avoid errors that may not be recognized at run-time."
+  },
+  {
+    "id": 220,
+    "question": "What does the Option Explicit statement do?",
+    "options": [
+      "Ends the program",
+      "Checks for undeclared variables and reports errors",
+      "Declares variables automatically",
+      "Optimizes code"
+    ],
+    "answerIndex": 1,
+    "explanation": "Option Explicit checks for undeclared variables and reports errors."
+  },
+  {
+    "id": 221,
+    "question": "What are module level variables in VB?",
+    "options": [
+      "Variables in procedures only",
+      "Variables available to all procedures in the module",
+      "Local variables",
+      "Static variables"
+    ],
+    "answerIndex": 1,
+    "explanation": "Module level variables are available to all procedures in the module."
+  },
+  {
+    "id": 222,
+    "question": "What keywords are used to declare module level variables?",
+    "options": [
+      "Dim and Static only",
+      "Public or Private",
+      "Local and Global",
+      "Const and Let"
+    ],
+    "answerIndex": 1,
+    "explanation": "Module level variables use the Public or Private keywords."
+  },
+  {
+    "id": 223,
+    "question": "What is a Public module-level variable?",
+    "options": [
+      "Only available in one procedure",
+      "Accessible by all procedures in the module and can be accessed from outside the module",
+      "Only in forms",
+      "Only in modules"
+    ],
+    "answerIndex": 1,
+    "explanation": "Public variables are accessible within and outside the module."
+  },
+  {
+    "id": 224,
+    "question": "What is the Select Case structure in VB?",
+    "options": [
+      "A loop structure",
+      "An alternative to If...Then...Else If for selectively executing blocks of statements",
+      "A variable declaration",
+      "An input method"
+    ],
+    "answerIndex": 1,
+    "explanation": "Select Case is an alternative to If...Then...Else If for selective execution."
+  },
+  {
+    "id": 225,
+    "question": "What is the syntax of Select Case in VB?",
+    "options": [
+      "Select Index Then Case",
+      "Select Case Index Case 0 Statement(s) Case 1 Statement(s) Case Else Statement(s) End Select",
+      "Switch Case Index",
+      "Choose Case Index"
+    ],
+    "answerIndex": 1,
+    "explanation": "Select Case uses the format: Select Case Index, Case values, End Select."
+  },
+  {
+    "id": 226,
+    "question": "What does Case Else do in Select Case?",
+    "options": [
+      "Always executes",
+      "Executes when no other case matches",
+      "Never executes",
+      "Stops the program"
+    ],
+    "answerIndex": 1,
+    "explanation": "Case Else executes when no other case matches the index."
+  },
+  {
+    "id": 227,
+    "question": "In the nested If example for grades, what grade is given for average > 75?",
+    "options": ["B", "A", "C", "D"],
+    "answerIndex": 1,
+    "explanation": "Average > 75 gives grade A."
+  },
+  {
+    "id": 228,
+    "question": "In the nested If example, what grade is given for average between 55 and 65?",
+    "options": ["A", "B", "C", "D"],
+    "answerIndex": 2,
+    "explanation": "Average > 55 (but ≤ 65) gives grade C."
+  },
+  {
+    "id": 229,
+    "question": "In the Select Case example, what is the range for grade A?",
+    "options": ["100 to 90", "100 to 75", "74 to 65", "90 to 80"],
+    "answerIndex": 1,
+    "explanation": "Grade A is for average from 100 to 75."
+  },
+  {
+    "id": 230,
+    "question": "What happens in the Select Case if average is outside all specified ranges?",
+    "options": [
+      "Error",
+      "Case Else executes with 'Invalid Average Mark' message",
+      "Nothing",
+      "Program stops"
+    ],
+    "answerIndex": 1,
+    "explanation": "Case Else executes, displaying 'Invalid Average Mark'."
+  },
+  {
+    "id": 231,
+    "question": "What is a post-test loop also called?",
+    "options": [
+      "Entrance controlled loop",
+      "Exit controlled loop",
+      "Pre-check loop",
+      "Top-check loop"
+    ],
+    "answerIndex": 1,
+    "explanation": "Post-test loop is also called an exit controlled loop."
+  },
+  {
+    "id": 232,
+    "question": "What distinguishes a post-test loop from a pretest loop?",
+    "options": [
+      "It never executes",
+      "It always executes at least once",
+      "It executes zero times",
+      "It executes twice"
+    ],
+    "answerIndex": 1,
+    "explanation": "Post-test loops always execute at least once."
+  },
+  {
+    "id": 233,
+    "question": "What is the initialization part of a loop?",
+    "options": [
+      "The loop body",
+      "Commands/setup of the loop, setting counters to initial value",
+      "The termination condition",
+      "The output"
+    ],
+    "answerIndex": 1,
+    "explanation": "Initialization is setting up the loop, including initial counter values."
+  },
+  {
+    "id": 234,
+    "question": "What is the loop body?",
+    "options": [
+      "The initialization",
+      "The statements that are repeated",
+      "The termination condition",
+      "The counter"
+    ],
+    "answerIndex": 1,
+    "explanation": "The loop body contains the statements that are repeated."
+  },
+  {
+    "id": 235,
+    "question": "In the Do While example: Do While number <= 100, what happens first?",
+    "options": [
+      "Statements execute",
+      "Condition is tested",
+      "Loop ends",
+      "Number increments"
+    ],
+    "answerIndex": 1,
+    "explanation": "First the condition is tested; if True, statements execute."
+  },
+  {
+    "id": 236,
+    "question": "In the Do...Loop While example, when is the condition tested?",
+    "options": [
+      "Before execution",
+      "After each execution",
+      "Never",
+      "Only at the start"
+    ],
+    "answerIndex": 1,
+    "explanation": "Condition is tested after each execution."
+  },
+  {
+    "id": 237,
+    "question": "In the Do Until example, what is the condition for the loop to continue?",
+    "options": [
+      "Until condition is True",
+      "As long as condition evaluates False",
+      "Until counter reaches zero",
+      "Always"
+    ],
+    "answerIndex": 1,
+    "explanation": "Do Until executes as long as the condition evaluates False."
+  },
+  {
+    "id": 238,
+    "question": "What does the Do Until example with number > 1000 do?",
+    "options": [
+      "Prints numbers 1 to 999",
+      "Prints numbers 1 to 1000",
+      "Prints only 1000",
+      "Prints nothing"
+    ],
+    "answerIndex": 1,
+    "explanation": "It displays numbers 1 to 1000."
+  },
+  {
+    "id": 239,
+    "question": "In C programming, what does the #include directive do?",
+    "options": [
+      "Includes comments",
+      "Includes header files with function declarations",
+      "Includes data",
+      "Includes loops"
+    ],
+    "answerIndex": 1,
+    "explanation": "#include includes header files containing function declarations."
+  },
+  {
+    "id": 240,
+    "question": "What is the main() function in C?",
+    "options": [
+      "Optional function",
+      "The entry point of every C program",
+      "Only for output",
+      "Only for input"
+    ],
+    "answerIndex": 1,
+    "explanation": "main() is the entry point of every C program."
+  },
+  {
+    "id": 241,
+    "question": "What does the return 0; statement in main() indicate in C?",
+    "options": [
+      "Program failed",
+      "Program executed successfully",
+      "Program loops",
+      "Program inputs data"
+    ],
+    "answerIndex": 1,
+    "explanation": "return 0; indicates successful program execution."
+  },
+  {
+    "id": 242,
+    "question": "What is the scanf() function used for in C?",
+    "options": [
+      "Output",
+      "Formatted input",
+      "String manipulation",
+      "Memory allocation"
+    ],
+    "answerIndex": 1,
+    "explanation": "scanf() is used for formatted input in C."
+  },
+  {
+    "id": 243,
+    "question": "What does the & operator mean in scanf()?",
+    "options": [
+      "Logical AND",
+      "Address-of operator",
+      "Bitwise AND",
+      "Reference operator"
+    ],
+    "answerIndex": 1,
+    "explanation": "& is the address-of operator, used to get variable addresses for scanf()."
+  },
+  {
+    "id": 244,
+    "question": "What is the format specifier for a float in scanf()?",
+    "options": ["%d", "%f", "%c", "%s"],
+    "answerIndex": 1,
+    "explanation": "%f is the format specifier for float."
+  },
+  {
+    "id": 245,
+    "question": "What is the format specifier for a character in C?",
+    "options": ["%d", "%f", "%c", "%s"],
+    "answerIndex": 2,
+    "explanation": "%c is the format specifier for a single character."
+  },
+  {
+    "id": 246,
+    "question": "What is the format specifier for a string in C?",
+    "options": ["%d", "%f", "%c", "%s"],
+    "answerIndex": 3,
+    "explanation": "%s is the format specifier for a string."
+  },
+  {
+    "id": 247,
+    "question": "What does the break statement do in a switch statement?",
+    "options": [
+      "Continues to next case",
+      "Exits the switch block",
+      "Restarts the switch",
+      "Does nothing"
+    ],
+    "answerIndex": 1,
+    "explanation": "break exits the switch block."
+  },
+  {
+    "id": 248,
+    "question": "What is an array in C?",
+    "options": [
+      "A single variable",
+      "A collection of elements of the same data type stored in contiguous memory",
+      "A function",
+      "A pointer"
+    ],
+    "answerIndex": 1,
+    "explanation": "An array is a collection of same-type elements in contiguous memory."
+  },
+  {
+    "id": 249,
+    "question": "What is the index of the first element in a C array?",
+    "options": ["1", "0", "-1", "Any number"],
+    "answerIndex": 1,
+    "explanation": "Array indexing starts at 0 in C."
+  },
+  {
+    "id": 250,
+    "question": "What is a pointer in C?",
+    "options": [
+      "A variable that stores a value",
+      "A variable that stores the memory address of another variable",
+      "A function",
+      "An array"
+    ],
+    "answerIndex": 1,
+    "explanation": "A pointer stores the memory address of another variable."
+  }
+]
