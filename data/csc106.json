@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 1,
+    "question": "What does VGA stand for?",
+    "options": [
+      "Video Graphics Adapter",
+      "Video Graphics Array",
+      "Visual Graphics Architecture",
+      "Virtual Graphics Array"
+    ],
+    "answerIndex": 1,
+    "explanation": "VGA stands for Video Graphics Array — an analog standard for connecting video devices."
+  },
+  {
+    "id": 2,
+    "question": "How many pins does a typical VGA connector use?",
+    "options": ["9-pin", "12-pin", "15-pin", "24-pin"],
+    "answerIndex": 2,
+    "explanation": "The VGA port uses a 15-pin connector to transmit analog video signals."
+  },
+  {
+    "id": 3,
+    "question": "What type of signal standard does VGA use?",
+    "options": ["Digital", "Analog", "Both analog and digital", "Wireless"],
+    "answerIndex": 1,
+    "explanation": "VGA is an analog standard for connecting video devices like monitors and projectors."
+  },
+  {
+    "id": 4,
+    "question": "Which port uses a 15-pin connector for transmitting analog video signals?",
+    "options": ["HDMI", "VGA", "USB", "DVI"],
+    "answerIndex": 1,
+    "explanation": "The VGA port uses a 15-pin connector and transmits analog video signals."
+  },
+  {
+    "id": 5,
+    "question": "What does DVI stand for?",
+    "options": [
+      "Digital Video Interface",
+      "Digital Visual Interchange",
+      "Digital Visual Interface",
+      "Direct Video Input"
+    ],
+    "answerIndex": 2,
+    "explanation": "DVI stands for Digital Visual Interface — a display connection standard."
+  },
+  {
+    "id": 6,
+    "question": "Which DVI connector type supports both analog and digital signals?",
+    "options": ["DVI-I", "DVI-D", "DVI-A", "DVI-V"],
+    "answerIndex": 0,
+    "explanation": "DVI-I (Integrated) supports both analog and digital signals."
+  },
+  {
+    "id": 7,
+    "question": "Which DVI connector type supports only digital signals?",
+    "options": ["DVI-I", "DVI-D", "DVI-A", "DVI-V"],
+    "answerIndex": 1,
+    "explanation": "DVI-D (Digital) only supports digital signals, ideal for digital displays."
+  },
+  {
+    "id": 8,
+    "question": "Which DVI connector type supports only analog signals?",
+    "options": ["DVI-I", "DVI-D", "DVI-A", "DVI-B"],
+    "answerIndex": 2,
+    "explanation": "DVI-A (Analog) supports only analog signals and is less common in modern devices."
+  },
+  {
+    "id": 9,
+    "question": "What does HDMI stand for?",
+    "options": [
+      "High-Definition Media Interface",
+      "High-Definition Multimedia Interface",
+      "High-Data Multimedia Interface",
+      "High-Definition Monitor Interface"
+    ],
+    "answerIndex": 1,
+    "explanation": "HDMI stands for High-Definition Multimedia Interface."
+  },
+  {
+    "id": 10,
+    "question": "What is the primary function of an HDMI port?",
+    "options": [
+      "Transmit only video signals",
+      "Transmit only audio signals",
+      "Transmit high-definition audio and video signals",
+      "Connect to the internet"
+    ],
+    "answerIndex": 2,
+    "explanation": "HDMI transmits both high-definition audio and video through a single cable."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following video resolutions can HDMI carry?",
+    "options": [
+      "720p only",
+      "1080p only",
+      "4K only",
+      "All of the above (720p, 1080p, and 4K)"
+    ],
+    "answerIndex": 3,
+    "explanation": "HDMI supports 720p, 1080p, and even 4K video resolutions."
+  },
+  {
+    "id": 12,
+    "question": "What does HDMI ARC stand for?",
+    "options": [
+      "Audio Recording Channel",
+      "Audio Return Channel",
+      "Automatic Resolution Control",
+      "Advanced Resolution Codec"
+    ],
+    "answerIndex": 1,
+    "explanation": "HDMI ARC stands for Audio Return Channel — a feature in newer HDMI versions."
+  },
+  {
+    "id": 13,
+    "question": "What does a Thunderbolt port transmit on the same port and cable?",
+    "options": ["Only data", "Only video", "Both video and data", "Audio only"],
+    "answerIndex": 2,
+    "explanation": "A Thunderbolt port transmits both video and data simultaneously on the same cable."
+  },
+  {
+    "id": 14,
+    "question": "The Thunderbolt port is shaped the same as which other port?",
+    "options": ["DisplayPort", "HDMI", "VGA", "USB-A"],
+    "answerIndex": 0,
+    "explanation": "The Thunderbolt port shares the same shape as DisplayPort and is compatible with DisplayPort devices."
+  },
+  {
+    "id": 15,
+    "question": "What is the Ethernet port also known as?",
+    "options": ["RJ-11", "RJ-45", "USB", "VGA"],
+    "answerIndex": 1,
+    "explanation": "The Ethernet port is also referred to as an RJ-45 port."
+  },
+  {
+    "id": 16,
+    "question": "What is an Ethernet port used for?",
+    "options": [
+      "Connecting headphones",
+      "Connecting to a wired network",
+      "Connecting printers",
+      "Transmitting video signals"
+    ],
+    "answerIndex": 1,
+    "explanation": "An Ethernet (RJ-45) port connects a computer to a wired network via a network cable."
+  },
+  {
+    "id": 17,
+    "question": "What is the speed of a Fast Ethernet port?",
+    "options": ["10 Mbps", "100 Mbps", "1,000 Mbps", "1 Gbps"],
+    "answerIndex": 1,
+    "explanation": "Fast Ethernet runs at 100 Mbps (megabits per second)."
+  },
+  {
+    "id": 18,
+    "question": "What is the speed of a Gigabit Ethernet port?",
+    "options": ["100 Mbps", "1,000 Mbps", "10 Gbps", "1 Mbps"],
+    "answerIndex": 1,
+    "explanation": "Gigabit Ethernet runs at 1,000 Mbps, also written as 1 Gbps."
+  },
+  {
+    "id": 19,
+    "question": "Ethernet speed of 1,000 Mbps is also known as:",
+    "options": ["1 Gbps", "100 Mbps", "10 Gbps", "10 Mbps"],
+    "answerIndex": 0,
+    "explanation": "1,000 Mbps = 1 Gbps (gigabit per second)."
+  },
+  {
+    "id": 20,
+    "question": "What is a megabit?",
+    "options": [
+      "One thousand bits",
+      "One million bits",
+      "One billion bits",
+      "One trillion bits"
+    ],
+    "answerIndex": 1,
+    "explanation": "A megabit is one million bits."
+  },
+  {
+    "id": 21,
+    "question": "What is a gigabit?",
+    "options": [
+      "One million bits",
+      "One thousand megabits",
+      "One billion bits",
+      "One trillion bits"
+    ],
+    "answerIndex": 2,
+    "explanation": "A gigabit is one billion bits."
+  },
+  {
+    "id": 22,
+    "question": "What is a 'bit' defined as?",
+    "options": [
+      "A binary value of one or two",
+      "A binary value of one or zero",
+      "A unit of analog data",
+      "A type of electrical signal"
+    ],
+    "answerIndex": 1,
+    "explanation": "A bit is the smallest unit of digital data — a binary value of 0 or 1."
+  },
+  {
+    "id": 23,
+    "question": "For what purpose are RJ-11 connectors and ports typically used?",
+    "options": [
+      "Wired network connections",
+      "High-definition video transmission",
+      "Telephone and modem connections",
+      "Printer connections"
+    ],
+    "answerIndex": 2,
+    "explanation": "RJ-11 connectors are used for telephone and modem connections."
+  },
+  {
+    "id": 24,
+    "question": "Which port is used for telephone line connections?",
+    "options": ["RJ-45", "RJ-11", "HDMI", "USB"],
+    "answerIndex": 1,
+    "explanation": "The RJ-11 port is used for telephone and modem connections."
+  },
+  {
+    "id": 25,
+    "question": "What is the most common type of audio jack found on smartphones and laptops?",
+    "options": [
+      "2.5mm Audio Jack",
+      "3.5mm Audio Jack",
+      "6.35mm Audio Jack",
+      "RCA Jack"
+    ],
+    "answerIndex": 1,
+    "explanation": "The 3.5mm (Mini Jack) is the most common audio jack, found on smartphones and laptops."
+  },
+  {
+    "id": 26,
+    "question": "Which audio jack is commonly used in professional audio equipment like amplifiers and mixers?",
+    "options": [
+      "2.5mm Audio Jack",
+      "3.5mm Audio Jack",
+      "6.35mm Audio Jack",
+      "XLR Jack"
+    ],
+    "answerIndex": 2,
+    "explanation": "The 6.35mm (1/4 inch) jack is standard in professional audio gear like amplifiers and mixers."
+  },
+  {
+    "id": 27,
+    "question": "Where is the 2.5mm audio jack typically used?",
+    "options": [
+      "Smartphones and laptops",
+      "Professional amplifiers",
+      "Some mobile phones, two-way radios, and older cordless phones",
+      "Gaming consoles"
+    ],
+    "answerIndex": 2,
+    "explanation": "The 2.5mm jack is less common and used in some older mobile phones, two-way radios, and older cordless phones."
+  },
+  {
+    "id": 28,
+    "question": "What does USB stand for?",
+    "options": [
+      "Universal Serial Bridge",
+      "Universal Serial Bus",
+      "Universal System Bus",
+      "Unified Serial Bus"
+    ],
+    "answerIndex": 1,
+    "explanation": "USB stands for Universal Serial Bus."
+  },
+  {
+    "id": 29,
+    "question": "What is a USB port primarily used for?",
+    "options": [
+      "Connecting to a wired network",
+      "Transmitting video signals only",
+      "A multipurpose I/O port for various devices",
+      "Powering external hard drives exclusively"
+    ],
+    "answerIndex": 2,
+    "explanation": "USB is a multipurpose I/O port used for printers, mice, keyboards, storage devices, and more."
+  },
+  {
+    "id": 30,
+    "question": "Which USB standard is faster than regular USB but slower than SuperSpeed USB 3.0?",
+    "options": ["USB 1.0", "USB 2.0", "USB 3.0", "USB 3.1"],
+    "answerIndex": 1,
+    "explanation": "Hi-Speed USB 2.0 is faster than USB 1.0 but slower than SuperSpeed USB 3.0."
+  },
+  {
+    "id": 31,
+    "question": "Which USB connector type has a flat, rectangular shape and is the most widely used?",
+    "options": ["USB Type-B", "USB Type-C", "USB Type-A", "Micro USB"],
+    "answerIndex": 2,
+    "explanation": "USB Type-A has a flat rectangular shape and is the original, most widely used connector."
+  },
+  {
+    "id": 32,
+    "question": "Which USB connector type is commonly used for connecting larger peripheral devices like printers?",
+    "options": ["USB Type-A", "USB Type-C", "USB Type-B", "Mini USB"],
+    "answerIndex": 2,
+    "explanation": "USB Type-B has a square shape with a beveled top and is used for printers and external drives."
+  },
+  {
+    "id": 33,
+    "question": "What is a key feature of the USB Type-C connector?",
+    "options": [
+      "It only supports analog signals",
+      "It has a distinctive square shape",
+      "It has a compact and reversible design",
+      "It is only used for charging"
+    ],
+    "answerIndex": 2,
+    "explanation": "USB Type-C is compact, reversible, and highly versatile — suitable for phones to laptops."
+  },
+  {
+    "id": 34,
+    "question": "Which USB version introduced SuperSpeed data transfer?",
+    "options": ["USB 1.0", "USB 2.0", "USB 3.0", "USB 1.1"],
+    "answerIndex": 2,
+    "explanation": "USB 3.0, branded as SuperSpeed USB, offers much faster transfer rates than USB 2.0."
+  },
+  {
+    "id": 35,
+    "question": "What is a PS/2 port used to connect?",
+    "options": [
+      "Printers and scanners",
+      "Keyboards and mice",
+      "External hard drives",
+      "Monitors"
+    ],
+    "answerIndex": 1,
+    "explanation": "The PS/2 port connects keyboards and mice to a computer."
+  },
+  {
+    "id": 36,
+    "question": "What does PS/2 stand for?",
+    "options": [
+      "Peripheral System 2",
+      "Personal System/2",
+      "Port Standard 2",
+      "Processing System 2"
+    ],
+    "answerIndex": 1,
+    "explanation": "PS/2 stands for Personal System/2 — named after the IBM PS/2 computer line."
+  },
+  {
+    "id": 37,
+    "question": "What are the typical colors of PS/2 ports for keyboards and mice?",
+    "options": [
+      "Red and Blue",
+      "Purple and Green",
+      "Yellow and Black",
+      "White and Grey"
+    ],
+    "answerIndex": 1,
+    "explanation": "PS/2 keyboard ports are purple; mouse ports are green."
+  },
+  {
+    "id": 38,
+    "question": "Which PS/2 port color is used for the keyboard?",
+    "options": ["Green", "Purple", "Blue", "Red"],
+    "answerIndex": 1,
+    "explanation": "The purple PS/2 port is for keyboards; green is for mice."
+  },
+  {
+    "id": 39,
+    "question": "How many pins does the PS/2 port have?",
+    "options": ["4 pins", "6 pins", "9 pins", "15 pins"],
+    "answerIndex": 1,
+    "explanation": "The PS/2 port has a round connector with six pins."
+  },
+  {
+    "id": 40,
+    "question": "What is a computer case sometimes called?",
+    "options": ["Motherboard", "Processor", "Chassis", "Power supply"],
+    "answerIndex": 2,
+    "explanation": "A computer case is also called a chassis — it holds all internal components."
+  },
+  {
+    "id": 41,
+    "question": "Which of the following components is NOT typically held inside a computer case?",
+    "options": ["Motherboard", "Power supply", "Monitor", "Hard drive"],
+    "answerIndex": 2,
+    "explanation": "The monitor is an external display device, not stored inside the computer case."
+  },
+  {
+    "id": 42,
+    "question": "Which type of computer case stands vertically and comes in sizes like full-tower and mid-tower?",
+    "options": ["Desktop Case", "Laptop Case", "Tower Case", "Server Case"],
+    "answerIndex": 2,
+    "explanation": "Tower cases are vertical and come in full-tower, mid-tower, and mini-tower sizes."
+  },
+  {
+    "id": 43,
+    "question": "Which type of computer case is horizontal and sits flat on a surface?",
+    "options": ["Tower Case", "Laptop Case", "Desktop Case", "Mini PC Case"],
+    "answerIndex": 2,
+    "explanation": "Desktop cases are horizontal and lay flat on a desk surface."
+  },
+  {
+    "id": 44,
+    "question": "Which case type is most common and stands vertically?",
+    "options": ["Tower case", "Desktop case", "Laptop case", "Server case"],
+    "answerIndex": 0,
+    "explanation": "Tower cases are the most common type of PC case and stand vertically."
+  },
+  {
+    "id": 45,
+    "question": "A mini-tower case is smaller than which of the following?",
+    "options": [
+      "Full-tower case",
+      "Desktop case",
+      "Laptop case",
+      "Server case"
+    ],
+    "answerIndex": 0,
+    "explanation": "Mini-tower is smaller than a full-tower case."
+  },
+  {
+    "id": 46,
+    "question": "What is the largest and most important circuit board inside a computer case?",
+    "options": ["Expansion card", "Hard drive", "Motherboard", "Memory module"],
+    "answerIndex": 2,
+    "explanation": "The motherboard (also called system board) is the largest and most important circuit board."
+  },
+  {
+    "id": 47,
+    "question": "The motherboard is also called what?",
+    "options": ["System board", "Circuit board", "Power board", "Logic chip"],
+    "answerIndex": 0,
+    "explanation": "The motherboard is sometimes called the system board."
+  },
+  {
+    "id": 48,
+    "question": "What is the central processing unit (CPU) also known as?",
+    "options": ["RAM", "Processor", "Graphics card", "Hard drive"],
+    "answerIndex": 1,
+    "explanation": "The CPU is also called the processor — it processes most data and instructions in the system."
+  },
+  {
+    "id": 49,
+    "question": "What component is required by CPUs to dissipate heat?",
+    "options": [
+      "Optical drive",
+      "Heat sink and fan",
+      "Network card",
+      "Sound card"
+    ],
+    "answerIndex": 1,
+    "explanation": "CPUs generate heat and require a heat sink and fan (processor cooler) to prevent overheating."
+  },
+  {
+    "id": 50,
+    "question": "What are expansion cards also called?",
+    "options": [
+      "Processor coolers",
+      "Adapter cards",
+      "Memory modules",
+      "System boards"
+    ],
+    "answerIndex": 1,
+    "explanation": "Expansion cards are also referred to as adapter cards."
+  },
+  {
+    "id": 51,
+    "question": "Which of the following is NOT listed as a basic type of adapter card?",
+    "options": ["Graphics card", "Network card", "Sound card", "USB card"],
+    "answerIndex": 3,
+    "explanation": "The three basic adapter cards are: Graphics card, Network card, and Sound card. USB card is not in this basic list."
+  },
+  {
+    "id": 52,
+    "question": "Which expansion card type is used for network connectivity?",
+    "options": ["Graphics card", "Sound card", "Network card", "USB card"],
+    "answerIndex": 2,
+    "explanation": "A Network card (NIC) provides network connectivity to a computer."
+  },
+  {
+    "id": 53,
+    "question": "What is RAM (Random Access Memory) used for?",
+    "options": [
+      "Permanent storage of data",
+      "Temporary storage for data and instructions being processed by the CPU",
+      "Long-term archival of files",
+      "Storing the operating system permanently"
+    ],
+    "answerIndex": 1,
+    "explanation": "RAM temporarily holds data and instructions that the CPU needs while processing."
+  },
+  {
+    "id": 54,
+    "question": "RAM loses its data when power is off, meaning it is:",
+    "options": ["Volatile", "Non-volatile", "Permanent", "Read-only"],
+    "answerIndex": 0,
+    "explanation": "RAM is volatile memory — its contents are lost when the computer is turned off."
+  },
+  {
+    "id": 55,
+    "question": "What are the slots that hold memory modules called?",
+    "options": ["CPU sockets", "PCI slots", "DIMM slots", "SATA ports"],
+    "answerIndex": 2,
+    "explanation": "Memory modules (DIMMs) plug into DIMM slots on the motherboard."
+  },
+  {
+    "id": 56,
+    "question": "What is the most recent and upgraded version of the old Hard Disk Drive (HDD)?",
+    "options": [
+      "Optical drive",
+      "Solid State Drive (SSD)",
+      "Tape drive",
+      "Flash drive"
+    ],
+    "answerIndex": 1,
+    "explanation": "The SSD (Solid State Drive) is the modern replacement for the traditional HDD."
+  },
+  {
+    "id": 57,
+    "question": "Which slot type holds modern memory modules?",
+    "options": ["DIMM", "SIMM", "PCI", "ISA"],
+    "answerIndex": 0,
+    "explanation": "DIMM (Dual In-Line Memory Module) slots are used in modern computers for RAM."
+  },
+  {
+    "id": 58,
+    "question": "An optical drive is used to read:",
+    "options": ["CD/DVD media", "SSD data", "Ethernet packets", "Flash memory"],
+    "answerIndex": 0,
+    "explanation": "Optical drives use a laser to read data from CDs, DVDs, and Blu-ray discs."
+  },
+  {
+    "id": 59,
+    "question": "Which drive uses magnetic platters to store data?",
+    "options": ["HDD", "SSD", "Tape drive", "Optical drive"],
+    "answerIndex": 0,
+    "explanation": "HDDs store data on circular platters coated with magnetic material."
+  },
+  {
+    "id": 60,
+    "question": "What was the Windows Operating System developed by?",
+    "options": ["Apple", "Google", "Microsoft Corporation", "IBM"],
+    "answerIndex": 2,
+    "explanation": "Windows OS was developed by Microsoft Corporation."
+  },
+  {
+    "id": 61,
+    "question": "When was Windows 1.0 released?",
+    "options": ["1980", "1985", "1990", "1995"],
+    "answerIndex": 1,
+    "explanation": "Microsoft released Windows 1.0 in 1985 as a graphical extension of MS-DOS."
+  },
+  {
+    "id": 62,
+    "question": "Which of the following is the latest Windows version mentioned in the course material?",
+    "options": ["Windows XP", "Windows 7", "Windows 8", "Windows 10"],
+    "answerIndex": 3,
+    "explanation": "Windows 10 is cited as the latest version in the course material."
+  },
+  {
+    "id": 63,
+    "question": "What is the core component of the Windows OS architecture that manages resources like memory and CPU?",
+    "options": [
+      "User Mode",
+      "Executive Services",
+      "Kernel",
+      "Graphical User Interface"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Kernel is the core of Windows OS — it manages memory, CPU, and I/O."
+  },
+  {
+    "id": 64,
+    "question": "What is responsible for managing system processes and memory management in Windows OS?",
+    "options": ["Kernel", "Executive Services", "User Mode", "File Management"],
+    "answerIndex": 1,
+    "explanation": "Executive Services handles system processes, memory management, and I/O operations."
+  },
+  {
+    "id": 65,
+    "question": "What feature of Windows OS includes icons, windows, menus, and buttons?",
+    "options": [
+      "Multitasking",
+      "File Management",
+      "Graphical User Interface (GUI)",
+      "Device Support"
+    ],
+    "answerIndex": 2,
+    "explanation": "The GUI (Graphical User Interface) uses icons, menus, and buttons for user interaction."
+  },
+  {
+    "id": 66,
+    "question": "What allows users to run multiple programs simultaneously in Windows?",
+    "options": [
+      "File Management",
+      "Device Support",
+      "Multitasking",
+      "Networking"
+    ],
+    "answerIndex": 2,
+    "explanation": "Multitasking allows Windows to run several programs at the same time."
+  },
+  {
+    "id": 67,
+    "question": "What feature in Windows provides a user-friendly interface for managing files and folders?",
+    "options": [
+      "Windows Defender",
+      "User Account Control",
+      "Windows Explorer",
+      "Firewall"
+    ],
+    "answerIndex": 2,
+    "explanation": "Windows Explorer (File Explorer) provides an interface for managing files and folders."
+  },
+  {
+    "id": 68,
+    "question": "What built-in feature in Windows enhances security against viruses and malware?",
+    "options": [
+      "Device Manager",
+      "Disk Management",
+      "Windows Defender",
+      "Registry Editor"
+    ],
+    "answerIndex": 2,
+    "explanation": "Windows Defender is the built-in antivirus and anti-malware tool in Windows."
+  },
+  {
+    "id": 69,
+    "question": "Which Windows edition is designed for home users with basic computing needs?",
+    "options": [
+      "Windows Pro",
+      "Windows Enterprise",
+      "Windows Home",
+      "Windows Education"
+    ],
+    "answerIndex": 2,
+    "explanation": "Windows Home is targeted at everyday home users with basic computing needs."
+  },
+  {
+    "id": 70,
+    "question": "Which Windows edition includes features like remote desktop access and BitLocker encryption?",
+    "options": [
+      "Windows Home",
+      "Windows Pro",
+      "Windows Enterprise",
+      "Windows Education"
+    ],
+    "answerIndex": 1,
+    "explanation": "Windows Pro targets small businesses and power users with BitLocker and remote desktop."
+  },
+  {
+    "id": 71,
+    "question": "Which Windows edition is tailored for large organizations with advanced security and management capabilities?",
+    "options": [
+      "Windows Home",
+      "Windows Pro",
+      "Windows Enterprise",
+      "Windows Server"
+    ],
+    "answerIndex": 2,
+    "explanation": "Windows Enterprise is designed for large organizations with advanced security features."
+  },
+  {
+    "id": 72,
+    "question": "Which Windows edition is designed for server environments?",
+    "options": [
+      "Windows Home",
+      "Windows Pro",
+      "Windows Enterprise",
+      "Windows Server"
+    ],
+    "answerIndex": 3,
+    "explanation": "Windows Server is specifically designed for server environments with features like Active Directory."
+  },
+  {
+    "id": 73,
+    "question": "What model did Windows 10 mark a shift towards regarding updates?",
+    "options": [
+      "Annual release model",
+      "Windows as a Service",
+      "Bi-annual major releases",
+      "Discontinued updates"
+    ],
+    "answerIndex": 1,
+    "explanation": "Windows 10 introduced 'Windows as a Service' — continuous updates instead of major releases."
+  },
+  {
+    "id": 74,
+    "question": "Microsoft is increasingly focusing on integrating Windows with which technologies?",
+    "options": ["DOS", "Cloud and AI", "CRT monitors", "Floppy disks"],
+    "answerIndex": 1,
+    "explanation": "Microsoft is focusing on cloud integration and artificial intelligence in Windows."
+  },
+  {
+    "id": 75,
+    "question": "What are the two major CPU manufacturers mentioned in the course material?",
+    "options": [
+      "Intel and NVIDIA",
+      "AMD and Qualcomm",
+      "Intel and AMD",
+      "Apple and Samsung"
+    ],
+    "answerIndex": 2,
+    "explanation": "Intel and AMD are the two major processor manufacturers."
+  },
+  {
+    "id": 76,
+    "question": "What measures the number of cycles a processor executes per second?",
+    "options": ["Chipset", "Socket", "Clock Speed", "Memory Cache"],
+    "answerIndex": 2,
+    "explanation": "Clock speed (also called Clock Rate) measures how many cycles a CPU executes per second."
+  },
+  {
+    "id": 77,
+    "question": "In what unit is CPU clock speed usually expressed?",
+    "options": ["MHz", "GHz", "RPM", "Mbps"],
+    "answerIndex": 1,
+    "explanation": "Clock speed is expressed in GHz (gigahertz)."
+  },
+  {
+    "id": 78,
+    "question": "What is the physical interface on the motherboard that houses the processor?",
+    "options": ["Chipset", "Socket", "DIMM slot", "PCI slot"],
+    "answerIndex": 1,
+    "explanation": "The socket is the physical interface that provides the mechanical and electrical connection for the CPU."
+  },
+  {
+    "id": 79,
+    "question": "Which of the following is an example of an Intel socket type?",
+    "options": ["AM4", "LGA 1700", "AM5", "TR4"],
+    "answerIndex": 1,
+    "explanation": "LGA 1700 is an Intel socket. AM4, AM5, and TR4 are AMD socket types."
+  },
+  {
+    "id": 80,
+    "question": "What is a chipset?",
+    "options": [
+      "A physical socket for the CPU",
+      "A collection of electronic components on the motherboard that manage data flow between CPU, memory, and peripherals",
+      "The CPU's heat sink",
+      "An expansion card"
+    ],
+    "answerIndex": 1,
+    "explanation": "The chipset manages data flow between the processor, memory, and peripheral devices."
+  },
+  {
+    "id": 81,
+    "question": "What kind of processors are all modern desktop and laptop processors from Intel or AMD?",
+    "options": [
+      "32-bit only",
+      "64-bit only",
+      "Hybrid (both 32-bit and 64-bit)",
+      "128-bit"
+    ],
+    "answerIndex": 2,
+    "explanation": "Modern processors are hybrid — they can handle both 32-bit and 64-bit operating systems."
+  },
+  {
+    "id": 82,
+    "question": "What was the first processor that could execute two instructions at the same time?",
+    "options": ["Core i7", "Pentium", "Athlon", "Ryzen"],
+    "answerIndex": 1,
+    "explanation": "The Pentium processor was the first to use multiprocessing with two ALUs."
+  },
+  {
+    "id": 83,
+    "question": "What allows a server motherboard to utilize two processors at the same time?",
+    "options": [
+      "Multi-core processing",
+      "Multiprocessing (single processor with two ALUs)",
+      "Dual processors",
+      "Multi-threading"
+    ],
+    "answerIndex": 2,
+    "explanation": "A server motherboard with two processor sockets (dual processors) enables using two CPUs simultaneously."
+  },
+  {
+    "id": 84,
+    "question": "What is it called when multiple processors are installed in the same processor housing?",
+    "options": [
+      "Dual processors",
+      "Multiprocessing",
+      "Multi-core processing",
+      "Multi-threading"
+    ],
+    "answerIndex": 2,
+    "explanation": "Multi-core processing places multiple processor cores in the same physical package (e.g., dual-core, quad-core)."
+  },
+  {
+    "id": 85,
+    "question": "What is it called when each processor or core processes two threads at the same time?",
+    "options": [
+      "Multi-core processing",
+      "Multiprocessing",
+      "Multi-threading",
+      "Dual processing"
+    ],
+    "answerIndex": 2,
+    "explanation": "Multi-threading allows each core to handle two threads simultaneously."
+  },
+  {
+    "id": 86,
+    "question": "What does Intel call its multi-threading technology?",
+    "options": [
+      "HyperTransport",
+      "Hyper-Threading",
+      "Multi-Core Sync",
+      "Dual Threading"
+    ],
+    "answerIndex": 1,
+    "explanation": "Intel calls its multi-threading technology Hyper-Threading."
+  },
+  {
+    "id": 87,
+    "question": "What does AMD call its multi-threading technology?",
+    "options": ["Hyper-Threading", "HyperTransport", "SpeedStep", "TurboCore"],
+    "answerIndex": 1,
+    "explanation": "AMD calls its equivalent of Intel's Hyper-Threading 'HyperTransport'."
+  },
+  {
+    "id": 88,
+    "question": "What is memory cache?",
+    "options": [
+      "A slow, large permanent storage",
+      "A small, high-speed memory inside the processor storing frequently accessed data",
+      "The main RAM modules",
+      "A type of network buffer"
+    ],
+    "answerIndex": 1,
+    "explanation": "Memory cache is a small, high-speed memory inside the CPU that reduces data access time."
+  },
+  {
+    "id": 89,
+    "question": "Which type of memory cache is the smallest and fastest?",
+    "options": ["L1 Cache", "L2 Cache", "L3 Cache", "L4 Cache"],
+    "answerIndex": 0,
+    "explanation": "L1 Cache is the smallest and fastest cache, integrated directly into the CPU core."
+  },
+  {
+    "id": 90,
+    "question": "Where is L1 Cache integrated?",
+    "options": [
+      "On the motherboard",
+      "Directly into the CPU",
+      "In the main memory",
+      "On the hard drive"
+    ],
+    "answerIndex": 1,
+    "explanation": "L1 cache is integrated directly into the CPU for the fastest possible access."
+  },
+  {
+    "id": 91,
+    "question": "What is the typical size range for L1 Cache per core?",
+    "options": ["1KB to 10KB", "16KB to 128KB", "256KB to 1MB", "Several MB"],
+    "answerIndex": 1,
+    "explanation": "L1 cache typically ranges from 16KB to 128KB per core."
+  },
+  {
+    "id": 92,
+    "question": "What does latency refer to in computer systems?",
+    "options": [
+      "The speed of data transfer",
+      "The amount of data transferred",
+      "The delay or time it takes for data to travel from one point to another",
+      "The bandwidth of a connection"
+    ],
+    "answerIndex": 2,
+    "explanation": "Latency is the delay in data travel time from one point to another in a system."
+  },
+  {
+    "id": 93,
+    "question": "What are the two sections L1 cache is often divided into?",
+    "options": [
+      "L1 Read and L1 Write",
+      "L1 Input and L1 Output",
+      "L1 Instruction Cache and L1 Data Cache",
+      "L1 Primary and L1 Secondary"
+    ],
+    "answerIndex": 2,
+    "explanation": "L1 cache is split into L1 Instruction Cache (L1i) and L1 Data Cache (L1d)."
+  },
+  {
+    "id": 94,
+    "question": "Which type of memory cache balances speed and size between L1 and L3?",
+    "options": ["L0 Cache", "L2 Cache", "L4 Cache", "Main Memory"],
+    "answerIndex": 1,
+    "explanation": "L2 cache is an intermediate level that balances speed and size between L1 and L3."
+  },
+  {
+    "id": 95,
+    "question": "What is the typical size range for L2 Cache per core?",
+    "options": ["16KB to 128KB", "256KB to 1MB", "Several MB", "Several TB"],
+    "answerIndex": 1,
+    "explanation": "L2 cache typically ranges from 256KB to 1MB per core."
+  },
+  {
+    "id": 96,
+    "question": "Which type of memory cache is usually shared among all the cores of a multi-core processor?",
+    "options": ["L1 Cache", "L2 Cache", "L3 Cache", "All of the above"],
+    "answerIndex": 2,
+    "explanation": "L3 cache is shared among all cores, while L1 and L2 are typically dedicated to individual cores."
+  },
+  {
+    "id": 97,
+    "question": "What is the typical size range for L3 Cache?",
+    "options": [
+      "1MB to 5MB",
+      "A few megabytes to several tens of megabytes",
+      "Hundreds of kilobytes",
+      "Kilobytes only"
+    ],
+    "answerIndex": 1,
+    "explanation": "L3 cache is larger, ranging from a few megabytes to several tens of megabytes."
+  },
+  {
+    "id": 98,
+    "question": "L2 Cache is larger than L1 but compared to L3 it is:",
+    "options": ["Larger", "The same size", "Smaller", "Faster"],
+    "answerIndex": 2,
+    "explanation": "L2 is larger than L1 but smaller than L3 — it acts as an intermediate cache level."
+  },
+  {
+    "id": 99,
+    "question": "What does Random Access Memory (RAM) temporarily hold?",
+    "options": [
+      "Permanently stored data",
+      "Data and instructions needed by the CPU during processing",
+      "Archived files",
+      "Operating system installation files"
+    ],
+    "answerIndex": 1,
+    "explanation": "RAM temporarily holds the data and instructions the CPU is actively using."
+  },
+  {
+    "id": 100,
+    "question": "What is the typical access time for RAM?",
+    "options": ["Milliseconds", "Microseconds", "Nanoseconds", "Seconds"],
+    "answerIndex": 2,
+    "explanation": "RAM access time is measured in nanoseconds — much faster than HDDs or SSDs."
+  },
+  {
+    "id": 101,
+    "question": "What component manages data flow between RAM and the CPU?",
+    "options": [
+      "Graphics card",
+      "Memory Controller",
+      "Hard drive",
+      "Expansion card"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Memory Controller manages data flow between RAM and the CPU."
+  },
+  {
+    "id": 102,
+    "question": "What should be ensured when upgrading RAM?",
+    "options": [
+      "It is the cheapest available",
+      "It is a different type than existing RAM",
+      "Compatibility with the motherboard's specifications",
+      "It has a higher latency"
+    ],
+    "answerIndex": 2,
+    "explanation": "RAM must be compatible with the motherboard's specifications (type, speed, etc.)."
+  },
+  {
+    "id": 103,
+    "question": "What does more RAM allow for in terms of system performance?",
+    "options": [
+      "Slower multitasking",
+      "Faster execution of applications and smoother multitasking",
+      "Decreased loading times (negative)",
+      "Reduced responsiveness"
+    ],
+    "answerIndex": 1,
+    "explanation": "More RAM enables faster application execution and smoother multitasking."
+  },
+  {
+    "id": 104,
+    "question": "Which RAM type is used in most modern PCs?",
+    "options": ["DIMM", "SIMM", "SRAM", "VRAM"],
+    "answerIndex": 0,
+    "explanation": "DIMM (Dual In-Line Memory Module) is the standard RAM module in modern computers."
+  },
+  {
+    "id": 105,
+    "question": "What is SRAM and why is it faster than DRAM?",
+    "options": [
+      "It uses capacitors for speed",
+      "It uses flip-flops instead of capacitors, requiring no refresh",
+      "It uses magnetic disks",
+      "It uses optical signals"
+    ],
+    "answerIndex": 1,
+    "explanation": "SRAM uses flip-flops and doesn't need constant refreshing, making it faster than DRAM."
+  },
+  {
+    "id": 106,
+    "question": "What is DRAM and what does it require?",
+    "options": [
+      "Static memory that holds data without power",
+      "Dynamic memory that must be constantly refreshed to retain data",
+      "Cache memory inside the CPU",
+      "Permanent storage memory"
+    ],
+    "answerIndex": 1,
+    "explanation": "DRAM (Dynamic RAM) must be constantly powered and periodically refreshed to retain data."
+  },
+  {
+    "id": 107,
+    "question": "What is SIMM?",
+    "options": [
+      "Dual In-Line Memory Module",
+      "Single In-Line Memory Module",
+      "Static Integrated Memory Module",
+      "Synchronized Inline Memory Module"
+    ],
+    "answerIndex": 1,
+    "explanation": "SIMM stands for Single In-Line Memory Module — an older type of RAM module."
+  },
+  {
+    "id": 108,
+    "question": "How many rows of electrical contacts do SIMMs have?",
+    "options": [
+      "Two rows on each side",
+      "Three rows",
+      "A single row on each side",
+      "No electrical contacts"
+    ],
+    "answerIndex": 2,
+    "explanation": "SIMMs have a single row of electrical contacts on each side of the module."
+  },
+  {
+    "id": 109,
+    "question": "When were SIMMs prevalent in computers?",
+    "options": ["2000s and 2010s", "1980s and early 1990s", "1970s", "2020s"],
+    "answerIndex": 1,
+    "explanation": "SIMMs were common in computers during the 1980s and early 1990s."
+  },
+  {
+    "id": 110,
+    "question": "What are common pin variants for SIMMs?",
+    "options": [
+      "8-pin and 16-pin",
+      "30-pin and 72-pin",
+      "128-pin and 256-pin",
+      "64-pin and 80-pin"
+    ],
+    "answerIndex": 1,
+    "explanation": "Common SIMM types include 30-pin and 72-pin variants."
+  },
+  {
+    "id": 111,
+    "question": "Which memory module type is the standard used in modern computers, replacing SIMMs?",
+    "options": ["SIMM", "DIMM", "RIMM", "SO-DIMM"],
+    "answerIndex": 1,
+    "explanation": "DIMM replaced SIMM as the standard memory module in modern computers."
+  },
+  {
+    "id": 112,
+    "question": "How many sides do DIMMs have electrical contacts on?",
+    "options": [
+      "One side only",
+      "Both sides",
+      "Only on the top",
+      "No electrical contacts"
+    ],
+    "answerIndex": 1,
+    "explanation": "DIMMs have electrical contacts on both sides of the module, allowing higher capacity."
+  },
+  {
+    "id": 113,
+    "question": "Which of the following is a type of DIMM?",
+    "options": ["DDR", "DDR2", "DDR3", "All of the above"],
+    "answerIndex": 3,
+    "explanation": "DDR, DDR2, DDR3, DDR4, and DDR5 are all types of DIMMs."
+  },
+  {
+    "id": 114,
+    "question": "What is a Hard Disk Drive (HDD)?",
+    "options": [
+      "A temporary storage device",
+      "A traditional data storage device that stores data on rapidly spinning disks",
+      "A type of memory cache",
+      "A network connection device"
+    ],
+    "answerIndex": 1,
+    "explanation": "An HDD stores data permanently on spinning platters coated with magnetic material."
+  },
+  {
+    "id": 115,
+    "question": "What are the rapidly spinning disks inside an HDD called?",
+    "options": ["Platters", "Spindles", "Read/Write Heads", "Controllers"],
+    "answerIndex": 0,
+    "explanation": "The circular disks coated with magnetic material inside an HDD are called platters."
+  },
+  {
+    "id": 116,
+    "question": "What component inside an HDD spins the platters at high speeds?",
+    "options": ["Read/Write Heads", "Controller Board", "Spindle", "Actuator"],
+    "answerIndex": 2,
+    "explanation": "The spindle rotates the platters at high speeds (5400 or 7200 RPM typically)."
+  },
+  {
+    "id": 117,
+    "question": "What are the small magnetic heads that move over the platters to read and write data?",
+    "options": ["Spindles", "Platters", "Read/Write Heads", "Controller Board"],
+    "answerIndex": 2,
+    "explanation": "Read/Write Heads are tiny magnetic components that move over platters to access data."
+  },
+  {
+    "id": 118,
+    "question": "What manages data transmission in and out of the HDD and controls the movements of the read/write heads?",
+    "options": ["Spindle", "Platters", "Read/Write Heads", "Controller Board"],
+    "answerIndex": 3,
+    "explanation": "The Controller Board manages data transmission and controls the read/write heads and platters."
+  },
+  {
+    "id": 119,
+    "question": "HDD speed is measured in:",
+    "options": ["GHz", "MBps", "RPM", "MHz"],
+    "answerIndex": 2,
+    "explanation": "HDD platter speed is measured in RPM (Revolutions Per Minute), typically 5400 or 7200."
+  },
+  {
+    "id": 120,
+    "question": "A 7200 RPM HDD is generally:",
+    "options": [
+      "Faster than 5400 RPM",
+      "Slower than SSD",
+      "Equal to SSD",
+      "Slower than 5400 RPM"
+    ],
+    "answerIndex": 0,
+    "explanation": "7200 RPM HDDs are faster than 5400 RPM ones due to faster platter spinning."
+  },
+  {
+    "id": 121,
+    "question": "What is a major advantage of HDDs over SSDs?",
+    "options": [
+      "Faster speed",
+      "More durable",
+      "Cheaper per gigabyte",
+      "Silent operation"
+    ],
+    "answerIndex": 2,
+    "explanation": "HDDs are generally cheaper per gigabyte compared to SSDs."
+  },
+  {
+    "id": 122,
+    "question": "HDD capacity can reach up to:",
+    "options": ["Several terabytes", "500 GB max", "1 TB max", "100 GB max"],
+    "answerIndex": 0,
+    "explanation": "HDDs can store several terabytes of data, making them ideal for bulk storage."
+  },
+  {
+    "id": 123,
+    "question": "HDDs are best for:",
+    "options": [
+      "Gaming OS install",
+      "Bulk storage",
+      "High-speed processing",
+      "Running applications quickly"
+    ],
+    "answerIndex": 1,
+    "explanation": "HDDs are suitable for storing large amounts of media files, backups, and archives."
+  },
+  {
+    "id": 124,
+    "question": "What component inside an HDD controls the movement of the read/write arm?",
+    "options": ["Spindle", "Platter", "Actuator", "Controller"],
+    "answerIndex": 2,
+    "explanation": "The actuator controls the movement of the read/write arm across the platters."
+  },
+  {
+    "id": 125,
+    "question": "What type of memory does an SSD use to store data?",
+    "options": [
+      "Optical laser",
+      "Magnetic disks",
+      "NAND flash memory",
+      "Spinning platters"
+    ],
+    "answerIndex": 2,
+    "explanation": "SSDs store data in NAND flash memory cells, which have no moving parts."
+  },
+  {
+    "id": 126,
+    "question": "Why are SSDs faster than HDDs?",
+    "options": [
+      "They spin platters faster",
+      "They have no moving parts — data is accessed electronically",
+      "They use more power",
+      "They have larger platters"
+    ],
+    "answerIndex": 1,
+    "explanation": "SSDs access data electronically via flash memory with no mechanical movement."
+  },
+  {
+    "id": 127,
+    "question": "Which drive is more durable against physical shock?",
+    "options": ["HDD", "SSD", "Both equal", "Neither"],
+    "answerIndex": 1,
+    "explanation": "SSDs have no moving parts, making them much more resistant to physical shock and damage."
+  },
+  {
+    "id": 128,
+    "question": "Which storage is cheaper per gigabyte?",
+    "options": ["HDD", "SSD", "Cache", "NVRAM"],
+    "answerIndex": 0,
+    "explanation": "HDDs offer more storage capacity per dollar compared to SSDs."
+  },
+  {
+    "id": 129,
+    "question": "SSD capacity is generally compared to HDD at the same price point:",
+    "options": ["Larger than HDD", "Smaller than HDD", "Equal", "Always 2TB"],
+    "answerIndex": 1,
+    "explanation": "At the same price, SSDs typically offer smaller storage capacity than HDDs."
+  },
+  {
+    "id": 130,
+    "question": "Which is silent in operation?",
+    "options": ["SSD", "HDD", "Floppy disk", "Tape drive"],
+    "answerIndex": 0,
+    "explanation": "SSDs have no moving parts so they operate silently, unlike HDDs."
+  },
+  {
+    "id": 131,
+    "question": "SSDs are ideal for:",
+    "options": [
+      "Data archives and backups only",
+      "Operating systems and applications for fast performance",
+      "Floppy disk replacements",
+      "Bulk video storage"
+    ],
+    "answerIndex": 1,
+    "explanation": "SSDs provide fast boot times and application loading, ideal for OS and apps."
+  },
+  {
+    "id": 132,
+    "question": "What technique do SSDs use to extend the lifespan of memory cells?",
+    "options": [
+      "Magnetic realignment",
+      "Wear leveling",
+      "RPM optimization",
+      "Cache partitioning"
+    ],
+    "answerIndex": 1,
+    "explanation": "Wear leveling distributes write and erase cycles evenly across NAND flash cells to prolong SSD life."
+  },
+  {
+    "id": 133,
+    "question": "Which interface is fastest for SSDs?",
+    "options": ["PATA", "SATA", "NVMe", "IDE"],
+    "answerIndex": 2,
+    "explanation": "NVMe (via PCIe) is the fastest interface for SSDs, significantly faster than SATA."
+  },
+  {
+    "id": 134,
+    "question": "An NVMe SSD connects via which interface?",
+    "options": ["SATA", "PCIe", "PATA", "USB"],
+    "answerIndex": 1,
+    "explanation": "NVMe SSDs connect through the PCIe (Peripheral Component Interconnect Express) bus."
+  },
+  {
+    "id": 135,
+    "question": "Which interface has largely replaced PATA for storage devices?",
+    "options": ["SATA", "VGA", "PS/2", "USB"],
+    "answerIndex": 0,
+    "explanation": "SATA (Serial Advanced Technology Attachment) replaced the older PATA interface."
+  },
+  {
+    "id": 136,
+    "question": "What does SATA stand for?",
+    "options": [
+      "Serial Advanced Technology Architecture",
+      "Serial Advanced Technology Attachment",
+      "Standard Advanced Transfer Adapter",
+      "Serial Array Transfer Adapter"
+    ],
+    "answerIndex": 1,
+    "explanation": "SATA stands for Serial Advanced Technology Attachment — the interface for most drives."
+  },
+  {
+    "id": 137,
+    "question": "The main advantage of SSDs in laptops is:",
+    "options": [
+      "Cheaper cost",
+      "Shock resistance and speed",
+      "Larger size",
+      "More noise"
+    ],
+    "answerIndex": 1,
+    "explanation": "SSDs are ideal for laptops due to their shock resistance and fast access speeds."
+  },
+  {
+    "id": 138,
+    "question": "What is the first step before installing Windows?",
+    "options": [
+      "Formatting",
+      "Backing up data",
+      "Partitioning",
+      "Downloading drivers"
+    ],
+    "answerIndex": 1,
+    "explanation": "Backing up data is the first step to prevent data loss before a Windows installation."
+  },
+  {
+    "id": 139,
+    "question": "Which setup utility allows you to change the boot order?",
+    "options": [
+      "BIOS/UEFI",
+      "Windows Explorer",
+      "Control Panel",
+      "Device Manager"
+    ],
+    "answerIndex": 0,
+    "explanation": "BIOS/UEFI settings allow you to set the boot order, enabling booting from USB or DVD."
+  },
+  {
+    "id": 140,
+    "question": "To access BIOS/UEFI, you press which keys during startup?",
+    "options": ["Shift+F1", "F2, DEL, ESC", "Ctrl+Alt+Del", "Alt+F4"],
+    "answerIndex": 1,
+    "explanation": "Common keys to enter BIOS/UEFI include F2, DEL, F10, or ESC — pressed during startup."
+  },
+  {
+    "id": 141,
+    "question": "What does BIOS stand for?",
+    "options": [
+      "Basic Integrated Operating System",
+      "Basic Input/Output System",
+      "Binary Input Output Storage",
+      "Boot Initial Operating System"
+    ],
+    "answerIndex": 1,
+    "explanation": "BIOS stands for Basic Input/Output System — firmware that initializes hardware during startup."
+  },
+  {
+    "id": 142,
+    "question": "What does CMOS stand for?",
+    "options": [
+      "Complementary Metal-Oxide Semiconductor",
+      "Central Memory Operating System",
+      "Cache Memory Output Storage",
+      "Computer Memory Operating Software"
+    ],
+    "answerIndex": 0,
+    "explanation": "CMOS stands for Complementary Metal-Oxide Semiconductor — it stores BIOS settings."
+  },
+  {
+    "id": 143,
+    "question": "What does CMOS store?",
+    "options": [
+      "Windows files",
+      "BIOS settings",
+      "Applications",
+      "User documents"
+    ],
+    "answerIndex": 1,
+    "explanation": "CMOS stores BIOS configuration settings, including date/time and hardware settings."
+  },
+  {
+    "id": 144,
+    "question": "A clean install of Windows is performed using which installation type?",
+    "options": [
+      "Upgrade option",
+      "Custom installation",
+      "Recovery tool",
+      "Network install"
+    ],
+    "answerIndex": 1,
+    "explanation": "Custom installation is used for a clean install, allowing partitioning and formatting."
+  },
+  {
+    "id": 145,
+    "question": "Which installation type keeps old files and settings?",
+    "options": ["Upgrade", "Custom", "Format", "Clean install"],
+    "answerIndex": 0,
+    "explanation": "The Upgrade option preserves existing files, settings, and applications."
+  },
+  {
+    "id": 146,
+    "question": "What does partitioning a hard drive do?",
+    "options": [
+      "Deletes all files",
+      "Divides the drive into separate sections",
+      "Speeds up the CPU",
+      "Increases RAM"
+    ],
+    "answerIndex": 1,
+    "explanation": "Partitioning divides a hard drive into separate sections, each with its own file system."
+  },
+  {
+    "id": 147,
+    "question": "Formatting a partition will:",
+    "options": [
+      "Erase all data",
+      "Add a new OS automatically",
+      "Increase CPU speed",
+      "Back up files"
+    ],
+    "answerIndex": 0,
+    "explanation": "Formatting erases all data on a partition and creates a fresh file system."
+  },
+  {
+    "id": 148,
+    "question": "What does FAT stand for?",
+    "options": [
+      "File Allocation Table",
+      "Fast Access Terminal",
+      "File Archive Type",
+      "Format Allocation Type"
+    ],
+    "answerIndex": 0,
+    "explanation": "FAT stands for File Allocation Table — a file system used in storage devices."
+  },
+  {
+    "id": 149,
+    "question": "Which tool can be used to create a bootable USB drive for Windows installation?",
+    "options": ["Paint", "Rufus", "Task Manager", "Notepad"],
+    "answerIndex": 1,
+    "explanation": "Rufus and the Windows Media Creation Tool are used to create bootable USB drives."
+  },
+  {
+    "id": 150,
+    "question": "The installation media for Windows can be:",
+    "options": [
+      "USB or DVD",
+      "Cache memory",
+      "Ethernet cable",
+      "A PS/2 device"
+    ],
+    "answerIndex": 0,
+    "explanation": "Windows can be installed from a USB drive or a DVD."
+  },
+  {
+    "id": 151,
+    "question": "What does POST stand for?",
+    "options": [
+      "Power-On Self-Test",
+      "Peripheral Output Storage Type",
+      "Primary Operating System Test",
+      "Pre-Operation System Test"
+    ],
+    "answerIndex": 0,
+    "explanation": "POST (Power-On Self-Test) is a diagnostic test performed during system startup."
+  },
+  {
+    "id": 152,
+    "question": "When is POST performed?",
+    "options": [
+      "During OS installation",
+      "During system startup",
+      "During shutdown",
+      "During formatting"
+    ],
+    "answerIndex": 1,
+    "explanation": "POST runs automatically when the computer is powered on, before the OS loads."
+  },
+  {
+    "id": 153,
+    "question": "Which hardware problem may cause beeping sounds at startup?",
+    "options": [
+      "Slow internet",
+      "RAM failure",
+      "New monitor connected",
+      "USB device plugged in"
+    ],
+    "answerIndex": 1,
+    "explanation": "Beeping at startup (POST beep codes) often indicates RAM failure or other hardware issues."
+  },
+  {
+    "id": 154,
+    "question": "What does PSU stand for?",
+    "options": [
+      "Peripheral System Unit",
+      "Power Supply Unit",
+      "Processing System Utility",
+      "Primary Storage Unit"
+    ],
+    "answerIndex": 1,
+    "explanation": "PSU stands for Power Supply Unit — it converts AC power to DC for computer components."
+  },
+  {
+    "id": 155,
+    "question": "Which device protects a computer from sudden power loss?",
+    "options": ["PSU", "UPS", "CMOS", "NIC"],
+    "answerIndex": 1,
+    "explanation": "UPS (Uninterruptible Power Supply) provides backup power during sudden power outages."
+  },
+  {
+    "id": 156,
+    "question": "What does UPS stand for?",
+    "options": [
+      "Universal Power System",
+      "Uninterruptible Power Supply",
+      "Unified Power Source",
+      "Uninterrupted Processing System"
+    ],
+    "answerIndex": 1,
+    "explanation": "UPS stands for Uninterruptible Power Supply."
+  },
+  {
+    "id": 157,
+    "question": "Replacing a faulty PSU can fix which problem?",
+    "options": [
+      "Broken monitor",
+      "Random shutdowns",
+      "Slow typing",
+      "Bad internet connection"
+    ],
+    "answerIndex": 1,
+    "explanation": "A failing PSU often causes random or unexpected system shutdowns."
+  },
+  {
+    "id": 158,
+    "question": "What does NIC stand for?",
+    "options": [
+      "Network Internal Card",
+      "Network Interface Card",
+      "Node Internal Controller",
+      "Network Integrated Circuit"
+    ],
+    "answerIndex": 1,
+    "explanation": "NIC stands for Network Interface Card — it connects a computer to a network."
+  },
+  {
+    "id": 159,
+    "question": "What is a common sign of overheating in a PC?",
+    "options": [
+      "Faster boot time",
+      "Sudden shutdown",
+      "Increased storage",
+      "Improved graphics"
+    ],
+    "answerIndex": 1,
+    "explanation": "Overheating often causes unexpected shutdowns as a protection mechanism."
+  },
+  {
+    "id": 160,
+    "question": "What can dust inside a computer cause?",
+    "options": [
+      "Increased RAM speed",
+      "Overheating",
+      "More storage space",
+      "Better performance"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dust accumulation blocks airflow and causes components to overheat."
+  },
+  {
+    "id": 161,
+    "question": "What does RAID stand for?",
+    "options": [
+      "Random Access Input Device",
+      "Redundant Array of Independent Disks",
+      "Rapid Access Internet Data",
+      "Redundant Array of Integrated Drives"
+    ],
+    "answerIndex": 1,
+    "explanation": "RAID stands for Redundant Array of Independent Disks — used for data redundancy and performance."
+  },
+  {
+    "id": 162,
+    "question": "RAID is used for:",
+    "options": [
+      "CPU cooling",
+      "Data redundancy and storage performance",
+      "Display output",
+      "Faster internet connection"
+    ],
+    "answerIndex": 1,
+    "explanation": "RAID combines multiple drives for data redundancy (backup) and/or improved performance."
+  },
+  {
+    "id": 163,
+    "question": "Which tool checks RAM for errors in Windows?",
+    "options": [
+      "Disk Cleanup",
+      "Memory Diagnostic Tool",
+      "Device Manager",
+      "Task Manager"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Windows Memory Diagnostic Tool scans RAM for errors and failures."
+  },
+  {
+    "id": 164,
+    "question": "An example of preventive maintenance is:",
+    "options": [
+      "Ignoring warning messages",
+      "Regular dust cleaning",
+      "Overclocking the CPU",
+      "Disabling antivirus"
+    ],
+    "answerIndex": 1,
+    "explanation": "Regularly cleaning dust from components is preventive maintenance that prevents overheating."
+  },
+  {
+    "id": 165,
+    "question": "A loose SATA cable can cause which problem?",
+    "options": [
+      "Internet disconnection",
+      "Drive not detected",
+      "Low sound output",
+      "Overheating"
+    ],
+    "answerIndex": 1,
+    "explanation": "A loose SATA cable can cause the connected drive to not be detected by the system."
+  },
+  {
+    "id": 166,
+    "question": "Which component can fail due to bad thermal paste application?",
+    "options": ["CPU", "HDD", "Keyboard", "Monitor"],
+    "answerIndex": 0,
+    "explanation": "Poor thermal paste application causes inadequate heat transfer, potentially damaging the CPU."
+  },
+  {
+    "id": 167,
+    "question": "What does Windows Event Viewer help with?",
+    "options": [
+      "Writing documents",
+      "Checking system logs for errors",
+      "Playing music",
+      "Browsing the internet"
+    ],
+    "answerIndex": 1,
+    "explanation": "Event Viewer shows system logs, error messages, and warnings for troubleshooting."
+  },
+  {
+    "id": 168,
+    "question": "To troubleshoot slow PC performance, you can:",
+    "options": [
+      "Reduce RAM",
+      "Close unused programs",
+      "Increase dust",
+      "Disable the CPU fan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Closing unused programs frees up CPU and RAM, improving system performance."
+  },
+  {
+    "id": 169,
+    "question": "Overheating in laptops can be reduced by:",
+    "options": [
+      "Blocking vents",
+      "Using a cooling pad",
+      "Disabling fans",
+      "Increasing CPU clock speed"
+    ],
+    "answerIndex": 1,
+    "explanation": "A cooling pad provides additional airflow under the laptop to reduce heat buildup."
+  },
+  {
+    "id": 170,
+    "question": "One of the signs of a failing HDD is:",
+    "options": [
+      "Faster boot times",
+      "Clicking noises",
+      "Silent operation",
+      "Improved read speeds"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clicking noises from an HDD often indicate mechanical failure of the read/write heads."
+  },
+  {
+    "id": 171,
+    "question": "Which storage device uses an optical laser to read data?",
+    "options": ["HDD", "CD/DVD drive", "SSD", "USB flash drive"],
+    "answerIndex": 1,
+    "explanation": "Optical drives (CD/DVD) use a laser to read data stored on the disc surface."
+  },
+  {
+    "id": 172,
+    "question": "Which Windows tool detects malware?",
+    "options": ["Paint", "Notepad", "Windows Defender", "Calculator"],
+    "answerIndex": 2,
+    "explanation": "Windows Defender is the built-in security tool for detecting and removing malware."
+  },
+  {
+    "id": 173,
+    "question": "What is UAC in Windows?",
+    "options": [
+      "User Access Console",
+      "User Account Control",
+      "Universal Application Code",
+      "Unified Access Controller"
+    ],
+    "answerIndex": 1,
+    "explanation": "UAC (User Account Control) is a Windows security feature that prompts for permission before system changes."
+  },
+  {
+    "id": 174,
+    "question": "Which Windows tool helps manage files and folders?",
+    "options": [
+      "Windows Defender",
+      "Windows Explorer",
+      "Device Manager",
+      "Registry Editor"
+    ],
+    "answerIndex": 1,
+    "explanation": "Windows Explorer (File Explorer) is the file management tool in Windows."
+  },
+  {
+    "id": 175,
+    "question": "What does the Windows Media Creation Tool do?",
+    "options": [
+      "Edits videos",
+      "Creates bootable Windows installation media",
+      "Manages disk partitions",
+      "Monitors system performance"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Windows Media Creation Tool creates bootable USB drives or ISOs for Windows installation."
+  },
+  {
+    "id": 176,
+    "question": "What does PCI stand for?",
+    "options": [
+      "Peripheral Computer Interface",
+      "Peripheral Component Interconnect",
+      "Primary Circuit Input",
+      "Processor Component Interface"
+    ],
+    "answerIndex": 1,
+    "explanation": "PCI stands for Peripheral Component Interconnect — a bus standard for expansion cards."
+  },
+  {
+    "id": 177,
+    "question": "What does PATA stand for?",
+    "options": [
+      "Parallel Advanced Technology Attachment",
+      "Primary Advanced Technology Architecture",
+      "Peripheral Array Transfer Adapter",
+      "Parallel Access Transfer Adapter"
+    ],
+    "answerIndex": 0,
+    "explanation": "PATA stands for Parallel Advanced Technology Attachment — the older drive interface before SATA."
+  },
+  {
+    "id": 178,
+    "question": "What does VRAM stand for?",
+    "options": [
+      "Virtual Random Access Memory",
+      "Video Random Access Memory",
+      "Volatile RAM",
+      "Variable RAM"
+    ],
+    "answerIndex": 1,
+    "explanation": "VRAM stands for Video Random Access Memory — dedicated memory for graphics processing."
+  },
+  {
+    "id": 179,
+    "question": "What does NVRAM stand for?",
+    "options": [
+      "Network Virtual RAM",
+      "Non-Volatile Random Access Memory",
+      "New Variable RAM",
+      "Numeric Virtual RAM"
+    ],
+    "answerIndex": 1,
+    "explanation": "NVRAM stands for Non-Volatile Random Access Memory — retains data without power."
+  },
+  {
+    "id": 180,
+    "question": "What does SVGA stand for?",
+    "options": [
+      "Standard Video Graphics Array",
+      "Super Video Graphics Array",
+      "Synchronized VGA",
+      "Solid Video Graphics Adapter"
+    ],
+    "answerIndex": 1,
+    "explanation": "SVGA stands for Super Video Graphics Array — an enhanced version of VGA."
+  },
+  {
+    "id": 181,
+    "question": "What does SCSI stand for?",
+    "options": [
+      "Small Computer System Interface",
+      "Simple Circuit Serial Interface",
+      "Standard Computer Storage Interface",
+      "Serial Component System Input"
+    ],
+    "answerIndex": 0,
+    "explanation": "SCSI stands for Small Computer System Interface — a standard for connecting storage devices."
+  },
+  {
+    "id": 182,
+    "question": "What does IDE stand for?",
+    "options": [
+      "Integrated Drive Electronic",
+      "Internal Disk Engine",
+      "Interface Drive Extension",
+      "Integrated Data Engine"
+    ],
+    "answerIndex": 0,
+    "explanation": "IDE stands for Integrated Drive Electronics — an older interface standard for drives."
+  },
+  {
+    "id": 183,
+    "question": "What does APM stand for?",
+    "options": [
+      "Advanced Power Management",
+      "Automated Processor Module",
+      "Advanced Processing Mode",
+      "Application Power Manager"
+    ],
+    "answerIndex": 0,
+    "explanation": "APM stands for Advanced Power Management — a system for managing computer power usage."
+  },
+  {
+    "id": 184,
+    "question": "Which chapter in the CSC 106 material covers hard drives?",
+    "options": ["Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7"],
+    "answerIndex": 2,
+    "explanation": "Chapter 6 of KWASU-CSC 106 is titled 'Hard Drives'."
+  },
+  {
+    "id": 185,
+    "question": "Which chapter covers 'I/O and Storage devices'?",
+    "options": ["Chapter 6", "Chapter 7", "Chapter 8", "Chapter 10"],
+    "answerIndex": 2,
+    "explanation": "Chapter 8 is titled 'I/O and Storage Devices'."
+  },
+  {
+    "id": 186,
+    "question": "Which chapter covers 'Troubleshooting Hardware problems'?",
+    "options": ["Chapter 10", "Chapter 12", "Chapter 13", "Chapter 7"],
+    "answerIndex": 2,
+    "explanation": "Chapter 13 covers 'Troubleshooting Hardware Problems'."
+  },
+  {
+    "id": 187,
+    "question": "Which chapter is titled 'Maintaining Windows'?",
+    "options": ["Chapter 7", "Chapter 8", "Chapter 10", "Chapter 12"],
+    "answerIndex": 2,
+    "explanation": "Chapter 10 is titled 'Maintaining Windows'."
+  },
+  {
+    "id": 188,
+    "question": "Which chapter covers 'Troubleshooting Windows and Applications'?",
+    "options": ["Chapter 10", "Chapter 12", "Chapter 13", "Chapter 8"],
+    "answerIndex": 1,
+    "explanation": "Chapter 12 covers 'Troubleshooting Windows and Applications'."
+  },
+  {
+    "id": 189,
+    "question": "Which chapter covers 'Installing Windows'?",
+    "options": ["Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8"],
+    "answerIndex": 2,
+    "explanation": "Chapter 7 is titled 'Installing Windows'."
+  },
+  {
+    "id": 190,
+    "question": "What is the title of Chapter 4 in the KWASU-CSC 106 material?",
+    "options": [
+      "Supporting processors and upgrading memory",
+      "All about motherboards",
+      "Hard drives",
+      "Installing windows"
+    ],
+    "answerIndex": 1,
+    "explanation": "Chapter 4 is titled 'All About Motherboards'."
+  },
+  {
+    "id": 191,
+    "question": "Which chapter covers 'Supporting Processors and Upgrading Memory'?",
+    "options": ["Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7"],
+    "answerIndex": 1,
+    "explanation": "Chapter 5 covers 'Supporting Processors and Upgrading Memory'."
+  },
+  {
+    "id": 192,
+    "question": "What instruction does Chapter 1 and Chapter 2 come with in the CSC 106 material?",
+    "options": [
+      "They are optional readings",
+      "They will be practical classes",
+      "They are theoretical chapters",
+      "They require additional material"
+    ],
+    "answerIndex": 1,
+    "explanation": "The NB note states that Chapter 1 and Chapter 2 will be practical classes."
+  },
+  {
+    "id": 193,
+    "question": "What is the course code for Computer Hardware and Maintenance at KWASU?",
+    "options": ["CSC 102", "CSC 104", "CSC 106", "CSC 108"],
+    "answerIndex": 2,
+    "explanation": "The course code is CSC 106 — Computer Hardware and Maintenance at KWASU."
+  },
+  {
+    "id": 194,
+    "question": "What credit units is CSC 106 worth?",
+    "options": ["1 Credit", "2 Credits", "3 Credits", "4 Credits"],
+    "answerIndex": 1,
+    "explanation": "CSC 106 is a 2 credit/compulsory course."
+  },
+  {
+    "id": 195,
+    "question": "What minimum attendance percentage is required for students in CSC 106 to sit for the final exam?",
+    "options": ["50%", "60%", "75%", "90%"],
+    "answerIndex": 2,
+    "explanation": "Students must satisfy at least 75% attendance in lectures and laboratory sessions."
+  },
+  {
+    "id": 196,
+    "question": "Which component inside a computer case is described as the 'primary component that determines computing power'?",
+    "options": ["Motherboard", "Hard drive", "Processor", "RAM"],
+    "answerIndex": 2,
+    "explanation": "The processor (CPU) is the primary component that determines a system's computing power."
+  },
+  {
+    "id": 197,
+    "question": "What does a heat sink consist of?",
+    "options": [
+      "Flash memory chips",
+      "Metal fins that draw heat away from a component",
+      "A fan motor only",
+      "A liquid cooling tube"
+    ],
+    "answerIndex": 1,
+    "explanation": "A heat sink consists of metal fins designed to draw and dissipate heat away from hot components."
+  },
+  {
+    "id": 198,
+    "question": "What is the processor cooler made up of?",
+    "options": [
+      "RAM and cache",
+      "Heat sink and fan",
+      "Thermal paste only",
+      "A water pump"
+    ],
+    "answerIndex": 1,
+    "explanation": "The processor cooler consists of a heat sink and fan working together to cool the CPU."
+  },
+  {
+    "id": 199,
+    "question": "Which cache level is dedicated to individual CPU cores (not shared)?",
+    "options": [
+      "L3 Cache",
+      "L2 and L1 Cache",
+      "L3 and L2 Cache",
+      "All cache levels are shared"
+    ],
+    "answerIndex": 1,
+    "explanation": "L1 and L2 caches are typically dedicated to individual cores; L3 is shared."
+  },
+  {
+    "id": 200,
+    "question": "The processor executes a cycle involving which three steps?",
+    "options": [
+      "Store, Delete, Output",
+      "Fetch an instruction, decode it, write back the result",
+      "Input, Process, Store",
+      "Boot, Load, Execute"
+    ],
+    "answerIndex": 1,
+    "explanation": "A processor cycle involves fetching an instruction from memory, decoding it, and writing back the result."
+  },
+  {
+    "id": 201,
+    "question": "Which DVI type is least common in modern devices?",
+    "options": ["DVI-I", "DVI-D", "DVI-A", "DVI-V"],
+    "answerIndex": 2,
+    "explanation": "DVI-A (Analog) is the least common in modern devices as most are now digital."
+  },
+  {
+    "id": 202,
+    "question": "What is the VGA port primarily used to connect?",
+    "options": [
+      "Computers to networks",
+      "Computers to monitors or projectors",
+      "Computers to audio systems",
+      "Computers to storage devices"
+    ],
+    "answerIndex": 1,
+    "explanation": "The VGA port connects a computer to a monitor or projector for analog video output."
+  },
+  {
+    "id": 203,
+    "question": "Which HDMI feature offers increased bandwidth for higher resolutions and HDR support?",
+    "options": [
+      "Older HDMI versions",
+      "Newer HDMI versions",
+      "HDMI 1.0 only",
+      "VGA adapter mode"
+    ],
+    "answerIndex": 1,
+    "explanation": "Newer HDMI versions offer increased bandwidth for 4K, higher refresh rates, and HDR."
+  },
+  {
+    "id": 204,
+    "question": "USB Type-C was designed to replace which connectors?",
+    "options": [
+      "HDMI and VGA",
+      "Both Type-A and Type-B connectors",
+      "PS/2 and RJ-45",
+      "DVI and DisplayPort"
+    ],
+    "answerIndex": 1,
+    "explanation": "USB Type-C is designed to eventually replace both Type-A and Type-B connectors."
+  },
+  {
+    "id": 205,
+    "question": "Which type of laptop case feature typically includes a zippered closure?",
+    "options": ["Tower case", "Desktop case", "Laptop case", "Server case"],
+    "answerIndex": 2,
+    "explanation": "Laptop cases are slim with padding and typically feature a zippered closure."
+  },
+  {
+    "id": 206,
+    "question": "What makes the Desktop Case suitable for office environments?",
+    "options": [
+      "It's the largest case type",
+      "It's compact and space-saving due to its horizontal design",
+      "It has the most drive bays",
+      "It supports more RAM"
+    ],
+    "answerIndex": 1,
+    "explanation": "Desktop cases are horizontal and compact, saving desk space in office environments."
+  },
+  {
+    "id": 207,
+    "question": "What do Integrated Circuits in RAM consist of?",
+    "options": [
+      "Magnetic platters and spindles",
+      "Capacitors and transistors that store and manage data",
+      "Flash memory and controllers",
+      "Optical lenses and sensors"
+    ],
+    "answerIndex": 1,
+    "explanation": "RAM's integrated circuits are made up of capacitors and transistors."
+  },
+  {
+    "id": 208,
+    "question": "RAM can serve as 'Virtual Memory' when:",
+    "options": [
+      "The CPU is idle",
+      "The physical RAM is full and the OS uses storage as an extension",
+      "The hard drive is empty",
+      "The GPU needs more memory"
+    ],
+    "answerIndex": 1,
+    "explanation": "When physical RAM is full, Windows uses storage (page file) as virtual memory."
+  },
+  {
+    "id": 209,
+    "question": "Which HDD component is described as the 'Read/Write Arm'?",
+    "options": [
+      "Spindle",
+      "Platter",
+      "Read/Write Arm (also called Actuator Arm)",
+      "Controller"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Read/Write Arm moves across the platters to read or write data."
+  },
+  {
+    "id": 210,
+    "question": "What type of material coats the platters of an HDD?",
+    "options": [
+      "Silicon",
+      "Magnetic material",
+      "Glass fiber",
+      "Optical coating"
+    ],
+    "answerIndex": 1,
+    "explanation": "HDD platters are circular disks coated with magnetic material for data storage."
+  },
+  {
+    "id": 211,
+    "question": "What is a disadvantage of SSDs compared to HDDs?",
+    "options": [
+      "SSDs are slower",
+      "SSDs have higher power consumption",
+      "SSDs are more expensive per gigabyte",
+      "SSDs are noisier"
+    ],
+    "answerIndex": 2,
+    "explanation": "SSDs cost more per gigabyte of storage compared to HDDs."
+  },
+  {
+    "id": 212,
+    "question": "What is a disadvantage of HDDs compared to SSDs?",
+    "options": [
+      "HDDs have no moving parts",
+      "HDDs are susceptible to physical damage due to moving parts",
+      "HDDs are silent in operation",
+      "HDDs use NAND flash memory"
+    ],
+    "answerIndex": 1,
+    "explanation": "HDDs have moving parts (platters, heads) making them vulnerable to physical damage."
+  },
+  {
+    "id": 213,
+    "question": "What connection type does the SSD controller use, commonly?",
+    "options": [
+      "USB and Bluetooth",
+      "SATA or NVMe",
+      "VGA or HDMI",
+      "RJ-45 or RJ-11"
+    ],
+    "answerIndex": 1,
+    "explanation": "SSD controllers commonly use SATA or NVMe (PCIe) interfaces."
+  },
+  {
+    "id": 214,
+    "question": "What is the Windows User Mode?",
+    "options": [
+      "Where the kernel runs",
+      "Where user applications run, separated from the kernel for security",
+      "Where BIOS runs",
+      "Where hardware drivers are stored"
+    ],
+    "answerIndex": 1,
+    "explanation": "User Mode is the layer where user applications run, isolated from the kernel for stability."
+  },
+  {
+    "id": 215,
+    "question": "Which Windows security feature prompts for permission before making system changes?",
+    "options": [
+      "Windows Defender",
+      "Firewall",
+      "User Account Control (UAC)",
+      "BitLocker"
+    ],
+    "answerIndex": 2,
+    "explanation": "UAC (User Account Control) prompts users before allowing programs to make system-level changes."
+  },
+  {
+    "id": 216,
+    "question": "What does Windows backward compatibility ensure?",
+    "options": [
+      "Newer hardware only runs on new OS",
+      "Older software and hardware can still run on newer Windows versions",
+      "All drivers must be reinstalled",
+      "Old programs run faster on new Windows"
+    ],
+    "answerIndex": 1,
+    "explanation": "Backward compatibility allows legacy software and hardware to function on newer Windows versions."
+  },
+  {
+    "id": 217,
+    "question": "Which type of connector has a distinctive square shape with a beveled top?",
+    "options": ["USB Type-A", "USB Type-C", "USB Type-B", "Mini USB"],
+    "answerIndex": 2,
+    "explanation": "USB Type-B has a square shape with a beveled top to prevent incorrect insertion."
+  },
+  {
+    "id": 218,
+    "question": "Which component is described as a 'buffer between the CPU and main memory (RAM)'?",
+    "options": ["Hard drive", "Memory Cache", "Power Supply", "Motherboard"],
+    "answerIndex": 1,
+    "explanation": "Memory cache acts as a buffer between the fast CPU and the relatively slower main memory."
+  },
+  {
+    "id": 219,
+    "question": "What does L1d stand for in CPU cache architecture?",
+    "options": [
+      "Level 1 Data Cache",
+      "Level 1 Dynamic Cache",
+      "Level 1 Dedicated Cache",
+      "Level 1 Discrete Cache"
+    ],
+    "answerIndex": 0,
+    "explanation": "L1d stands for L1 Data Cache — stores data the CPU needs to access quickly."
+  },
+  {
+    "id": 220,
+    "question": "What does L1i stand for in CPU cache architecture?",
+    "options": [
+      "Level 1 Input Cache",
+      "Level 1 Instruction Cache",
+      "Level 1 Integrated Cache",
+      "Level 1 Interface Cache"
+    ],
+    "answerIndex": 1,
+    "explanation": "L1i stands for L1 Instruction Cache — stores CPU instructions for immediate execution."
+  },
+  {
+    "id": 221,
+    "question": "What is the relationship between L1, L2, and L3 cache in terms of speed?",
+    "options": [
+      "L3 is fastest, L1 is slowest",
+      "L1 is fastest, L3 is slowest among the three",
+      "They are all the same speed",
+      "L2 is fastest"
+    ],
+    "answerIndex": 1,
+    "explanation": "L1 is the fastest cache, followed by L2, then L3 — though all are much faster than RAM."
+  },
+  {
+    "id": 222,
+    "question": "Which Intel chipset series is mentioned for high-performance builds?",
+    "options": ["H-series", "B-series", "Z-series", "A-series"],
+    "answerIndex": 2,
+    "explanation": "Intel Z-series chipsets (e.g., Z590) are for high-performance and overclocking builds."
+  },
+  {
+    "id": 223,
+    "question": "Which AMD socket is mentioned as current-generation in the course material?",
+    "options": ["LGA 1700", "AM4 and AM5", "TR4", "LGA 1200"],
+    "answerIndex": 1,
+    "explanation": "AM4 and AM5 are current AMD socket types mentioned in the material."
+  },
+  {
+    "id": 224,
+    "question": "An older 32-bit processor can run which type of operating system?",
+    "options": [
+      "64-bit OS only",
+      "32-bit OS only",
+      "Both 32-bit and 64-bit OS",
+      "Neither"
+    ],
+    "answerIndex": 1,
+    "explanation": "Older 32-bit processors can only run 32-bit operating systems."
+  },
+  {
+    "id": 225,
+    "question": "A hybrid processor can use:",
+    "options": [
+      "Only a 32-bit OS",
+      "Only a 64-bit OS",
+      "Either a 32-bit or 64-bit OS",
+      "Neither 32-bit nor 64-bit"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hybrid (modern) processors support both 32-bit and 64-bit operating systems."
+  },
+  {
+    "id": 226,
+    "question": "What is the name for a server motherboard with two processor sockets?",
+    "options": [
+      "Multi-core platform",
+      "Dual processor or multiprocessor platform",
+      "Hyper-threaded system",
+      "Parallel processor board"
+    ],
+    "answerIndex": 1,
+    "explanation": "A server motherboard with two processor sockets is called a dual processor or multiprocessor platform."
+  },
+  {
+    "id": 227,
+    "question": "When Windows hands off a task to the CPU, what is it called?",
+    "options": ["A process", "A subroutine", "A thread", "A cycle"],
+    "answerIndex": 2,
+    "explanation": "When Windows passes a task to the CPU, it is called a thread — involving several instructions."
+  },
+  {
+    "id": 228,
+    "question": "DDR in the context of memory stands for:",
+    "options": [
+      "Dynamic Data Rate",
+      "Double Data Rate",
+      "Dual Drive RAM",
+      "Digital Data Register"
+    ],
+    "answerIndex": 1,
+    "explanation": "DDR stands for Double Data Rate — a type of DIMM offering improved speed over single data rate."
+  },
+  {
+    "id": 229,
+    "question": "Which of the following is a type of RAM?",
+    "options": [
+      "DRAM and SRAM",
+      "HDD and SSD",
+      "PATA and SATA",
+      "VGA and HDMI"
+    ],
+    "answerIndex": 0,
+    "explanation": "DRAM (Dynamic RAM) and SRAM (Static RAM) are the two main types of RAM."
+  },
+  {
+    "id": 230,
+    "question": "What is the significance of Windows being developed in 1985?",
+    "options": [
+      "It was the first OS ever created",
+      "It was Microsoft's first graphical extension of MS-DOS",
+      "It was released before the internet",
+      "It replaced UNIX on all computers"
+    ],
+    "answerIndex": 1,
+    "explanation": "Windows 1.0 in 1985 was Microsoft's first graphical interface built on top of MS-DOS."
+  },
+  {
+    "id": 231,
+    "question": "What is the Windows Education edition focused on?",
+    "options": [
+      "Home users",
+      "Small businesses",
+      "Large corporations",
+      "Academic institutions"
+    ],
+    "answerIndex": 3,
+    "explanation": "Windows Education is similar to Enterprise but focused on schools and universities."
+  },
+  {
+    "id": 232,
+    "question": "What feature does Windows Pro include that Windows Home does not?",
+    "options": [
+      "Microsoft Store",
+      "BitLocker encryption",
+      "Calculator",
+      "Web browser"
+    ],
+    "answerIndex": 1,
+    "explanation": "Windows Pro includes BitLocker encryption and remote desktop — not available in Home."
+  },
+  {
+    "id": 233,
+    "question": "What does the minimum requirements check during Windows installation refer to?",
+    "options": [
+      "Internet speed",
+      "Whether the PC meets hardware specifications for the OS version",
+      "Available cloud storage",
+      "RAM compatibility only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Before installing, you must verify that your hardware meets the minimum system requirements."
+  },
+  {
+    "id": 234,
+    "question": "What happens when you format a partition during Windows installation?",
+    "options": [
+      "It backs up your data",
+      "It creates a file system and prepares the partition for installation",
+      "It increases CPU speed",
+      "It reduces power consumption"
+    ],
+    "answerIndex": 1,
+    "explanation": "Formatting creates a file system on the partition, preparing it to receive the OS installation."
+  },
+  {
+    "id": 235,
+    "question": "Which of the following ports can transmit both audio AND video through a single cable?",
+    "options": ["VGA", "DVI-D", "HDMI", "RJ-45"],
+    "answerIndex": 2,
+    "explanation": "HDMI transmits both high-definition audio and video signals through a single cable."
+  },
+  {
+    "id": 236,
+    "question": "Which port is specifically described as compatible with DisplayPort devices?",
+    "options": ["HDMI port", "Ethernet port", "Thunderbolt port", "VGA port"],
+    "answerIndex": 2,
+    "explanation": "The Thunderbolt port shares the same physical shape as DisplayPort and is compatible with it."
+  },
+  {
+    "id": 237,
+    "question": "What does the HDMI HDR feature stand for?",
+    "options": [
+      "High Data Rate",
+      "High Dynamic Range",
+      "High Definition Resolution",
+      "High Density Recording"
+    ],
+    "answerIndex": 1,
+    "explanation": "HDR stands for High Dynamic Range — a display technology supported by newer HDMI versions."
+  },
+  {
+    "id": 238,
+    "question": "Which component stores the permanent data and programs in a computer?",
+    "options": ["RAM", "Cache", "Hard drive (HDD or SSD)", "CPU registers"],
+    "answerIndex": 2,
+    "explanation": "Hard drives (HDD or SSD) provide permanent storage for data and programs."
+  },
+  {
+    "id": 239,
+    "question": "How many types of DVI connectors are there?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "answerIndex": 1,
+    "explanation": "There are three types of DVI connectors: DVI-I, DVI-D, and DVI-A."
+  },
+  {
+    "id": 240,
+    "question": "What type of storage is RAM classified as?",
+    "options": [
+      "Permanent storage",
+      "Volatile temporary storage",
+      "Non-volatile storage",
+      "Optical storage"
+    ],
+    "answerIndex": 1,
+    "explanation": "RAM is volatile temporary storage — data is lost when the computer is powered off."
+  },
+  {
+    "id": 241,
+    "question": "Which drive type is more prone to mechanical failure?",
+    "options": ["HDD", "SSD", "Both equal", "Neither"],
+    "answerIndex": 0,
+    "explanation": "HDDs have mechanical moving parts (platters, heads, spindles) making them prone to mechanical failure."
+  },
+  {
+    "id": 242,
+    "question": "What does the SSD Controller do?",
+    "options": [
+      "Spins the memory cells",
+      "Manages data storage, retrieval, wear leveling, and error correction",
+      "Connects the SSD to power only",
+      "Formats the NAND flash"
+    ],
+    "answerIndex": 1,
+    "explanation": "The SSD controller manages all data operations including wear leveling and error correction."
+  },
+  {
+    "id": 243,
+    "question": "What is the purpose of wear leveling in SSDs?",
+    "options": [
+      "Reduce power use",
+      "Distribute writes evenly across all flash cells to prolong SSD life",
+      "Increase RPM",
+      "Improve audio quality"
+    ],
+    "answerIndex": 1,
+    "explanation": "Wear leveling ensures even distribution of write/erase cycles to extend the SSD's lifespan."
+  },
+  {
+    "id": 244,
+    "question": "Which of the following is a correct statement about L3 Cache?",
+    "options": [
+      "It is faster than L1 Cache",
+      "It is shared among all CPU cores",
+      "It is the smallest cache",
+      "It is dedicated to a single core"
+    ],
+    "answerIndex": 1,
+    "explanation": "L3 cache is shared among all cores of a multi-core processor."
+  },
+  {
+    "id": 245,
+    "question": "What is the purpose of the BIOS/UEFI boot order setting during Windows installation?",
+    "options": [
+      "To set the CPU speed",
+      "To prioritize the installation media (USB/DVD) over the hard drive",
+      "To format the hard drive",
+      "To connect to the internet"
+    ],
+    "answerIndex": 1,
+    "explanation": "Changing boot order ensures the PC boots from the USB/DVD installation media, not the existing OS."
+  },
+  {
+    "id": 246,
+    "question": "What is a 72-pin SIMM?",
+    "options": [
+      "A modern DIMM type",
+      "A variant of SIMM that was more prevalent towards the end of SIMM usage",
+      "An SSD interface",
+      "A type of CPU socket"
+    ],
+    "answerIndex": 1,
+    "explanation": "72-pin SIMMs were the more common variant used towards the end of the SIMM era."
+  },
+  {
+    "id": 247,
+    "question": "What is the primary difference between DRAM and SRAM?",
+    "options": [
+      "DRAM uses flip-flops; SRAM uses capacitors",
+      "DRAM uses capacitors and needs refreshing; SRAM uses flip-flops and is faster",
+      "They are identical in design",
+      "SRAM is used for permanent storage"
+    ],
+    "answerIndex": 1,
+    "explanation": "DRAM uses capacitors and needs refreshing; SRAM uses flip-flops and is faster but more expensive."
+  },
+  {
+    "id": 248,
+    "question": "Which Windows architecture layer runs user applications in isolation from the kernel?",
+    "options": [
+      "Executive Services",
+      "Kernel",
+      "User Mode",
+      "HAL (Hardware Abstraction Layer)"
+    ],
+    "answerIndex": 2,
+    "explanation": "User Mode isolates user applications from the kernel for security and system stability."
+  },
+  {
+    "id": 249,
+    "question": "What is the full meaning of the acronym 'HDD'?",
+    "options": [
+      "High Density Drive",
+      "Hard Disc Drive",
+      "Hybrid Data Drive",
+      "High Definition Drive"
+    ],
+    "answerIndex": 1,
+    "explanation": "HDD stands for Hard Disc Drive — the traditional magnetic storage device."
+  },
+  {
+    "id": 250,
+    "question": "What is the full meaning of the acronym 'SSD'?",
+    "options": [
+      "Super Speed Drive",
+      "Solid State Drive",
+      "Static Storage Device",
+      "Secondary Storage Drive"
+    ],
+    "answerIndex": 1,
+    "explanation": "SSD stands for Solid State Drive — a modern storage device using NAND flash memory with no moving parts."
+  }
+]
